@@ -17,6 +17,9 @@ pip-delete-this-directory.txt
 *.swo
 *~
 
+# Private
+QUICK_START.md
+
 # OS
 .DS_Store
 Thumbs.db
