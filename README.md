@@ -4,7 +4,7 @@
 
 ![Total Stars](https://img.shields.io/badge/Total%20Stars-504-brightgreen)
 ![Categories](https://img.shields.io/badge/Categories-16-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--08--13-orange)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--08--14-orange)
 
 ## 📖 About
 
@@ -60,11 +60,11 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 - [trixi-framework/Trixi.jl](https://github.com/trixi-framework/Trixi.jl) ⭐ 607 ![Julia](https://img.shields.io/badge/Julia-purple) - Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia
 - [surajp92/CFD_Julia](https://github.com/surajp92/CFD_Julia) ⭐ 511 ![Julia](https://img.shields.io/badge/Julia-purple) - This repository contains fundamental codes related to CFD that can be included in any graduate level CFD coursework. 
 - [modern-fortran/neural-fortran](https://github.com/modern-fortran/neural-fortran) ⭐ 448 ![Fortran](https://img.shields.io/badge/Fortran-purple) - A parallel framework for deep learning
-- [matsuoka-601/WebGPU-Ocean](https://github.com/matsuoka-601/WebGPU-Ocean) ⭐ 410 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A real-time 3D fluid simulation implemented in WebGPU
+- [matsuoka-601/WebGPU-Ocean](https://github.com/matsuoka-601/WebGPU-Ocean) ⭐ 411 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A real-time 3D fluid simulation implemented in WebGPU
 - [AMReX-Astro/Castro](https://github.com/AMReX-Astro/Castro) ⭐ 322 ![C++](https://img.shields.io/badge/C++-orange) - Castro (Compressible Astrophysics): An adaptive mesh, astrophysical compressible (radiation-, magneto-)  hydrodynamics simulation code for massivel...
 - [fortran-lang/fortls](https://github.com/fortran-lang/fortls) ⭐ 302 ![Python](https://img.shields.io/badge/Python-blue) - fortls - Fortran Language Server
 - [CaNS-World/CaNS](https://github.com/CaNS-World/CaNS) ⭐ 242 ![Fortran](https://img.shields.io/badge/Fortran-purple) - A code for fast, massively-parallel direct numerical simulations (DNS) of canonical flows
-- [levimcclenny/SA-PINNs](https://github.com/levimcclenny/SA-PINNs) ⭐ 239 ![Python](https://img.shields.io/badge/Python-blue) - Implementation of the paper "Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism" [AAAI-MLPS 2021]
+- [levimcclenny/SA-PINNs](https://github.com/levimcclenny/SA-PINNs) ⭐ 240 ![Python](https://img.shields.io/badge/Python-blue) - Implementation of the paper "Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism" [AAAI-MLPS 2021]
 - [ikespand/awesome-machine-learning-fluid-mechanics](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics) ⭐ 209 - Curated list for ML in FM
 - [Open-Astrophysics-Bookshelf/numerical_exercises](https://github.com/Open-Astrophysics-Bookshelf/numerical_exercises) ⭐ 193 ![TeX](https://img.shields.io/badge/TeX-green) - An introduction to numerical methods for astrophysical hydrodynamics
 - [xcompact3d/Incompact3d](https://github.com/xcompact3d/Incompact3d) ⭐ 193 ![Fortran](https://img.shields.io/badge/Fortran-purple) - Current CPU version of our solver for the Navier-Stokes equations
@@ -291,16 +291,16 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *65 repositories*
 
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) ⭐ 38,151 ![Python](https://img.shields.io/badge/Python-blue) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
-- [openai/gpt-oss](https://github.com/openai/gpt-oss) ⭐ 16,776 ![Python](https://img.shields.io/badge/Python-blue) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
-- [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) ⭐ 12,962 ![Python](https://img.shields.io/badge/Python-blue) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
-- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) ⭐ 11,887 ![Python](https://img.shields.io/badge/Python-blue) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
-- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) ⭐ 11,231 ![Python](https://img.shields.io/badge/Python-blue) - Pocket Flow: Codebase to Tutorial
-- [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator) ⭐ 2,865 ![Python](https://img.shields.io/badge/Python-blue) - Learning in infinite dimension with neural operators.
-- [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) ⭐ 2,441 ![Python](https://img.shields.io/badge/Python-blue) - Open-source Multi-agent Poster Generation from Papers
-- [DedalusProject/dedalus](https://github.com/DedalusProject/dedalus) ⭐ 590 ![Python](https://img.shields.io/badge/Python-blue) - A flexible framework for solving PDEs with modern spectral methods.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) ⭐ 38,196 ![Python](https://img.shields.io/badge/Python-blue) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [openai/gpt-oss](https://github.com/openai/gpt-oss) ⭐ 16,946 ![Python](https://img.shields.io/badge/Python-blue) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+- [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) ⭐ 13,058 ![Python](https://img.shields.io/badge/Python-blue) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
+- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) ⭐ 11,971 ![Python](https://img.shields.io/badge/Python-blue) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) ⭐ 11,234 ![Python](https://img.shields.io/badge/Python-blue) - Pocket Flow: Codebase to Tutorial
+- [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator) ⭐ 2,866 ![Python](https://img.shields.io/badge/Python-blue) - Learning in infinite dimension with neural operators.
+- [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) ⭐ 2,446 ![Python](https://img.shields.io/badge/Python-blue) - Open-source Multi-agent Poster Generation from Papers
+- [DedalusProject/dedalus](https://github.com/DedalusProject/dedalus) ⭐ 589 ![Python](https://img.shields.io/badge/Python-blue) - A flexible framework for solving PDEs with modern spectral methods.
 - [fortran-lang/fortls](https://github.com/fortran-lang/fortls) ⭐ 302 ![Python](https://img.shields.io/badge/Python-blue) - fortls - Fortran Language Server
-- [levimcclenny/SA-PINNs](https://github.com/levimcclenny/SA-PINNs) ⭐ 239 ![Python](https://img.shields.io/badge/Python-blue) - Implementation of the paper "Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism" [AAAI-MLPS 2021]
+- [levimcclenny/SA-PINNs](https://github.com/levimcclenny/SA-PINNs) ⭐ 240 ![Python](https://img.shields.io/badge/Python-blue) - Implementation of the paper "Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism" [AAAI-MLPS 2021]
 - [okada39/pinn_wave](https://github.com/okada39/pinn_wave) ⭐ 182 ![Python](https://img.shields.io/badge/Python-blue) - Physics Informed Neural Network (PINN) for the wave equation.
 - [okada39/pinn_cavity](https://github.com/okada39/pinn_cavity) ⭐ 150 ![Python](https://img.shields.io/badge/Python-blue) - Physics informed neural network (PINN) for cavity flow governed by Navier-Stokes equation.
 - [pmocz/finitevolume-python](https://github.com/pmocz/finitevolume-python) ⭐ 137 ![Python](https://img.shields.io/badge/Python-blue) - Finite Volume simulation of the Kelvin-Helmholtz Instability
@@ -335,8 +335,8 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 - [predsci/MagMAP](https://github.com/predsci/MagMAP) ![Python](https://img.shields.io/badge/Python-blue) - Python package for downloading and processing solar magnetograms.
 - [predsci/OFT](https://github.com/predsci/OFT) ![Python](https://img.shields.io/badge/Python-blue) - Open Source Flux Transport
 - [cmoestl/3DCORE](https://github.com/cmoestl/3DCORE) ![Python](https://img.shields.io/badge/Python-blue) - 3D coronal mass ejection flux rope modeling
-- [github-nakasho/mhdflow_1d](https://github.com/github-nakasho/mhdflow_1d) ![Python](https://img.shields.io/badge/Python-blue) - MHD simulation code with Python Interface
 - [JeongHyunJin/Jeong2020_SolarFarsideMagnetograms](https://github.com/JeongHyunJin/Jeong2020_SolarFarsideMagnetograms) ![Python](https://img.shields.io/badge/Python-blue) - Jeong et al. (2020) "Solar coronal magnetic field extrapolation from synchronic data with AI-generated farside", The Astrophysical Journal Letters,...
+- [github-nakasho/mhdflow_1d](https://github.com/github-nakasho/mhdflow_1d) ![Python](https://img.shields.io/badge/Python-blue) - MHD simulation code with Python Interface
 - [kpetrovay/Polar-SFT](https://github.com/kpetrovay/Polar-SFT) ![Python](https://img.shields.io/badge/Python-blue) - The code in this repository solves the radial component of the magnetic  flux transport equation (induction equation) on the solar surface in  the ...
 - [khumbird/nuen-rad-hyrdro](https://github.com/khumbird/nuen-rad-hyrdro) ![Python](https://img.shields.io/badge/Python-blue) - 1-D Lagrangian Radiation Hydrodynamics Code
 - [space-weather-KU/chainer-semi](https://github.com/space-weather-KU/chainer-semi) ![Python](https://img.shields.io/badge/Python-blue) - Chainer Playgroundの攻略本です
@@ -370,10 +370,10 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *38 repositories*
 
-- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) ⭐ 20,430 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
-- [openai/gpt-oss](https://github.com/openai/gpt-oss) ⭐ 16,776 ![Python](https://img.shields.io/badge/Python-blue) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
-- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) ⭐ 11,887 ![Python](https://img.shields.io/badge/Python-blue) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) ⭐ 11,487 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and m...
+- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) ⭐ 20,491 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+- [openai/gpt-oss](https://github.com/openai/gpt-oss) ⭐ 16,946 ![Python](https://img.shields.io/badge/Python-blue) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) ⭐ 11,971 ![Python](https://img.shields.io/badge/Python-blue) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.
+- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) ⭐ 11,585 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and m...
 - [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) ⭐ 1,157 ![Julia](https://img.shields.io/badge/Julia-purple) - 🌊  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs
 - [AMReX-Astro/Castro](https://github.com/AMReX-Astro/Castro) ⭐ 322 ![C++](https://img.shields.io/badge/C++-orange) - Castro (Compressible Astrophysics): An adaptive mesh, astrophysical compressible (radiation-, magneto-)  hydrodynamics simulation code for massivel...
 - [fortran-lang/fortls](https://github.com/fortran-lang/fortls) ⭐ 302 ![Python](https://img.shields.io/badge/Python-blue) - fortls - Fortran Language Server
@@ -393,10 +393,10 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 - [bwoshea/ZEUS-MP_2](https://github.com/bwoshea/ZEUS-MP_2) ![Fortran](https://img.shields.io/badge/Fortran-purple) - This repository is the home of the ZEUS-MP 2.0 code, which was created by John Hayes and others at the Laboratory for Computational Astrophysics at...
 - [BoxLib-Codes/CastroRadiation](https://github.com/BoxLib-Codes/CastroRadiation) ![FORTRAN](https://img.shields.io/badge/FORTRAN-purple) - flux limited diffusion radiation hydrodynamics module for Castro
 - [esquivas/guacho](https://github.com/esquivas/guacho) ![Fortran](https://img.shields.io/badge/Fortran-purple) - A 3D uniform mesh parallel HD/MHD code for astrophysics
+- [JeongHyunJin/Jeong2020_SolarFarsideMagnetograms](https://github.com/JeongHyunJin/Jeong2020_SolarFarsideMagnetograms) ![Python](https://img.shields.io/badge/Python-blue) - Jeong et al. (2020) "Solar coronal magnetic field extrapolation from synchronic data with AI-generated farside", The Astrophysical Journal Letters,...
 - [astrofum/na2020](https://github.com/astrofum/na2020) - NA2020 online workshop
 - [adamjermyn/AstroMicroPhysics](https://github.com/adamjermyn/AstroMicroPhysics) ![FORTRAN](https://img.shields.io/badge/FORTRAN-purple) - An attempt to provide modern interfaces for existing tables and codes of astronomical microphysics.
 - [AstroSnow/PIP](https://github.com/AstroSnow/PIP) ![Fortran](https://img.shields.io/badge/Fortran-purple) - Partially Ionised Plasma Code
-- [JeongHyunJin/Jeong2020_SolarFarsideMagnetograms](https://github.com/JeongHyunJin/Jeong2020_SolarFarsideMagnetograms) ![Python](https://img.shields.io/badge/Python-blue) - Jeong et al. (2020) "Solar coronal magnetic field extrapolation from synchronic data with AI-generated farside", The Astrophysical Journal Letters,...
 - [mrkondratyev/Piastra2D](https://github.com/mrkondratyev/Piastra2D) ![Python](https://img.shields.io/badge/Python-blue) - A simple code, which solves 1D/2D linear advection, inviscid compressible hydrodynamic and MHD equations within a finite volume framework, using hi...
 - [AstroBarker/athelas](https://github.com/AstroBarker/athelas) ![C++](https://img.shields.io/badge/C++-orange) - Lagrangian radiation-hydrodynamics code using discontinuous Galerkin methods written in C++
 - [github-nakasho/astroph](https://github.com/github-nakasho/astroph) - Astro-ph ArXiv memo
@@ -423,7 +423,7 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 *35 repositories*
 
 - [numerical-mooc/numerical-mooc](https://github.com/numerical-mooc/numerical-mooc) ⭐ 928 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - A course in numerical methods with Python for engineers and scientists: currently 5 learning modules, with student assignments.
-- [python-hydro/pyro2](https://github.com/python-hydro/pyro2) ⭐ 323 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - A framework for hydrodynamics explorations and prototyping
+- [python-hydro/pyro2](https://github.com/python-hydro/pyro2) ⭐ 324 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - A framework for hydrodynamics explorations and prototyping
 - [python-hydro/hydro_examples](https://github.com/python-hydro/hydro_examples) ⭐ 119 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - Simple one-dimensional examples of various hydrodynamics techniques
 - [HelioML/HelioML](https://github.com/HelioML/HelioML) ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - A book about machine learning, statistics, and data mining for heliophysics
 - [gabersyd/PythonicGeodynamics](https://github.com/gabersyd/PythonicGeodynamics) ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - Set of Jupyter Notebooks related to the textbook "Pythonic Geodynamics"
@@ -471,11 +471,11 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *34 repositories*
 
-- [upstash/context7](https://github.com/upstash/context7) ⭐ 25,333 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
-- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) ⭐ 11,231 ![Python](https://img.shields.io/badge/Python-blue) - Pocket Flow: Codebase to Tutorial
-- [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator) ⭐ 2,865 ![Python](https://img.shields.io/badge/Python-blue) - Learning in infinite dimension with neural operators.
-- [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) ⭐ 1,770 ![TeX](https://img.shields.io/badge/TeX-green) - A Tufte-inspired LaTeX class for producing handouts, papers, and books
-- [iannuttall/claude-sessions](https://github.com/iannuttall/claude-sessions) ⭐ 957 - Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation
+- [upstash/context7](https://github.com/upstash/context7) ⭐ 25,485 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) ⭐ 11,234 ![Python](https://img.shields.io/badge/Python-blue) - Pocket Flow: Codebase to Tutorial
+- [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator) ⭐ 2,866 ![Python](https://img.shields.io/badge/Python-blue) - Learning in infinite dimension with neural operators.
+- [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) ⭐ 1,771 ![TeX](https://img.shields.io/badge/TeX-green) - A Tufte-inspired LaTeX class for producing handouts, papers, and books
+- [iannuttall/claude-sessions](https://github.com/iannuttall/claude-sessions) ⭐ 959 - Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation
 - [numerical-mooc/numerical-mooc](https://github.com/numerical-mooc/numerical-mooc) ⭐ 928 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - A course in numerical methods with Python for engineers and scientists: currently 5 learning modules, with student assignments.
 - [surajp92/CFD_Julia](https://github.com/surajp92/CFD_Julia) ⭐ 511 ![Julia](https://img.shields.io/badge/Julia-purple) - This repository contains fundamental codes related to CFD that can be included in any graduate level CFD coursework. 
 - [modern-fortran/neural-fortran](https://github.com/modern-fortran/neural-fortran) ⭐ 448 ![Fortran](https://img.shields.io/badge/Fortran-purple) - A parallel framework for deep learning
@@ -519,9 +519,9 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *32 repositories*
 
-- [alshedivat/al-folio](https://github.com/alshedivat/al-folio) ⭐ 13,638 ![HTML](https://img.shields.io/badge/HTML-gray) - A beautiful, simple, clean, and responsive Jekyll theme for academics
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ⭐ 9,051 ![HTML](https://img.shields.io/badge/HTML-gray) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
-- [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash) ⭐ 546 ![Shell](https://img.shields.io/badge/Shell-gray) - My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.
+- [alshedivat/al-folio](https://github.com/alshedivat/al-folio) ⭐ 13,649 ![HTML](https://img.shields.io/badge/HTML-gray) - A beautiful, simple, clean, and responsive Jekyll theme for academics
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ⭐ 9,052 ![HTML](https://img.shields.io/badge/HTML-gray) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash) ⭐ 547 ![Shell](https://img.shields.io/badge/Shell-gray) - My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.
 - [LeNPaul/portfolio-jekyll-theme](https://github.com/LeNPaul/portfolio-jekyll-theme) ⭐ 246 ![SCSS](https://img.shields.io/badge/SCSS-gray) - A minimalist Jekyll theme for building a personal portfolio site powered by Jekyll and GitHub Pages
 - [pmichaillat/latex-presentation](https://github.com/pmichaillat/latex-presentation) ⭐ 221 ![TeX](https://img.shields.io/badge/TeX-green) - Minimalist LaTeX template for academic presentations
 - [nushio3/learn-haskell](https://github.com/nushio3/learn-haskell) ⭐ 164 ![Haskell](https://img.shields.io/badge/Haskell-gray)
@@ -565,21 +565,21 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *18 repositories*
 
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐ 63,970 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Model Context Protocol Servers
-- [upscayl/upscayl](https://github.com/upscayl/upscayl) ⭐ 38,590 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [upstash/context7](https://github.com/upstash/context7) ⭐ 25,333 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
-- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) ⭐ 20,430 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
-- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) ⭐ 17,396 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
-- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) ⭐ 16,807 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Playwright MCP server
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) ⭐ 11,487 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and m...
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ⭐ 3,905 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - CLI tool for configuring and monitoring Claude Code
-- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) ⭐ 3,310 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
-- [zilliztech/claude-context](https://github.com/zilliztech/claude-context) ⭐ 2,401 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-- [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) ⭐ 1,217 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One...
-- [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp) ⭐ 914 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - 📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors
-- [Iamshankhadeep/ccseva](https://github.com/Iamshankhadeep/ccseva) ⭐ 675 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
-- [matsuoka-601/WebGPU-Ocean](https://github.com/matsuoka-601/WebGPU-Ocean) ⭐ 410 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A real-time 3D fluid simulation implemented in WebGPU
-- [regenrek/codefetch](https://github.com/regenrek/codefetch) ⭐ 327 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Turn code into Markdown for LLMs with one simple terminal command
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐ 64,132 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Model Context Protocol Servers
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) ⭐ 38,609 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+- [upstash/context7](https://github.com/upstash/context7) ⭐ 25,485 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) ⭐ 20,491 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) ⭐ 17,413 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
+- [microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp) ⭐ 16,894 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Playwright MCP server
+- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) ⭐ 11,585 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and m...
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ⭐ 3,972 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - CLI tool for configuring and monitoring Claude Code
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) ⭐ 3,325 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
+- [zilliztech/claude-context](https://github.com/zilliztech/claude-context) ⭐ 2,441 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
+- [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) ⭐ 1,218 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One...
+- [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp) ⭐ 920 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - 📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors
+- [Iamshankhadeep/ccseva](https://github.com/Iamshankhadeep/ccseva) ⭐ 678 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
+- [matsuoka-601/WebGPU-Ocean](https://github.com/matsuoka-601/WebGPU-Ocean) ⭐ 411 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A real-time 3D fluid simulation implemented in WebGPU
+- [regenrek/codefetch](https://github.com/regenrek/codefetch) ⭐ 328 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Turn code into Markdown for LLMs with one simple terminal command
 - [anxndsgn/academic-homepage-template](https://github.com/anxndsgn/academic-homepage-template) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Academic Homepage Template
 - [regenrek/planwithgemini](https://github.com/regenrek/planwithgemini) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Plan with Gemini CLI and build with Claude Code or Cursor
 - [dracula/cursor](https://github.com/dracula/cursor) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - 🧛🏻‍♂️ Dark & Light theme for Cursor
@@ -592,7 +592,7 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *18 repositories*
 
-- [kokkos/kokkos](https://github.com/kokkos/kokkos) ⭐ 2,281 ![C++](https://img.shields.io/badge/C++-orange) - Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction
+- [kokkos/kokkos](https://github.com/kokkos/kokkos) ⭐ 2,280 ![C++](https://img.shields.io/badge/C++-orange) - Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction
 - [AMReX-Astro/Castro](https://github.com/AMReX-Astro/Castro) ⭐ 322 ![C++](https://img.shields.io/badge/C++-orange) - Castro (Compressible Astrophysics): An adaptive mesh, astrophysical compressible (radiation-, magneto-)  hydrodynamics simulation code for massivel...
 - [gnudatalanguage/gdl](https://github.com/gnudatalanguage/gdl) ⭐ 295 ![C++](https://img.shields.io/badge/C++-orange) - GDL - GNU Data Language
 - [WENO-OF/WENOEXT](https://github.com/WENO-OF/WENOEXT) ⭐ 132 ![C++](https://img.shields.io/badge/C++-orange) - Weighted essentially non-oscillatory library for the framework of OpenFOAM
@@ -619,12 +619,12 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *15 repositories*
 
-- [upscayl/upscayl](https://github.com/upscayl/upscayl) ⭐ 38,590 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) ⭐ 38,151 ![Python](https://img.shields.io/badge/Python-blue) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
-- [upstash/context7](https://github.com/upstash/context7) ⭐ 25,333 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
-- [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator) ⭐ 2,865 ![Python](https://img.shields.io/badge/Python-blue) - Learning in infinite dimension with neural operators.
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) ⭐ 38,609 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) ⭐ 38,196 ![Python](https://img.shields.io/badge/Python-blue) - Universal memory layer for AI Agents; Announcing OpenMemory MCP - local and secure memory management.
+- [upstash/context7](https://github.com/upstash/context7) ⭐ 25,485 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
+- [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator) ⭐ 2,866 ![Python](https://img.shields.io/badge/Python-blue) - Learning in infinite dimension with neural operators.
 - [modern-fortran/neural-fortran](https://github.com/modern-fortran/neural-fortran) ⭐ 448 ![Fortran](https://img.shields.io/badge/Fortran-purple) - A parallel framework for deep learning
-- [levimcclenny/SA-PINNs](https://github.com/levimcclenny/SA-PINNs) ⭐ 239 ![Python](https://img.shields.io/badge/Python-blue) - Implementation of the paper "Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism" [AAAI-MLPS 2021]
+- [levimcclenny/SA-PINNs](https://github.com/levimcclenny/SA-PINNs) ⭐ 240 ![Python](https://img.shields.io/badge/Python-blue) - Implementation of the paper "Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism" [AAAI-MLPS 2021]
 - [ikespand/awesome-machine-learning-fluid-mechanics](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics) ⭐ 209 - Curated list for ML in FM
 - [okada39/pinn_wave](https://github.com/okada39/pinn_wave) ⭐ 182 ![Python](https://img.shields.io/badge/Python-blue) - Physics Informed Neural Network (PINN) for the wave equation.
 - [okada39/pinn_cavity](https://github.com/okada39/pinn_cavity) ⭐ 150 ![Python](https://img.shields.io/badge/Python-blue) - Physics informed neural network (PINN) for cavity flow governed by Navier-Stokes equation.
@@ -643,12 +643,12 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *10 repositories*
 
-- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) ⭐ 11,487 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and m...
+- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) ⭐ 11,585 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and m...
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) ⭐ 6,808 ![Shell](https://img.shields.io/badge/Shell-gray) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the lat...
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ⭐ 3,905 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - CLI tool for configuring and monitoring Claude Code
-- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) ⭐ 3,310 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ⭐ 3,972 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - CLI tool for configuring and monitoring Claude Code
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) ⭐ 3,325 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
 - [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) ⭐ 1,157 ![Julia](https://img.shields.io/badge/Julia-purple) - 🌊  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs
-- [regenrek/codefetch](https://github.com/regenrek/codefetch) ⭐ 327 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Turn code into Markdown for LLMs with one simple terminal command
+- [regenrek/codefetch](https://github.com/regenrek/codefetch) ⭐ 328 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Turn code into Markdown for LLMs with one simple terminal command
 - [magic-sph/magic](https://github.com/magic-sph/magic) ![Fortran](https://img.shields.io/badge/Fortran-purple) - MagIC is a high-performance code that solves the magneto-hydrodynamics equations in rotating spherical shells
 - [regenrek/planwithgemini](https://github.com/regenrek/planwithgemini) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Plan with Gemini CLI and build with Claude Code or Cursor
 - [rsimitev/DynamoInRotatingSpheres](https://github.com/rsimitev/DynamoInRotatingSpheres) ![Fortran](https://img.shields.io/badge/Fortran-purple) - Thermo-compositional convection and dynamos in rotating spherical shells
@@ -681,11 +681,11 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *9 repositories*
 
-- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) ⭐ 17,396 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
-- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) ⭐ 15,052 ![HTML](https://img.shields.io/badge/HTML-gray) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
-- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) ⭐ 3,310 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
-- [matsuoka-601/WebGPU-Ocean](https://github.com/matsuoka-601/WebGPU-Ocean) ⭐ 410 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A real-time 3D fluid simulation implemented in WebGPU
-- [HugoBlox/theme-research-group](https://github.com/HugoBlox/theme-research-group) ⭐ 365 ![TeX](https://img.shields.io/badge/TeX-green) - 👥 轻松创建研究组或组织网站 Easily create a stunning Research Group, Team, or Business Website with no-code
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) ⭐ 17,413 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) ⭐ 15,060 ![HTML](https://img.shields.io/badge/HTML-gray) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
+- [21st-dev/magic-mcp](https://github.com/21st-dev/magic-mcp) ⭐ 3,325 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic
+- [matsuoka-601/WebGPU-Ocean](https://github.com/matsuoka-601/WebGPU-Ocean) ⭐ 411 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A real-time 3D fluid simulation implemented in WebGPU
+- [HugoBlox/theme-research-group](https://github.com/HugoBlox/theme-research-group) ⭐ 366 ![TeX](https://img.shields.io/badge/TeX-green) - 👥 轻松创建研究组或组织网站 Easily create a stunning Research Group, Team, or Business Website with no-code
 - [ericdaat/research-lab-website](https://github.com/ericdaat/research-lab-website) ![SCSS](https://img.shields.io/badge/SCSS-gray) - A template for a Research Lab website, built with Jekyll.
 - [jacobwilliams/finterp](https://github.com/jacobwilliams/finterp) ![Fortran](https://img.shields.io/badge/Fortran-purple) - Multidimensional (1D-6D) Linear and Nearest-Neighbor Interpolation with Modern Fortran
 - [TheoreticalAstrophysicsGroup/TheoreticalAstrophysicsGroup.github.io](https://github.com/TheoreticalAstrophysicsGroup/TheoreticalAstrophysicsGroup.github.io) ![HTML](https://img.shields.io/badge/HTML-gray) - University of Tsukuba, CCS Theoretical Astrophysics Group Webpage
@@ -749,4 +749,4 @@ This repository is available under the MIT License.
 
 ---
 
-*Last updated: 2025-08-13 00:13:08*
+*Last updated: 2025-08-14 00:13:05*
