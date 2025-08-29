@@ -87,7 +87,7 @@
         "portfolio-website",
         "theme"
       ],
-      "stars": 13770,
+      "stars": 13779,
       "url": "https://github.com/alshedivat/al-folio",
       "archived": false,
       "fork": false
@@ -208,7 +208,7 @@
       "description": "3D massively parallel general relativictic MHD code HARMPI",
       "language": "C",
       "topics": [],
-      "stars": 67,
+      "stars": 66,
       "url": "https://github.com/atchekho/harmpi",
       "archived": false,
       "fork": false
@@ -346,7 +346,7 @@
         "responsive-web-design",
         "rubygems"
       ],
-      "stars": 9127,
+      "stars": 9129,
       "url": "https://github.com/cotes2020/jekyll-theme-chirpy",
       "archived": false,
       "fork": false
@@ -435,7 +435,7 @@
         "plotting",
         "visualization"
       ],
-      "stars": 2606,
+      "stars": 2607,
       "url": "https://github.com/MakieOrg/Makie.jl",
       "archived": false,
       "fork": false
@@ -924,7 +924,7 @@
         "singular-values",
         "svd"
       ],
-      "stars": 1701,
+      "stars": 1703,
       "url": "https://github.com/Reference-LAPACK/lapack",
       "archived": false,
       "fork": false
@@ -1563,7 +1563,7 @@
         "stellar-astrophysics",
         "stellar-evolution"
       ],
-      "stars": 186,
+      "stars": 187,
       "url": "https://github.com/MESAHub/mesa",
       "archived": false,
       "fork": false
@@ -1583,7 +1583,7 @@
       "description": null,
       "language": "Fortran",
       "topics": [],
-      "stars": 70,
+      "stars": 71,
       "url": "https://github.com/FVCOM-GitHub/FVCOM",
       "archived": false,
       "fork": false
@@ -1802,7 +1802,7 @@
       "description": "\ud83e\udd17 smolagents: a barebones library for agents that think in code.",
       "language": "Python",
       "topics": [],
-      "stars": 22421,
+      "stars": 22433,
       "url": "https://github.com/huggingface/smolagents",
       "archived": false,
       "fork": false
@@ -1827,7 +1827,7 @@
       "description": "Spectral Navier Stokes (and similar) solvers in Python",
       "language": "Python",
       "topics": [],
-      "stars": 329,
+      "stars": 330,
       "url": "https://github.com/spectralDNS/spectralDNS",
       "archived": false,
       "fork": false
@@ -1837,7 +1837,7 @@
       "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
       "language": "Python",
       "topics": [],
-      "stars": 17894,
+      "stars": 17937,
       "url": "https://github.com/openai/gpt-oss",
       "archived": false,
       "fork": false
@@ -1869,7 +1869,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.",
       "language": "Python",
       "topics": [],
-      "stars": 12869,
+      "stars": 12901,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -1879,7 +1879,7 @@
       "description": "A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.",
       "language": "Python",
       "topics": [],
-      "stars": 14400,
+      "stars": 14498,
       "url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
       "archived": false,
       "fork": false
@@ -1914,7 +1914,7 @@
         "rag",
         "state-management"
       ],
-      "stars": 38804,
+      "stars": 38845,
       "url": "https://github.com/mem0ai/mem0",
       "archived": false,
       "fork": false
@@ -2099,7 +2099,7 @@
         "pptx",
         "task-automation"
       ],
-      "stars": 2505,
+      "stars": 2509,
       "url": "https://github.com/Paper2Poster/Paper2Poster",
       "archived": false,
       "fork": false
@@ -2143,7 +2143,7 @@
         "pocket-flow",
         "pocketflow"
       ],
-      "stars": 11333,
+      "stars": 11341,
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "archived": false,
       "fork": false
@@ -2264,7 +2264,7 @@
         "language-server-protocol",
         "lsp"
       ],
-      "stars": 303,
+      "stars": 304,
       "url": "https://github.com/fortran-lang/fortls",
       "archived": false,
       "fork": false
@@ -2456,7 +2456,7 @@
         "magnetohydrodynamics",
         "python"
       ],
-      "stars": 4,
+      "stars": 5,
       "url": "https://github.com/mrkondratyev/Piastra2D",
       "archived": false,
       "fork": false
@@ -2727,7 +2727,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 27652,
+      "stars": 27858,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -2752,7 +2752,7 @@
         "rag",
         "state-management"
       ],
-      "stars": 38804,
+      "stars": 38845,
       "url": "https://github.com/mem0ai/mem0",
       "archived": false,
       "fork": false
@@ -2794,7 +2794,7 @@
         "upscalerimage",
         "upscayl"
       ],
-      "stars": 39302,
+      "stars": 39322,
       "url": "https://github.com/upscayl/upscayl",
       "archived": false,
       "fork": false
@@ -2856,7 +2856,7 @@
       "description": "Curated list for ML in FM",
       "language": null,
       "topics": [],
-      "stars": 210,
+      "stars": 212,
       "url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
       "archived": false,
       "fork": false
@@ -3023,7 +3023,7 @@
       "description": "Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation",
       "language": null,
       "topics": [],
-      "stars": 995,
+      "stars": 997,
       "url": "https://github.com/iannuttall/claude-sessions",
       "archived": false,
       "fork": false
@@ -3038,7 +3038,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 27652,
+      "stars": 27858,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -3080,7 +3080,7 @@
         "pocket-flow",
         "pocketflow"
       ],
-      "stars": 11333,
+      "stars": 11341,
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "archived": false,
       "fork": false
@@ -3143,7 +3143,7 @@
         "tufte-latex",
         "tufte-style"
       ],
-      "stars": 1776,
+      "stars": 1777,
       "url": "https://github.com/Tufte-LaTeX/tufte-latex",
       "archived": false,
       "fork": false
@@ -3253,7 +3253,7 @@
       "description": "Curated list for ML in FM",
       "language": null,
       "topics": [],
-      "stars": 210,
+      "stars": 212,
       "url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
       "archived": false,
       "fork": false
@@ -3397,7 +3397,7 @@
       "description": "Spectral Navier Stokes (and similar) solvers in Python",
       "language": "Python",
       "topics": [],
-      "stars": 329,
+      "stars": 330,
       "url": "https://github.com/spectralDNS/spectralDNS",
       "archived": false,
       "fork": false
@@ -3799,7 +3799,7 @@
         "language-server-protocol",
         "lsp"
       ],
-      "stars": 303,
+      "stars": 304,
       "url": "https://github.com/fortran-lang/fortls",
       "archived": false,
       "fork": false
@@ -3943,7 +3943,7 @@
       "description": "Curated list for ML in FM",
       "language": null,
       "topics": [],
-      "stars": 210,
+      "stars": 212,
       "url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
       "archived": false,
       "fork": false
@@ -4621,7 +4621,7 @@
         "stellar-astrophysics",
         "stellar-evolution"
       ],
-      "stars": 186,
+      "stars": 187,
       "url": "https://github.com/MESAHub/mesa",
       "archived": false,
       "fork": false
@@ -4810,7 +4810,7 @@
         "plotting",
         "visualization"
       ],
-      "stars": 2606,
+      "stars": 2607,
       "url": "https://github.com/MakieOrg/Makie.jl",
       "archived": false,
       "fork": false
@@ -4859,7 +4859,7 @@
         "magnetohydrodynamics",
         "python"
       ],
-      "stars": 4,
+      "stars": 5,
       "url": "https://github.com/mrkondratyev/Piastra2D",
       "archived": false,
       "fork": false
@@ -4935,7 +4935,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 4996,
+      "stars": 5083,
       "url": "https://github.com/davila7/claude-code-templates",
       "archived": false,
       "fork": false
@@ -4945,7 +4945,7 @@
       "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
       "language": "TypeScript",
       "topics": [],
-      "stars": 3454,
+      "stars": 3471,
       "url": "https://github.com/21st-dev/magic-mcp",
       "archived": false,
       "fork": false
@@ -4958,7 +4958,7 @@
         "mcp",
         "playwright"
       ],
-      "stars": 18313,
+      "stars": 18438,
       "url": "https://github.com/microsoft/playwright-mcp",
       "archived": false,
       "fork": false
@@ -4981,7 +4981,7 @@
         "windsurf",
         "windsurf-ai"
       ],
-      "stars": 21186,
+      "stars": 21233,
       "url": "https://github.com/eyaltoledano/claude-task-master",
       "archived": false,
       "fork": false
@@ -5012,7 +5012,7 @@
         "voyage-ai",
         "vscode-extension"
       ],
-      "stars": 3058,
+      "stars": 3105,
       "url": "https://github.com/zilliztech/claude-context",
       "archived": false,
       "fork": false
@@ -5038,7 +5038,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 14729,
+      "stars": 14872,
       "url": "https://github.com/getAsterisk/gooey",
       "archived": false,
       "fork": false
@@ -5048,7 +5048,7 @@
       "description": "\ud83d\udcd6 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors",
       "language": "TypeScript",
       "topics": [],
-      "stars": 959,
+      "stars": 962,
       "url": "https://github.com/regenrek/deepwiki-mcp",
       "archived": false,
       "fork": false
@@ -5085,7 +5085,7 @@
         "cloudflare",
         "mcp"
       ],
-      "stars": 1244,
+      "stars": 1301,
       "url": "https://github.com/supermemoryai/supermemory-mcp",
       "archived": false,
       "fork": false
@@ -5095,7 +5095,7 @@
       "description": "A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 698,
+      "stars": 699,
       "url": "https://github.com/Iamshankhadeep/ccseva",
       "archived": false,
       "fork": false
@@ -5110,7 +5110,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 27652,
+      "stars": 27858,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -5120,7 +5120,7 @@
       "description": "Model Context Protocol Servers",
       "language": "TypeScript",
       "topics": [],
-      "stars": 65958,
+      "stars": 66090,
       "url": "https://github.com/modelcontextprotocol/servers",
       "archived": false,
       "fork": false
@@ -5146,7 +5146,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 17632,
+      "stars": 17646,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
@@ -5168,7 +5168,7 @@
         "upscalerimage",
         "upscayl"
       ],
-      "stars": 39302,
+      "stars": 39322,
       "url": "https://github.com/upscayl/upscayl",
       "archived": false,
       "fork": false
@@ -5226,7 +5226,7 @@
         "parallel-computing",
         "programming-model"
       ],
-      "stars": 2298,
+      "stars": 2300,
       "url": "https://github.com/kokkos/kokkos",
       "archived": false,
       "fork": false
@@ -5436,7 +5436,7 @@
       "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
       "language": "Python",
       "topics": [],
-      "stars": 17894,
+      "stars": 17937,
       "url": "https://github.com/openai/gpt-oss",
       "archived": false,
       "fork": false
@@ -5459,7 +5459,7 @@
         "windsurf",
         "windsurf-ai"
       ],
-      "stars": 21186,
+      "stars": 21233,
       "url": "https://github.com/eyaltoledano/claude-task-master",
       "archived": false,
       "fork": false
@@ -5469,7 +5469,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.",
       "language": "Python",
       "topics": [],
-      "stars": 12869,
+      "stars": 12901,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -5495,7 +5495,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 14729,
+      "stars": 14872,
       "url": "https://github.com/getAsterisk/gooey",
       "archived": false,
       "fork": false
@@ -5613,7 +5613,7 @@
         "language-server-protocol",
         "lsp"
       ],
-      "stars": 303,
+      "stars": 304,
       "url": "https://github.com/fortran-lang/fortls",
       "archived": false,
       "fork": false
@@ -5816,7 +5816,7 @@
         "magnetohydrodynamics",
         "python"
       ],
-      "stars": 4,
+      "stars": 5,
       "url": "https://github.com/mrkondratyev/Piastra2D",
       "archived": false,
       "fork": false
@@ -5923,7 +5923,7 @@
         "stellar-astrophysics",
         "stellar-evolution"
       ],
-      "stars": 186,
+      "stars": 187,
       "url": "https://github.com/MESAHub/mesa",
       "archived": false,
       "fork": false
@@ -5976,7 +5976,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 4996,
+      "stars": 5083,
       "url": "https://github.com/davila7/claude-code-templates",
       "archived": false,
       "fork": false
@@ -5986,7 +5986,7 @@
       "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
       "language": "TypeScript",
       "topics": [],
-      "stars": 3454,
+      "stars": 3471,
       "url": "https://github.com/21st-dev/magic-mcp",
       "archived": false,
       "fork": false
@@ -6012,7 +6012,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 14729,
+      "stars": 14872,
       "url": "https://github.com/getAsterisk/gooey",
       "archived": false,
       "fork": false
@@ -6053,7 +6053,7 @@
         "terminal",
         "theme"
       ],
-      "stars": 6847,
+      "stars": 6850,
       "url": "https://github.com/ohmybash/oh-my-bash",
       "archived": false,
       "fork": false
@@ -6122,7 +6122,7 @@
       "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
       "language": "TypeScript",
       "topics": [],
-      "stars": 3454,
+      "stars": 3471,
       "url": "https://github.com/21st-dev/magic-mcp",
       "archived": false,
       "fork": false
@@ -6156,7 +6156,7 @@
         "personal-website",
         "portfolio-website"
       ],
-      "stars": 15172,
+      "stars": 15178,
       "url": "https://github.com/academicpages/academicpages.github.io",
       "archived": false,
       "fork": false
@@ -6213,7 +6213,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 17632,
+      "stars": 17646,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
