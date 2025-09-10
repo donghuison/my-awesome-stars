@@ -1,584 +1,15 @@
 {
-  "Uncategorized": [
-    {
-      "name": "NCAR/GPU_workshop",
-      "description": null,
-      "language": "HTML",
-      "topics": [],
-      "stars": 77,
-      "url": "https://github.com/NCAR/GPU_workshop",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "SWMFsoftware/SWMF_data",
-      "description": null,
-      "language": "C",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/SWMFsoftware/SWMF_data",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "LeNPaul/portfolio-jekyll-theme",
-      "description": "A minimalist Jekyll theme for building a personal portfolio site powered by Jekyll and GitHub Pages",
-      "language": "SCSS",
-      "topics": [
-        "blog",
-        "github-pages",
-        "jekyll",
-        "jekyll-blog",
-        "jekyll-site",
-        "jekyll-template",
-        "jekyll-theme",
-        "minimalist",
-        "portfolio",
-        "theme"
-      ],
-      "stars": 246,
-      "url": "https://github.com/LeNPaul/portfolio-jekyll-theme",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ChrisTitusTech/mybash",
-      "description": "My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.",
-      "language": "Shell",
-      "topics": [],
-      "stars": 562,
-      "url": "https://github.com/ChrisTitusTech/mybash",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "antyeates1983/sft_data",
-      "description": "SFT_DATA: 2d data-driven flux transport code in MATLAB.",
-      "language": "Matlab",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/antyeates1983/sft_data",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "VincentVanlaer/mesa-school-labs",
-      "description": null,
-      "language": "AMPL",
-      "topics": [],
-      "stars": 6,
-      "url": "https://github.com/VincentVanlaer/mesa-school-labs",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "alshedivat/al-folio",
-      "description": "A beautiful, simple, clean, and responsive Jekyll theme for academics",
-      "language": "HTML",
-      "topics": [
-        "academic",
-        "academic-website",
-        "github-pages",
-        "hacktoberfest",
-        "jekyll",
-        "jekyll-blog",
-        "jekyll-theme",
-        "personal-website",
-        "portfolio-website",
-        "theme"
-      ],
-      "stars": 13888,
-      "url": "https://github.com/alshedivat/al-folio",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "solarmonitor/solarmonitorphp",
-      "description": null,
-      "language": "PHP",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/solarmonitor/solarmonitorphp",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "hpgmg/hpgmg",
-      "description": "High-performance Geometric Multigrid",
-      "language": "C",
-      "topics": [],
-      "stars": 37,
-      "url": "https://github.com/hpgmg/hpgmg",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "andyto1234/demcmc",
-      "description": "Differential Emission Measure estimation using MCMC methods",
-      "language": null,
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/andyto1234/demcmc",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "andyto1234/pydrad_wrapper",
-      "description": null,
-      "language": "EmberScript",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/andyto1234/pydrad_wrapper",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "sulli72/CHAR_BCS",
-      "description": "Introduction to the concepts of characteristic based boundary conditions, as applied to the second order wave equation./=",
-      "language": "MATLAB",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/sulli72/CHAR_BCS",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "iijimahr/skeletons",
-      "description": "Skeletons for new project",
-      "language": "Makefile",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/iijimahr/skeletons",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cheshirepezz/scientificcomputing_bicocca_2023",
-      "description": "Scientific Computing with Python - PhD class at the University of Milan-Bicocca (Italy)",
-      "language": null,
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/cheshirepezz/scientificcomputing_bicocca_2023",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "JingWei-William/radiative-cooling-solar-heating-power",
-      "description": "PLEASE CITE: https://doi.org/10.1016/j.csite.2024.105232",
-      "language": "MATLAB",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/JingWei-William/radiative-cooling-solar-heating-power",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "keita-akutagawa/KAMMUY",
-      "description": null,
-      "language": "Cuda",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/keita-akutagawa/KAMMUY",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pmichaillat/latex-presentation",
-      "description": "Minimalist LaTeX template for academic presentations",
-      "language": "TeX",
-      "topics": [
-        "academic-presentation",
-        "beamer",
-        "beamer-template",
-        "conference-presentation",
-        "latex",
-        "latex-template",
-        "minimalist-design",
-        "presentation-template",
-        "research-presentation",
-        "slide-template"
-      ],
-      "stars": 225,
-      "url": "https://github.com/pmichaillat/latex-presentation",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "atchekho/harmpi",
-      "description": "3D massively parallel general relativictic MHD code HARMPI",
-      "language": "C",
-      "topics": [],
-      "stars": 66,
-      "url": "https://github.com/atchekho/harmpi",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "chili-epfl/paper-poster-presentation-template",
-      "description": "A LaTeX template pack for ieeetran, sigchi, acm-sig-alternate, llncs2e, baposter, nccr-poster and beamer",
-      "language": "TeX",
-      "topics": [
-        "acm-sig-alternate",
-        "beamer",
-        "ieeetran",
-        "llncs2e",
-        "lualatex",
-        "pdflatex",
-        "poster",
-        "sigchi"
-      ],
-      "stars": 19,
-      "url": "https://github.com/chili-epfl/paper-poster-presentation-template",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "github-nakasho/3dhlld",
-      "description": null,
-      "language": null,
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/github-nakasho/3dhlld",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "nushio3/learn-haskell",
-      "description": null,
-      "language": "Haskell",
-      "topics": [],
-      "stars": 164,
-      "url": "https://github.com/nushio3/learn-haskell",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "epochpic/SDF_IDL",
-      "description": "IDL routines for accessing files in the SDF format",
-      "language": "Prolog",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/epochpic/SDF_IDL",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "getpetit/petit-youtube-music-release",
-      "description": null,
-      "language": null,
-      "topics": [],
-      "stars": 18,
-      "url": "https://github.com/getpetit/petit-youtube-music-release",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "michael-nix/MATLAB-Perfectly-Matched-Layer",
-      "description": "Absorbing boundary conditions, not for solving Maxwell's Equations, but for a standard wave equation, e.g. for use with potentials.",
-      "language": "MATLAB",
-      "topics": [],
-      "stars": 12,
-      "url": "https://github.com/michael-nix/MATLAB-Perfectly-Matched-Layer",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "R07941023/1D-FDTD",
-      "description": "Study of the reflection and transmission between the three material by 1D-FDTD PML Final Report",
-      "language": "MATLAB",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/R07941023/1D-FDTD",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "juliakorea/talks",
-      "description": "\uac8c\uc2dc\ud310",
-      "language": null,
-      "topics": [],
-      "stars": 15,
-      "url": "https://github.com/juliakorea/talks",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "edheltzel/flightdeck-for-jekyll",
-      "description": "\ud83d\ude80 An opinionated starter project for Eleventy using Gulp as an asset pipeline",
-      "language": "HTML",
-      "topics": [
-        "autoprefixer",
-        "flightdeck",
-        "gulp",
-        "gulp-starter",
-        "gulp4",
-        "gulpfile",
-        "imagemin",
-        "jamstack",
-        "jamstack-site",
-        "jamstack-theme",
-        "jekyll",
-        "jekyll-ecosystem",
-        "jekyll-site",
-        "jekyll-template",
-        "jekyll-theme",
-        "jekyll-themes",
-        "sass",
-        "static-site-generator"
-      ],
-      "stars": 9,
-      "url": "https://github.com/edheltzel/flightdeck-for-jekyll",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cotes2020/jekyll-theme-chirpy",
-      "description": "A minimal, responsive, and feature-rich Jekyll theme for technical writing.",
-      "language": "HTML",
-      "topics": [
-        "bootstrap",
-        "devcontainer",
-        "html5",
-        "jamstack",
-        "jekyll",
-        "jekyll-theme",
-        "pwa",
-        "responsive-web-design",
-        "rubygems"
-      ],
-      "stars": 9174,
-      "url": "https://github.com/cotes2020/jekyll-theme-chirpy",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "wme7/WENO5-X",
-      "description": "A 1-d comparison of finite difference implementations of fifth-order WENO schemes, namely WENO-JS, WENO-M and WENO-Z.",
-      "language": "Matlab",
-      "topics": [],
-      "stars": 16,
-      "url": "https://github.com/wme7/WENO5-X",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "wme7/WENO7-Z",
-      "description": "A 1-d comparison between the finite difference implementations of seventh-order WENO-JS and the WENO-Z scheme.",
-      "language": "Matlab",
-      "topics": [],
-      "stars": 4,
-      "url": "https://github.com/wme7/WENO7-Z",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "jung-minki/WENO-idealMHD",
-      "description": null,
-      "language": "MATLAB",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/jung-minki/WENO-idealMHD",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "geodynamics/mag",
-      "description": "MAG is a serial version of a rotating spherical convection/magnetoconvection/dynamo code, developed by Gary Glatzmaier and modified by Uli Christensen and Peter Olson.",
-      "language": "IDL",
-      "topics": [],
-      "stars": 6,
-      "url": "https://github.com/geodynamics/mag",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "meithan/walicxe3d",
-      "description": "Walicxe3D parallel AMR Eulerian hydrodynamics code",
-      "language": "HTML",
-      "topics": [],
-      "stars": 4,
-      "url": "https://github.com/meithan/walicxe3d",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "esquivas/walicxe3d",
-      "description": "Walicxe3D parallel AMR grid hydrodynamics code",
-      "language": "HTML",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/esquivas/walicxe3d",
-      "archived": false,
-      "fork": true
-    }
-  ],
-  "Julia Projects": [
-    {
-      "name": "SWMFsoftware/SWMFSOLAR",
-      "description": "SWMF input & output files and scripts, for solar applications",
-      "language": "Julia",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/SWMFsoftware/SWMFSOLAR",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "MakieOrg/Makie.jl",
-      "description": "Interactive data visualizations and plotting in Julia",
-      "language": "Julia",
-      "topics": [
-        "gpu",
-        "graphics",
-        "julia",
-        "julia-language",
-        "plotting",
-        "visualization"
-      ],
-      "stars": 2617,
-      "url": "https://github.com/MakieOrg/Makie.jl",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Arpit-Babbar/TrixiLW.jl",
-      "description": "Lax-Wendroff Flux Reconstruction on curvilinear grids ",
-      "language": "Julia",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/Arpit-Babbar/TrixiLW.jl",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "surajp92/CFD_Julia",
-      "description": "This repository contains fundamental codes related to CFD that can be included in any graduate level CFD coursework. ",
-      "language": "Julia",
-      "topics": [],
-      "stars": 514,
-      "url": "https://github.com/surajp92/CFD_Julia",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "YukiMori1223/CFD_julia",
-      "description": "Julia\u3092\u7528\u3044\u305f\u6570\u5024\u6d41\u4f53\u8a08\u7b97\u30b5\u30f3\u30d7\u30eb",
-      "language": "Julia",
-      "topics": [
-        "computational-fluid-dynamics",
-        "julia"
-      ],
-      "stars": 3,
-      "url": "https://github.com/YukiMori1223/CFD_julia",
-      "archived": true,
-      "fork": false
-    },
-    {
-      "name": "ryarazi/ExactRiemannProblemSolver",
-      "description": "An exact riemann problem solver written in julia. This program which generates exact solutions for the hydrodynamics Euler equations using Toro solver.",
-      "language": "Julia",
-      "topics": [
-        "cfd",
-        "hydrodynamics",
-        "hydrodynamics-euler-equations",
-        "julia",
-        "numerical",
-        "riemann-solver",
-        "sod-shock-tube",
-        "toro-solver"
-      ],
-      "stars": 16,
-      "url": "https://github.com/ryarazi/ExactRiemannProblemSolver",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ranocha/Trixi.jl",
-      "description": "A flexible tree-based numerical simulation framework for PDEs written in Julia",
-      "language": "Julia",
-      "topics": [],
-      "stars": 4,
-      "url": "https://github.com/ranocha/Trixi.jl",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "omersan/CFD_Julia_MAE5093",
-      "description": null,
-      "language": "Julia",
-      "topics": [],
-      "stars": 30,
-      "url": "https://github.com/omersan/CFD_Julia_MAE5093",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "trixi-framework/paper-2021-EC_performance",
-      "description": "Reproducibility repository for \"Efficient implementation of modern entropy stable and kinetic energy preserving discontinuous Galerkin methods for conservation laws\"",
-      "language": "Julia",
-      "topics": [
-        "conservation-laws",
-        "discontinuous-galerkin",
-        "fortran",
-        "julia",
-        "simd"
-      ],
-      "stars": 2,
-      "url": "https://github.com/trixi-framework/paper-2021-EC_performance",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "CliMA/Oceananigans.jl",
-      "description": "\ud83c\udf0a  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
-      "language": "Julia",
-      "topics": [
-        "climate",
-        "climate-change",
-        "data-assimilation",
-        "fluid-dynamics",
-        "gpu",
-        "julia",
-        "machine-learning",
-        "ocean"
-      ],
-      "stars": 1171,
-      "url": "https://github.com/CliMA/Oceananigans.jl",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "trixi-framework/Trixi.jl",
-      "description": "Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia",
-      "language": "Julia",
-      "topics": [
-        "adaptive-mesh-refinement",
-        "amr",
-        "conservation-laws",
-        "discontinuous-galerkin",
-        "hyperbolic-equations",
-        "julia",
-        "numerical-simulation-framework",
-        "simulation",
-        "summation-by-parts"
-      ],
-      "stars": 618,
-      "url": "https://github.com/trixi-framework/Trixi.jl",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "jdonnert/julia",
-      "description": "Julia scripts to work with astrophysical simulations. Also contains 1D and 2D 5th order WENO solvers for constrained transport MHD.",
-      "language": "Julia",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/jdonnert/julia",
-      "archived": false,
-      "fork": false
-    }
-  ],
   "Fortran Projects": [
+    {
+      "name": "JamieJQuinn/lare3d",
+      "description": "Copy of Lare3d including anisotropic viscosity",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/JamieJQuinn/lare3d",
+      "archived": false,
+      "fork": false
+    },
     {
       "name": "SWMFsoftware/SWMF",
       "description": null,
@@ -924,7 +355,7 @@
         "singular-values",
         "svd"
       ],
-      "stars": 1709,
+      "stars": 1710,
       "url": "https://github.com/Reference-LAPACK/lapack",
       "archived": false,
       "fork": false
@@ -1034,7 +465,7 @@
         "pytorch",
         "torch"
       ],
-      "stars": 140,
+      "stars": 141,
       "url": "https://github.com/Cambridge-ICCS/FTorch",
       "archived": false,
       "fork": false
@@ -1214,7 +645,7 @@
         "neural-network",
         "parallel"
       ],
-      "stars": 451,
+      "stars": 452,
       "url": "https://github.com/modern-fortran/neural-fortran",
       "archived": false,
       "fork": false
@@ -1403,7 +834,7 @@
         "high-performance-computing",
         "unstructured-meshes"
       ],
-      "stars": 255,
+      "stars": 256,
       "url": "https://github.com/flexi-framework/flexi",
       "archived": false,
       "fork": false
@@ -1469,7 +900,7 @@
         "large-eddy-simulation",
         "navier-stokes"
       ],
-      "stars": 193,
+      "stars": 194,
       "url": "https://github.com/xcompact3d/Incompact3d",
       "archived": false,
       "fork": false
@@ -1496,7 +927,7 @@
         "simulation",
         "unstructured-meshes"
       ],
-      "stars": 312,
+      "stars": 313,
       "url": "https://github.com/ucns3d-team/UCNS3D",
       "archived": false,
       "fork": false
@@ -1786,13 +1217,592 @@
       "fork": false
     }
   ],
+  "Uncategorized": [
+    {
+      "name": "NCAR/GPU_workshop",
+      "description": null,
+      "language": "HTML",
+      "topics": [],
+      "stars": 77,
+      "url": "https://github.com/NCAR/GPU_workshop",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "SWMFsoftware/SWMF_data",
+      "description": null,
+      "language": "C",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/SWMFsoftware/SWMF_data",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "LeNPaul/portfolio-jekyll-theme",
+      "description": "A minimalist Jekyll theme for building a personal portfolio site powered by Jekyll and GitHub Pages",
+      "language": "SCSS",
+      "topics": [
+        "blog",
+        "github-pages",
+        "jekyll",
+        "jekyll-blog",
+        "jekyll-site",
+        "jekyll-template",
+        "jekyll-theme",
+        "minimalist",
+        "portfolio",
+        "theme"
+      ],
+      "stars": 246,
+      "url": "https://github.com/LeNPaul/portfolio-jekyll-theme",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ChrisTitusTech/mybash",
+      "description": "My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 562,
+      "url": "https://github.com/ChrisTitusTech/mybash",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "antyeates1983/sft_data",
+      "description": "SFT_DATA: 2d data-driven flux transport code in MATLAB.",
+      "language": "Matlab",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/antyeates1983/sft_data",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "VincentVanlaer/mesa-school-labs",
+      "description": null,
+      "language": "AMPL",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/VincentVanlaer/mesa-school-labs",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "alshedivat/al-folio",
+      "description": "A beautiful, simple, clean, and responsive Jekyll theme for academics",
+      "language": "HTML",
+      "topics": [
+        "academic",
+        "academic-website",
+        "github-pages",
+        "hacktoberfest",
+        "jekyll",
+        "jekyll-blog",
+        "jekyll-theme",
+        "personal-website",
+        "portfolio-website",
+        "theme"
+      ],
+      "stars": 13900,
+      "url": "https://github.com/alshedivat/al-folio",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "solarmonitor/solarmonitorphp",
+      "description": null,
+      "language": "PHP",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/solarmonitor/solarmonitorphp",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "hpgmg/hpgmg",
+      "description": "High-performance Geometric Multigrid",
+      "language": "C",
+      "topics": [],
+      "stars": 37,
+      "url": "https://github.com/hpgmg/hpgmg",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "andyto1234/demcmc",
+      "description": "Differential Emission Measure estimation using MCMC methods",
+      "language": null,
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/andyto1234/demcmc",
+      "archived": false,
+      "fork": true
+    },
+    {
+      "name": "andyto1234/pydrad_wrapper",
+      "description": null,
+      "language": "EmberScript",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/andyto1234/pydrad_wrapper",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "sulli72/CHAR_BCS",
+      "description": "Introduction to the concepts of characteristic based boundary conditions, as applied to the second order wave equation./=",
+      "language": "MATLAB",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/sulli72/CHAR_BCS",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "iijimahr/skeletons",
+      "description": "Skeletons for new project",
+      "language": "Makefile",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/iijimahr/skeletons",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cheshirepezz/scientificcomputing_bicocca_2023",
+      "description": "Scientific Computing with Python - PhD class at the University of Milan-Bicocca (Italy)",
+      "language": null,
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/cheshirepezz/scientificcomputing_bicocca_2023",
+      "archived": false,
+      "fork": true
+    },
+    {
+      "name": "JingWei-William/radiative-cooling-solar-heating-power",
+      "description": "PLEASE CITE: https://doi.org/10.1016/j.csite.2024.105232",
+      "language": "MATLAB",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/JingWei-William/radiative-cooling-solar-heating-power",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "keita-akutagawa/KAMMUY",
+      "description": null,
+      "language": "Cuda",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/keita-akutagawa/KAMMUY",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pmichaillat/latex-presentation",
+      "description": "Minimalist LaTeX template for academic presentations",
+      "language": "TeX",
+      "topics": [
+        "academic-presentation",
+        "beamer",
+        "beamer-template",
+        "conference-presentation",
+        "latex",
+        "latex-template",
+        "minimalist-design",
+        "presentation-template",
+        "research-presentation",
+        "slide-template"
+      ],
+      "stars": 227,
+      "url": "https://github.com/pmichaillat/latex-presentation",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "atchekho/harmpi",
+      "description": "3D massively parallel general relativictic MHD code HARMPI",
+      "language": "C",
+      "topics": [],
+      "stars": 66,
+      "url": "https://github.com/atchekho/harmpi",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "chili-epfl/paper-poster-presentation-template",
+      "description": "A LaTeX template pack for ieeetran, sigchi, acm-sig-alternate, llncs2e, baposter, nccr-poster and beamer",
+      "language": "TeX",
+      "topics": [
+        "acm-sig-alternate",
+        "beamer",
+        "ieeetran",
+        "llncs2e",
+        "lualatex",
+        "pdflatex",
+        "poster",
+        "sigchi"
+      ],
+      "stars": 19,
+      "url": "https://github.com/chili-epfl/paper-poster-presentation-template",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "github-nakasho/3dhlld",
+      "description": null,
+      "language": null,
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/github-nakasho/3dhlld",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "nushio3/learn-haskell",
+      "description": null,
+      "language": "Haskell",
+      "topics": [],
+      "stars": 164,
+      "url": "https://github.com/nushio3/learn-haskell",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "epochpic/SDF_IDL",
+      "description": "IDL routines for accessing files in the SDF format",
+      "language": "Prolog",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/epochpic/SDF_IDL",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "getpetit/petit-youtube-music-release",
+      "description": null,
+      "language": null,
+      "topics": [],
+      "stars": 18,
+      "url": "https://github.com/getpetit/petit-youtube-music-release",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "michael-nix/MATLAB-Perfectly-Matched-Layer",
+      "description": "Absorbing boundary conditions, not for solving Maxwell's Equations, but for a standard wave equation, e.g. for use with potentials.",
+      "language": "MATLAB",
+      "topics": [],
+      "stars": 12,
+      "url": "https://github.com/michael-nix/MATLAB-Perfectly-Matched-Layer",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "R07941023/1D-FDTD",
+      "description": "Study of the reflection and transmission between the three material by 1D-FDTD PML Final Report",
+      "language": "MATLAB",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/R07941023/1D-FDTD",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "juliakorea/talks",
+      "description": "\uac8c\uc2dc\ud310",
+      "language": null,
+      "topics": [],
+      "stars": 15,
+      "url": "https://github.com/juliakorea/talks",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "edheltzel/flightdeck-for-jekyll",
+      "description": "\ud83d\ude80 An opinionated starter project for Eleventy using Gulp as an asset pipeline",
+      "language": "HTML",
+      "topics": [
+        "autoprefixer",
+        "flightdeck",
+        "gulp",
+        "gulp-starter",
+        "gulp4",
+        "gulpfile",
+        "imagemin",
+        "jamstack",
+        "jamstack-site",
+        "jamstack-theme",
+        "jekyll",
+        "jekyll-ecosystem",
+        "jekyll-site",
+        "jekyll-template",
+        "jekyll-theme",
+        "jekyll-themes",
+        "sass",
+        "static-site-generator"
+      ],
+      "stars": 9,
+      "url": "https://github.com/edheltzel/flightdeck-for-jekyll",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cotes2020/jekyll-theme-chirpy",
+      "description": "A minimal, responsive, and feature-rich Jekyll theme for technical writing.",
+      "language": "HTML",
+      "topics": [
+        "bootstrap",
+        "devcontainer",
+        "html5",
+        "jamstack",
+        "jekyll",
+        "jekyll-theme",
+        "pwa",
+        "responsive-web-design",
+        "rubygems"
+      ],
+      "stars": 9181,
+      "url": "https://github.com/cotes2020/jekyll-theme-chirpy",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "wme7/WENO5-X",
+      "description": "A 1-d comparison of finite difference implementations of fifth-order WENO schemes, namely WENO-JS, WENO-M and WENO-Z.",
+      "language": "Matlab",
+      "topics": [],
+      "stars": 16,
+      "url": "https://github.com/wme7/WENO5-X",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "wme7/WENO7-Z",
+      "description": "A 1-d comparison between the finite difference implementations of seventh-order WENO-JS and the WENO-Z scheme.",
+      "language": "Matlab",
+      "topics": [],
+      "stars": 4,
+      "url": "https://github.com/wme7/WENO7-Z",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "jung-minki/WENO-idealMHD",
+      "description": null,
+      "language": "MATLAB",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/jung-minki/WENO-idealMHD",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "geodynamics/mag",
+      "description": "MAG is a serial version of a rotating spherical convection/magnetoconvection/dynamo code, developed by Gary Glatzmaier and modified by Uli Christensen and Peter Olson.",
+      "language": "IDL",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/geodynamics/mag",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "meithan/walicxe3d",
+      "description": "Walicxe3D parallel AMR Eulerian hydrodynamics code",
+      "language": "HTML",
+      "topics": [],
+      "stars": 4,
+      "url": "https://github.com/meithan/walicxe3d",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "esquivas/walicxe3d",
+      "description": "Walicxe3D parallel AMR grid hydrodynamics code",
+      "language": "HTML",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/esquivas/walicxe3d",
+      "archived": false,
+      "fork": true
+    }
+  ],
+  "Julia Projects": [
+    {
+      "name": "SWMFsoftware/SWMFSOLAR",
+      "description": "SWMF input & output files and scripts, for solar applications",
+      "language": "Julia",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/SWMFsoftware/SWMFSOLAR",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "MakieOrg/Makie.jl",
+      "description": "Interactive data visualizations and plotting in Julia",
+      "language": "Julia",
+      "topics": [
+        "gpu",
+        "graphics",
+        "julia",
+        "julia-language",
+        "plotting",
+        "visualization"
+      ],
+      "stars": 2616,
+      "url": "https://github.com/MakieOrg/Makie.jl",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Arpit-Babbar/TrixiLW.jl",
+      "description": "Lax-Wendroff Flux Reconstruction on curvilinear grids ",
+      "language": "Julia",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/Arpit-Babbar/TrixiLW.jl",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "surajp92/CFD_Julia",
+      "description": "This repository contains fundamental codes related to CFD that can be included in any graduate level CFD coursework. ",
+      "language": "Julia",
+      "topics": [],
+      "stars": 514,
+      "url": "https://github.com/surajp92/CFD_Julia",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "YukiMori1223/CFD_julia",
+      "description": "Julia\u3092\u7528\u3044\u305f\u6570\u5024\u6d41\u4f53\u8a08\u7b97\u30b5\u30f3\u30d7\u30eb",
+      "language": "Julia",
+      "topics": [
+        "computational-fluid-dynamics",
+        "julia"
+      ],
+      "stars": 3,
+      "url": "https://github.com/YukiMori1223/CFD_julia",
+      "archived": true,
+      "fork": false
+    },
+    {
+      "name": "ryarazi/ExactRiemannProblemSolver",
+      "description": "An exact riemann problem solver written in julia. This program which generates exact solutions for the hydrodynamics Euler equations using Toro solver.",
+      "language": "Julia",
+      "topics": [
+        "cfd",
+        "hydrodynamics",
+        "hydrodynamics-euler-equations",
+        "julia",
+        "numerical",
+        "riemann-solver",
+        "sod-shock-tube",
+        "toro-solver"
+      ],
+      "stars": 16,
+      "url": "https://github.com/ryarazi/ExactRiemannProblemSolver",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ranocha/Trixi.jl",
+      "description": "A flexible tree-based numerical simulation framework for PDEs written in Julia",
+      "language": "Julia",
+      "topics": [],
+      "stars": 4,
+      "url": "https://github.com/ranocha/Trixi.jl",
+      "archived": false,
+      "fork": true
+    },
+    {
+      "name": "omersan/CFD_Julia_MAE5093",
+      "description": null,
+      "language": "Julia",
+      "topics": [],
+      "stars": 30,
+      "url": "https://github.com/omersan/CFD_Julia_MAE5093",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "trixi-framework/paper-2021-EC_performance",
+      "description": "Reproducibility repository for \"Efficient implementation of modern entropy stable and kinetic energy preserving discontinuous Galerkin methods for conservation laws\"",
+      "language": "Julia",
+      "topics": [
+        "conservation-laws",
+        "discontinuous-galerkin",
+        "fortran",
+        "julia",
+        "simd"
+      ],
+      "stars": 2,
+      "url": "https://github.com/trixi-framework/paper-2021-EC_performance",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "CliMA/Oceananigans.jl",
+      "description": "\ud83c\udf0a  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+      "language": "Julia",
+      "topics": [
+        "climate",
+        "climate-change",
+        "data-assimilation",
+        "fluid-dynamics",
+        "gpu",
+        "julia",
+        "machine-learning",
+        "ocean"
+      ],
+      "stars": 1174,
+      "url": "https://github.com/CliMA/Oceananigans.jl",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "trixi-framework/Trixi.jl",
+      "description": "Trixi.jl: Adaptive high-order numerical simulations of conservation laws in Julia",
+      "language": "Julia",
+      "topics": [
+        "adaptive-mesh-refinement",
+        "amr",
+        "conservation-laws",
+        "discontinuous-galerkin",
+        "hyperbolic-equations",
+        "julia",
+        "numerical-simulation-framework",
+        "simulation",
+        "summation-by-parts"
+      ],
+      "stars": 619,
+      "url": "https://github.com/trixi-framework/Trixi.jl",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "jdonnert/julia",
+      "description": "Julia scripts to work with astrophysical simulations. Also contains 1D and 2D 5th order WENO solvers for constrained transport MHD.",
+      "language": "Julia",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/jdonnert/julia",
+      "archived": false,
+      "fork": false
+    }
+  ],
   "Python Projects": [
     {
       "name": "huggingface/smolagents",
       "description": "\ud83e\udd17 smolagents: a barebones library for agents that think in code.",
       "language": "Python",
       "topics": [],
-      "stars": 22671,
+      "stars": 22695,
       "url": "https://github.com/huggingface/smolagents",
       "archived": false,
       "fork": false
@@ -1827,7 +1837,7 @@
       "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
       "language": "Python",
       "topics": [],
-      "stars": 18276,
+      "stars": 18303,
       "url": "https://github.com/openai/gpt-oss",
       "archived": false,
       "fork": false
@@ -1849,7 +1859,7 @@
         "tensorly",
         "uno"
       ],
-      "stars": 2906,
+      "stars": 2907,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -1859,7 +1869,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.",
       "language": "Python",
       "topics": [],
-      "stars": 13255,
+      "stars": 13280,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -1869,7 +1879,7 @@
       "description": "A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.",
       "language": "Python",
       "topics": [],
-      "stars": 15207,
+      "stars": 15275,
       "url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
       "archived": false,
       "fork": false
@@ -1904,7 +1914,7 @@
         "rag",
         "state-management"
       ],
-      "stars": 39532,
+      "stars": 39573,
       "url": "https://github.com/mem0ai/mem0",
       "archived": false,
       "fork": false
@@ -2032,7 +2042,7 @@
       "description": "Physics informed neural network (PINN) for cavity flow governed by Navier-Stokes equation.",
       "language": "Python",
       "topics": [],
-      "stars": 151,
+      "stars": 150,
       "url": "https://github.com/okada39/pinn_cavity",
       "archived": false,
       "fork": false
@@ -2089,7 +2099,7 @@
         "pptx",
         "task-automation"
       ],
-      "stars": 2550,
+      "stars": 2554,
       "url": "https://github.com/Paper2Poster/Paper2Poster",
       "archived": false,
       "fork": false
@@ -2133,7 +2143,7 @@
         "pocket-flow",
         "pocketflow"
       ],
-      "stars": 11423,
+      "stars": 11430,
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "archived": false,
       "fork": false
@@ -2197,7 +2207,7 @@
       "description": "Physics Informed Neural Network (PINN) for Burgers' equation.",
       "language": "Python",
       "topics": [],
-      "stars": 71,
+      "stars": 70,
       "url": "https://github.com/okada39/pinn_burgers",
       "archived": false,
       "fork": false
@@ -2254,7 +2264,7 @@
         "language-server-protocol",
         "lsp"
       ],
-      "stars": 306,
+      "stars": 307,
       "url": "https://github.com/fortran-lang/fortls",
       "archived": false,
       "fork": false
@@ -2687,7 +2697,7 @@
         "tensorly",
         "uno"
       ],
-      "stars": 2906,
+      "stars": 2907,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -2717,7 +2727,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 29453,
+      "stars": 29599,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -2742,7 +2752,7 @@
         "rag",
         "state-management"
       ],
-      "stars": 39532,
+      "stars": 39573,
       "url": "https://github.com/mem0ai/mem0",
       "archived": false,
       "fork": false
@@ -2752,7 +2762,7 @@
       "description": "Physics informed neural network (PINN) for cavity flow governed by Navier-Stokes equation.",
       "language": "Python",
       "topics": [],
-      "stars": 151,
+      "stars": 150,
       "url": "https://github.com/okada39/pinn_cavity",
       "archived": false,
       "fork": false
@@ -2784,7 +2794,7 @@
         "upscalerimage",
         "upscayl"
       ],
-      "stars": 39593,
+      "stars": 39619,
       "url": "https://github.com/upscayl/upscayl",
       "archived": false,
       "fork": false
@@ -2794,7 +2804,7 @@
       "description": "Physics Informed Neural Network (PINN) for Burgers' equation.",
       "language": "Python",
       "topics": [],
-      "stars": 71,
+      "stars": 70,
       "url": "https://github.com/okada39/pinn_burgers",
       "archived": false,
       "fork": false
@@ -2846,7 +2856,7 @@
       "description": "Curated list for ML in FM",
       "language": null,
       "topics": [],
-      "stars": 213,
+      "stars": 212,
       "url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
       "archived": false,
       "fork": false
@@ -2866,7 +2876,7 @@
         "pytorch",
         "torch"
       ],
-      "stars": 140,
+      "stars": 141,
       "url": "https://github.com/Cambridge-ICCS/FTorch",
       "archived": false,
       "fork": false
@@ -2883,7 +2893,7 @@
         "neural-network",
         "parallel"
       ],
-      "stars": 451,
+      "stars": 452,
       "url": "https://github.com/modern-fortran/neural-fortran",
       "archived": false,
       "fork": false
@@ -2958,7 +2968,7 @@
         "tensorly",
         "uno"
       ],
-      "stars": 2906,
+      "stars": 2907,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -3013,7 +3023,7 @@
       "description": "Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation",
       "language": null,
       "topics": [],
-      "stars": 1019,
+      "stars": 1020,
       "url": "https://github.com/iannuttall/claude-sessions",
       "archived": false,
       "fork": false
@@ -3028,7 +3038,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 29453,
+      "stars": 29599,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -3070,7 +3080,7 @@
         "pocket-flow",
         "pocketflow"
       ],
-      "stars": 11423,
+      "stars": 11430,
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "archived": false,
       "fork": false
@@ -3133,7 +3143,7 @@
         "tufte-latex",
         "tufte-style"
       ],
-      "stars": 1785,
+      "stars": 1791,
       "url": "https://github.com/Tufte-LaTeX/tufte-latex",
       "archived": false,
       "fork": false
@@ -3243,7 +3253,7 @@
       "description": "Curated list for ML in FM",
       "language": null,
       "topics": [],
-      "stars": 213,
+      "stars": 212,
       "url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
       "archived": false,
       "fork": false
@@ -3260,7 +3270,7 @@
         "neural-network",
         "parallel"
       ],
-      "stars": 451,
+      "stars": 452,
       "url": "https://github.com/modern-fortran/neural-fortran",
       "archived": false,
       "fork": false
@@ -3547,7 +3557,7 @@
       "description": "Physics informed neural network (PINN) for cavity flow governed by Navier-Stokes equation.",
       "language": "Python",
       "topics": [],
-      "stars": 151,
+      "stars": 150,
       "url": "https://github.com/okada39/pinn_cavity",
       "archived": false,
       "fork": false
@@ -3723,7 +3733,7 @@
       "description": "Physics Informed Neural Network (PINN) for Burgers' equation.",
       "language": "Python",
       "topics": [],
-      "stars": 71,
+      "stars": 70,
       "url": "https://github.com/okada39/pinn_burgers",
       "archived": false,
       "fork": false
@@ -3789,7 +3799,7 @@
         "language-server-protocol",
         "lsp"
       ],
-      "stars": 306,
+      "stars": 307,
       "url": "https://github.com/fortran-lang/fortls",
       "archived": false,
       "fork": false
@@ -3812,7 +3822,7 @@
         "radiation",
         "reactions"
       ],
-      "stars": 321,
+      "stars": 320,
       "url": "https://github.com/AMReX-Astro/Castro",
       "archived": false,
       "fork": false
@@ -3933,7 +3943,7 @@
       "description": "Curated list for ML in FM",
       "language": null,
       "topics": [],
-      "stars": 213,
+      "stars": 212,
       "url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
       "archived": false,
       "fork": false
@@ -3953,7 +3963,7 @@
         "pytorch",
         "torch"
       ],
-      "stars": 140,
+      "stars": 141,
       "url": "https://github.com/Cambridge-ICCS/FTorch",
       "archived": false,
       "fork": false
@@ -4150,7 +4160,7 @@
         "neural-network",
         "parallel"
       ],
-      "stars": 451,
+      "stars": 452,
       "url": "https://github.com/modern-fortran/neural-fortran",
       "archived": false,
       "fork": false
@@ -4524,7 +4534,7 @@
         "simulation",
         "summation-by-parts"
       ],
-      "stars": 618,
+      "stars": 619,
       "url": "https://github.com/trixi-framework/Trixi.jl",
       "archived": false,
       "fork": false
@@ -4540,7 +4550,7 @@
         "large-eddy-simulation",
         "navier-stokes"
       ],
-      "stars": 193,
+      "stars": 194,
       "url": "https://github.com/xcompact3d/Incompact3d",
       "archived": false,
       "fork": false
@@ -4800,7 +4810,7 @@
         "plotting",
         "visualization"
       ],
-      "stars": 2617,
+      "stars": 2616,
       "url": "https://github.com/MakieOrg/Makie.jl",
       "archived": false,
       "fork": false
@@ -4925,7 +4935,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 5584,
+      "stars": 5711,
       "url": "https://github.com/davila7/claude-code-templates",
       "archived": false,
       "fork": false
@@ -4935,7 +4945,7 @@
       "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
       "language": "TypeScript",
       "topics": [],
-      "stars": 3576,
+      "stars": 3585,
       "url": "https://github.com/21st-dev/magic-mcp",
       "archived": false,
       "fork": false
@@ -4948,7 +4958,7 @@
         "mcp",
         "playwright"
       ],
-      "stars": 19286,
+      "stars": 19356,
       "url": "https://github.com/microsoft/playwright-mcp",
       "archived": false,
       "fork": false
@@ -4971,7 +4981,7 @@
         "windsurf",
         "windsurf-ai"
       ],
-      "stars": 21769,
+      "stars": 21801,
       "url": "https://github.com/eyaltoledano/claude-task-master",
       "archived": false,
       "fork": false
@@ -5002,7 +5012,7 @@
         "voyage-ai",
         "vscode-extension"
       ],
-      "stars": 3437,
+      "stars": 3467,
       "url": "https://github.com/zilliztech/claude-context",
       "archived": false,
       "fork": false
@@ -5028,7 +5038,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 15993,
+      "stars": 16099,
       "url": "https://github.com/getAsterisk/opcode",
       "archived": false,
       "fork": false
@@ -5038,7 +5048,7 @@
       "description": "\ud83d\udcd6 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors",
       "language": "TypeScript",
       "topics": [],
-      "stars": 990,
+      "stars": 993,
       "url": "https://github.com/regenrek/deepwiki-mcp",
       "archived": false,
       "fork": false
@@ -5075,7 +5085,7 @@
         "cloudflare",
         "mcp"
       ],
-      "stars": 1419,
+      "stars": 1422,
       "url": "https://github.com/supermemoryai/supermemory-mcp",
       "archived": false,
       "fork": false
@@ -5100,7 +5110,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 29453,
+      "stars": 29599,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -5110,7 +5120,7 @@
       "description": "Model Context Protocol Servers",
       "language": "TypeScript",
       "topics": [],
-      "stars": 67167,
+      "stars": 67278,
       "url": "https://github.com/modelcontextprotocol/servers",
       "archived": false,
       "fork": false
@@ -5136,7 +5146,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 17783,
+      "stars": 17788,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
@@ -5158,7 +5168,7 @@
         "upscalerimage",
         "upscayl"
       ],
-      "stars": 39593,
+      "stars": 39619,
       "url": "https://github.com/upscayl/upscayl",
       "archived": false,
       "fork": false
@@ -5216,7 +5226,7 @@
         "parallel-computing",
         "programming-model"
       ],
-      "stars": 2308,
+      "stars": 2311,
       "url": "https://github.com/kokkos/kokkos",
       "archived": false,
       "fork": false
@@ -5268,7 +5278,7 @@
         "radiation",
         "reactions"
       ],
-      "stars": 321,
+      "stars": 320,
       "url": "https://github.com/AMReX-Astro/Castro",
       "archived": false,
       "fork": false
@@ -5426,7 +5436,7 @@
       "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
       "language": "Python",
       "topics": [],
-      "stars": 18276,
+      "stars": 18303,
       "url": "https://github.com/openai/gpt-oss",
       "archived": false,
       "fork": false
@@ -5449,7 +5459,7 @@
         "windsurf",
         "windsurf-ai"
       ],
-      "stars": 21769,
+      "stars": 21801,
       "url": "https://github.com/eyaltoledano/claude-task-master",
       "archived": false,
       "fork": false
@@ -5459,7 +5469,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.",
       "language": "Python",
       "topics": [],
-      "stars": 13255,
+      "stars": 13280,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -5485,7 +5495,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 15993,
+      "stars": 16099,
       "url": "https://github.com/getAsterisk/opcode",
       "archived": false,
       "fork": false
@@ -5603,7 +5613,7 @@
         "language-server-protocol",
         "lsp"
       ],
-      "stars": 306,
+      "stars": 307,
       "url": "https://github.com/fortran-lang/fortls",
       "archived": false,
       "fork": false
@@ -5626,7 +5636,7 @@
         "radiation",
         "reactions"
       ],
-      "stars": 321,
+      "stars": 320,
       "url": "https://github.com/AMReX-Astro/Castro",
       "archived": false,
       "fork": false
@@ -5876,7 +5886,7 @@
         "machine-learning",
         "ocean"
       ],
-      "stars": 1171,
+      "stars": 1174,
       "url": "https://github.com/CliMA/Oceananigans.jl",
       "archived": false,
       "fork": false
@@ -5966,7 +5976,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 5584,
+      "stars": 5711,
       "url": "https://github.com/davila7/claude-code-templates",
       "archived": false,
       "fork": false
@@ -5976,7 +5986,7 @@
       "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
       "language": "TypeScript",
       "topics": [],
-      "stars": 3576,
+      "stars": 3585,
       "url": "https://github.com/21st-dev/magic-mcp",
       "archived": false,
       "fork": false
@@ -6002,7 +6012,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 15993,
+      "stars": 16099,
       "url": "https://github.com/getAsterisk/opcode",
       "archived": false,
       "fork": false
@@ -6043,7 +6053,7 @@
         "terminal",
         "theme"
       ],
-      "stars": 6880,
+      "stars": 6879,
       "url": "https://github.com/ohmybash/oh-my-bash",
       "archived": false,
       "fork": false
@@ -6090,7 +6100,7 @@
         "machine-learning",
         "ocean"
       ],
-      "stars": 1171,
+      "stars": 1174,
       "url": "https://github.com/CliMA/Oceananigans.jl",
       "archived": false,
       "fork": false
@@ -6112,7 +6122,7 @@
       "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
       "language": "TypeScript",
       "topics": [],
-      "stars": 3576,
+      "stars": 3585,
       "url": "https://github.com/21st-dev/magic-mcp",
       "archived": false,
       "fork": false
@@ -6146,7 +6156,7 @@
         "personal-website",
         "portfolio-website"
       ],
-      "stars": 15256,
+      "stars": 15262,
       "url": "https://github.com/academicpages/academicpages.github.io",
       "archived": false,
       "fork": false
@@ -6203,7 +6213,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 17783,
+      "stars": 17788,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
