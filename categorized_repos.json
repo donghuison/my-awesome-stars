@@ -1,4 +1,1265 @@
 {
+  "Fortran Projects": [
+    {
+      "name": "NCAR/3DimensionalDynamo",
+      "description": "A 3-dimensional dynamo for geospace models",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/NCAR/3DimensionalDynamo",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "FortranSoftwares/Conjugate-Gradient-Solver-for-Linear-Systems",
+      "description": "CG is a FORTRAN77 library by Sourangshu Ghosh which implements a simple version of the conjugate gradient (CG) method for solving a system of linear equations of the form A*x=b, suitable for situations in which the matrix A is positive definite (only real, positive eigenvalues) and symmetric.",
+      "language": "Fortran",
+      "topics": [
+        "conjugate-gradient",
+        "conjugate-gradient-descent",
+        "fortran",
+        "fortran77",
+        "shell"
+      ],
+      "stars": 2,
+      "url": "https://github.com/FortranSoftwares/Conjugate-Gradient-Solver-for-Linear-Systems",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "trgdang/Euler2D_Positive_Scheme",
+      "description": "Code in the paper PETER D. LAX AND XU-DONG LIU, SOLUTION OF TWO-DIMENSIONAL RIEMANN PROBLEMS OF GAS DYNAMICS BY POSITIVE SCHEMES, SIAM J. SCI. COMPUT. , Vol. 19, No. 2, pp. 319\u2013340, March 1998",
+      "language": "Fortran",
+      "topics": [
+        "finite-volume",
+        "fortran77",
+        "fortran90",
+        "fvm",
+        "numerical-methods",
+        "riemann-solvers"
+      ],
+      "stars": 5,
+      "url": "https://github.com/trgdang/Euler2D_Positive_Scheme",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "L1ssandra/Bilibili-DG-Lectures",
+      "description": "Some example programs of DG which will be teached on Bilibili",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 33,
+      "url": "https://github.com/L1ssandra/Bilibili-DG-Lectures",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "JamieJQuinn/lare3d",
+      "description": "Copy of Lare3d including anisotropic viscosity",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/JamieJQuinn/lare3d",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "SWMFsoftware/SWMF",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 21,
+      "url": "https://github.com/SWMFsoftware/SWMF",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "SWMFsoftware/BATSRUS",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 14,
+      "url": "https://github.com/SWMFsoftware/BATSRUS",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "kmanalo/hdf5-tutorial",
+      "description": null,
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 7,
+      "url": "https://github.com/kmanalo/hdf5-tutorial",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "mathaefele/parallel_HDF5_hands-on",
+      "description": "Hands on material in C and fortran90 for learning parallel HDF5",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 9,
+      "url": "https://github.com/mathaefele/parallel_HDF5_hands-on",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "nombac/optab",
+      "description": "Public Fortran90 code package for generating ideal-gas opacity tables",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 19,
+      "url": "https://github.com/nombac/optab",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "takuya4880/MHD-2dmlw",
+      "description": "MHD simulation cord of 2D modified lax-wendrof method for emerging flux",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/takuya4880/MHD-2dmlw",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "predsci/MAS",
+      "description": "Magnetohydrodynamic Algorithm outside a Sphere (MAS)",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/predsci/MAS",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cfinch/odepack",
+      "description": "A re-packaging of the ODEPACK differential equation library, with improved HTML documentation",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 4,
+      "url": "https://github.com/cfinch/odepack",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "jacobwilliams/finterp",
+      "description": "Multidimensional (1D-6D) Linear and Nearest-Neighbor Interpolation with Modern Fortran",
+      "language": "Fortran",
+      "topics": [
+        "fortran",
+        "fortran-package-manager",
+        "interpolation",
+        "linear-interpolation",
+        "nearest-neighbor-interpolation"
+      ],
+      "stars": 59,
+      "url": "https://github.com/jacobwilliams/finterp",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "codee-com/open-catalog",
+      "description": "A collaborative effort to consolidate expert knowledge on code guidelines for the correctness, modernization, security, portability, and optimization of code written in Fortran, C, and C++ programming languages",
+      "language": "Fortran",
+      "topics": [
+        "c",
+        "correctness",
+        "fortran",
+        "modernization",
+        "optimization",
+        "portability",
+        "security"
+      ],
+      "stars": 102,
+      "url": "https://github.com/codee-com/open-catalog",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "zingale/teaching_codes",
+      "description": "some random teaching codes from throughout the years",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/zingale/teaching_codes",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "zingale/hydro1d",
+      "description": "A simple 1-d hydrodynamics code written in Fortran 95",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 17,
+      "url": "https://github.com/zingale/hydro1d",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "jsmidt/sirrah",
+      "description": "A Special-Relativistic Radiation Hydrodynamics Code",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/jsmidt/sirrah",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "norabolig/BOXZYHYDRO",
+      "description": "Radiation Hydrodynamics Code with self-gravity, radiation transport, particle-particle and particle-in-cell dynamics, and solid-gas interactions.",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 10,
+      "url": "https://github.com/norabolig/BOXZYHYDRO",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "lollocava00/Metal-Diffusion-in-Galaxy-clusters",
+      "description": "Simulation of metal diffusion in the ICM for the Perseus Cluster The aim of the project is to show the possible parameters for efficient metal distribution under reasonable diffusion timescales to reproduce observed abundance profile.",
+      "language": "Fortran",
+      "topics": [
+        "astrophysics",
+        "astrophysics-simulation",
+        "galaxy-clusters"
+      ],
+      "stars": 3,
+      "url": "https://github.com/lollocava00/Metal-Diffusion-in-Galaxy-clusters",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "lollocava00/Radiative_cooling",
+      "description": "Radiative cooling of an hydrogen-helium gas in collisional equilibrium of ionization.",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/lollocava00/Radiative_cooling",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "bwoshea/ZEUS-MP_2",
+      "description": "This repository is the home of the ZEUS-MP 2.0 code, which was created by John Hayes and others at the Laboratory for Computational Astrophysics at UIUC and UCSD.",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 9,
+      "url": "https://github.com/bwoshea/ZEUS-MP_2",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "stevenmwise/MultigridCourse",
+      "description": "My course on multigrid methods at the University of Tennessee, Fall 2024",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 11,
+      "url": "https://github.com/stevenmwise/MultigridCourse",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "wayne70211/Multigrid-2D-Neumann-BC",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/wayne70211/Multigrid-2D-Neumann-BC",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "AnirudhPS95/Multigrid_optimisation",
+      "description": "2-D multigrid optimization subroutine in fortran",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/AnirudhPS95/Multigrid_optimisation",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "jihoonakang/PEPS_MG",
+      "description": "Poisson Equation Parallel Solver - Multigrid Method ",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/jihoonakang/PEPS_MG",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "JOThurgood/SimpleCFD",
+      "description": "Simple (and not-so-simple) CFD solvers written in Fortran with Python plotting routines",
+      "language": "Fortran",
+      "topics": [
+        "burgers-equation",
+        "cfd",
+        "compressible-flow",
+        "computational-fluid-dynamics",
+        "euler-equations",
+        "finite-difference-schemes",
+        "finite-volume-methods",
+        "fluid-dynamics",
+        "fluid-solver",
+        "gauss-seidel",
+        "incompressible-flow",
+        "multigrid",
+        "riemann-solvers"
+      ],
+      "stars": 20,
+      "url": "https://github.com/JOThurgood/SimpleCFD",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "phquanta/Multigrid_Poisson_Solver_3D",
+      "description": "3D Parallel(MPI)  Multigrid Poisson Solver",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 12,
+      "url": "https://github.com/phquanta/Multigrid_Poisson_Solver_3D",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "sr-dash/SFT-1D",
+      "description": "Surface Flux Transport modelling in one dimension (latitude). ",
+      "language": "Fortran",
+      "topics": [
+        "astrophysics",
+        "solarphysics",
+        "sunspots",
+        "surfaceflux"
+      ],
+      "stars": 3,
+      "url": "https://github.com/sr-dash/SFT-1D",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "predsci/HipFT",
+      "description": "High-performance Flux Transport",
+      "language": "Fortran",
+      "topics": [
+        "do-concurrent",
+        "flux-transport",
+        "fortran",
+        "gpgpu",
+        "gpu",
+        "magnetogram",
+        "openmp",
+        "openmp-target",
+        "solar-physics",
+        "standard-parallelism",
+        "stdpar"
+      ],
+      "stars": 33,
+      "url": "https://github.com/predsci/HipFT",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "rootware/K2_Fortran_Modules",
+      "description": "Fortran modules intended for my research in Space Weather Modelling",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/rootware/K2_Fortran_Modules",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "CaNS-World/CaNS",
+      "description": "A code for fast, massively-parallel direct numerical simulations (DNS) of canonical flows",
+      "language": "Fortran",
+      "topics": [
+        "cfd",
+        "computational-fluid-dynamics",
+        "fluid-dynamics",
+        "fluid-simulation",
+        "fortran",
+        "gpu",
+        "gpu-computing",
+        "high-performance-computing",
+        "turbulence"
+      ],
+      "stars": 253,
+      "url": "https://github.com/CaNS-World/CaNS",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Wenger-In/MagneticFluxEmergence",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/Wenger-In/MagneticFluxEmergence",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Reference-LAPACK/lapack",
+      "description": "LAPACK development repository",
+      "language": "Fortran",
+      "topics": [
+        "blas",
+        "eigenvalues",
+        "eigenvectors",
+        "lapack",
+        "lapacke",
+        "linear-algebra",
+        "linear-equations",
+        "matrix-factorization",
+        "singular-values",
+        "svd"
+      ],
+      "stars": 1737,
+      "url": "https://github.com/Reference-LAPACK/lapack",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "szaghi/OFF",
+      "description": "OFF, Open source Finite volume Fluid dynamics code",
+      "language": "Fortran",
+      "topics": [
+        "cfd",
+        "finite-volume",
+        "fluid-dynamics",
+        "fortran",
+        "gas-dynamics",
+        "hpc",
+        "hydrodynamics",
+        "oop",
+        "riemann-solvers"
+      ],
+      "stars": 140,
+      "url": "https://github.com/szaghi/OFF",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "BoxLib-Codes/CastroRadiation",
+      "description": "flux limited diffusion radiation hydrodynamics module for Castro",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 10,
+      "url": "https://github.com/BoxLib-Codes/CastroRadiation",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "garrelt/C2-Ray1D",
+      "description": "1D version of C2-Ray",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 7,
+      "url": "https://github.com/garrelt/C2-Ray1D",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "igarashitc/cansplus_imp_axis",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/igarashitc/cansplus_imp_axis",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cfcanaoj/gpuhydro",
+      "description": "Sample hydrodynamic codes using GPU is provided.",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/cfcanaoj/gpuhydro",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cfcanaoj/CfCA_HydroSchool_FVM",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/cfcanaoj/CfCA_HydroSchool_FVM",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "takiwaki/TurbulenceStudies",
+      "description": "This page summarize my study on turbulence. ",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/takiwaki/TurbulenceStudies",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "aasensio/3d_sir",
+      "description": "A synthesis code for the synthesis of LTE lines based on SIR",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/aasensio/3d_sir",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Cambridge-ICCS/FTorch",
+      "description": "A library for directly calling PyTorch ML models from Fortran.",
+      "language": "Fortran",
+      "topics": [
+        "deep-learning",
+        "fortran",
+        "hacktoberfest",
+        "interoperability",
+        "libtorch",
+        "machine-learning",
+        "python",
+        "pytorch",
+        "torch"
+      ],
+      "stars": 156,
+      "url": "https://github.com/Cambridge-ICCS/FTorch",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "nbren12/call_py_fort",
+      "description": "Call python from fortran",
+      "language": "Fortran",
+      "topics": [
+        "fortran",
+        "interoperability",
+        "python"
+      ],
+      "stars": 91,
+      "url": "https://github.com/nbren12/call_py_fort",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "adamjermyn/AstroMicroPhysics",
+      "description": "An attempt to provide modern interfaces for existing tables and codes of astronomical microphysics.",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/adamjermyn/AstroMicroPhysics",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "oekrice/flux_emergence",
+      "description": "My version of flux emergence simulations",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/oekrice/flux_emergence",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "oekrice/flux_vanilla",
+      "description": "Flux Emergence Simulations",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/oekrice/flux_vanilla",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "takuya4880/MHD-3dmlw",
+      "description": "3D MHD code of modified lax-wendroff scheme with co-array fortran",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/takuya4880/MHD-3dmlw",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "takuya4880/oblique",
+      "description": "oblique coronal field",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/takuya4880/oblique",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "tktmyd/tdac",
+      "description": "tsunami data assimilation code",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 10,
+      "url": "https://github.com/tktmyd/tdac",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "AstroSnow/PIP",
+      "description": "Partially Ionised Plasma Code",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/AstroSnow/PIP",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "geodynamics/Rayleigh",
+      "description": "Rayleigh: Pseudo-spectral MHD",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 70,
+      "url": "https://github.com/geodynamics/Rayleigh",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "zenitani/OpenMHD",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 56,
+      "url": "https://github.com/zenitani/OpenMHD",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "svaverbe/MFV3d",
+      "description": "A FORTRAN implementation of a Moving Finite Volume MHD code in three dimensions including self-gravity.",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 12,
+      "url": "https://github.com/svaverbe/MFV3d",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "modern-fortran/tsunami",
+      "description": "A parallel shallow water equations solver",
+      "language": "Fortran",
+      "topics": [
+        "book",
+        "fortran",
+        "shallow-water-equations",
+        "tsunami"
+      ],
+      "stars": 162,
+      "url": "https://github.com/modern-fortran/tsunami",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "modern-fortran/twitch-stream-tsunami",
+      "description": "A serial version of tsunami implemented during my Twitch stream",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/modern-fortran/twitch-stream-tsunami",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "modern-fortran/stock-prices",
+      "description": "Analyzing stock prices with Fortran arrays",
+      "language": "Fortran",
+      "topics": [
+        "array",
+        "finance",
+        "fortran"
+      ],
+      "stars": 35,
+      "url": "https://github.com/modern-fortran/stock-prices",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "modern-fortran/neural-fortran",
+      "description": "A parallel framework for deep learning",
+      "language": "Fortran",
+      "topics": [
+        "cnn",
+        "deep-learning",
+        "fortran",
+        "machine-learning",
+        "neural-network",
+        "parallel"
+      ],
+      "stars": 453,
+      "url": "https://github.com/modern-fortran/neural-fortran",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "jmark/nemo",
+      "description": "2D/3D computational fluid dynamics code",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/jmark/nemo",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "magic-sph/magic",
+      "description": "MagIC is a high-performance code that solves the magneto-hydrodynamics equations in rotating spherical shells",
+      "language": "Fortran",
+      "topics": [
+        "cfd",
+        "computational-fluid-dynamics",
+        "convection",
+        "magnetohydrodynamics",
+        "mhd",
+        "planetary-science",
+        "stellar-astrophysics"
+      ],
+      "stars": 88,
+      "url": "https://github.com/magic-sph/magic",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "victowne/toroidalflow",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/victowne/toroidalflow",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "juncas/2DENSE",
+      "description": "2 Dimensional Euler/Naviers-Stokes Equations solver",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 18,
+      "url": "https://github.com/juncas/2DENSE",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "juncas/Euler1d",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/juncas/Euler1d",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "rsimitev/LinearAnalysis-ThermoCompConv",
+      "description": "SPECTRAL CODE FOR LINEAR ANALYSIS OF THE ONSET OF THERMO-COMPOSITIONAL CONVECTION IN ROTATING SPHERICAL FLUID SHELLS",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/rsimitev/LinearAnalysis-ThermoCompConv",
+      "archived": false,
+      "fork": true
+    },
+    {
+      "name": "AlLinnell/Binsyn",
+      "description": "Binary star simulation suite.",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/AlLinnell/Binsyn",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Warwick-Plasma/Lare3d",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 18,
+      "url": "https://github.com/Warwick-Plasma/Lare3d",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Warwick-Plasma/Lare2d",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/Warwick-Plasma/Lare2d",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "epochpic/SDF_FORTRAN",
+      "description": "Fortran library for accessing files in the SDF format",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/epochpic/SDF_FORTRAN",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "HPSC-SURYA/aditest",
+      "description": "Testing various serial/parallel ADI implementations",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 4,
+      "url": "https://github.com/HPSC-SURYA/aditest",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "damoprz/SPARC2",
+      "description": "Repository for Damiens branch of the SPARC code, originally written by S. Hanasoge.",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/damoprz/SPARC2",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "tktmyd/tsunami_pml",
+      "description": "Perfectly matched layer absorbing boundary condition for simulation of tsunami wave propagation",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/tktmyd/tsunami_pml",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "eskyhome/piclas",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/eskyhome/piclas",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "wme7/Fortran2Paraview_with_HDF5",
+      "description": "This example is mean to show how to export data from fortran using XDMF/HDF5 solution. This snippet can also be used as translator of binary (unformatted) data into HDF5 format.",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/wme7/Fortran2Paraview_with_HDF5",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "marlonsmathias/GATT_DNS",
+      "description": "Direct Numerical Simulation code for the compressible Navier-Stokes equations. The linear stability analysis (LST) is done by a Jacobian-free time-stepping algorithm. The code was developed by the Group of Aeroacoustics, Transition and Turbulence of the S\u00e3o Carlos School of Engineering - University of S\u00e3o Paulo (EESC-USP).",
+      "language": "Fortran",
+      "topics": [
+        "cfd",
+        "flow",
+        "global-stability",
+        "linear-stability-analysis",
+        "simulation"
+      ],
+      "stars": 35,
+      "url": "https://github.com/marlonsmathias/GATT_DNS",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "flexi-framework/flexi",
+      "description": "FLEXI: A high order discontinuous Galerkin framework for hyperbolic\u2013parabolic conservation laws",
+      "language": "Fortran",
+      "topics": [
+        "computational-fluid-dynamics",
+        "discontinuous-galerkin",
+        "high-performance-computing",
+        "unstructured-meshes"
+      ],
+      "stars": 262,
+      "url": "https://github.com/flexi-framework/flexi",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "L1ssandra/DG_PP_Limiter",
+      "description": "The Positivity preserving limiter, keep rho > 0 and p > 0",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/L1ssandra/DG_PP_Limiter",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ymatumot/pcans",
+      "description": "Electromagnetic particle-in-cell code",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 8,
+      "url": "https://github.com/ymatumot/pcans",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "mgjeon/khumhd",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/mgjeon/khumhd",
+      "archived": true,
+      "fork": false
+    },
+    {
+      "name": "project-fluxo/fluxo",
+      "description": "Fluxo implements the DGSEM for general advection-diffusion equations",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 55,
+      "url": "https://github.com/project-fluxo/fluxo",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "xcompact3d/Incompact3d",
+      "description": "Current CPU version of our solver for the Navier-Stokes equations",
+      "language": "Fortran",
+      "topics": [
+        "cfd",
+        "computational-fluid-dynamics",
+        "direct-numerical-simulation",
+        "large-eddy-simulation",
+        "navier-stokes"
+      ],
+      "stars": 196,
+      "url": "https://github.com/xcompact3d/Incompact3d",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "uclales/uclales",
+      "description": "Large eddy simulation code for atmospheric flow",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 27,
+      "url": "https://github.com/uclales/uclales",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ucns3d-team/UCNS3D",
+      "description": "Unstructured Compressible Navier Stokes 3D code (UCNS3D) ",
+      "language": "Fortran",
+      "topics": [
+        "cfd",
+        "compressible-flows",
+        "compressible-fluid-dynamics",
+        "computational-fluid-dynamics",
+        "simulation",
+        "unstructured-meshes"
+      ],
+      "stars": 321,
+      "url": "https://github.com/ucns3d-team/UCNS3D",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "bfly123/MHD_rotor",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/bfly123/MHD_rotor",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "HPSC-SURYA/surya",
+      "description": "This is the main code",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/HPSC-SURYA/surya",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Cxb1993/CPC2017_WENO",
+      "description": "WENO\u683c\u5f0f\uff08Weighted Essentially Non-Oscillatory schemes) \u662f\u57fa\u4e8eENO\u683c\u5f0f\uff08Essentially Non-Oscillatory schemes\uff09\u53d1\u5c55\u800c\u6765\u7684\u4e00\u79cd\u6c42\u89e3\u53cc\u66f2\u5b88\u6052\u5f8b\u7ec4\u7684\u9ad8\u7cbe\u5ea6\u9ad8\u5206\u8fa8\u7387\u5e7f\u4e49Godunov\u683c\u5f0f\uff0c\u9002\u5408\u4e8e\u6c42\u89e3\u9ad8\u5bc6\u5ea6\u6bd4\u6d41\u4f53\u754c\u9762\u4e0d\u7a33\u5b9a\u7b49\u5177\u6709\u5f3a\u95f4\u65ad\u53c8\u5177\u6709\u5927\u9762\u590d\u6742\u6d41\u52a8\u7ed3\u6784\u7684\u95ee\u9898\u3002\u672c\u7a0b\u5e8f\u7531\u4e2d\u79d1\u9662\u529b\u5b66\u6240\u674e\u65b0\u4eae\u8001\u5e08\u56e2\u961f\u5f00\u53d1\u7684OpenCFD\u7a0b\u5e8f\u7cbe\u7b80\u800c\u6765\uff0c\u5728\u6b64\u5bf9\u674e\u8001\u5e08\u56e2\u961f\u81f4\u4ee5\u8bda\u631a\u7684\u8c22\u610f\u3002 \u7a0b\u5e8f\u5305\u542b4\u4e2a\u6e90\u6587\u4ef6\uff1amain.f90, Interfaces.f90\uff0c Weno.f90\uff0cparameters.f90\u3002 \u5176\u4e2dmain.f90\u662f\u7a0b\u5e8f\u4e3b\u8981\u6846\u67b6\uff1bWeno.f90\u4e3a\u7a0b\u5e8f\u4e3b\u8981\u7b97\u6cd5\u5b9e\u73b0\uff1bInterfaces.f90 \u4e2d\u4e3a\u901a\u4fe1\u51fd\u6570\u548cIO\u51fd\u6570\u7684\u5c01\u88c5\uff1b parameters.f90\u4e2d\u5305\u542b\u4e86\u7a0b\u5e8f\u90e8\u5206\u5e38\u91cf\u58f0\u660e\u3002",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 18,
+      "url": "https://github.com/Cxb1993/CPC2017_WENO",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "zfyyfz12/Frotran2c_weno7_test",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/zfyyfz12/Frotran2c_weno7_test",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "oekrice/lare2d",
+      "description": "Modified version of Lare2d, modelling the solar corona with surface diffusion and shearing.",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/oekrice/lare2d",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "MESAHub/mesa",
+      "description": "Modules for Experiments in Stellar Astrophysics",
+      "language": "Fortran",
+      "topics": [
+        "astronomy",
+        "astrophysics",
+        "binary-evolution",
+        "fortran",
+        "stellar-astrophysics",
+        "stellar-evolution"
+      ],
+      "stars": 198,
+      "url": "https://github.com/MESAHub/mesa",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "kmaitreys/surya",
+      "description": "Workspace for project on solar dynamo model",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/kmaitreys/surya",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "FVCOM-GitHub/FVCOM",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 79,
+      "url": "https://github.com/FVCOM-GitHub/FVCOM",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pencil-code/pencil-code",
+      "description": "A high-order finite-difference code for compressible hydrodynamic flows with magnetic fields and particles",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 220,
+      "url": "https://github.com/pencil-code/pencil-code",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "peichmb/sft-global",
+      "description": "Advection/diffusion of magnetic flux on the solar surface. I wrote this code for this study: https://doi.org/10.1051/0004-6361/201629061. Please, cite the paper if you use the code! Some files contain open source code and credit/references to the authors.",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/peichmb/sft-global",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "peichmb/sft-local",
+      "description": "Simulates the transport of magnetic flux concentrations on the Sun's surface. This code was written for this study in https://doi.org/10.1051/0004-6361/201527213. Please, cite the paper if you use it! Some files contain open source code and credit/references to the authors.",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/peichmb/sft-local",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "illorenzo7/Rayleigh",
+      "description": "Rayleigh: Pseudo-spectral MHD",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/illorenzo7/Rayleigh",
+      "archived": false,
+      "fork": true
+    },
+    {
+      "name": "delaneyfarrell/DRNS",
+      "description": "Differential rotation in neutron stars using a fully general relativistic code written in Fortran90.",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/delaneyfarrell/DRNS",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "piernik-dev/piernik",
+      "description": "Piernik MHD Code",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 15,
+      "url": "https://github.com/piernik-dev/piernik",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "amrvac/amrvac",
+      "description": "MPI-AMRVAC: A Parallel Adaptive Mesh Refinement Framework",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 92,
+      "url": "https://github.com/amrvac/amrvac",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Morad28/schema_hll_hllc",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/Morad28/schema_hll_hllc",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "sachinbhoi29/Compressible-flows-CFD-code-",
+      "description": "FORTRAN code to solve implosion problem, Forward Facing step problem, Sod shock tube test, Double Mach Reflection problem, WENO, ENO, Flux reconstructions, Barth and Jespersen slope limiters, Venkatakrishnan slope limiter, HLL, HLLC, Rusanov fluxes",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/sachinbhoi29/Compressible-flows-CFD-code-",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pinee/WENO",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/pinee/WENO",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "rsimitev/DynamoInRotatingSpheres",
+      "description": "Thermo-compositional convection and dynamos in rotating spherical shells",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/rsimitev/DynamoInRotatingSpheres",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ur-alr/MHD_solver",
+      "description": null,
+      "language": "Fortran",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/ur-alr/MHD_solver",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "victowne/TM",
+      "description": "Full MHD code used for simulating the tearing mode instability in slab geometry",
+      "language": "Fortran",
+      "topics": [
+        "magnetic-reconnection",
+        "mhd"
+      ],
+      "stars": 5,
+      "url": "https://github.com/victowne/TM",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "garrelt/C2-Ray3Dm",
+      "description": "The 3D version of C2-Ray for multiple sources, hydrogen only",
+      "language": "Fortran",
+      "topics": [
+        "cosmology",
+        "radiative-transfer",
+        "reionization"
+      ],
+      "stars": 19,
+      "url": "https://github.com/garrelt/C2-Ray3Dm",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "esquivas/walicxe2d",
+      "description": "Original 2D version of the adaptive mesh hydrodynamical code WALICXE",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 4,
+      "url": "https://github.com/esquivas/walicxe2d",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "esquivas/guacho",
+      "description": "A 3D uniform mesh parallel HD/MHD code for astrophysics",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 7,
+      "url": "https://github.com/esquivas/guacho",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "omersan/5.05.Multigrid1D",
+      "description": "V-cycle Multigrid method for 1D Poisson Equation",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/omersan/5.05.Multigrid1D",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "omersan/5.07.Burgers-Equation",
+      "description": "Shock capturing schemes for Inviscid Burgers Equations (i.e., upwind and WENO schemes)",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 10,
+      "url": "https://github.com/omersan/5.07.Burgers-Equation",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "omersan/5.06.Multigrid2D",
+      "description": "V-cycle Multigrid method for 2D Poisson Equation",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 14,
+      "url": "https://github.com/omersan/5.06.Multigrid2D",
+      "archived": false,
+      "fork": false
+    }
+  ],
   "Scientific Computing & Numerical Analysis": [
     {
       "name": "glue-viz/glue-solar",
@@ -836,7 +2097,7 @@
         "neural-network",
         "parallel"
       ],
-      "stars": 452,
+      "stars": 453,
       "url": "https://github.com/modern-fortran/neural-fortran",
       "archived": false,
       "fork": false
@@ -856,7 +2117,7 @@
         "numerical-modelling",
         "parallel-computing"
       ],
-      "stars": 98,
+      "stars": 99,
       "url": "https://github.com/opensbli/opensbli",
       "archived": false,
       "fork": false
@@ -1437,7 +2698,7 @@
       "description": "\ud83e\udd17 smolagents: a barebones library for agents that think in code.",
       "language": "Python",
       "topics": [],
-      "stars": 23711,
+      "stars": 23727,
       "url": "https://github.com/huggingface/smolagents",
       "archived": false,
       "fork": false
@@ -1472,7 +2733,7 @@
       "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
       "language": "Python",
       "topics": [],
-      "stars": 19057,
+      "stars": 19068,
       "url": "https://github.com/openai/gpt-oss",
       "archived": false,
       "fork": false
@@ -1504,7 +2765,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.",
       "language": "Python",
       "topics": [],
-      "stars": 14179,
+      "stars": 14189,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -1514,7 +2775,7 @@
       "description": "A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.",
       "language": "Python",
       "topics": [],
-      "stars": 17535,
+      "stars": 17588,
       "url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
       "archived": false,
       "fork": false
@@ -1550,7 +2811,7 @@
         "rag",
         "state-management"
       ],
-      "stars": 42446,
+      "stars": 42524,
       "url": "https://github.com/mem0ai/mem0",
       "archived": false,
       "fork": false
@@ -1735,7 +2996,7 @@
         "pptx",
         "task-automation"
       ],
-      "stars": 2793,
+      "stars": 2799,
       "url": "https://github.com/Paper2Poster/Paper2Poster",
       "archived": false,
       "fork": false
@@ -1779,7 +3040,7 @@
         "pocket-flow",
         "pocketflow"
       ],
-      "stars": 11671,
+      "stars": 11677,
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "archived": false,
       "fork": false
@@ -2060,7 +3321,7 @@
         "numerical-modelling",
         "parallel-computing"
       ],
-      "stars": 98,
+      "stars": 99,
       "url": "https://github.com/opensbli/opensbli",
       "archived": false,
       "fork": false
@@ -2359,7 +3620,7 @@
       "description": "My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.",
       "language": "Shell",
       "topics": [],
-      "stars": 577,
+      "stars": 578,
       "url": "https://github.com/ChrisTitusTech/mybash",
       "archived": false,
       "fork": false
@@ -2400,7 +3661,7 @@
         "portfolio-website",
         "theme"
       ],
-      "stars": 14367,
+      "stars": 14374,
       "url": "https://github.com/alshedivat/al-folio",
       "archived": false,
       "fork": false
@@ -2659,7 +3920,7 @@
         "responsive-web-design",
         "rubygems"
       ],
-      "stars": 9362,
+      "stars": 9363,
       "url": "https://github.com/cotes2020/jekyll-theme-chirpy",
       "archived": false,
       "fork": false
@@ -2741,7 +4002,7 @@
       "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
       "language": "Python",
       "topics": [],
-      "stars": 19057,
+      "stars": 19068,
       "url": "https://github.com/openai/gpt-oss",
       "archived": false,
       "fork": false
@@ -2764,7 +4025,7 @@
         "windsurf",
         "windsurf-ai"
       ],
-      "stars": 23348,
+      "stars": 23391,
       "url": "https://github.com/eyaltoledano/claude-task-master",
       "archived": false,
       "fork": false
@@ -2774,7 +4035,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.",
       "language": "Python",
       "topics": [],
-      "stars": 14179,
+      "stars": 14189,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -3167,7 +4428,7 @@
         "machine-learning",
         "ocean"
       ],
-      "stars": 1199,
+      "stars": 1200,
       "url": "https://github.com/CliMA/Oceananigans.jl",
       "archived": false,
       "fork": false
@@ -3396,7 +4657,7 @@
       "description": "Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation",
       "language": null,
       "topics": [],
-      "stars": 1082,
+      "stars": 1083,
       "url": "https://github.com/iannuttall/claude-sessions",
       "archived": false,
       "fork": false
@@ -3411,7 +4672,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 35829,
+      "stars": 35899,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -3453,7 +4714,7 @@
         "pocket-flow",
         "pocketflow"
       ],
-      "stars": 11671,
+      "stars": 11677,
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "archived": false,
       "fork": false
@@ -3643,7 +4904,7 @@
         "neural-network",
         "parallel"
       ],
-      "stars": 452,
+      "stars": 453,
       "url": "https://github.com/modern-fortran/neural-fortran",
       "archived": false,
       "fork": false
@@ -3929,7 +5190,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 35829,
+      "stars": 35899,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -3955,7 +5216,7 @@
         "rag",
         "state-management"
       ],
-      "stars": 42446,
+      "stars": 42524,
       "url": "https://github.com/mem0ai/mem0",
       "archived": false,
       "fork": false
@@ -3997,7 +5258,7 @@
         "upscalerimage",
         "upscayl"
       ],
-      "stars": 40887,
+      "stars": 40909,
       "url": "https://github.com/upscayl/upscayl",
       "archived": false,
       "fork": false
@@ -4096,7 +5357,7 @@
         "neural-network",
         "parallel"
       ],
-      "stars": 452,
+      "stars": 453,
       "url": "https://github.com/modern-fortran/neural-fortran",
       "archived": false,
       "fork": false
@@ -4114,1257 +5375,6 @@
       ],
       "stars": 13,
       "url": "https://github.com/pmocz/artificialneuralnetwork-python",
-      "archived": false,
-      "fork": false
-    }
-  ],
-  "Fortran Projects": [
-    {
-      "name": "FortranSoftwares/Conjugate-Gradient-Solver-for-Linear-Systems",
-      "description": "CG is a FORTRAN77 library by Sourangshu Ghosh which implements a simple version of the conjugate gradient (CG) method for solving a system of linear equations of the form A*x=b, suitable for situations in which the matrix A is positive definite (only real, positive eigenvalues) and symmetric.",
-      "language": "Fortran",
-      "topics": [
-        "conjugate-gradient",
-        "conjugate-gradient-descent",
-        "fortran",
-        "fortran77",
-        "shell"
-      ],
-      "stars": 2,
-      "url": "https://github.com/FortranSoftwares/Conjugate-Gradient-Solver-for-Linear-Systems",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "trgdang/Euler2D_Positive_Scheme",
-      "description": "Code in the paper PETER D. LAX AND XU-DONG LIU, SOLUTION OF TWO-DIMENSIONAL RIEMANN PROBLEMS OF GAS DYNAMICS BY POSITIVE SCHEMES, SIAM J. SCI. COMPUT. , Vol. 19, No. 2, pp. 319\u2013340, March 1998",
-      "language": "Fortran",
-      "topics": [
-        "finite-volume",
-        "fortran77",
-        "fortran90",
-        "fvm",
-        "numerical-methods",
-        "riemann-solvers"
-      ],
-      "stars": 5,
-      "url": "https://github.com/trgdang/Euler2D_Positive_Scheme",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "L1ssandra/Bilibili-DG-Lectures",
-      "description": "Some example programs of DG which will be teached on Bilibili",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 33,
-      "url": "https://github.com/L1ssandra/Bilibili-DG-Lectures",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "JamieJQuinn/lare3d",
-      "description": "Copy of Lare3d including anisotropic viscosity",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/JamieJQuinn/lare3d",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "SWMFsoftware/SWMF",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 21,
-      "url": "https://github.com/SWMFsoftware/SWMF",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "SWMFsoftware/BATSRUS",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 14,
-      "url": "https://github.com/SWMFsoftware/BATSRUS",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "kmanalo/hdf5-tutorial",
-      "description": null,
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 7,
-      "url": "https://github.com/kmanalo/hdf5-tutorial",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "mathaefele/parallel_HDF5_hands-on",
-      "description": "Hands on material in C and fortran90 for learning parallel HDF5",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 9,
-      "url": "https://github.com/mathaefele/parallel_HDF5_hands-on",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "nombac/optab",
-      "description": "Public Fortran90 code package for generating ideal-gas opacity tables",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 19,
-      "url": "https://github.com/nombac/optab",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "takuya4880/MHD-2dmlw",
-      "description": "MHD simulation cord of 2D modified lax-wendrof method for emerging flux",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/takuya4880/MHD-2dmlw",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "predsci/MAS",
-      "description": "Magnetohydrodynamic Algorithm outside a Sphere (MAS)",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/predsci/MAS",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cfinch/odepack",
-      "description": "A re-packaging of the ODEPACK differential equation library, with improved HTML documentation",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 4,
-      "url": "https://github.com/cfinch/odepack",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "jacobwilliams/finterp",
-      "description": "Multidimensional (1D-6D) Linear and Nearest-Neighbor Interpolation with Modern Fortran",
-      "language": "Fortran",
-      "topics": [
-        "fortran",
-        "fortran-package-manager",
-        "interpolation",
-        "linear-interpolation",
-        "nearest-neighbor-interpolation"
-      ],
-      "stars": 59,
-      "url": "https://github.com/jacobwilliams/finterp",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "codee-com/open-catalog",
-      "description": "A collaborative effort to consolidate expert knowledge on code guidelines for the correctness, modernization, security, portability, and optimization of code written in Fortran, C, and C++ programming languages",
-      "language": "Fortran",
-      "topics": [
-        "c",
-        "correctness",
-        "fortran",
-        "modernization",
-        "optimization",
-        "portability",
-        "security"
-      ],
-      "stars": 102,
-      "url": "https://github.com/codee-com/open-catalog",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "zingale/teaching_codes",
-      "description": "some random teaching codes from throughout the years",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 6,
-      "url": "https://github.com/zingale/teaching_codes",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "zingale/hydro1d",
-      "description": "A simple 1-d hydrodynamics code written in Fortran 95",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 17,
-      "url": "https://github.com/zingale/hydro1d",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "jsmidt/sirrah",
-      "description": "A Special-Relativistic Radiation Hydrodynamics Code",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/jsmidt/sirrah",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "norabolig/BOXZYHYDRO",
-      "description": "Radiation Hydrodynamics Code with self-gravity, radiation transport, particle-particle and particle-in-cell dynamics, and solid-gas interactions.",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 10,
-      "url": "https://github.com/norabolig/BOXZYHYDRO",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "lollocava00/Metal-Diffusion-in-Galaxy-clusters",
-      "description": "Simulation of metal diffusion in the ICM for the Perseus Cluster The aim of the project is to show the possible parameters for efficient metal distribution under reasonable diffusion timescales to reproduce observed abundance profile.",
-      "language": "Fortran",
-      "topics": [
-        "astrophysics",
-        "astrophysics-simulation",
-        "galaxy-clusters"
-      ],
-      "stars": 3,
-      "url": "https://github.com/lollocava00/Metal-Diffusion-in-Galaxy-clusters",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "lollocava00/Radiative_cooling",
-      "description": "Radiative cooling of an hydrogen-helium gas in collisional equilibrium of ionization.",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/lollocava00/Radiative_cooling",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "bwoshea/ZEUS-MP_2",
-      "description": "This repository is the home of the ZEUS-MP 2.0 code, which was created by John Hayes and others at the Laboratory for Computational Astrophysics at UIUC and UCSD.",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 9,
-      "url": "https://github.com/bwoshea/ZEUS-MP_2",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "stevenmwise/MultigridCourse",
-      "description": "My course on multigrid methods at the University of Tennessee, Fall 2024",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 11,
-      "url": "https://github.com/stevenmwise/MultigridCourse",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "wayne70211/Multigrid-2D-Neumann-BC",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/wayne70211/Multigrid-2D-Neumann-BC",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "AnirudhPS95/Multigrid_optimisation",
-      "description": "2-D multigrid optimization subroutine in fortran",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/AnirudhPS95/Multigrid_optimisation",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "jihoonakang/PEPS_MG",
-      "description": "Poisson Equation Parallel Solver - Multigrid Method ",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 6,
-      "url": "https://github.com/jihoonakang/PEPS_MG",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "JOThurgood/SimpleCFD",
-      "description": "Simple (and not-so-simple) CFD solvers written in Fortran with Python plotting routines",
-      "language": "Fortran",
-      "topics": [
-        "burgers-equation",
-        "cfd",
-        "compressible-flow",
-        "computational-fluid-dynamics",
-        "euler-equations",
-        "finite-difference-schemes",
-        "finite-volume-methods",
-        "fluid-dynamics",
-        "fluid-solver",
-        "gauss-seidel",
-        "incompressible-flow",
-        "multigrid",
-        "riemann-solvers"
-      ],
-      "stars": 20,
-      "url": "https://github.com/JOThurgood/SimpleCFD",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "phquanta/Multigrid_Poisson_Solver_3D",
-      "description": "3D Parallel(MPI)  Multigrid Poisson Solver",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 12,
-      "url": "https://github.com/phquanta/Multigrid_Poisson_Solver_3D",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "sr-dash/SFT-1D",
-      "description": "Surface Flux Transport modelling in one dimension (latitude). ",
-      "language": "Fortran",
-      "topics": [
-        "astrophysics",
-        "solarphysics",
-        "sunspots",
-        "surfaceflux"
-      ],
-      "stars": 3,
-      "url": "https://github.com/sr-dash/SFT-1D",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "predsci/HipFT",
-      "description": "High-performance Flux Transport",
-      "language": "Fortran",
-      "topics": [
-        "do-concurrent",
-        "flux-transport",
-        "fortran",
-        "gpgpu",
-        "gpu",
-        "magnetogram",
-        "openmp",
-        "openmp-target",
-        "solar-physics",
-        "standard-parallelism",
-        "stdpar"
-      ],
-      "stars": 33,
-      "url": "https://github.com/predsci/HipFT",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "rootware/K2_Fortran_Modules",
-      "description": "Fortran modules intended for my research in Space Weather Modelling",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/rootware/K2_Fortran_Modules",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "CaNS-World/CaNS",
-      "description": "A code for fast, massively-parallel direct numerical simulations (DNS) of canonical flows",
-      "language": "Fortran",
-      "topics": [
-        "cfd",
-        "computational-fluid-dynamics",
-        "fluid-dynamics",
-        "fluid-simulation",
-        "fortran",
-        "gpu",
-        "gpu-computing",
-        "high-performance-computing",
-        "turbulence"
-      ],
-      "stars": 253,
-      "url": "https://github.com/CaNS-World/CaNS",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Wenger-In/MagneticFluxEmergence",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/Wenger-In/MagneticFluxEmergence",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Reference-LAPACK/lapack",
-      "description": "LAPACK development repository",
-      "language": "Fortran",
-      "topics": [
-        "blas",
-        "eigenvalues",
-        "eigenvectors",
-        "lapack",
-        "lapacke",
-        "linear-algebra",
-        "linear-equations",
-        "matrix-factorization",
-        "singular-values",
-        "svd"
-      ],
-      "stars": 1735,
-      "url": "https://github.com/Reference-LAPACK/lapack",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "szaghi/OFF",
-      "description": "OFF, Open source Finite volume Fluid dynamics code",
-      "language": "Fortran",
-      "topics": [
-        "cfd",
-        "finite-volume",
-        "fluid-dynamics",
-        "fortran",
-        "gas-dynamics",
-        "hpc",
-        "hydrodynamics",
-        "oop",
-        "riemann-solvers"
-      ],
-      "stars": 140,
-      "url": "https://github.com/szaghi/OFF",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "BoxLib-Codes/CastroRadiation",
-      "description": "flux limited diffusion radiation hydrodynamics module for Castro",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 10,
-      "url": "https://github.com/BoxLib-Codes/CastroRadiation",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "garrelt/C2-Ray1D",
-      "description": "1D version of C2-Ray",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 7,
-      "url": "https://github.com/garrelt/C2-Ray1D",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "igarashitc/cansplus_imp_axis",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/igarashitc/cansplus_imp_axis",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cfcanaoj/gpuhydro",
-      "description": "Sample hydrodynamic codes using GPU is provided.",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/cfcanaoj/gpuhydro",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cfcanaoj/CfCA_HydroSchool_FVM",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/cfcanaoj/CfCA_HydroSchool_FVM",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "takiwaki/TurbulenceStudies",
-      "description": "This page summarize my study on turbulence. ",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 6,
-      "url": "https://github.com/takiwaki/TurbulenceStudies",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "aasensio/3d_sir",
-      "description": "A synthesis code for the synthesis of LTE lines based on SIR",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/aasensio/3d_sir",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Cambridge-ICCS/FTorch",
-      "description": "A library for directly calling PyTorch ML models from Fortran.",
-      "language": "Fortran",
-      "topics": [
-        "deep-learning",
-        "fortran",
-        "hacktoberfest",
-        "interoperability",
-        "libtorch",
-        "machine-learning",
-        "python",
-        "pytorch",
-        "torch"
-      ],
-      "stars": 156,
-      "url": "https://github.com/Cambridge-ICCS/FTorch",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "nbren12/call_py_fort",
-      "description": "Call python from fortran",
-      "language": "Fortran",
-      "topics": [
-        "fortran",
-        "interoperability",
-        "python"
-      ],
-      "stars": 91,
-      "url": "https://github.com/nbren12/call_py_fort",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "adamjermyn/AstroMicroPhysics",
-      "description": "An attempt to provide modern interfaces for existing tables and codes of astronomical microphysics.",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/adamjermyn/AstroMicroPhysics",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "oekrice/flux_emergence",
-      "description": "My version of flux emergence simulations",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/oekrice/flux_emergence",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "oekrice/flux_vanilla",
-      "description": "Flux Emergence Simulations",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/oekrice/flux_vanilla",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "takuya4880/MHD-3dmlw",
-      "description": "3D MHD code of modified lax-wendroff scheme with co-array fortran",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/takuya4880/MHD-3dmlw",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "takuya4880/oblique",
-      "description": "oblique coronal field",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/takuya4880/oblique",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "tktmyd/tdac",
-      "description": "tsunami data assimilation code",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 10,
-      "url": "https://github.com/tktmyd/tdac",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "AstroSnow/PIP",
-      "description": "Partially Ionised Plasma Code",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/AstroSnow/PIP",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "geodynamics/Rayleigh",
-      "description": "Rayleigh: Pseudo-spectral MHD",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 70,
-      "url": "https://github.com/geodynamics/Rayleigh",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "zenitani/OpenMHD",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 56,
-      "url": "https://github.com/zenitani/OpenMHD",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "svaverbe/MFV3d",
-      "description": "A FORTRAN implementation of a Moving Finite Volume MHD code in three dimensions including self-gravity.",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 12,
-      "url": "https://github.com/svaverbe/MFV3d",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "modern-fortran/tsunami",
-      "description": "A parallel shallow water equations solver",
-      "language": "Fortran",
-      "topics": [
-        "book",
-        "fortran",
-        "shallow-water-equations",
-        "tsunami"
-      ],
-      "stars": 162,
-      "url": "https://github.com/modern-fortran/tsunami",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "modern-fortran/twitch-stream-tsunami",
-      "description": "A serial version of tsunami implemented during my Twitch stream",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 6,
-      "url": "https://github.com/modern-fortran/twitch-stream-tsunami",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "modern-fortran/stock-prices",
-      "description": "Analyzing stock prices with Fortran arrays",
-      "language": "Fortran",
-      "topics": [
-        "array",
-        "finance",
-        "fortran"
-      ],
-      "stars": 35,
-      "url": "https://github.com/modern-fortran/stock-prices",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "modern-fortran/neural-fortran",
-      "description": "A parallel framework for deep learning",
-      "language": "Fortran",
-      "topics": [
-        "cnn",
-        "deep-learning",
-        "fortran",
-        "machine-learning",
-        "neural-network",
-        "parallel"
-      ],
-      "stars": 452,
-      "url": "https://github.com/modern-fortran/neural-fortran",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "jmark/nemo",
-      "description": "2D/3D computational fluid dynamics code",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 6,
-      "url": "https://github.com/jmark/nemo",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "magic-sph/magic",
-      "description": "MagIC is a high-performance code that solves the magneto-hydrodynamics equations in rotating spherical shells",
-      "language": "Fortran",
-      "topics": [
-        "cfd",
-        "computational-fluid-dynamics",
-        "convection",
-        "magnetohydrodynamics",
-        "mhd",
-        "planetary-science",
-        "stellar-astrophysics"
-      ],
-      "stars": 88,
-      "url": "https://github.com/magic-sph/magic",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "victowne/toroidalflow",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/victowne/toroidalflow",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "juncas/2DENSE",
-      "description": "2 Dimensional Euler/Naviers-Stokes Equations solver",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 18,
-      "url": "https://github.com/juncas/2DENSE",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "juncas/Euler1d",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/juncas/Euler1d",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "rsimitev/LinearAnalysis-ThermoCompConv",
-      "description": "SPECTRAL CODE FOR LINEAR ANALYSIS OF THE ONSET OF THERMO-COMPOSITIONAL CONVECTION IN ROTATING SPHERICAL FLUID SHELLS",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/rsimitev/LinearAnalysis-ThermoCompConv",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "AlLinnell/Binsyn",
-      "description": "Binary star simulation suite.",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/AlLinnell/Binsyn",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Warwick-Plasma/Lare3d",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 18,
-      "url": "https://github.com/Warwick-Plasma/Lare3d",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Warwick-Plasma/Lare2d",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/Warwick-Plasma/Lare2d",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "epochpic/SDF_FORTRAN",
-      "description": "Fortran library for accessing files in the SDF format",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/epochpic/SDF_FORTRAN",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "HPSC-SURYA/aditest",
-      "description": "Testing various serial/parallel ADI implementations",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 4,
-      "url": "https://github.com/HPSC-SURYA/aditest",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "damoprz/SPARC2",
-      "description": "Repository for Damiens branch of the SPARC code, originally written by S. Hanasoge.",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/damoprz/SPARC2",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "tktmyd/tsunami_pml",
-      "description": "Perfectly matched layer absorbing boundary condition for simulation of tsunami wave propagation",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 6,
-      "url": "https://github.com/tktmyd/tsunami_pml",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "eskyhome/piclas",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/eskyhome/piclas",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "wme7/Fortran2Paraview_with_HDF5",
-      "description": "This example is mean to show how to export data from fortran using XDMF/HDF5 solution. This snippet can also be used as translator of binary (unformatted) data into HDF5 format.",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 6,
-      "url": "https://github.com/wme7/Fortran2Paraview_with_HDF5",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "marlonsmathias/GATT_DNS",
-      "description": "Direct Numerical Simulation code for the compressible Navier-Stokes equations. The linear stability analysis (LST) is done by a Jacobian-free time-stepping algorithm. The code was developed by the Group of Aeroacoustics, Transition and Turbulence of the S\u00e3o Carlos School of Engineering - University of S\u00e3o Paulo (EESC-USP).",
-      "language": "Fortran",
-      "topics": [
-        "cfd",
-        "flow",
-        "global-stability",
-        "linear-stability-analysis",
-        "simulation"
-      ],
-      "stars": 35,
-      "url": "https://github.com/marlonsmathias/GATT_DNS",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "flexi-framework/flexi",
-      "description": "FLEXI: A high order discontinuous Galerkin framework for hyperbolic\u2013parabolic conservation laws",
-      "language": "Fortran",
-      "topics": [
-        "computational-fluid-dynamics",
-        "discontinuous-galerkin",
-        "high-performance-computing",
-        "unstructured-meshes"
-      ],
-      "stars": 262,
-      "url": "https://github.com/flexi-framework/flexi",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "L1ssandra/DG_PP_Limiter",
-      "description": "The Positivity preserving limiter, keep rho > 0 and p > 0",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/L1ssandra/DG_PP_Limiter",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ymatumot/pcans",
-      "description": "Electromagnetic particle-in-cell code",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 8,
-      "url": "https://github.com/ymatumot/pcans",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "mgjeon/khumhd",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/mgjeon/khumhd",
-      "archived": true,
-      "fork": false
-    },
-    {
-      "name": "project-fluxo/fluxo",
-      "description": "Fluxo implements the DGSEM for general advection-diffusion equations",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 55,
-      "url": "https://github.com/project-fluxo/fluxo",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "xcompact3d/Incompact3d",
-      "description": "Current CPU version of our solver for the Navier-Stokes equations",
-      "language": "Fortran",
-      "topics": [
-        "cfd",
-        "computational-fluid-dynamics",
-        "direct-numerical-simulation",
-        "large-eddy-simulation",
-        "navier-stokes"
-      ],
-      "stars": 196,
-      "url": "https://github.com/xcompact3d/Incompact3d",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "uclales/uclales",
-      "description": "Large eddy simulation code for atmospheric flow",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 27,
-      "url": "https://github.com/uclales/uclales",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ucns3d-team/UCNS3D",
-      "description": "Unstructured Compressible Navier Stokes 3D code (UCNS3D) ",
-      "language": "Fortran",
-      "topics": [
-        "cfd",
-        "compressible-flows",
-        "compressible-fluid-dynamics",
-        "computational-fluid-dynamics",
-        "simulation",
-        "unstructured-meshes"
-      ],
-      "stars": 321,
-      "url": "https://github.com/ucns3d-team/UCNS3D",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "bfly123/MHD_rotor",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/bfly123/MHD_rotor",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "HPSC-SURYA/surya",
-      "description": "This is the main code",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/HPSC-SURYA/surya",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Cxb1993/CPC2017_WENO",
-      "description": "WENO\u683c\u5f0f\uff08Weighted Essentially Non-Oscillatory schemes) \u662f\u57fa\u4e8eENO\u683c\u5f0f\uff08Essentially Non-Oscillatory schemes\uff09\u53d1\u5c55\u800c\u6765\u7684\u4e00\u79cd\u6c42\u89e3\u53cc\u66f2\u5b88\u6052\u5f8b\u7ec4\u7684\u9ad8\u7cbe\u5ea6\u9ad8\u5206\u8fa8\u7387\u5e7f\u4e49Godunov\u683c\u5f0f\uff0c\u9002\u5408\u4e8e\u6c42\u89e3\u9ad8\u5bc6\u5ea6\u6bd4\u6d41\u4f53\u754c\u9762\u4e0d\u7a33\u5b9a\u7b49\u5177\u6709\u5f3a\u95f4\u65ad\u53c8\u5177\u6709\u5927\u9762\u590d\u6742\u6d41\u52a8\u7ed3\u6784\u7684\u95ee\u9898\u3002\u672c\u7a0b\u5e8f\u7531\u4e2d\u79d1\u9662\u529b\u5b66\u6240\u674e\u65b0\u4eae\u8001\u5e08\u56e2\u961f\u5f00\u53d1\u7684OpenCFD\u7a0b\u5e8f\u7cbe\u7b80\u800c\u6765\uff0c\u5728\u6b64\u5bf9\u674e\u8001\u5e08\u56e2\u961f\u81f4\u4ee5\u8bda\u631a\u7684\u8c22\u610f\u3002 \u7a0b\u5e8f\u5305\u542b4\u4e2a\u6e90\u6587\u4ef6\uff1amain.f90, Interfaces.f90\uff0c Weno.f90\uff0cparameters.f90\u3002 \u5176\u4e2dmain.f90\u662f\u7a0b\u5e8f\u4e3b\u8981\u6846\u67b6\uff1bWeno.f90\u4e3a\u7a0b\u5e8f\u4e3b\u8981\u7b97\u6cd5\u5b9e\u73b0\uff1bInterfaces.f90 \u4e2d\u4e3a\u901a\u4fe1\u51fd\u6570\u548cIO\u51fd\u6570\u7684\u5c01\u88c5\uff1b parameters.f90\u4e2d\u5305\u542b\u4e86\u7a0b\u5e8f\u90e8\u5206\u5e38\u91cf\u58f0\u660e\u3002",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 18,
-      "url": "https://github.com/Cxb1993/CPC2017_WENO",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "zfyyfz12/Frotran2c_weno7_test",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/zfyyfz12/Frotran2c_weno7_test",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "oekrice/lare2d",
-      "description": "Modified version of Lare2d, modelling the solar corona with surface diffusion and shearing.",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/oekrice/lare2d",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "MESAHub/mesa",
-      "description": "Modules for Experiments in Stellar Astrophysics",
-      "language": "Fortran",
-      "topics": [
-        "astronomy",
-        "astrophysics",
-        "binary-evolution",
-        "fortran",
-        "stellar-astrophysics",
-        "stellar-evolution"
-      ],
-      "stars": 198,
-      "url": "https://github.com/MESAHub/mesa",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "kmaitreys/surya",
-      "description": "Workspace for project on solar dynamo model",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/kmaitreys/surya",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "FVCOM-GitHub/FVCOM",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 79,
-      "url": "https://github.com/FVCOM-GitHub/FVCOM",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pencil-code/pencil-code",
-      "description": "A high-order finite-difference code for compressible hydrodynamic flows with magnetic fields and particles",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 220,
-      "url": "https://github.com/pencil-code/pencil-code",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "peichmb/sft-global",
-      "description": "Advection/diffusion of magnetic flux on the solar surface. I wrote this code for this study: https://doi.org/10.1051/0004-6361/201629061. Please, cite the paper if you use the code! Some files contain open source code and credit/references to the authors.",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/peichmb/sft-global",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "peichmb/sft-local",
-      "description": "Simulates the transport of magnetic flux concentrations on the Sun's surface. This code was written for this study in https://doi.org/10.1051/0004-6361/201527213. Please, cite the paper if you use it! Some files contain open source code and credit/references to the authors.",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/peichmb/sft-local",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "illorenzo7/Rayleigh",
-      "description": "Rayleigh: Pseudo-spectral MHD",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/illorenzo7/Rayleigh",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "delaneyfarrell/DRNS",
-      "description": "Differential rotation in neutron stars using a fully general relativistic code written in Fortran90.",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/delaneyfarrell/DRNS",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "piernik-dev/piernik",
-      "description": "Piernik MHD Code",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 15,
-      "url": "https://github.com/piernik-dev/piernik",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "amrvac/amrvac",
-      "description": "MPI-AMRVAC: A Parallel Adaptive Mesh Refinement Framework",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 92,
-      "url": "https://github.com/amrvac/amrvac",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Morad28/schema_hll_hllc",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/Morad28/schema_hll_hllc",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "sachinbhoi29/Compressible-flows-CFD-code-",
-      "description": "FORTRAN code to solve implosion problem, Forward Facing step problem, Sod shock tube test, Double Mach Reflection problem, WENO, ENO, Flux reconstructions, Barth and Jespersen slope limiters, Venkatakrishnan slope limiter, HLL, HLLC, Rusanov fluxes",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/sachinbhoi29/Compressible-flows-CFD-code-",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pinee/WENO",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/pinee/WENO",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "rsimitev/DynamoInRotatingSpheres",
-      "description": "Thermo-compositional convection and dynamos in rotating spherical shells",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/rsimitev/DynamoInRotatingSpheres",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ur-alr/MHD_solver",
-      "description": null,
-      "language": "Fortran",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/ur-alr/MHD_solver",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "victowne/TM",
-      "description": "Full MHD code used for simulating the tearing mode instability in slab geometry",
-      "language": "Fortran",
-      "topics": [
-        "magnetic-reconnection",
-        "mhd"
-      ],
-      "stars": 5,
-      "url": "https://github.com/victowne/TM",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "garrelt/C2-Ray3Dm",
-      "description": "The 3D version of C2-Ray for multiple sources, hydrogen only",
-      "language": "Fortran",
-      "topics": [
-        "cosmology",
-        "radiative-transfer",
-        "reionization"
-      ],
-      "stars": 19,
-      "url": "https://github.com/garrelt/C2-Ray3Dm",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "esquivas/walicxe2d",
-      "description": "Original 2D version of the adaptive mesh hydrodynamical code WALICXE",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 4,
-      "url": "https://github.com/esquivas/walicxe2d",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "esquivas/guacho",
-      "description": "A 3D uniform mesh parallel HD/MHD code for astrophysics",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 7,
-      "url": "https://github.com/esquivas/guacho",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "omersan/5.05.Multigrid1D",
-      "description": "V-cycle Multigrid method for 1D Poisson Equation",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/omersan/5.05.Multigrid1D",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "omersan/5.07.Burgers-Equation",
-      "description": "Shock capturing schemes for Inviscid Burgers Equations (i.e., upwind and WENO schemes)",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 10,
-      "url": "https://github.com/omersan/5.07.Burgers-Equation",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "omersan/5.06.Multigrid2D",
-      "description": "V-cycle Multigrid method for 2D Poisson Equation",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 14,
-      "url": "https://github.com/omersan/5.06.Multigrid2D",
       "archived": false,
       "fork": false
     }
@@ -5499,7 +5509,7 @@
         "machine-learning",
         "ocean"
       ],
-      "stars": 1199,
+      "stars": 1200,
       "url": "https://github.com/CliMA/Oceananigans.jl",
       "archived": false,
       "fork": false
@@ -5633,7 +5643,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 9890,
+      "stars": 10007,
       "url": "https://github.com/davila7/claude-code-templates",
       "archived": false,
       "fork": false
@@ -5643,7 +5653,7 @@
       "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
       "language": "TypeScript",
       "topics": [],
-      "stars": 3872,
+      "stars": 3876,
       "url": "https://github.com/21st-dev/magic-mcp",
       "archived": false,
       "fork": false
@@ -5656,7 +5666,7 @@
         "mcp",
         "playwright"
       ],
-      "stars": 22678,
+      "stars": 22714,
       "url": "https://github.com/microsoft/playwright-mcp",
       "archived": false,
       "fork": false
@@ -5679,7 +5689,7 @@
         "windsurf",
         "windsurf-ai"
       ],
-      "stars": 23348,
+      "stars": 23391,
       "url": "https://github.com/eyaltoledano/claude-task-master",
       "archived": false,
       "fork": false
@@ -5710,7 +5720,7 @@
         "voyage-ai",
         "vscode-extension"
       ],
-      "stars": 4317,
+      "stars": 4334,
       "url": "https://github.com/zilliztech/claude-context",
       "archived": false,
       "fork": false
@@ -5736,7 +5746,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 18528,
+      "stars": 18544,
       "url": "https://github.com/winfunc/opcode",
       "archived": false,
       "fork": false
@@ -5746,7 +5756,7 @@
       "description": "\ud83d\udcd6 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors",
       "language": "TypeScript",
       "topics": [],
-      "stars": 1101,
+      "stars": 1102,
       "url": "https://github.com/regenrek/deepwiki-mcp",
       "archived": false,
       "fork": false
@@ -5770,7 +5780,7 @@
         "llm",
         "markdown"
       ],
-      "stars": 355,
+      "stars": 356,
       "url": "https://github.com/regenrek/codefetch",
       "archived": false,
       "fork": false
@@ -5783,7 +5793,7 @@
         "cloudflare",
         "mcp"
       ],
-      "stars": 1516,
+      "stars": 1519,
       "url": "https://github.com/supermemoryai/supermemory-mcp",
       "archived": false,
       "fork": false
@@ -5793,7 +5803,7 @@
       "description": "A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 719,
+      "stars": 721,
       "url": "https://github.com/Iamshankhadeep/ccseva",
       "archived": false,
       "fork": false
@@ -5808,7 +5818,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 35829,
+      "stars": 35899,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -5818,7 +5828,7 @@
       "description": "Model Context Protocol Servers",
       "language": "TypeScript",
       "topics": [],
-      "stars": 71730,
+      "stars": 71776,
       "url": "https://github.com/modelcontextprotocol/servers",
       "archived": false,
       "fork": false
@@ -5844,7 +5854,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 18388,
+      "stars": 18398,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
@@ -5866,7 +5876,7 @@
         "upscalerimage",
         "upscayl"
       ],
-      "stars": 40887,
+      "stars": 40909,
       "url": "https://github.com/upscayl/upscayl",
       "archived": false,
       "fork": false
@@ -5924,7 +5934,7 @@
         "parallel-computing",
         "programming-model"
       ],
-      "stars": 2355,
+      "stars": 2357,
       "url": "https://github.com/kokkos/kokkos",
       "archived": false,
       "fork": false
@@ -6139,7 +6149,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 9890,
+      "stars": 10007,
       "url": "https://github.com/davila7/claude-code-templates",
       "archived": false,
       "fork": false
@@ -6149,7 +6159,7 @@
       "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
       "language": "TypeScript",
       "topics": [],
-      "stars": 3872,
+      "stars": 3876,
       "url": "https://github.com/21st-dev/magic-mcp",
       "archived": false,
       "fork": false
@@ -6175,7 +6185,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 18528,
+      "stars": 18544,
       "url": "https://github.com/winfunc/opcode",
       "archived": false,
       "fork": false
@@ -6199,7 +6209,7 @@
         "llm",
         "markdown"
       ],
-      "stars": 355,
+      "stars": 356,
       "url": "https://github.com/regenrek/codefetch",
       "archived": false,
       "fork": false
@@ -6216,7 +6226,7 @@
         "terminal",
         "theme"
       ],
-      "stars": 6992,
+      "stars": 6990,
       "url": "https://github.com/ohmybash/oh-my-bash",
       "archived": false,
       "fork": false
@@ -6263,7 +6273,7 @@
         "machine-learning",
         "ocean"
       ],
-      "stars": 1199,
+      "stars": 1200,
       "url": "https://github.com/CliMA/Oceananigans.jl",
       "archived": false,
       "fork": false
@@ -6285,7 +6295,7 @@
       "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
       "language": "TypeScript",
       "topics": [],
-      "stars": 3872,
+      "stars": 3876,
       "url": "https://github.com/21st-dev/magic-mcp",
       "archived": false,
       "fork": false
@@ -6319,7 +6329,7 @@
         "personal-website",
         "portfolio-website"
       ],
-      "stars": 15726,
+      "stars": 15731,
       "url": "https://github.com/academicpages/academicpages.github.io",
       "archived": false,
       "fork": false
@@ -6376,7 +6386,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 18388,
+      "stars": 18398,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
