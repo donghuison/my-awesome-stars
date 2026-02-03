@@ -48,7 +48,7 @@
         "thealgorithms-fortran",
         "tutorial"
       ],
-      "stars": 89,
+      "stars": 90,
       "url": "https://github.com/TheAlgorithms/Fortran",
       "archived": false,
       "fork": false
@@ -481,7 +481,7 @@
         "singular-values",
         "svd"
       ],
-      "stars": 1792,
+      "stars": 1794,
       "url": "https://github.com/Reference-LAPACK/lapack",
       "archived": false,
       "fork": false
@@ -501,7 +501,7 @@
         "oop",
         "riemann-solvers"
       ],
-      "stars": 143,
+      "stars": 144,
       "url": "https://github.com/szaghi/OFF",
       "archived": false,
       "fork": false
@@ -720,7 +720,7 @@
         "shallow-water-equations",
         "tsunami"
       ],
-      "stars": 169,
+      "stars": 170,
       "url": "https://github.com/modern-fortran/tsunami",
       "archived": false,
       "fork": false
@@ -1120,7 +1120,7 @@
       "description": null,
       "language": "Fortran",
       "topics": [],
-      "stars": 84,
+      "stars": 85,
       "url": "https://github.com/FVCOM-GitHub/FVCOM",
       "archived": false,
       "fork": false
@@ -1346,7 +1346,7 @@
         "tui",
         "typescript"
       ],
-      "stars": 26880,
+      "stars": 27300,
       "url": "https://github.com/code-yeongyu/oh-my-opencode",
       "archived": false,
       "fork": false
@@ -1373,7 +1373,7 @@
       "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
       "language": "TypeScript",
       "topics": [],
-      "stars": 4193,
+      "stars": 4195,
       "url": "https://github.com/21st-dev/magic-mcp",
       "archived": false,
       "fork": false
@@ -1386,7 +1386,7 @@
         "mcp",
         "playwright"
       ],
-      "stars": 26533,
+      "stars": 26589,
       "url": "https://github.com/microsoft/playwright-mcp",
       "archived": false,
       "fork": false
@@ -1409,7 +1409,7 @@
         "windsurf",
         "windsurf-ai"
       ],
-      "stars": 25208,
+      "stars": 25235,
       "url": "https://github.com/eyaltoledano/claude-task-master",
       "archived": false,
       "fork": false
@@ -1440,7 +1440,7 @@
         "voyage-ai",
         "vscode-extension"
       ],
-      "stars": 5231,
+      "stars": 5240,
       "url": "https://github.com/zilliztech/claude-context",
       "archived": false,
       "fork": false
@@ -1466,7 +1466,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 20308,
+      "stars": 20329,
       "url": "https://github.com/winfunc/opcode",
       "archived": false,
       "fork": false
@@ -1476,7 +1476,7 @@
       "description": "\ud83d\udcd6 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors",
       "language": "TypeScript",
       "topics": [],
-      "stars": 1232,
+      "stars": 1235,
       "url": "https://github.com/regenrek/deepwiki-mcp",
       "archived": false,
       "fork": false
@@ -1513,7 +1513,7 @@
         "cloudflare",
         "mcp"
       ],
-      "stars": 1602,
+      "stars": 1603,
       "url": "https://github.com/supermemoryai/supermemory-mcp",
       "archived": false,
       "fork": false
@@ -1538,7 +1538,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 44396,
+      "stars": 44502,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -1548,7 +1548,7 @@
       "description": "Model Context Protocol Servers",
       "language": "TypeScript",
       "topics": [],
-      "stars": 77739,
+      "stars": 77842,
       "url": "https://github.com/modelcontextprotocol/servers",
       "archived": false,
       "fork": false
@@ -1574,7 +1574,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 18968,
+      "stars": 18970,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
@@ -1596,7 +1596,7 @@
         "upscalerimage",
         "upscayl"
       ],
-      "stars": 42873,
+      "stars": 42891,
       "url": "https://github.com/upscayl/upscayl",
       "archived": false,
       "fork": false
@@ -1641,7 +1641,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 19161,
+      "stars": 19282,
       "url": "https://github.com/davila7/claude-code-templates",
       "archived": false,
       "fork": false
@@ -1651,7 +1651,7 @@
       "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
       "language": "TypeScript",
       "topics": [],
-      "stars": 4193,
+      "stars": 4195,
       "url": "https://github.com/21st-dev/magic-mcp",
       "archived": false,
       "fork": false
@@ -1677,7 +1677,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 20308,
+      "stars": 20329,
       "url": "https://github.com/winfunc/opcode",
       "archived": false,
       "fork": false
@@ -1718,7 +1718,7 @@
         "terminal",
         "theme"
       ],
-      "stars": 7227,
+      "stars": 7228,
       "url": "https://github.com/ohmybash/oh-my-bash",
       "archived": false,
       "fork": false
@@ -1980,7 +1980,7 @@
         "scientific-computing",
         "scientific-visualization"
       ],
-      "stars": 302,
+      "stars": 303,
       "url": "https://github.com/gnudatalanguage/gdl",
       "archived": false,
       "fork": false
@@ -2096,7 +2096,7 @@
       "description": "My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.",
       "language": "Shell",
       "topics": [],
-      "stars": 600,
+      "stars": 601,
       "url": "https://github.com/ChrisTitusTech/mybash",
       "archived": false,
       "fork": false
@@ -2137,7 +2137,7 @@
         "portfolio-website",
         "theme"
       ],
-      "stars": 15008,
+      "stars": 15013,
       "url": "https://github.com/alshedivat/al-folio",
       "archived": false,
       "fork": false
@@ -2396,7 +2396,7 @@
         "responsive-web-design",
         "rubygems"
       ],
-      "stars": 9707,
+      "stars": 9713,
       "url": "https://github.com/cotes2020/jekyll-theme-chirpy",
       "archived": false,
       "fork": false
@@ -2507,7 +2507,7 @@
         "thealgorithms-fortran",
         "tutorial"
       ],
-      "stars": 89,
+      "stars": 90,
       "url": "https://github.com/TheAlgorithms/Fortran",
       "archived": false,
       "fork": false
@@ -3307,7 +3307,7 @@
         "shallow-water-equations",
         "tsunami"
       ],
-      "stars": 169,
+      "stars": 170,
       "url": "https://github.com/modern-fortran/tsunami",
       "archived": false,
       "fork": false
@@ -3949,7 +3949,7 @@
       "description": "\ud83e\udd17 smolagents: a barebones library for agents that think in code.",
       "language": "Python",
       "topics": [],
-      "stars": 25203,
+      "stars": 25226,
       "url": "https://github.com/huggingface/smolagents",
       "archived": false,
       "fork": false
@@ -4003,7 +4003,7 @@
         "tensor-methods",
         "tensorly"
       ],
-      "stars": 3358,
+      "stars": 3367,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -4018,7 +4018,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 19161,
+      "stars": 19282,
       "url": "https://github.com/davila7/claude-code-templates",
       "archived": false,
       "fork": false
@@ -4028,7 +4028,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.",
       "language": "Python",
       "topics": [],
-      "stars": 15079,
+      "stars": 15091,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -4038,7 +4038,7 @@
       "description": "A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.",
       "language": "Python",
       "topics": [],
-      "stars": 20572,
+      "stars": 20600,
       "url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
       "archived": false,
       "fork": false
@@ -4073,7 +4073,7 @@
         "rag",
         "state-management"
       ],
-      "stars": 46382,
+      "stars": 46456,
       "url": "https://github.com/mem0ai/mem0",
       "archived": false,
       "fork": false
@@ -4302,7 +4302,7 @@
         "pocket-flow",
         "pocketflow"
       ],
-      "stars": 12045,
+      "stars": 12046,
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "archived": false,
       "fork": false
@@ -4326,7 +4326,7 @@
         "pde-solver",
         "spectral-methods"
       ],
-      "stars": 642,
+      "stars": 643,
       "url": "https://github.com/DedalusProject/dedalus",
       "archived": false,
       "fork": false
@@ -4864,7 +4864,7 @@
         "windsurf",
         "windsurf-ai"
       ],
-      "stars": 25208,
+      "stars": 25235,
       "url": "https://github.com/eyaltoledano/claude-task-master",
       "archived": false,
       "fork": false
@@ -4874,7 +4874,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team, Alibaba Cloud.",
       "language": "Python",
       "topics": [],
-      "stars": 15079,
+      "stars": 15091,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -5248,7 +5248,7 @@
         "scientific-computing",
         "scientific-visualization"
       ],
-      "stars": 302,
+      "stars": 303,
       "url": "https://github.com/gnudatalanguage/gdl",
       "archived": false,
       "fork": false
@@ -5438,7 +5438,7 @@
         "tensor-methods",
         "tensorly"
       ],
-      "stars": 3358,
+      "stars": 3367,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -5508,7 +5508,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 44396,
+      "stars": 44502,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -5550,7 +5550,7 @@
         "pocket-flow",
         "pocketflow"
       ],
-      "stars": 12045,
+      "stars": 12046,
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "archived": false,
       "fork": false
@@ -5993,7 +5993,7 @@
         "tensor-methods",
         "tensorly"
       ],
-      "stars": 3358,
+      "stars": 3367,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -6023,7 +6023,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 44396,
+      "stars": 44502,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -6048,7 +6048,7 @@
         "rag",
         "state-management"
       ],
-      "stars": 46382,
+      "stars": 46456,
       "url": "https://github.com/mem0ai/mem0",
       "archived": false,
       "fork": false
@@ -6090,7 +6090,7 @@
         "upscalerimage",
         "upscayl"
       ],
-      "stars": 42873,
+      "stars": 42891,
       "url": "https://github.com/upscayl/upscayl",
       "archived": false,
       "fork": false
@@ -6453,7 +6453,7 @@
       "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
       "language": "TypeScript",
       "topics": [],
-      "stars": 4193,
+      "stars": 4195,
       "url": "https://github.com/21st-dev/magic-mcp",
       "archived": false,
       "fork": false
@@ -6487,7 +6487,7 @@
         "personal-website",
         "portfolio-website"
       ],
-      "stars": 16369,
+      "stars": 16375,
       "url": "https://github.com/academicpages/academicpages.github.io",
       "archived": false,
       "fork": false
@@ -6544,7 +6544,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 18968,
+      "stars": 18970,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
