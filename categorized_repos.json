@@ -24,7 +24,7 @@
         "vector-icons",
         "vite"
       ],
-      "stars": 1916,
+      "stars": 1952,
       "url": "https://github.com/xandemon/developer-icons",
       "archived": false,
       "fork": false
@@ -44,7 +44,7 @@
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 19081,
+      "stars": 19925,
       "url": "https://github.com/Yeachan-Heo/oh-my-codex",
       "archived": false,
       "fork": false
@@ -71,7 +71,7 @@
         "zotero-plugin",
         "zotero7"
       ],
-      "stars": 44,
+      "stars": 45,
       "url": "https://github.com/dralkh/seerai",
       "archived": false,
       "fork": false
@@ -95,7 +95,7 @@
         "pi-agent",
         "understandcode"
       ],
-      "stars": 8000,
+      "stars": 8043,
       "url": "https://github.com/Lum1104/Understand-Anything",
       "archived": false,
       "fork": false
@@ -105,7 +105,7 @@
       "description": null,
       "language": "JavaScript",
       "topics": [],
-      "stars": 12736,
+      "stars": 12765,
       "url": "https://github.com/andrewyng/context-hub",
       "archived": false,
       "fork": false
@@ -132,7 +132,7 @@
         "tui",
         "typescript"
       ],
-      "stars": 49649,
+      "stars": 50019,
       "url": "https://github.com/code-yeongyu/oh-my-openagent",
       "archived": false,
       "fork": false
@@ -159,7 +159,7 @@
       "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
       "language": "TypeScript",
       "topics": [],
-      "stars": 4672,
+      "stars": 4684,
       "url": "https://github.com/21st-dev/magic-mcp",
       "archived": false,
       "fork": false
@@ -172,7 +172,7 @@
         "mcp",
         "playwright"
       ],
-      "stars": 30492,
+      "stars": 30553,
       "url": "https://github.com/microsoft/playwright-mcp",
       "archived": false,
       "fork": false
@@ -195,7 +195,7 @@
         "windsurf",
         "windsurf-ai"
       ],
-      "stars": 26451,
+      "stars": 26461,
       "url": "https://github.com/eyaltoledano/claude-task-master",
       "archived": false,
       "fork": false
@@ -226,7 +226,7 @@
         "voyage-ai",
         "vscode-extension"
       ],
-      "stars": 5874,
+      "stars": 5879,
       "url": "https://github.com/zilliztech/claude-context",
       "archived": false,
       "fork": false
@@ -252,7 +252,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 21369,
+      "stars": 21379,
       "url": "https://github.com/winfunc/opcode",
       "archived": false,
       "fork": false
@@ -286,7 +286,7 @@
         "llm",
         "markdown"
       ],
-      "stars": 430,
+      "stars": 431,
       "url": "https://github.com/regenrek/codefetch",
       "archived": false,
       "fork": false
@@ -299,7 +299,7 @@
         "cloudflare",
         "mcp"
       ],
-      "stars": 1678,
+      "stars": 1677,
       "url": "https://github.com/supermemoryai/supermemory-mcp",
       "archived": false,
       "fork": false
@@ -309,7 +309,7 @@
       "description": "A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 789,
+      "stars": 788,
       "url": "https://github.com/Iamshankhadeep/ccseva",
       "archived": false,
       "fork": false
@@ -324,7 +324,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 52034,
+      "stars": 52142,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -334,7 +334,7 @@
       "description": "Model Context Protocol Servers",
       "language": "TypeScript",
       "topics": [],
-      "stars": 83254,
+      "stars": 83337,
       "url": "https://github.com/modelcontextprotocol/servers",
       "archived": false,
       "fork": false
@@ -360,7 +360,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 19233,
+      "stars": 19231,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
@@ -382,7 +382,7 @@
         "upscalerimage",
         "upscayl"
       ],
-      "stars": 44450,
+      "stars": 44467,
       "url": "https://github.com/upscayl/upscayl",
       "archived": false,
       "fork": false
@@ -409,7 +409,7 @@
   "Machine Learning & AI": [
     {
       "name": "safishamsi/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
       "language": "Python",
       "topics": [
         "claude-code",
@@ -419,7 +419,7 @@
         "openclaw",
         "skills"
       ],
-      "stars": 12652,
+      "stars": 17539,
       "url": "https://github.com/safishamsi/graphify",
       "archived": false,
       "fork": false
@@ -434,7 +434,7 @@
         "semantic-search",
         "zotero"
       ],
-      "stars": 2380,
+      "stars": 2396,
       "url": "https://github.com/54yyyu/zotero-mcp",
       "archived": false,
       "fork": false
@@ -461,7 +461,7 @@
         "zotero-plugin",
         "zotero7"
       ],
-      "stars": 44,
+      "stars": 45,
       "url": "https://github.com/dralkh/seerai",
       "archived": false,
       "fork": false
@@ -471,7 +471,7 @@
       "description": "Neural Networks: Zero to Hero",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 21305,
+      "stars": 21326,
       "url": "https://github.com/karpathy/nn-zero-to-hero",
       "archived": false,
       "fork": false
@@ -515,7 +515,7 @@
         "tensor-methods",
         "tensorly"
       ],
-      "stars": 3527,
+      "stars": 3530,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -545,7 +545,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 52034,
+      "stars": 52142,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -570,7 +570,7 @@
         "rag",
         "state-management"
       ],
-      "stars": 52333,
+      "stars": 52456,
       "url": "https://github.com/mem0ai/mem0",
       "archived": false,
       "fork": false
@@ -612,7 +612,7 @@
         "upscalerimage",
         "upscayl"
       ],
-      "stars": 44450,
+      "stars": 44467,
       "url": "https://github.com/upscayl/upscayl",
       "archived": false,
       "fork": false
@@ -733,10 +733,10 @@
       "fork": false
     }
   ],
-  "Python Projects": [
+  "Tools & Utilities": [
     {
       "name": "safishamsi/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
       "language": "Python",
       "topics": [
         "claude-code",
@@ -746,7 +746,310 @@
         "openclaw",
         "skills"
       ],
-      "stars": 12652,
+      "stars": 17539,
+      "url": "https://github.com/safishamsi/graphify",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Katagiri-Hoshino-Lab/VibeCodeHPC",
+      "description": "CLI-based multi-agents for Auto-Tuning (e.g. HPC code optimazation loops) supporting Local LLMs",
+      "language": "Python",
+      "topics": [
+        "auto-tuning",
+        "claude-code",
+        "cline-cli",
+        "codex-cli",
+        "gemini-cli",
+        "hpc",
+        "kimi-cli",
+        "local-llm",
+        "multiagent",
+        "opencode",
+        "qwen-code",
+        "ssh-agent",
+        "tmux",
+        "vibe-local"
+      ],
+      "stars": 27,
+      "url": "https://github.com/Katagiri-Hoshino-Lab/VibeCodeHPC",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Sergey-Anfinogentov/seismo-corona",
+      "description": "A GUI tool for MHD-seismology of solar active regions using kink oscillation",
+      "language": "IDL",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/Sergey-Anfinogentov/seismo-corona",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Lum1104/Understand-Anything",
+      "description": "Skill that turn any codebase, Dockerfile, or docs into an interactive knowledge graph you can explore, search, and ask questions about. Multi-platform: Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "topics": [
+        "antigravity-skills",
+        "business-knowledge",
+        "claude-code",
+        "claude-skills",
+        "codex",
+        "codex-skills",
+        "gemini-cli-skills",
+        "knowledge-base",
+        "knowledge-graph",
+        "memory",
+        "opencode-skills",
+        "pi-agent",
+        "understandcode"
+      ],
+      "stars": 8043,
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "topics": [
+        "autogen",
+        "autogen-extension",
+        "langchain",
+        "markdown",
+        "microsoft-office",
+        "openai",
+        "pdf"
+      ],
+      "stars": 96793,
+      "url": "https://github.com/microsoft/markitdown",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Polymarket/polymarket-cli",
+      "description": null,
+      "language": "Rust",
+      "topics": [],
+      "stars": 2131,
+      "url": "https://github.com/Polymarket/polymarket-cli",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "bpbrown/fluids",
+      "description": "Introduction to Fluid Dynamics:  upper undergraduate to graduate level material in fluid dynamics, guided by problems in the atmospheres of planets and interiors of stars.  This material includes a mixture of lectures, analytic work, and simulation work.  To fully utilize all material, you will need sympy, dedalus and eigentools installed.",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "fluid-dynamics",
+        "fluid-simulation"
+      ],
+      "stars": 5,
+      "url": "https://github.com/bpbrown/fluids",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "bpbrown/solar_models",
+      "description": "Basic tools for reading in and plotting quantities from standard solar structure at atmosphere models.",
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/bpbrown/solar_models",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "legolas-project/legolas",
+      "description": "Legolas: a modern tool for MHD spectroscopy",
+      "language": "Fortran",
+      "topics": [
+        "astrophysics",
+        "finite-elements",
+        "magnetohydrodynamics",
+        "spectroscopy"
+      ],
+      "stars": 15,
+      "url": "https://github.com/legolas-project/legolas",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Entroforce/image-gen",
+      "description": "Solar wind animation tool",
+      "language": "C++",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/Entroforce/image-gen",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "topics": [
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-code"
+      ],
+      "stars": 24373,
+      "url": "https://github.com/davila7/claude-code-templates",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "21st-dev/magic-mcp",
+      "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 4684,
+      "url": "https://github.com/21st-dev/magic-mcp",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "winfunc/opcode",
+      "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
+      "language": "TypeScript",
+      "topics": [
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-4",
+        "claude-4-opus",
+        "claude-4-sonnet",
+        "claude-ai",
+        "claude-code",
+        "claude-code-sdk",
+        "cursor",
+        "ide",
+        "llm",
+        "llm-code",
+        "rust",
+        "tauri"
+      ],
+      "stars": 21379,
+      "url": "https://github.com/winfunc/opcode",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "regenrek/planwithgemini",
+      "description": "Plan with Gemini CLI and build with Claude Code or Cursor",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 49,
+      "url": "https://github.com/regenrek/planwithgemini",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "regenrek/codefetch",
+      "description": "Turn code into Markdown for LLMs with one simple terminal command",
+      "language": "TypeScript",
+      "topics": [
+        "cli",
+        "llm",
+        "markdown"
+      ],
+      "stars": 431,
+      "url": "https://github.com/regenrek/codefetch",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ohmybash/oh-my-bash",
+      "description": "A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+      "language": "Shell",
+      "topics": [
+        "bash-configuration",
+        "oh-my-bash",
+        "productivity",
+        "shell",
+        "terminal",
+        "theme"
+      ],
+      "stars": 7404,
+      "url": "https://github.com/ohmybash/oh-my-bash",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "magic-sph/magic",
+      "description": "MagIC is a high-performance code that solves the magneto-hydrodynamics equations in rotating spherical shells",
+      "language": "Fortran",
+      "topics": [
+        "cfd",
+        "computational-fluid-dynamics",
+        "convection",
+        "magnetohydrodynamics",
+        "mhd",
+        "planetary-science",
+        "stellar-astrophysics"
+      ],
+      "stars": 93,
+      "url": "https://github.com/magic-sph/magic",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "rsimitev/LinearAnalysis-ThermoCompConv",
+      "description": "SPECTRAL CODE FOR LINEAR ANALYSIS OF THE ONSET OF THERMO-COMPOSITIONAL CONVECTION IN ROTATING SPHERICAL FLUID SHELLS",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/rsimitev/LinearAnalysis-ThermoCompConv",
+      "archived": false,
+      "fork": true
+    },
+    {
+      "name": "CliMA/Oceananigans.jl",
+      "description": "\ud83c\udf0a  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+      "language": "Julia",
+      "topics": [
+        "climate",
+        "climate-change",
+        "data-assimilation",
+        "fluid-dynamics",
+        "gpu",
+        "julia",
+        "machine-learning",
+        "ocean"
+      ],
+      "stars": 1294,
+      "url": "https://github.com/CliMA/Oceananigans.jl",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "rsimitev/DynamoInRotatingSpheres",
+      "description": "Thermo-compositional convection and dynamos in rotating spherical shells",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/rsimitev/DynamoInRotatingSpheres",
+      "archived": false,
+      "fork": false
+    }
+  ],
+  "Python Projects": [
+    {
+      "name": "safishamsi/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, or images into a queryable knowledge graph",
+      "language": "Python",
+      "topics": [
+        "claude-code",
+        "codex",
+        "graphrag",
+        "knowledge-graph",
+        "openclaw",
+        "skills"
+      ],
+      "stars": 17539,
       "url": "https://github.com/safishamsi/graphify",
       "archived": false,
       "fork": false
@@ -786,7 +1089,7 @@
         "semantic-search",
         "zotero"
       ],
-      "stars": 2380,
+      "stars": 2396,
       "url": "https://github.com/54yyyu/zotero-mcp",
       "archived": false,
       "fork": false
@@ -804,7 +1107,7 @@
         "openai",
         "pdf"
       ],
-      "stars": 93880,
+      "stars": 96793,
       "url": "https://github.com/microsoft/markitdown",
       "archived": false,
       "fork": false
@@ -835,7 +1138,7 @@
         "social-prediction",
         "swarm-intelligence"
       ],
-      "stars": 52009,
+      "stars": 52731,
       "url": "https://github.com/666ghj/MiroFish",
       "archived": false,
       "fork": false
@@ -852,13 +1155,13 @@
         "tools",
         "writer"
       ],
-      "stars": 1427,
+      "stars": 1442,
       "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
       "archived": false,
       "fork": false
     },
     {
-      "name": "K-Dense-AI/claude-scientific-skills",
+      "name": "K-Dense-AI/scientific-agent-skills",
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
       "language": "Python",
       "topics": [
@@ -880,8 +1183,8 @@
         "scientific-computing",
         "scientific-visualization"
       ],
-      "stars": 17724,
-      "url": "https://github.com/K-Dense-AI/claude-scientific-skills",
+      "stars": 17831,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "archived": false,
       "fork": false
     },
@@ -920,7 +1223,7 @@
       "description": "\ud83e\udd17 smolagents: a barebones library for agents that think in code.",
       "language": "Python",
       "topics": [],
-      "stars": 26500,
+      "stars": 26523,
       "url": "https://github.com/huggingface/smolagents",
       "archived": false,
       "fork": false
@@ -945,7 +1248,7 @@
       "description": "Spectral Navier Stokes (and similar) solvers in Python",
       "language": "Python",
       "topics": [],
-      "stars": 346,
+      "stars": 347,
       "url": "https://github.com/spectralDNS/spectralDNS",
       "archived": false,
       "fork": false
@@ -955,7 +1258,7 @@
       "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
       "language": "Python",
       "topics": [],
-      "stars": 19994,
+      "stars": 20001,
       "url": "https://github.com/openai/gpt-oss",
       "archived": false,
       "fork": false
@@ -974,7 +1277,7 @@
         "tensor-methods",
         "tensorly"
       ],
-      "stars": 3527,
+      "stars": 3530,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -989,7 +1292,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 24327,
+      "stars": 24373,
       "url": "https://github.com/davila7/claude-code-templates",
       "archived": false,
       "fork": false
@@ -999,7 +1302,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.",
       "language": "Python",
       "topics": [],
-      "stars": 16310,
+      "stars": 16322,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -1009,7 +1312,7 @@
       "description": "A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.",
       "language": "Python",
       "topics": [],
-      "stars": 22209,
+      "stars": 22212,
       "url": "https://github.com/SuperClaude-Org/SuperClaude_Framework",
       "archived": false,
       "fork": false
@@ -1044,7 +1347,7 @@
         "rag",
         "state-management"
       ],
-      "stars": 52333,
+      "stars": 52456,
       "url": "https://github.com/mem0ai/mem0",
       "archived": false,
       "fork": false
@@ -1229,7 +1532,7 @@
         "pptx",
         "task-automation"
       ],
-      "stars": 3590,
+      "stars": 3599,
       "url": "https://github.com/Paper2Poster/Paper2Poster",
       "archived": false,
       "fork": false
@@ -1273,7 +1576,7 @@
         "pocket-flow",
         "pocketflow"
       ],
-      "stars": 12200,
+      "stars": 12204,
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "archived": false,
       "fork": false
@@ -1297,7 +1600,7 @@
         "pde-solver",
         "spectral-methods"
       ],
-      "stars": 678,
+      "stars": 680,
       "url": "https://github.com/DedalusProject/dedalus",
       "archived": false,
       "fork": false
@@ -1394,7 +1697,7 @@
         "language-server-protocol",
         "lsp"
       ],
-      "stars": 333,
+      "stars": 334,
       "url": "https://github.com/fortran-lang/fortls",
       "archived": false,
       "fork": false
@@ -1812,7 +2115,7 @@
         "tcsh",
         "zsh"
       ],
-      "stars": 14927,
+      "stars": 14935,
       "url": "https://github.com/direnv/direnv",
       "archived": false,
       "fork": false
@@ -1964,7 +2267,7 @@
         "portfolio-website",
         "theme"
       ],
-      "stars": 15445,
+      "stars": 15451,
       "url": "https://github.com/alshedivat/al-folio",
       "archived": false,
       "fork": false
@@ -2078,7 +2381,7 @@
         "talk",
         "typography"
       ],
-      "stars": 259,
+      "stars": 260,
       "url": "https://github.com/pmichaillat/latex-presentation",
       "archived": false,
       "fork": false
@@ -2226,7 +2529,7 @@
         "responsive-web-design",
         "rubygems"
       ],
-      "stars": 9932,
+      "stars": 9948,
       "url": "https://github.com/cotes2020/jekyll-theme-chirpy",
       "archived": false,
       "fork": false
@@ -2290,292 +2593,6 @@
       "url": "https://github.com/esquivas/walicxe3d",
       "archived": false,
       "fork": true
-    }
-  ],
-  "Tools & Utilities": [
-    {
-      "name": "Katagiri-Hoshino-Lab/VibeCodeHPC",
-      "description": "CLI-based multi-agents for Auto-Tuning (e.g. HPC code optimazation loops) supporting Local LLMs",
-      "language": "Python",
-      "topics": [
-        "auto-tuning",
-        "claude-code",
-        "cline-cli",
-        "codex-cli",
-        "gemini-cli",
-        "hpc",
-        "kimi-cli",
-        "local-llm",
-        "multiagent",
-        "opencode",
-        "qwen-code",
-        "ssh-agent",
-        "tmux",
-        "vibe-local"
-      ],
-      "stars": 27,
-      "url": "https://github.com/Katagiri-Hoshino-Lab/VibeCodeHPC",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Sergey-Anfinogentov/seismo-corona",
-      "description": "A GUI tool for MHD-seismology of solar active regions using kink oscillation",
-      "language": "IDL",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/Sergey-Anfinogentov/seismo-corona",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Lum1104/Understand-Anything",
-      "description": "Skill that turn any codebase, Dockerfile, or docs into an interactive knowledge graph you can explore, search, and ask questions about. Multi-platform: Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "language": "TypeScript",
-      "topics": [
-        "antigravity-skills",
-        "business-knowledge",
-        "claude-code",
-        "claude-skills",
-        "codex",
-        "codex-skills",
-        "gemini-cli-skills",
-        "knowledge-base",
-        "knowledge-graph",
-        "memory",
-        "opencode-skills",
-        "pi-agent",
-        "understandcode"
-      ],
-      "stars": 8000,
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "topics": [
-        "autogen",
-        "autogen-extension",
-        "langchain",
-        "markdown",
-        "microsoft-office",
-        "openai",
-        "pdf"
-      ],
-      "stars": 93880,
-      "url": "https://github.com/microsoft/markitdown",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Polymarket/polymarket-cli",
-      "description": null,
-      "language": "Rust",
-      "topics": [],
-      "stars": 2122,
-      "url": "https://github.com/Polymarket/polymarket-cli",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "bpbrown/fluids",
-      "description": "Introduction to Fluid Dynamics:  upper undergraduate to graduate level material in fluid dynamics, guided by problems in the atmospheres of planets and interiors of stars.  This material includes a mixture of lectures, analytic work, and simulation work.  To fully utilize all material, you will need sympy, dedalus and eigentools installed.",
-      "language": "Jupyter Notebook",
-      "topics": [
-        "fluid-dynamics",
-        "fluid-simulation"
-      ],
-      "stars": 5,
-      "url": "https://github.com/bpbrown/fluids",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "bpbrown/solar_models",
-      "description": "Basic tools for reading in and plotting quantities from standard solar structure at atmosphere models.",
-      "language": "Jupyter Notebook",
-      "topics": [],
-      "stars": 6,
-      "url": "https://github.com/bpbrown/solar_models",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "legolas-project/legolas",
-      "description": "Legolas: a modern tool for MHD spectroscopy",
-      "language": "Fortran",
-      "topics": [
-        "astrophysics",
-        "finite-elements",
-        "magnetohydrodynamics",
-        "spectroscopy"
-      ],
-      "stars": 15,
-      "url": "https://github.com/legolas-project/legolas",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Entroforce/image-gen",
-      "description": "Solar wind animation tool",
-      "language": "C++",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/Entroforce/image-gen",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "topics": [
-        "anthropic",
-        "anthropic-claude",
-        "claude",
-        "claude-code"
-      ],
-      "stars": 24327,
-      "url": "https://github.com/davila7/claude-code-templates",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "21st-dev/magic-mcp",
-      "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 4672,
-      "url": "https://github.com/21st-dev/magic-mcp",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "winfunc/opcode",
-      "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
-      "language": "TypeScript",
-      "topics": [
-        "anthropic",
-        "anthropic-claude",
-        "claude",
-        "claude-4",
-        "claude-4-opus",
-        "claude-4-sonnet",
-        "claude-ai",
-        "claude-code",
-        "claude-code-sdk",
-        "cursor",
-        "ide",
-        "llm",
-        "llm-code",
-        "rust",
-        "tauri"
-      ],
-      "stars": 21369,
-      "url": "https://github.com/winfunc/opcode",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "regenrek/planwithgemini",
-      "description": "Plan with Gemini CLI and build with Claude Code or Cursor",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 49,
-      "url": "https://github.com/regenrek/planwithgemini",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "regenrek/codefetch",
-      "description": "Turn code into Markdown for LLMs with one simple terminal command",
-      "language": "TypeScript",
-      "topics": [
-        "cli",
-        "llm",
-        "markdown"
-      ],
-      "stars": 430,
-      "url": "https://github.com/regenrek/codefetch",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ohmybash/oh-my-bash",
-      "description": "A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
-      "language": "Shell",
-      "topics": [
-        "bash-configuration",
-        "oh-my-bash",
-        "productivity",
-        "shell",
-        "terminal",
-        "theme"
-      ],
-      "stars": 7398,
-      "url": "https://github.com/ohmybash/oh-my-bash",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "magic-sph/magic",
-      "description": "MagIC is a high-performance code that solves the magneto-hydrodynamics equations in rotating spherical shells",
-      "language": "Fortran",
-      "topics": [
-        "cfd",
-        "computational-fluid-dynamics",
-        "convection",
-        "magnetohydrodynamics",
-        "mhd",
-        "planetary-science",
-        "stellar-astrophysics"
-      ],
-      "stars": 93,
-      "url": "https://github.com/magic-sph/magic",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "rsimitev/LinearAnalysis-ThermoCompConv",
-      "description": "SPECTRAL CODE FOR LINEAR ANALYSIS OF THE ONSET OF THERMO-COMPOSITIONAL CONVECTION IN ROTATING SPHERICAL FLUID SHELLS",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/rsimitev/LinearAnalysis-ThermoCompConv",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "CliMA/Oceananigans.jl",
-      "description": "\ud83c\udf0a  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
-      "language": "Julia",
-      "topics": [
-        "climate",
-        "climate-change",
-        "data-assimilation",
-        "fluid-dynamics",
-        "gpu",
-        "julia",
-        "machine-learning",
-        "ocean"
-      ],
-      "stars": 1294,
-      "url": "https://github.com/CliMA/Oceananigans.jl",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "rsimitev/DynamoInRotatingSpheres",
-      "description": "Thermo-compositional convection and dynamos in rotating spherical shells",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/rsimitev/DynamoInRotatingSpheres",
-      "archived": false,
-      "fork": false
     }
   ],
   "Fortran Projects": [
@@ -3164,7 +3181,7 @@
         "high-performance-computing",
         "turbulence"
       ],
-      "stars": 262,
+      "stars": 263,
       "url": "https://github.com/CaNS-World/CaNS",
       "archived": false,
       "fork": false
@@ -3195,7 +3212,7 @@
         "singular-values",
         "svd"
       ],
-      "stars": 1834,
+      "stars": 1835,
       "url": "https://github.com/Reference-LAPACK/lapack",
       "archived": false,
       "fork": false
@@ -3664,7 +3681,7 @@
         "high-performance-computing",
         "unstructured-meshes"
       ],
-      "stars": 273,
+      "stars": 274,
       "url": "https://github.com/flexi-framework/flexi",
       "archived": false,
       "fork": false
@@ -4060,7 +4077,7 @@
         "zotero-plugin",
         "zotero7"
       ],
-      "stars": 44,
+      "stars": 45,
       "url": "https://github.com/dralkh/seerai",
       "archived": false,
       "fork": false
@@ -4077,10 +4094,10 @@
     },
     {
       "name": "forrestchang/andrej-karpathy-skills",
-      "description": null,
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
       "topics": [],
-      "stars": 8961,
+      "stars": 10422,
       "url": "https://github.com/forrestchang/andrej-karpathy-skills",
       "archived": false,
       "fork": false
@@ -4090,7 +4107,7 @@
       "description": "It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for working with your frontend like Magic",
       "language": "TypeScript",
       "topics": [],
-      "stars": 4672,
+      "stars": 4684,
       "url": "https://github.com/21st-dev/magic-mcp",
       "archived": false,
       "fork": false
@@ -4124,7 +4141,7 @@
         "personal-website",
         "portfolio-website"
       ],
-      "stars": 16759,
+      "stars": 16774,
       "url": "https://github.com/academicpages/academicpages.github.io",
       "archived": false,
       "fork": false
@@ -4181,7 +4198,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 19233,
+      "stars": 19231,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
@@ -4257,7 +4274,7 @@
         "codex-subagents",
         "subagents"
       ],
-      "stars": 3664,
+      "stars": 3752,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "archived": false,
       "fork": false
@@ -4376,7 +4393,7 @@
         "tensor-methods",
         "tensorly"
       ],
-      "stars": 3527,
+      "stars": 3530,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -4431,7 +4448,7 @@
       "description": "Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation",
       "language": null,
       "topics": [],
-      "stars": 1179,
+      "stars": 1180,
       "url": "https://github.com/iannuttall/claude-sessions",
       "archived": false,
       "fork": false
@@ -4446,7 +4463,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 52034,
+      "stars": 52142,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -4488,7 +4505,7 @@
         "pocket-flow",
         "pocketflow"
       ],
-      "stars": 12200,
+      "stars": 12204,
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "archived": false,
       "fork": false
@@ -4832,7 +4849,7 @@
       "description": "Neural Networks: Zero to Hero",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 21305,
+      "stars": 21326,
       "url": "https://github.com/karpathy/nn-zero-to-hero",
       "archived": false,
       "fork": false
@@ -4995,7 +5012,7 @@
         "simulation",
         "solver"
       ],
-      "stars": 331,
+      "stars": 332,
       "url": "https://github.com/python-hydro/pyro2",
       "archived": false,
       "fork": false
@@ -5525,7 +5542,7 @@
       "description": "Spectral Navier Stokes (and similar) solvers in Python",
       "language": "Python",
       "topics": [],
-      "stars": 346,
+      "stars": 347,
       "url": "https://github.com/spectralDNS/spectralDNS",
       "archived": false,
       "fork": false
@@ -5841,7 +5858,7 @@
         "high-performance-computing",
         "turbulence"
       ],
-      "stars": 262,
+      "stars": 263,
       "url": "https://github.com/CaNS-World/CaNS",
       "archived": false,
       "fork": false
@@ -5927,7 +5944,7 @@
         "language-server-protocol",
         "lsp"
       ],
-      "stars": 333,
+      "stars": 334,
       "url": "https://github.com/fortran-lang/fortls",
       "archived": false,
       "fork": false
@@ -6722,7 +6739,7 @@
         "riemann-solvers",
         "weno-schemes"
       ],
-      "stars": 103,
+      "stars": 104,
       "url": "https://github.com/wme7/ApproximateRiemannSolvers",
       "archived": false,
       "fork": false
@@ -7118,7 +7135,7 @@
         "scientific-computing",
         "scientific-visualization"
       ],
-      "stars": 305,
+      "stars": 306,
       "url": "https://github.com/gnudatalanguage/gdl",
       "archived": false,
       "fork": false
@@ -7128,7 +7145,7 @@
       "description": "A GPU-based hydro code",
       "language": "C++",
       "topics": [],
-      "stars": 70,
+      "stars": 71,
       "url": "https://github.com/cholla-hydro/cholla",
       "archived": false,
       "fork": false
@@ -7187,7 +7204,7 @@
         "pi-agent",
         "understandcode"
       ],
-      "stars": 8000,
+      "stars": 8043,
       "url": "https://github.com/Lum1104/Understand-Anything",
       "archived": false,
       "fork": false
@@ -7272,7 +7289,7 @@
       "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
       "language": "Python",
       "topics": [],
-      "stars": 19994,
+      "stars": 20001,
       "url": "https://github.com/openai/gpt-oss",
       "archived": false,
       "fork": false
@@ -7295,7 +7312,7 @@
         "windsurf",
         "windsurf-ai"
       ],
-      "stars": 26451,
+      "stars": 26461,
       "url": "https://github.com/eyaltoledano/claude-task-master",
       "archived": false,
       "fork": false
@@ -7305,7 +7322,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.",
       "language": "Python",
       "topics": [],
-      "stars": 16310,
+      "stars": 16322,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -7398,7 +7415,7 @@
         "high-performance-computing",
         "turbulence"
       ],
-      "stars": 262,
+      "stars": 263,
       "url": "https://github.com/CaNS-World/CaNS",
       "archived": false,
       "fork": false
@@ -7423,7 +7440,7 @@
         "language-server-protocol",
         "lsp"
       ],
-      "stars": 333,
+      "stars": 334,
       "url": "https://github.com/fortran-lang/fortls",
       "archived": false,
       "fork": false
@@ -7679,7 +7696,7 @@
         "scientific-computing",
         "scientific-visualization"
       ],
-      "stars": 305,
+      "stars": 306,
       "url": "https://github.com/gnudatalanguage/gdl",
       "archived": false,
       "fork": false
