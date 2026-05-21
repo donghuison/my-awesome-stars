@@ -112,7 +112,7 @@
       "description": "foap4 - a combination of Fortran, OpenACC and p4est",
       "language": "Fortran",
       "topics": [],
-      "stars": 5,
+      "stars": 6,
       "url": "https://github.com/jannisteunissen/foap4",
       "archived": false,
       "fork": false
@@ -147,7 +147,7 @@
         "python",
         "rust"
       ],
-      "stars": 197,
+      "stars": 200,
       "url": "https://github.com/PlasmaFAIR/fortitude",
       "archived": false,
       "fork": false
@@ -943,7 +943,7 @@
       "description": "HYDrodynamics and RADiation Code for computing solutions to field-aligned hydrodynamic equations in coronal loops",
       "language": "EmberScript",
       "topics": [],
-      "stars": 15,
+      "stars": 16,
       "url": "https://github.com/rice-solar-physics/HYDRAD",
       "archived": false,
       "fork": false
@@ -1238,7 +1238,7 @@
       "description": "A framework for the automated derivation and parallel execution of finite difference solvers on a range of computer architectures.",
       "language": null,
       "topics": [],
-      "stars": 7,
+      "stars": 6,
       "url": "https://github.com/LMNS3d/opensbli",
       "archived": false,
       "fork": true
@@ -1830,7 +1830,7 @@
         "social-network",
         "socmint"
       ],
-      "stars": 29500,
+      "stars": 29683,
       "url": "https://github.com/soxoj/maigret",
       "archived": false,
       "fork": false
@@ -1869,7 +1869,7 @@
       "description": "AI\uac00 \uc4f4 \uae00\uc774 \uc544\ub2cc \uac83\ucc98\ub7fc \uc724\ubb38\ud574\uc8fc\ub294 \uc2a4\ud0ac",
       "language": "Python",
       "topics": [],
-      "stars": 1216,
+      "stars": 1223,
       "url": "https://github.com/epoko77-ai/im-not-ai",
       "archived": false,
       "fork": false
@@ -1879,7 +1879,7 @@
       "description": "Mimeograph an expert into a SKILL.md or AGENTS.md for your agent.",
       "language": "Python",
       "topics": [],
-      "stars": 93,
+      "stars": 92,
       "url": "https://github.com/K-Dense-AI/mimeo",
       "archived": false,
       "fork": false
@@ -1889,7 +1889,7 @@
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
       "language": "Python",
       "topics": [],
-      "stars": 6313,
+      "stars": 6328,
       "url": "https://github.com/SakanaAI/AI-Scientist-v2",
       "archived": false,
       "fork": false
@@ -1904,7 +1904,7 @@
         "python",
         "rag"
       ],
-      "stars": 111131,
+      "stars": 111260,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "archived": false,
       "fork": false
@@ -1940,7 +1940,7 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 49665,
+      "stars": 50251,
       "url": "https://github.com/safishamsi/graphify",
       "archived": false,
       "fork": false
@@ -1980,7 +1980,7 @@
         "semantic-search",
         "zotero"
       ],
-      "stars": 3239,
+      "stars": 3272,
       "url": "https://github.com/54yyyu/zotero-mcp",
       "archived": false,
       "fork": false
@@ -1998,7 +1998,7 @@
         "openai",
         "pdf"
       ],
-      "stars": 123845,
+      "stars": 124141,
       "url": "https://github.com/microsoft/markitdown",
       "archived": false,
       "fork": false
@@ -2029,7 +2029,7 @@
         "social-prediction",
         "swarm-intelligence"
       ],
-      "stars": 61292,
+      "stars": 61397,
       "url": "https://github.com/666ghj/MiroFish",
       "archived": false,
       "fork": false
@@ -2046,7 +2046,7 @@
         "tools",
         "writer"
       ],
-      "stars": 1792,
+      "stars": 1805,
       "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
       "archived": false,
       "fork": false
@@ -2074,7 +2074,7 @@
         "scientific-computing",
         "scientific-visualization"
       ],
-      "stars": 24784,
+      "stars": 24935,
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "archived": false,
       "fork": false
@@ -2114,7 +2114,7 @@
       "description": "\ud83e\udd17 smolagents: a barebones library for agents that think in code.",
       "language": "Python",
       "topics": [],
-      "stars": 27398,
+      "stars": 27415,
       "url": "https://github.com/huggingface/smolagents",
       "archived": false,
       "fork": false
@@ -2149,7 +2149,7 @@
       "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
       "language": "Python",
       "topics": [],
-      "stars": 20108,
+      "stars": 20109,
       "url": "https://github.com/openai/gpt-oss",
       "archived": false,
       "fork": false
@@ -2168,7 +2168,7 @@
         "tensor-methods",
         "tensorly"
       ],
-      "stars": 3641,
+      "stars": 3642,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -2183,7 +2183,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 27417,
+      "stars": 27446,
       "url": "https://github.com/davila7/claude-code-templates",
       "archived": false,
       "fork": false
@@ -2193,7 +2193,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.",
       "language": "Python",
       "topics": [],
-      "stars": 16525,
+      "stars": 16527,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -2228,7 +2228,7 @@
         "rag",
         "state-management"
       ],
-      "stars": 56183,
+      "stars": 56282,
       "url": "https://github.com/mem0ai/mem0",
       "archived": false,
       "fork": false
@@ -2413,7 +2413,7 @@
         "pptx",
         "task-automation"
       ],
-      "stars": 3720,
+      "stars": 3721,
       "url": "https://github.com/Paper2Poster/Paper2Poster",
       "archived": false,
       "fork": false
@@ -2457,7 +2457,7 @@
         "pocket-flow",
         "pocketflow"
       ],
-      "stars": 12342,
+      "stars": 12343,
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "archived": false,
       "fork": false
@@ -3073,7 +3073,7 @@
       "description": "Neural Networks: Zero to Hero",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 21905,
+      "stars": 21926,
       "url": "https://github.com/karpathy/nn-zero-to-hero",
       "archived": false,
       "fork": false
@@ -3610,7 +3610,7 @@
       "description": null,
       "language": "C++",
       "topics": [],
-      "stars": 9,
+      "stars": 8,
       "url": "https://github.com/LMNS3d/TENO_research_code",
       "archived": false,
       "fork": false
@@ -3638,7 +3638,7 @@
         "parallel-computing",
         "programming-model"
       ],
-      "stars": 2537,
+      "stars": 2538,
       "url": "https://github.com/kokkos/kokkos",
       "archived": false,
       "fork": false
@@ -3935,7 +3935,7 @@
       "description": "foap4 - a combination of Fortran, OpenACC and p4est",
       "language": "Fortran",
       "topics": [],
-      "stars": 5,
+      "stars": 6,
       "url": "https://github.com/jannisteunissen/foap4",
       "archived": false,
       "fork": false
@@ -4040,7 +4040,7 @@
         "magnetohydrodynamics",
         "spectroscopy"
       ],
-      "stars": 15,
+      "stars": 16,
       "url": "https://github.com/legolas-project/legolas",
       "archived": false,
       "fork": false
@@ -5108,7 +5108,7 @@
         "simulation",
         "unstructured-meshes"
       ],
-      "stars": 349,
+      "stars": 348,
       "url": "https://github.com/ucns3d-team/UCNS3D",
       "archived": false,
       "fork": false
@@ -5265,7 +5265,7 @@
       "description": "MPI-AMRVAC: A Parallel Adaptive Mesh Refinement Framework",
       "language": "Fortran",
       "topics": [],
-      "stars": 99,
+      "stars": 98,
       "url": "https://github.com/amrvac/amrvac",
       "archived": false,
       "fork": false
@@ -5404,7 +5404,7 @@
       "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
       "language": "Rust",
       "topics": [],
-      "stars": 21182,
+      "stars": 23618,
       "url": "https://github.com/tinyhumansai/openhuman",
       "archived": false,
       "fork": false
@@ -5451,7 +5451,7 @@
         "cursor",
         "skills"
       ],
-      "stars": 43865,
+      "stars": 44249,
       "url": "https://github.com/addyosmani/agent-skills",
       "archived": false,
       "fork": false
@@ -5461,7 +5461,7 @@
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
       "language": "Python",
       "topics": [],
-      "stars": 6313,
+      "stars": 6328,
       "url": "https://github.com/SakanaAI/AI-Scientist-v2",
       "archived": false,
       "fork": false
@@ -5476,7 +5476,7 @@
         "python",
         "rag"
       ],
-      "stars": 111131,
+      "stars": 111260,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "archived": false,
       "fork": false
@@ -5494,7 +5494,7 @@
         "obsidian",
         "obsidian-plugin"
       ],
-      "stars": 5013,
+      "stars": 5018,
       "url": "https://github.com/brianpetro/obsidian-smart-connections",
       "archived": false,
       "fork": false
@@ -5513,7 +5513,7 @@
         "terminal",
         "tmux"
       ],
-      "stars": 17441,
+      "stars": 17554,
       "url": "https://github.com/manaflow-ai/cmux",
       "archived": false,
       "fork": false
@@ -5535,7 +5535,7 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 49665,
+      "stars": 50251,
       "url": "https://github.com/safishamsi/graphify",
       "archived": false,
       "fork": false
@@ -5550,7 +5550,7 @@
         "semantic-search",
         "zotero"
       ],
-      "stars": 3239,
+      "stars": 3272,
       "url": "https://github.com/54yyyu/zotero-mcp",
       "archived": false,
       "fork": false
@@ -5587,7 +5587,7 @@
       "description": "Neural Networks: Zero to Hero",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 21905,
+      "stars": 21926,
       "url": "https://github.com/karpathy/nn-zero-to-hero",
       "archived": false,
       "fork": false
@@ -5631,7 +5631,7 @@
         "tensor-methods",
         "tensorly"
       ],
-      "stars": 3641,
+      "stars": 3642,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -5661,7 +5661,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 55661,
+      "stars": 55742,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -5686,7 +5686,7 @@
         "rag",
         "state-management"
       ],
-      "stars": 56183,
+      "stars": 56282,
       "url": "https://github.com/mem0ai/mem0",
       "archived": false,
       "fork": false
@@ -5728,7 +5728,7 @@
         "upscalerimage",
         "upscayl"
       ],
-      "stars": 45378,
+      "stars": 45425,
       "url": "https://github.com/upscayl/upscayl",
       "archived": false,
       "fork": false
@@ -5875,7 +5875,7 @@
         "opencode",
         "skills"
       ],
-      "stars": 32111,
+      "stars": 32236,
       "url": "https://github.com/kepano/obsidian-skills",
       "archived": false,
       "fork": false
@@ -5885,7 +5885,7 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "topics": [],
-      "stars": 83859,
+      "stars": 84127,
       "url": "https://github.com/openai/codex",
       "archived": false,
       "fork": false
@@ -5906,7 +5906,7 @@
         "terminal",
         "winfetch"
       ],
-      "stars": 22785,
+      "stars": 22803,
       "url": "https://github.com/fastfetch-cli/fastfetch",
       "archived": false,
       "fork": false
@@ -5935,7 +5935,7 @@
         "terminal",
         "tmux"
       ],
-      "stars": 17441,
+      "stars": 17554,
       "url": "https://github.com/manaflow-ai/cmux",
       "archived": false,
       "fork": false
@@ -5945,7 +5945,7 @@
       "description": "\ud83d\udc7b Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "topics": [],
-      "stars": 54875,
+      "stars": 54945,
       "url": "https://github.com/ghostty-org/ghostty",
       "archived": false,
       "fork": false
@@ -5968,7 +5968,7 @@
         "safari",
         "safari-extension"
       ],
-      "stars": 4345,
+      "stars": 4352,
       "url": "https://github.com/obsidianmd/obsidian-clipper",
       "archived": false,
       "fork": false
@@ -5990,7 +5990,7 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 49665,
+      "stars": 50251,
       "url": "https://github.com/safishamsi/graphify",
       "archived": false,
       "fork": false
@@ -6032,7 +6032,7 @@
     },
     {
       "name": "Lum1104/Understand-Anything",
-      "description": "Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
       "topics": [
         "antigravity-skills",
@@ -6050,7 +6050,7 @@
         "pi-agent",
         "understandcode"
       ],
-      "stars": 15254,
+      "stars": 15676,
       "url": "https://github.com/Lum1104/Understand-Anything",
       "archived": false,
       "fork": false
@@ -6068,7 +6068,7 @@
         "openai",
         "pdf"
       ],
-      "stars": 123845,
+      "stars": 124141,
       "url": "https://github.com/microsoft/markitdown",
       "archived": false,
       "fork": false
@@ -6078,7 +6078,7 @@
       "description": null,
       "language": "Rust",
       "topics": [],
-      "stars": 2685,
+      "stars": 2694,
       "url": "https://github.com/Polymarket/polymarket-cli",
       "archived": false,
       "fork": false
@@ -6116,7 +6116,7 @@
         "magnetohydrodynamics",
         "spectroscopy"
       ],
-      "stars": 15,
+      "stars": 16,
       "url": "https://github.com/legolas-project/legolas",
       "archived": false,
       "fork": false
@@ -6141,7 +6141,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 27417,
+      "stars": 27446,
       "url": "https://github.com/davila7/claude-code-templates",
       "archived": false,
       "fork": false
@@ -6167,7 +6167,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 21894,
+      "stars": 21906,
       "url": "https://github.com/winfunc/opcode",
       "archived": false,
       "fork": false
@@ -6208,7 +6208,7 @@
         "terminal",
         "theme"
       ],
-      "stars": 7505,
+      "stars": 7504,
       "url": "https://github.com/ohmybash/oh-my-bash",
       "archived": false,
       "fork": false
@@ -6255,7 +6255,7 @@
         "machine-learning",
         "ocean"
       ],
-      "stars": 1329,
+      "stars": 1330,
       "url": "https://github.com/CliMA/Oceananigans.jl",
       "archived": false,
       "fork": false
@@ -6323,7 +6323,7 @@
         "tables",
         "tagged-pdf"
       ],
-      "stars": 21404,
+      "stars": 21428,
       "url": "https://github.com/opendataloader-project/opendataloader-pdf",
       "archived": false,
       "fork": false
@@ -6344,7 +6344,7 @@
         "terminal",
         "winfetch"
       ],
-      "stars": 22785,
+      "stars": 22803,
       "url": "https://github.com/fastfetch-cli/fastfetch",
       "archived": false,
       "fork": false
@@ -6354,7 +6354,7 @@
       "description": "\ud83d\udc7b Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "topics": [],
-      "stars": 54875,
+      "stars": 54945,
       "url": "https://github.com/ghostty-org/ghostty",
       "archived": false,
       "fork": false
@@ -6376,7 +6376,7 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 49665,
+      "stars": 50251,
       "url": "https://github.com/safishamsi/graphify",
       "archived": false,
       "fork": false
@@ -6459,7 +6459,7 @@
       "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
       "language": "Python",
       "topics": [],
-      "stars": 20108,
+      "stars": 20109,
       "url": "https://github.com/openai/gpt-oss",
       "archived": false,
       "fork": false
@@ -6469,7 +6469,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.",
       "language": "Python",
       "topics": [],
-      "stars": 16525,
+      "stars": 16527,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -6862,7 +6862,7 @@
         "machine-learning",
         "ocean"
       ],
-      "stars": 1329,
+      "stars": 1330,
       "url": "https://github.com/CliMA/Oceananigans.jl",
       "archived": false,
       "fork": false
@@ -6970,7 +6970,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 330,
+      "stars": 331,
       "url": "https://github.com/chrisryugj/Docufinder",
       "archived": false,
       "fork": false
@@ -6980,7 +6980,7 @@
       "description": "Remote Control for Codex.",
       "language": "Swift",
       "topics": [],
-      "stars": 3085,
+      "stars": 3088,
       "url": "https://github.com/Emanuele-web04/remodex",
       "archived": false,
       "fork": false
@@ -6998,7 +6998,7 @@
         "obsidian",
         "obsidian-plugin"
       ],
-      "stars": 5013,
+      "stars": 5018,
       "url": "https://github.com/brianpetro/obsidian-smart-connections",
       "archived": false,
       "fork": false
@@ -7021,7 +7021,7 @@
         "safari",
         "safari-extension"
       ],
-      "stars": 4345,
+      "stars": 4352,
       "url": "https://github.com/obsidianmd/obsidian-clipper",
       "archived": false,
       "fork": false
@@ -7092,7 +7092,7 @@
         "personal-website",
         "portfolio-website"
       ],
-      "stars": 17001,
+      "stars": 17003,
       "url": "https://github.com/academicpages/academicpages.github.io",
       "archived": false,
       "fork": false
@@ -7149,7 +7149,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 19382,
+      "stars": 19379,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
@@ -7234,7 +7234,7 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 49665,
+      "stars": 50251,
       "url": "https://github.com/safishamsi/graphify",
       "archived": false,
       "fork": false
@@ -7256,7 +7256,7 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 162686,
+      "stars": 163140,
       "url": "https://github.com/anomalyco/opencode",
       "archived": false,
       "fork": false
@@ -7274,7 +7274,7 @@
         "obsidian",
         "obsidian-plugin"
       ],
-      "stars": 5013,
+      "stars": 5018,
       "url": "https://github.com/brianpetro/obsidian-smart-connections",
       "archived": false,
       "fork": false
@@ -7290,7 +7290,7 @@
         "obsidian-plugin",
         "plugin"
       ],
-      "stars": 589,
+      "stars": 590,
       "url": "https://github.com/ozntel/file-tree-alternative",
       "archived": false,
       "fork": false
@@ -7302,7 +7302,7 @@
       "topics": [
         "obsidian-plugin"
       ],
-      "stars": 679,
+      "stars": 680,
       "url": "https://github.com/mdelobelle/obsidian_supercharged_links",
       "archived": false,
       "fork": false
@@ -7346,7 +7346,7 @@
         "pdf",
         "search"
       ],
-      "stars": 1996,
+      "stars": 1999,
       "url": "https://github.com/scambier/obsidian-omnisearch",
       "archived": false,
       "fork": false
@@ -7370,7 +7370,7 @@
         "obsidian-plugin",
         "obsidian-theme"
       ],
-      "stars": 738,
+      "stars": 740,
       "url": "https://github.com/kepano/obsidian-minimal-settings",
       "archived": false,
       "fork": false
@@ -7396,7 +7396,7 @@
         "obsidian-md",
         "obsidian-plugin"
       ],
-      "stars": 4955,
+      "stars": 4956,
       "url": "https://github.com/SilentVoid13/Templater",
       "archived": false,
       "fork": false
@@ -7438,7 +7438,7 @@
         "obsidian-plugin",
         "plugin"
       ],
-      "stars": 797,
+      "stars": 796,
       "url": "https://github.com/chetachiezikeuzor/Highlightr-Plugin",
       "archived": false,
       "fork": false
@@ -7461,7 +7461,7 @@
         "obsidian",
         "plugin"
       ],
-      "stars": 896,
+      "stars": 897,
       "url": "https://github.com/tadashi-aikawa/obsidian-various-complements-plugin",
       "archived": false,
       "fork": false
@@ -7475,7 +7475,7 @@
         "obsidian-plugin",
         "outliner"
       ],
-      "stars": 1326,
+      "stars": 1327,
       "url": "https://github.com/vslinko/obsidian-outliner",
       "archived": false,
       "fork": false
@@ -7498,7 +7498,7 @@
         "safari",
         "safari-extension"
       ],
-      "stars": 4345,
+      "stars": 4352,
       "url": "https://github.com/obsidianmd/obsidian-clipper",
       "archived": false,
       "fork": false
@@ -7527,7 +7527,7 @@
         "vector-icons",
         "vite"
       ],
-      "stars": 2087,
+      "stars": 2089,
       "url": "https://github.com/xandemon/developer-icons",
       "archived": false,
       "fork": false
@@ -7537,7 +7537,7 @@
       "description": null,
       "language": "TypeScript",
       "topics": [],
-      "stars": 162,
+      "stars": 163,
       "url": "https://github.com/jlegewie/beaver-zotero",
       "archived": false,
       "fork": false
@@ -7547,7 +7547,7 @@
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 29071,
+      "stars": 29179,
       "url": "https://github.com/Yeachan-Heo/oh-my-codex",
       "archived": false,
       "fork": false
@@ -7581,7 +7581,7 @@
     },
     {
       "name": "Lum1104/Understand-Anything",
-      "description": "Graphs that teach > graphs that impress. Turn any code, or knowledge base (Karpathy LLM wiki), into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "language": "TypeScript",
       "topics": [
         "antigravity-skills",
@@ -7599,7 +7599,7 @@
         "pi-agent",
         "understandcode"
       ],
-      "stars": 15254,
+      "stars": 15676,
       "url": "https://github.com/Lum1104/Understand-Anything",
       "archived": false,
       "fork": false
@@ -7609,7 +7609,7 @@
       "description": null,
       "language": "JavaScript",
       "topics": [],
-      "stars": 13287,
+      "stars": 13292,
       "url": "https://github.com/andrewyng/context-hub",
       "archived": false,
       "fork": false
@@ -7636,7 +7636,7 @@
         "tui",
         "typescript"
       ],
-      "stars": 58590,
+      "stars": 58734,
       "url": "https://github.com/code-yeongyu/oh-my-openagent",
       "archived": false,
       "fork": false
@@ -7679,7 +7679,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 21894,
+      "stars": 21906,
       "url": "https://github.com/winfunc/opcode",
       "archived": false,
       "fork": false
@@ -7726,7 +7726,7 @@
         "cloudflare",
         "mcp"
       ],
-      "stars": 1690,
+      "stars": 1691,
       "url": "https://github.com/supermemoryai/supermemory-mcp",
       "archived": false,
       "fork": false
@@ -7736,7 +7736,7 @@
       "description": "A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 791,
+      "stars": 792,
       "url": "https://github.com/Iamshankhadeep/ccseva",
       "archived": false,
       "fork": false
@@ -7751,7 +7751,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 55661,
+      "stars": 55742,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -7761,7 +7761,7 @@
       "description": "Model Context Protocol Servers",
       "language": "TypeScript",
       "topics": [],
-      "stars": 85938,
+      "stars": 86003,
       "url": "https://github.com/modelcontextprotocol/servers",
       "archived": false,
       "fork": false
@@ -7787,7 +7787,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 19382,
+      "stars": 19379,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
@@ -7809,7 +7809,7 @@
         "upscalerimage",
         "upscayl"
       ],
-      "stars": 45378,
+      "stars": 45425,
       "url": "https://github.com/upscayl/upscayl",
       "archived": false,
       "fork": false
@@ -7849,7 +7849,7 @@
         "slides",
         "themes"
       ],
-      "stars": 994,
+      "stars": 998,
       "url": "https://github.com/favourhong/Awesome-Marp",
       "archived": false,
       "fork": false
@@ -7875,7 +7875,7 @@
         "scientific-discovery",
         "self-improving-systems"
       ],
-      "stars": 1968,
+      "stars": 1978,
       "url": "https://github.com/alvinreal/awesome-autoresearch",
       "archived": false,
       "fork": false
@@ -7890,7 +7890,7 @@
         "python",
         "rag"
       ],
-      "stars": 111131,
+      "stars": 111260,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "archived": false,
       "fork": false
@@ -7918,7 +7918,7 @@
         "codex-subagents",
         "subagents"
       ],
-      "stars": 4779,
+      "stars": 4802,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "archived": false,
       "fork": false
@@ -8037,7 +8037,7 @@
         "tensor-methods",
         "tensorly"
       ],
-      "stars": 3641,
+      "stars": 3642,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -8107,7 +8107,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 55661,
+      "stars": 55742,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -8149,7 +8149,7 @@
         "pocket-flow",
         "pocketflow"
       ],
-      "stars": 12342,
+      "stars": 12343,
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "archived": false,
       "fork": false
@@ -8445,7 +8445,7 @@
         "markdown",
         "public-data"
       ],
-      "stars": 1350,
+      "stars": 1352,
       "url": "https://github.com/legalize-kr/legalize-kr",
       "archived": false,
       "fork": false
@@ -8458,7 +8458,7 @@
         "marp",
         "marp-themes"
       ],
-      "stars": 270,
+      "stars": 271,
       "url": "https://github.com/kaisugi/marp-theme-academic",
       "archived": false,
       "fork": false
@@ -8471,7 +8471,7 @@
         "obsidian",
         "obsidian-md"
       ],
-      "stars": 17922,
+      "stars": 17953,
       "url": "https://github.com/obsidianmd/obsidian-releases",
       "archived": false,
       "fork": false
@@ -8481,7 +8481,7 @@
       "description": "tmux source code",
       "language": "C",
       "topics": [],
-      "stars": 45686,
+      "stars": 45722,
       "url": "https://github.com/tmux/tmux",
       "archived": false,
       "fork": false
@@ -8501,7 +8501,7 @@
         "tcsh",
         "zsh"
       ],
-      "stars": 15093,
+      "stars": 15096,
       "url": "https://github.com/direnv/direnv",
       "archived": false,
       "fork": false
@@ -8531,7 +8531,7 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
       "topics": [],
-      "stars": 137986,
+      "stars": 140808,
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "archived": false,
       "fork": false
@@ -8581,7 +8581,7 @@
       "description": null,
       "language": "HTML",
       "topics": [],
-      "stars": 81,
+      "stars": 82,
       "url": "https://github.com/NCAR/GPU_workshop",
       "archived": false,
       "fork": false
@@ -8663,7 +8663,7 @@
         "portfolio-website",
         "theme"
       ],
-      "stars": 15628,
+      "stars": 15636,
       "url": "https://github.com/alshedivat/al-folio",
       "archived": false,
       "fork": false
@@ -8777,7 +8777,7 @@
         "talk",
         "typography"
       ],
-      "stars": 268,
+      "stars": 269,
       "url": "https://github.com/pmichaillat/latex-presentation",
       "archived": false,
       "fork": false
@@ -8925,7 +8925,7 @@
         "responsive-web-design",
         "rubygems"
       ],
-      "stars": 10075,
+      "stars": 10079,
       "url": "https://github.com/cotes2020/jekyll-theme-chirpy",
       "archived": false,
       "fork": false
@@ -9263,7 +9263,7 @@
         "machine-learning",
         "ocean"
       ],
-      "stars": 1329,
+      "stars": 1330,
       "url": "https://github.com/CliMA/Oceananigans.jl",
       "archived": false,
       "fork": false
