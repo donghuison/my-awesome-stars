@@ -1,1264 +1,34 @@
 {
-  "Python Projects": [
-    {
-      "name": "Yuan1z0825/nature-skills",
-      "description": "\u7b26\u5408nature\u8bba\u6587\u5b66\u672f\u8868\u8fbe\u548c\u79d1\u7814\u7ed8\u56fe\u7684Skill",
-      "language": "Python",
-      "topics": [
-        "codex-skills",
-        "nature",
-        "nature-skills"
-      ],
-      "stars": 13770,
-      "url": "https://github.com/Yuan1z0825/nature-skills",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "openai/skills",
-      "description": "Skills Catalog for Codex",
-      "language": "Python",
-      "topics": [],
-      "stars": 20833,
-      "url": "https://github.com/openai/skills",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Fortran-FOSS-Programmers/ford",
-      "description": "Automatically generates FORtran Documentation from comments within the code.",
-      "language": "Python",
-      "topics": [
-        "documentation-generator",
-        "documentation-tool",
-        "fortran",
-        "fortran-documenter",
-        "fortran-language",
-        "static-analysis"
-      ],
-      "stars": 454,
-      "url": "https://github.com/Fortran-FOSS-Programmers/ford",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Imbad0202/academic-research-skills-codex",
-      "description": "Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows",
-      "language": "Python",
-      "topics": [
-        "academic-pipeline",
-        "academic-research",
-        "academic-writing",
-        "ai-research",
-        "codex",
-        "literature-review",
-        "openai-codex",
-        "peer-review",
-        "prompt-engineering",
-        "research-assistant"
-      ],
-      "stars": 2183,
-      "url": "https://github.com/Imbad0202/academic-research-skills-codex",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pmocz/navier-stokes-jax",
-      "description": "A simple Navier Stokes solver written in JAX with inverse-problem optimizer",
-      "language": "Python",
-      "topics": [],
-      "stars": 9,
-      "url": "https://github.com/pmocz/navier-stokes-jax",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Squirbie/im-not-ai-codex",
-      "description": "Codex plugin port of epoko77-ai/im-not-ai for Korean AI-tell rewriting",
-      "language": "Python",
-      "topics": [],
-      "stars": 18,
-      "url": "https://github.com/Squirbie/im-not-ai-codex",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "soxoj/maigret",
-      "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from 3000+ sites",
-      "language": "Python",
-      "topics": [
-        "cli",
-        "cybersecurity",
-        "identification",
-        "information-gathering",
-        "infosec",
-        "investigation",
-        "open-source",
-        "osint",
-        "osint-framework",
-        "osint-python",
-        "pentesting",
-        "python",
-        "python3",
-        "reconnaissance",
-        "redteam",
-        "scraping",
-        "sherlock",
-        "social-network",
-        "socmint",
-        "username"
-      ],
-      "stars": 30949,
-      "url": "https://github.com/soxoj/maigret",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "wtbarnes/fiasco",
-      "description": "Python interface to the CHIANTI atomic database",
-      "language": "Python",
-      "topics": [
-        "astronomy",
-        "atomic-physics",
-        "chianti",
-        "chianti-atomic-database",
-        "python",
-        "solar",
-        "solar-physics",
-        "spectroscopy"
-      ],
-      "stars": 33,
-      "url": "https://github.com/wtbarnes/fiasco",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "NCAR/stokespy",
-      "description": "Package for analysis of solar spectropolarimetric data and inversions",
-      "language": "Python",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/NCAR/stokespy",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "epoko77-ai/im-not-ai",
-      "description": "AI\uac00 \uc4f4 \uae00\uc774 \uc544\ub2cc \uac83\ucc98\ub7fc \uc724\ubb38\ud574\uc8fc\ub294 \uc2a4\ud0ac",
-      "language": "Python",
-      "topics": [],
-      "stars": 1371,
-      "url": "https://github.com/epoko77-ai/im-not-ai",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "K-Dense-AI/mimeo",
-      "description": "Mimeograph an expert into a SKILL.md or AGENTS.md for your agent.",
-      "language": "Python",
-      "topics": [],
-      "stars": 182,
-      "url": "https://github.com/K-Dense-AI/mimeo",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "SakanaAI/AI-Scientist-v2",
-      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-      "language": "Python",
-      "topics": [],
-      "stars": 6400,
-      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
-      "language": "Python",
-      "topics": [
-        "agents",
-        "llms",
-        "python",
-        "rag"
-      ],
-      "stars": 112153,
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "aradi/fypp",
-      "description": "Python powered Fortran preprocessor",
-      "language": "Python",
-      "topics": [
-        "fortran",
-        "metaprogramming",
-        "preprocessor"
-      ],
-      "stars": 215,
-      "url": "https://github.com/aradi/fypp",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "safishamsi/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "language": "Python",
-      "topics": [
-        "antigravity",
-        "claude-code",
-        "codex",
-        "gemini",
-        "graphrag",
-        "knowledge-graph",
-        "leiden",
-        "openclaw",
-        "rag",
-        "skills",
-        "tree-sitter"
-      ],
-      "stars": 56173,
-      "url": "https://github.com/safishamsi/graphify",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Katagiri-Hoshino-Lab/VibeCodeHPC",
-      "description": "CLI-based multi-agents for Auto-Tuning (e.g. HPC code optimazation loops) supporting Local LLMs",
-      "language": "Python",
-      "topics": [
-        "auto-tuning",
-        "claude-code",
-        "cline-cli",
-        "codex-cli",
-        "gemini-cli",
-        "hpc",
-        "kimi-cli",
-        "local-llm",
-        "multiagent",
-        "opencode",
-        "qwen-code",
-        "ssh-agent",
-        "tmux",
-        "vibe-local"
-      ],
-      "stars": 34,
-      "url": "https://github.com/Katagiri-Hoshino-Lab/VibeCodeHPC",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "54yyyu/zotero-mcp",
-      "description": "Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.",
-      "language": "Python",
-      "topics": [
-        "claude",
-        "mcp",
-        "semantic-search",
-        "zotero"
-      ],
-      "stars": 3472,
-      "url": "https://github.com/54yyyu/zotero-mcp",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "topics": [
-        "autogen",
-        "autogen-extension",
-        "langchain",
-        "markdown",
-        "microsoft-office",
-        "openai",
-        "pdf"
-      ],
-      "stars": 129939,
-      "url": "https://github.com/microsoft/markitdown",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ToBlick/mrx",
-      "description": null,
-      "language": "Python",
-      "topics": [],
-      "stars": 21,
-      "url": "https://github.com/ToBlick/mrx",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "666ghj/MiroFish",
-      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
-      "language": "Python",
-      "topics": [
-        "agent-memory",
-        "financial-forecasting",
-        "future-prediction",
-        "knowledge-graph",
-        "llms",
-        "multi-agent-simulation",
-        "public-opinion-analysis",
-        "python3",
-        "social-prediction",
-        "swarm-intelligence"
-      ],
-      "stars": 63168,
-      "url": "https://github.com/666ghj/MiroFish",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "K-Dense-AI/claude-scientific-writer",
-      "description": "A general purpose scientific writer",
-      "language": "Python",
-      "topics": [
-        "ai-agents",
-        "anthropic",
-        "claude",
-        "skills",
-        "tools",
-        "writer"
-      ],
-      "stars": 1861,
-      "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-scientist",
-        "bioinformatics",
-        "chemoinformatics",
-        "claude",
-        "claude-skills",
-        "claudecode",
-        "clinical-research",
-        "computational-biology",
-        "data-analysis",
-        "drug-discovery",
-        "genomics",
-        "materials-science",
-        "metabolomics",
-        "proteomics",
-        "scientific-computing",
-        "scientific-visualization"
-      ],
-      "stars": 26543,
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "LM-SAL/SunToday",
-      "description": "Repository for SunToday (https://suntoday.lmsal.com) images",
-      "language": "Python",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/LM-SAL/SunToday",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "glue-viz/glue-solar",
-      "description": "Work in progress solar physics plugins for glue :sun_with_face: ",
-      "language": "Python",
-      "topics": [],
-      "stars": 11,
-      "url": "https://github.com/glue-viz/glue-solar",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "tiagopereira/rt-viz",
-      "description": "Radiative Transfer visualisations",
-      "language": "Python",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/tiagopereira/rt-viz",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "huggingface/smolagents",
-      "description": "\ud83e\udd17 smolagents: a barebones library for agents that think in code.",
-      "language": "Python",
-      "topics": [],
-      "stars": 27588,
-      "url": "https://github.com/huggingface/smolagents",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "jiwoncpark/aracle",
-      "description": "Predictive model of solar magnetic flux emergence using deep learning",
-      "language": "Python",
-      "topics": [
-        "hmi",
-        "instance-segmentation",
-        "object-detection",
-        "spaceweather"
-      ],
-      "stars": 2,
-      "url": "https://github.com/jiwoncpark/aracle",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "spectralDNS/spectralDNS",
-      "description": "Spectral Navier Stokes (and similar) solvers in Python",
-      "language": "Python",
-      "topics": [],
-      "stars": 350,
-      "url": "https://github.com/spectralDNS/spectralDNS",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "openai/gpt-oss",
-      "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
-      "language": "Python",
-      "topics": [],
-      "stars": 20121,
-      "url": "https://github.com/openai/gpt-oss",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "neuraloperator/neuraloperator",
-      "description": "Learning in infinite dimension with neural operators.",
-      "language": "Python",
-      "topics": [
-        "fno",
-        "fourier-neural-operator",
-        "neural-operator",
-        "neural-operators",
-        "partial-differential-equations",
-        "pytorch",
-        "tensor-methods",
-        "tensorly"
-      ],
-      "stars": 3660,
-      "url": "https://github.com/neuraloperator/neuraloperator",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "topics": [
-        "anthropic",
-        "anthropic-claude",
-        "claude",
-        "claude-code"
-      ],
-      "stars": 27661,
-      "url": "https://github.com/davila7/claude-code-templates",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "QwenLM/Qwen3-Coder",
-      "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.",
-      "language": "Python",
-      "topics": [],
-      "stars": 16571,
-      "url": "https://github.com/QwenLM/Qwen3-Coder",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cfinch/Shocksolution_Examples",
-      "description": "Example code from shocksolution.com",
-      "language": "Python",
-      "topics": [],
-      "stars": 93,
-      "url": "https://github.com/cfinch/Shocksolution_Examples",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "mem0ai/mem0",
-      "description": "Universal memory layer for AI Agents",
-      "language": "Python",
-      "topics": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "application",
-        "chatbots",
-        "chatgpt",
-        "genai",
-        "llm",
-        "long-term-memory",
-        "memory",
-        "memory-management",
-        "python",
-        "rag",
-        "state-management"
-      ],
-      "stars": 57097,
-      "url": "https://github.com/mem0ai/mem0",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pmocz/constrainedtransport-python",
-      "description": "Finite Volume Constrained Transport MHD simulation of the Orszag-Tang vortex",
-      "language": "Python",
-      "topics": [
-        "astrophysics",
-        "constrained-transport",
-        "finite-volume",
-        "magnetohydrodynamics",
-        "mhd",
-        "orszag-tang",
-        "scientific-computing",
-        "simulation",
-        "tutorial"
-      ],
-      "stars": 21,
-      "url": "https://github.com/pmocz/constrainedtransport-python",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pmocz/finitevolume2-python",
-      "description": "Create Your Own Finite Volume Fluid Simulation (With Python) Part 2:  Boundary Conditions and Source Terms",
-      "language": "Python",
-      "topics": [
-        "euler-equation",
-        "finite-volume",
-        "rayleigh-taylor",
-        "scientific-computing",
-        "simulation",
-        "tutorial"
-      ],
-      "stars": 31,
-      "url": "https://github.com/pmocz/finitevolume2-python",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pmocz/nbody-performance-comparison",
-      "description": "Directly compare performance of vectorized and for-loop implementations of the N-body problem in Matlab, Julia, and Python",
-      "language": "Python",
-      "topics": [],
-      "stars": 9,
-      "url": "https://github.com/pmocz/nbody-performance-comparison",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pmocz/cfd-comparison-python",
-      "description": "Comparison of various numerical methods for computational fluid dynamics",
-      "language": "Python",
-      "topics": [
-        "cfd",
-        "finite-volume",
-        "lattice-boltzmann",
-        "smoothed-particle-hydrodynamics",
-        "spectral-methods"
-      ],
-      "stars": 76,
-      "url": "https://github.com/pmocz/cfd-comparison-python",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pmocz/KelvinHelmholtzInstability",
-      "description": "Kelvin Helmholtz Instability (KHI) simulation in python using a 2D finite volume scheme",
-      "language": "Python",
-      "topics": [],
-      "stars": 23,
-      "url": "https://github.com/pmocz/KelvinHelmholtzInstability",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "JohannesBuchner/presentations",
-      "description": "Research presentations on Astronomy and Astrostatistics ",
-      "language": "Python",
-      "topics": [
-        "astronomy",
-        "astrophysics",
-        "astrostatistics",
-        "presentation-slides",
-        "research",
-        "statistics"
-      ],
-      "stars": 2,
-      "url": "https://github.com/JohannesBuchner/presentations",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "JohannesBuchner/languagecheck",
-      "description": "Improve the language of your paper before submission",
-      "language": "Python",
-      "topics": [
-        "grammar-checker",
-        "language-analysis",
-        "latex",
-        "overleaf",
-        "proof-reading",
-        "publishing",
-        "python"
-      ],
-      "stars": 110,
-      "url": "https://github.com/JohannesBuchner/languagecheck",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "khumbird/nuen-rad-hyrdro",
-      "description": "1-D Lagrangian Radiation Hydrodynamics Code",
-      "language": "Python",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/khumbird/nuen-rad-hyrdro",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "okada39/pinn_cavity",
-      "description": "Physics informed neural network (PINN) for cavity flow governed by Navier-Stokes equation.",
-      "language": "Python",
-      "topics": [],
-      "stars": 162,
-      "url": "https://github.com/okada39/pinn_cavity",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "okada39/pinn_wave",
-      "description": "Physics Informed Neural Network (PINN) for the wave equation.",
-      "language": "Python",
-      "topics": [],
-      "stars": 214,
-      "url": "https://github.com/okada39/pinn_wave",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "justinh2002/mhd_data_analysis",
-      "description": null,
-      "language": "Python",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/justinh2002/mhd_data_analysis",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "justinh2002/num_methods_pack",
-      "description": "random numerical solvers for elliptic/hyperbolic pdes which i update at sporadic times, finite difference, finite elements, finite volume, pseuodpsectral etc",
-      "language": "Python",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/justinh2002/num_methods_pack",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "FinMacDov/PhD_codes",
-      "description": null,
-      "language": "Python",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/FinMacDov/PhD_codes",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Paper2Poster/Paper2Poster",
-      "description": "[NeurIPS 2025] Open-source Multi-agent Poster Generation from Papers",
-      "language": "Python",
-      "topics": [
-        "agent",
-        "multi-agent-systems",
-        "paper",
-        "poster",
-        "pptx",
-        "task-automation"
-      ],
-      "stars": 3737,
-      "url": "https://github.com/Paper2Poster/Paper2Poster",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "predsci/MagMAP",
-      "description": "Python package for downloading and processing solar magnetograms.",
-      "language": "Python",
-      "topics": [],
-      "stars": 8,
-      "url": "https://github.com/predsci/MagMAP",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "predsci/OFT",
-      "description": "Open Source Flux Transport",
-      "language": "Python",
-      "topics": [],
-      "stars": 9,
-      "url": "https://github.com/predsci/OFT",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
-      "description": "Pocket Flow: Codebase to Tutorial",
-      "language": "Python",
-      "topics": [
-        "coding",
-        "large-language-model",
-        "large-language-models",
-        "llm",
-        "llm-agent",
-        "llm-agents",
-        "llm-application",
-        "llm-apps",
-        "llm-framework",
-        "llm-frameworks",
-        "llms",
-        "pocket-flow",
-        "pocketflow"
-      ],
-      "stars": 12346,
-      "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "komeisugiura/defn18",
-      "description": "Deep Flare Net 2018",
-      "language": "Python",
-      "topics": [],
-      "stars": 18,
-      "url": "https://github.com/komeisugiura/defn18",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "DedalusProject/dedalus",
-      "description": "A flexible framework for solving PDEs with modern spectral methods.",
-      "language": "Python",
-      "topics": [
-        "fluid-dynamics",
-        "pde-solver",
-        "spectral-methods"
-      ],
-      "stars": 688,
-      "url": "https://github.com/DedalusProject/dedalus",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "DedalusProject/methods_paper_examples",
-      "description": "Example problems from the Dedalus methods paper.",
-      "language": "Python",
-      "topics": [],
-      "stars": 21,
-      "url": "https://github.com/DedalusProject/methods_paper_examples",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "wtbarnes/sunkit-dem",
-      "description": "Differential Emission Measures",
-      "language": "Python",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/wtbarnes/sunkit-dem",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "andyto1234/eis_flare_project_esa_computer",
-      "description": null,
-      "language": "Python",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/andyto1234/eis_flare_project_esa_computer",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "okada39/pinn_burgers",
-      "description": "Physics Informed Neural Network (PINN) for Burgers' equation.",
-      "language": "Python",
-      "topics": [],
-      "stars": 77,
-      "url": "https://github.com/okada39/pinn_burgers",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pourion/solver_conservations",
-      "description": "1. 2D Riemann solver for conservation laws with WENO interpolation, and TVD-RK3 time integration/ 2. supporting HLL and MUSTA Riemann solvers / 3.  Option for Strang splitting with Gudonov fluxes  and Euler in time / 4. with a simple WENO-based advection method",
-      "language": "Python",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/pourion/solver_conservations",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "levimcclenny/SA-PINNs",
-      "description": "Implementation of the paper \"Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism\" [AAAI-MLPS 2021]",
-      "language": "Python",
-      "topics": [
-        "adaptive-pinns",
-        "deep-learning",
-        "neural-network",
-        "neural-networks",
-        "pdes",
-        "physics-informed-learning",
-        "pinns",
-        "scientific-computing",
-        "sciml",
-        "stiff-pdes",
-        "tensorflow"
-      ],
-      "stars": 294,
-      "url": "https://github.com/levimcclenny/SA-PINNs",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "space-weather-KU/chainer-semi",
-      "description": "Chainer Playground\u306e\u653b\u7565\u672c\u3067\u3059",
-      "language": "Python",
-      "topics": [],
-      "stars": 4,
-      "url": "https://github.com/space-weather-KU/chainer-semi",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "fortran-lang/fortls",
-      "description": "fortls - Fortran Language Server",
-      "language": "Python",
-      "topics": [
-        "fortls",
-        "fortran",
-        "language-server-protocol",
-        "lsp"
-      ],
-      "stars": 336,
-      "url": "https://github.com/fortran-lang/fortls",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "GiMattia/PyPLUTO",
-      "description": "A data analysis Python package for the PLUTO code",
-      "language": "Python",
-      "topics": [
-        "python",
-        "visualization"
-      ],
-      "stars": 15,
-      "url": "https://github.com/GiMattia/PyPLUTO",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cheshirepezz/CEM",
-      "description": "Computational ElectroMagnetism on a Yee Lattice",
-      "language": "Python",
-      "topics": [
-        "cem",
-        "fdtd",
-        "maxwell-equation",
-        "plasma-physics",
-        "yee-grid"
-      ],
-      "stars": 19,
-      "url": "https://github.com/cheshirepezz/CEM",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cheshirepezz/esPiC1D",
-      "description": "1D Particle-in-Cell code using explicit method",
-      "language": "Python",
-      "topics": [
-        "fdtd",
-        "filamentation-instability",
-        "pic",
-        "plasma-physics",
-        "weibel-instability"
-      ],
-      "stars": 8,
-      "url": "https://github.com/cheshirepezz/esPiC1D",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "igarashitc/tython",
-      "description": null,
-      "language": "Python",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/igarashitc/tython",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "igarashitc/ThermalEquilibrium",
-      "description": null,
-      "language": "Python",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/igarashitc/ThermalEquilibrium",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "wtbarnes/synthesizAR",
-      "description": "Python package for forward modeling optically-thin emission from field-aligned hydrodynamic models",
-      "language": "Python",
-      "topics": [],
-      "stars": 12,
-      "url": "https://github.com/wtbarnes/synthesizAR",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ahmadpeyvan/RiemannONet",
-      "description": "This repository consists of two-step training DeepONet code.",
-      "language": "Python",
-      "topics": [],
-      "stars": 14,
-      "url": "https://github.com/ahmadpeyvan/RiemannONet",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "RamiCassia/Godunov-Loss-Functions-for-Modelling-of-Hyperbolic-Conservation-Laws",
-      "description": null,
-      "language": "Python",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/RamiCassia/Godunov-Loss-Functions-for-Modelling-of-Hyperbolic-Conservation-Laws",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "tlrh314/AurigaGCS",
-      "description": "Code for paper: The globular cluster system of the Auriga simulations.",
-      "language": "Python",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/tlrh314/AurigaGCS",
-      "archived": true,
-      "fork": false
-    },
-    {
-      "name": "henrywatkins/gawain",
-      "description": "A simple numerical MHD simulation code in python.",
-      "language": "Python",
-      "topics": [
-        "magnetohydrodynamics",
-        "numerical-simulations",
-        "plasma-physics",
-        "python"
-      ],
-      "stars": 20,
-      "url": "https://github.com/henrywatkins/gawain",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "oekrice/outflow",
-      "description": "Python script to calculate equilibrium solutions of the magnetofrictional model, taking into account solar wind outflow in the solar corona.",
-      "language": "Python",
-      "topics": [],
-      "stars": 4,
-      "url": "https://github.com/oekrice/outflow",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "itztli/flares-monitor",
-      "description": "Check solar flares in real time",
-      "language": "Python",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/itztli/flares-monitor",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "opensbli/opensbli",
-      "description": "A framework for the automated derivation and parallel execution of finite difference solvers on a range of computer architectures.",
-      "language": "Python",
-      "topics": [
-        "automatic-code-generation",
-        "code-generation",
-        "compressible-fluid-dynamics",
-        "computational-fluid-dynamics",
-        "finite-differences",
-        "gpu-computing",
-        "high-performance-computing",
-        "numerical-modelling",
-        "parallel-computing"
-      ],
-      "stars": 109,
-      "url": "https://github.com/opensbli/opensbli",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pmocz/riemann-solver",
-      "description": "Riemann solver for the Euler equations",
-      "language": "Python",
-      "topics": [
-        "computational-fluid-dynamics",
-        "interactive",
-        "riemann-problem",
-        "scientific-computing",
-        "tutorial"
-      ],
-      "stars": 32,
-      "url": "https://github.com/pmocz/riemann-solver",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "mrkondratyev/Piastra",
-      "description": "A user-friendly teaching framework for studying computational (astrophysical) fluid dynamics & MHD. The code implements 1D/2D linear advection, Newtonian/special-relativistic gas dynamics and MHD, as well as diffusion solvers, using a finite-volume approach. NumPy library is used for code clarity and performance.",
-      "language": "Python",
-      "topics": [
-        "advection",
-        "astrophysical-simulation",
-        "cfd",
-        "fluid-simulation",
-        "hydrodynamics",
-        "magnetohydrodynamics",
-        "python"
-      ],
-      "stars": 7,
-      "url": "https://github.com/mrkondratyev/Piastra",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ibackus/sod-shocktube",
-      "description": "A simple pythonic implementation of a Riemann solver for the analytic solution of the sod shock tube.",
-      "language": "Python",
-      "topics": [],
-      "stars": 31,
-      "url": "https://github.com/ibackus/sod-shocktube",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "github-nakasho/mhdflow_1d",
-      "description": "MHD simulation code with Python Interface",
-      "language": "Python",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/github-nakasho/mhdflow_1d",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "github-nakasho/solar-limb-darkening",
-      "description": null,
-      "language": "Python",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/github-nakasho/solar-limb-darkening",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pmocz/artificialneuralnetwork-python",
-      "description": "Artificial Neural Network for Image Classification",
-      "language": "Python",
-      "topics": [
-        "artificial-neural-networks",
-        "astrophysics",
-        "machine-learning",
-        "scientific-computing",
-        "tutorial"
-      ],
-      "stars": 13,
-      "url": "https://github.com/pmocz/artificialneuralnetwork-python",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pmocz/advectiondiffusion-jax",
-      "description": "Solve the advection diffusion equations looped into an optimization problem with JAX/autodiff",
-      "language": "Python",
-      "topics": [
-        "automatic-differentiation",
-        "jax",
-        "scientific-computing",
-        "tutorial"
-      ],
-      "stars": 14,
-      "url": "https://github.com/pmocz/advectiondiffusion-jax",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "wacmkxiaoyi/Shockfinder",
-      "description": "ShockFinder is an interactive scientic simulation data analysis software based on python and supports multi-process, multi-mode, I/O access and drawing.",
-      "language": "Python",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/wacmkxiaoyi/Shockfinder",
-      "archived": true,
-      "fork": false
-    },
-    {
-      "name": "IhmeGroup/quail",
-      "description": "A lightweight discontinuous Galerkin code for teaching and prototyping",
-      "language": "Python",
-      "topics": [],
-      "stars": 66,
-      "url": "https://github.com/IhmeGroup/quail",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "alt2019/1d-wave-equation-PML-BC",
-      "description": "PML for 1d wave equation",
-      "language": "Python",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/alt2019/1d-wave-equation-PML-BC",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "shop2world/ultrashop",
-      "description": null,
-      "language": "Python",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/shop2world/ultrashop",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "JeongHyunJin/Jeong2020_SolarFarsideMagnetograms",
-      "description": "Jeong et al. (2020) \"Solar coronal magnetic field extrapolation from synchronic data with AI-generated farside\", The Astrophysical Journal Letters, Volume 903, Issue 2, id.L25, 9 pp.",
-      "language": "Python",
-      "topics": [],
-      "stars": 6,
-      "url": "https://github.com/JeongHyunJin/Jeong2020_SolarFarsideMagnetograms",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "geoffvasil/nssl_mri",
-      "description": "Code for computing Magneto-Rotational Instability (MRI) eigenfunctions in the solar Near-Surface Shear Layer (NSSL)",
-      "language": "Python",
-      "topics": [],
-      "stars": 8,
-      "url": "https://github.com/geoffvasil/nssl_mri",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pmocz/finitevolume-python",
-      "description": "Finite Volume simulation of the Kelvin-Helmholtz Instability",
-      "language": "Python",
-      "topics": [
-        "astrophysics",
-        "euler-equations",
-        "finite-volume",
-        "kelvin-helmholtz-instability",
-        "scientific-computing",
-        "simulation",
-        "tutorial"
-      ],
-      "stars": 142,
-      "url": "https://github.com/pmocz/finitevolume-python",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cmoestl/3DCORE",
-      "description": "3D coronal mass ejection flux rope modeling",
-      "language": "Python",
-      "topics": [
-        "heliophysics",
-        "solarwind",
-        "spacephysics",
-        "spaceweather"
-      ],
-      "stars": 7,
-      "url": "https://github.com/cmoestl/3DCORE",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "kpetrovay/Polar-SFT",
-      "description": "The code in this repository solves the radial component of the magnetic  flux transport equation (induction equation) on the solar surface in  the 1D (axisymmetric) case, including a heuristic decay term -B_r/tau on  the right hand side.",
-      "language": "Python",
-      "topics": [
-        "solar-physics"
-      ],
-      "stars": 5,
-      "url": "https://github.com/kpetrovay/Polar-SFT",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "peichmb/non-axisymmetric-ft",
-      "description": "Transport of magnetic flux on the solar surface and interior. I wrote this code for this paper: https://doi.org/10.1051/0004-6361/201730509. Please, cite it if you use the code!",
-      "language": "Python",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/peichmb/non-axisymmetric-ft",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "SWAT-Sheffield/Flux-Surfaces",
-      "description": "Run SAC and compute flux surfaces to do MHD wave analysis",
-      "language": "Python",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/SWAT-Sheffield/Flux-Surfaces",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "chianti-atomic/ChiantiPy",
-      "description": "ChiantiPy is a python package to calculate the radiative properties of astrophysical plasmas based on the CHIANTI atomic database",
-      "language": "Python",
-      "topics": [
-        "astrophysics",
-        "chianti",
-        "chianti-atomic-database",
-        "python",
-        "spectroscopy"
-      ],
-      "stars": 72,
-      "url": "https://github.com/chianti-atomic/ChiantiPy",
-      "archived": false,
-      "fork": false
-    }
-  ],
   "Scientific Computing & Numerical Analysis": [
+    {
+      "name": "boutproject/BOUT-dev",
+      "description": "BOUT++: Plasma fluid finite-difference simulation code in curvilinear coordinate systems",
+      "language": "C++",
+      "topics": [
+        "c-plus-plus",
+        "computational-physics",
+        "numerical-modelling",
+        "pde",
+        "physics",
+        "physics-simulation-library",
+        "plasma",
+        "python"
+      ],
+      "stars": 235,
+      "url": "https://github.com/boutproject/BOUT-dev",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "K-Dense-AI/science-superpowers",
+      "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 135,
+      "url": "https://github.com/K-Dense-AI/science-superpowers",
+      "archived": false,
+      "fork": false
+    },
     {
       "name": "IAS-Astrophysics/athenak",
       "description": "Performance-portable version of the Athena++ astrophysical AMR-MHD code using Kokkos.",
@@ -1281,7 +51,7 @@
         "fortran-language",
         "static-analysis"
       ],
-      "stars": 454,
+      "stars": 455,
       "url": "https://github.com/Fortran-FOSS-Programmers/ford",
       "archived": false,
       "fork": false
@@ -1447,7 +217,7 @@
         "metaprogramming",
         "preprocessor"
       ],
-      "stars": 215,
+      "stars": 216,
       "url": "https://github.com/aradi/fypp",
       "archived": false,
       "fork": false
@@ -1997,7 +767,7 @@
         "sph",
         "webgpu"
       ],
-      "stars": 512,
+      "stars": 511,
       "url": "https://github.com/matsuoka-601/WebGPU-Ocean",
       "archived": false,
       "fork": false
@@ -2613,7 +1383,7 @@
       "description": "A course in numerical methods with Python for engineers and scientists: currently 5 learning modules, with student assignments.",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 956,
+      "stars": 957,
       "url": "https://github.com/numerical-mooc/numerical-mooc",
       "archived": false,
       "fork": false
@@ -3069,6 +1839,2605 @@
       "fork": false
     }
   ],
+  "C++ Projects": [
+    {
+      "name": "boutproject/BOUT-dev",
+      "description": "BOUT++: Plasma fluid finite-difference simulation code in curvilinear coordinate systems",
+      "language": "C++",
+      "topics": [
+        "c-plus-plus",
+        "computational-physics",
+        "numerical-modelling",
+        "pde",
+        "physics",
+        "physics-simulation-library",
+        "plasma",
+        "python"
+      ],
+      "stars": 235,
+      "url": "https://github.com/boutproject/BOUT-dev",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "IAS-Astrophysics/athenak",
+      "description": "Performance-portable version of the Athena++ astrophysical AMR-MHD code using Kokkos.",
+      "language": "C++",
+      "topics": [],
+      "stars": 120,
+      "url": "https://github.com/IAS-Astrophysics/athenak",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "stanfordhpccenter/HTR-solver",
+      "description": "Hypersonic Task-based Research (HTR) solver for the Navier-Stokes equations at hypersonic Mach numbers including finite-rate chemistry for dissociating air and multicomponent transport.",
+      "language": "C++",
+      "topics": [],
+      "stars": 90,
+      "url": "https://github.com/stanfordhpccenter/HTR-solver",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "AMReX-Codes/amrex",
+      "description": "AMReX: Software Framework for Block Structured AMR",
+      "language": "C++",
+      "topics": [
+        "adaptive-mesh-refinement",
+        "amr",
+        "amrex",
+        "high-performance-computing",
+        "hpsf",
+        "scientific-computing"
+      ],
+      "stars": 751,
+      "url": "https://github.com/AMReX-Codes/amrex",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "parthenon-hpc-lab/parthenon",
+      "description": "Parthenon AMR infrastructure ",
+      "language": "C++",
+      "topics": [
+        "amr",
+        "high-performance-computing",
+        "kokkos",
+        "parthenon"
+      ],
+      "stars": 160,
+      "url": "https://github.com/parthenon-hpc-lab/parthenon",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "PrincetonUniversity/athena",
+      "description": "Athena++ radiation GRMHD code and adaptive mesh refinement (AMR) framework",
+      "language": "C++",
+      "topics": [],
+      "stars": 335,
+      "url": "https://github.com/PrincetonUniversity/athena",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Jhuighuy/StormRuler",
+      "description": "A very high order FVM framework",
+      "language": "C++",
+      "topics": [
+        "cfd",
+        "computational-fluid-dynamics",
+        "finite-volume-methods",
+        "high-performance-computing",
+        "hpc",
+        "krylov-methods",
+        "multiphysics",
+        "solver",
+        "unstructured-meshes"
+      ],
+      "stars": 17,
+      "url": "https://github.com/Jhuighuy/StormRuler",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "garethcmurphy/Interstellar-Jet-MHD-Simulation",
+      "description": "\ud83d\ude80 A parallelized numerical solver for magnetohydrodynamics (MHD) equations, developed using finite volume methods to simulate \ud83c\udf0c jets in the interstellar medium. This code is optimized for large-scale astrophysical simulations with \u26a1 MPI-based parallelism, making it suitable for high-performance computing environments \ud83d\udda5\ufe0f. Perfect for exploring th",
+      "language": "C++",
+      "topics": [
+        "fluid-dynamics",
+        "fluid-simulation",
+        "magnetohydrodynamics",
+        "mhd",
+        "mpi"
+      ],
+      "stars": 15,
+      "url": "https://github.com/garethcmurphy/Interstellar-Jet-MHD-Simulation",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "is-isee/MISO",
+      "description": "Open solver for magnetohydrodynamic equations developed in ISEE, Nagoya University.",
+      "language": "C++",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/is-isee/MISO",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Entroforce/image-gen",
+      "description": "Solar wind animation tool",
+      "language": "C++",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/Entroforce/image-gen",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "LMNS3d/TENO_research_code",
+      "description": null,
+      "language": "C++",
+      "topics": [],
+      "stars": 8,
+      "url": "https://github.com/LMNS3d/TENO_research_code",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "mdelorme/fv2d",
+      "description": "Simple 2D finite volume code in C++ with Kokkos to prototype/experiment.",
+      "language": "C++",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/mdelorme/fv2d",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "kokkos/kokkos",
+      "description": "Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction",
+      "language": "C++",
+      "topics": [
+        "abstraction",
+        "c-plus-plus",
+        "high-performance-computing",
+        "hpsf",
+        "kokkos",
+        "parallel-computing",
+        "programming-model"
+      ],
+      "stars": 2552,
+      "url": "https://github.com/kokkos/kokkos",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "MelanieWindt/RadiationTransfer",
+      "description": "Solving the radiation transfer equation in 3d using short characteristics method. ",
+      "language": "C++",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/MelanieWindt/RadiationTransfer",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "mlwong/HAMeRS",
+      "description": "Hydrodynamics Adaptive Mesh Refinement Simulator (HAMeRS) for compressible multi-species/multi-phase simulations",
+      "language": "C++",
+      "topics": [
+        "adaptive-mesh-refinement",
+        "computational-fluid-dynamics",
+        "large-eddy-simulation",
+        "multi-species",
+        "parallel-computing",
+        "shock-capturing",
+        "simulation",
+        "turbulence"
+      ],
+      "stars": 67,
+      "url": "https://github.com/mlwong/HAMeRS",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "AMReX-Astro/Castro",
+      "description": "Castro (Compressible Astrophysics): An adaptive mesh, astrophysical compressible (radiation-, magneto-)  hydrodynamics simulation code for massively parallel CPU and GPU architectures.",
+      "language": "C++",
+      "topics": [
+        "adaptive-mesh-refinement",
+        "amr",
+        "amrex",
+        "astrophysical-simulation",
+        "astrophysics",
+        "castro",
+        "cfd",
+        "gravity",
+        "hydrodynamics",
+        "pde",
+        "radiation",
+        "reactions"
+      ],
+      "stars": 333,
+      "url": "https://github.com/AMReX-Astro/Castro",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "athelas-astro/athelas",
+      "description": "Lagrangian radiation-hydrodynamics code using discontinuous Galerkin methods written in C++",
+      "language": "C++",
+      "topics": [],
+      "stars": 7,
+      "url": "https://github.com/athelas-astro/athelas",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "vavrines/SPM",
+      "description": "finite volume solver for radiative transfer equation",
+      "language": "C++",
+      "topics": [
+        "finite-volume"
+      ],
+      "stars": 6,
+      "url": "https://github.com/vavrines/SPM",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "kjhunkk/ExactRiemannSolver",
+      "description": "Exact Riemann solver for the 1D Euler equations, ideal gas.",
+      "language": "C++",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/kjhunkk/ExactRiemannSolver",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "kjhunkk/FVM_WENO",
+      "description": null,
+      "language": "C++",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/kjhunkk/FVM_WENO",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "piccolo255/mhd2d-solver",
+      "description": "PDE solver for 2D MHD problems. Implements the ENO scheme.",
+      "language": "C++",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/piccolo255/mhd2d-solver",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "LMNS3d/TENO_CPC",
+      "description": "The repository documents the key algorithms of high-order TENO schemes",
+      "language": "C++",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/LMNS3d/TENO_CPC",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "jingchangshi/RoeRiemannSolver",
+      "description": "1D Roe Riemann Solver",
+      "language": "C++",
+      "topics": [],
+      "stars": 10,
+      "url": "https://github.com/jingchangshi/RoeRiemannSolver",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "gnudatalanguage/gdl",
+      "description": "GDL - GNU Data Language",
+      "language": "C++",
+      "topics": [
+        "antlr",
+        "astronomy",
+        "data-analysis",
+        "dicom",
+        "eigen3",
+        "fits-files",
+        "geophysics",
+        "grib",
+        "gsl-library",
+        "hdf",
+        "hdf5",
+        "mapping",
+        "netcdf",
+        "plotting",
+        "plplot",
+        "programming-language",
+        "pv-wave",
+        "python",
+        "scientific-computing",
+        "scientific-visualization"
+      ],
+      "stars": 309,
+      "url": "https://github.com/gnudatalanguage/gdl",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cholla-hydro/cholla",
+      "description": "A GPU-based hydro code",
+      "language": "C++",
+      "topics": [],
+      "stars": 73,
+      "url": "https://github.com/cholla-hydro/cholla",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "WENO-OF/WENOEXT",
+      "description": "Weighted essentially non-oscillatory library for the framework of OpenFOAM",
+      "language": "C++",
+      "topics": [
+        "openfoam",
+        "weno-schemes"
+      ],
+      "stars": 144,
+      "url": "https://github.com/WENO-OF/WENOEXT",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "minoshim/qasMHD",
+      "description": "Quasi all-speed magnetohydrodynamic simulation code",
+      "language": "C++",
+      "topics": [],
+      "stars": 7,
+      "url": "https://github.com/minoshim/qasMHD",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "bcaddy/hydro-sandbox",
+      "description": "This is a place for me to practice and experiment with Riemann solvers, MHD, and other miscelanious hydro related things.",
+      "language": "C++",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/bcaddy/hydro-sandbox",
+      "archived": false,
+      "fork": false
+    }
+  ],
+  "Tools & Utilities": [
+    {
+      "name": "rtk-ai/rtk",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "language": "Rust",
+      "topics": [
+        "agentic-coding",
+        "ai-coding",
+        "anthropic",
+        "claude-code",
+        "cli",
+        "command-line-tool",
+        "cost-reduction",
+        "developer-tools",
+        "llm",
+        "open-source",
+        "productivity",
+        "rust",
+        "token-optimization"
+      ],
+      "stars": 56547,
+      "url": "https://github.com/rtk-ai/rtk",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "jannisteunissen/fosito",
+      "description": "fortran simulation tools",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/jannisteunissen/fosito",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "kepano/obsidian-skills",
+      "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
+      "language": null,
+      "topics": [
+        "claude",
+        "clawdbot",
+        "cli",
+        "codex",
+        "defuddle",
+        "obsidian",
+        "openclaw",
+        "opencode",
+        "skills"
+      ],
+      "stars": 33697,
+      "url": "https://github.com/kepano/obsidian-skills",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "openai/codex",
+      "description": "Lightweight coding agent that runs in your terminal",
+      "language": "Rust",
+      "topics": [],
+      "stars": 87126,
+      "url": "https://github.com/openai/codex",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "topics": [
+        "bsdfetch",
+        "command-line",
+        "fastfetch",
+        "fetch",
+        "flashfetch",
+        "hacktoberfest",
+        "macfetch",
+        "neofetch",
+        "terminal",
+        "winfetch"
+      ],
+      "stars": 22987,
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "PKM-er/obsidian-editing-toolbar",
+      "description": "An obsidian toolbar plugin, modified from the Cmenu plugin",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 1394,
+      "url": "https://github.com/PKM-er/obsidian-editing-toolbar",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "manaflow-ai/cmux",
+      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "language": "JavaScript",
+      "topics": [
+        "amp",
+        "claude-code",
+        "codex",
+        "gemini",
+        "ghostty",
+        "opencode",
+        "terminal",
+        "tmux"
+      ],
+      "stars": 20461,
+      "url": "https://github.com/manaflow-ai/cmux",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ghostty-org/ghostty",
+      "description": "\ud83d\udc7b Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "language": "Zig",
+      "topics": [],
+      "stars": 55608,
+      "url": "https://github.com/ghostty-org/ghostty",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "obsidianmd/obsidian-clipper",
+      "description": "Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.",
+      "language": "TypeScript",
+      "topics": [
+        "brave",
+        "browser-extension",
+        "chrome",
+        "chrome-extension",
+        "chromium",
+        "edge",
+        "firefox",
+        "firefox-addon",
+        "obsidian",
+        "obsidianmd",
+        "safari",
+        "safari-extension"
+      ],
+      "stars": 4454,
+      "url": "https://github.com/obsidianmd/obsidian-clipper",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "safishamsi/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "topics": [
+        "antigravity",
+        "claude-code",
+        "codex",
+        "gemini",
+        "graphrag",
+        "knowledge-graph",
+        "leiden",
+        "openclaw",
+        "rag",
+        "skills",
+        "tree-sitter"
+      ],
+      "stars": 56768,
+      "url": "https://github.com/safishamsi/graphify",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Katagiri-Hoshino-Lab/VibeCodeHPC",
+      "description": "CLI-based multi-agents for Auto-Tuning (e.g. HPC code optimazation loops) supporting Local LLMs",
+      "language": "Python",
+      "topics": [
+        "auto-tuning",
+        "claude-code",
+        "cline-cli",
+        "codex-cli",
+        "gemini-cli",
+        "hpc",
+        "kimi-cli",
+        "local-llm",
+        "multiagent",
+        "opencode",
+        "qwen-code",
+        "ssh-agent",
+        "tmux",
+        "vibe-local"
+      ],
+      "stars": 34,
+      "url": "https://github.com/Katagiri-Hoshino-Lab/VibeCodeHPC",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Sergey-Anfinogentov/seismo-corona",
+      "description": "A GUI tool for MHD-seismology of solar active regions using kink oscillation",
+      "language": "IDL",
+      "topics": [],
+      "stars": 4,
+      "url": "https://github.com/Sergey-Anfinogentov/seismo-corona",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Lum1104/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "topics": [
+        "antigravity-skills",
+        "business-knowledge",
+        "claude-code",
+        "claude-skills",
+        "codebase-analysis",
+        "codex",
+        "codex-skills",
+        "developer-tools-ai-agent",
+        "gemini-cli-skills",
+        "karpathy-llm-wiki",
+        "knowledge-base",
+        "knowledge-graph",
+        "memory",
+        "opencode-skills",
+        "pi-agent",
+        "understandcode",
+        "vibe-coding"
+      ],
+      "stars": 45930,
+      "url": "https://github.com/Lum1104/Understand-Anything",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "topics": [
+        "autogen",
+        "autogen-extension",
+        "langchain",
+        "markdown",
+        "microsoft-office",
+        "openai",
+        "pdf"
+      ],
+      "stars": 132365,
+      "url": "https://github.com/microsoft/markitdown",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Polymarket/polymarket-cli",
+      "description": null,
+      "language": "Rust",
+      "topics": [],
+      "stars": 2737,
+      "url": "https://github.com/Polymarket/polymarket-cli",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "bpbrown/fluids",
+      "description": "Introduction to Fluid Dynamics:  upper undergraduate to graduate level material in fluid dynamics, guided by problems in the atmospheres of planets and interiors of stars.  This material includes a mixture of lectures, analytic work, and simulation work.  To fully utilize all material, you will need sympy, dedalus and eigentools installed.",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "fluid-dynamics",
+        "fluid-simulation"
+      ],
+      "stars": 6,
+      "url": "https://github.com/bpbrown/fluids",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "bpbrown/solar_models",
+      "description": "Basic tools for reading in and plotting quantities from standard solar structure at atmosphere models.",
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "stars": 7,
+      "url": "https://github.com/bpbrown/solar_models",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "legolas-project/legolas",
+      "description": "Legolas: a modern tool for MHD spectroscopy",
+      "language": "Fortran",
+      "topics": [
+        "astrophysics",
+        "finite-elements",
+        "magnetohydrodynamics",
+        "spectroscopy"
+      ],
+      "stars": 16,
+      "url": "https://github.com/legolas-project/legolas",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Entroforce/image-gen",
+      "description": "Solar wind animation tool",
+      "language": "C++",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/Entroforce/image-gen",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "topics": [
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-code"
+      ],
+      "stars": 27677,
+      "url": "https://github.com/davila7/claude-code-templates",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "winfunc/opcode",
+      "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
+      "language": "TypeScript",
+      "topics": [
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-4",
+        "claude-4-opus",
+        "claude-4-sonnet",
+        "claude-ai",
+        "claude-code",
+        "claude-code-sdk",
+        "cursor",
+        "ide",
+        "llm",
+        "llm-code",
+        "rust",
+        "tauri"
+      ],
+      "stars": 21975,
+      "url": "https://github.com/winfunc/opcode",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "regenrek/planwithgemini",
+      "description": "Plan with Gemini CLI and build with Claude Code or Cursor",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 49,
+      "url": "https://github.com/regenrek/planwithgemini",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "regenrek/codefetch",
+      "description": "Turn code into Markdown for LLMs with one simple terminal command",
+      "language": "TypeScript",
+      "topics": [
+        "cli",
+        "llm",
+        "markdown"
+      ],
+      "stars": 439,
+      "url": "https://github.com/regenrek/codefetch",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ohmybash/oh-my-bash",
+      "description": "A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
+      "language": "Shell",
+      "topics": [
+        "bash-configuration",
+        "oh-my-bash",
+        "productivity",
+        "shell",
+        "terminal",
+        "theme"
+      ],
+      "stars": 7519,
+      "url": "https://github.com/ohmybash/oh-my-bash",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "magic-sph/magic",
+      "description": "MagIC is a high-performance code that solves the magneto-hydrodynamics equations in rotating spherical shells",
+      "language": "Fortran",
+      "topics": [
+        "cfd",
+        "computational-fluid-dynamics",
+        "convection",
+        "magnetohydrodynamics",
+        "mhd",
+        "planetary-science",
+        "stellar-astrophysics"
+      ],
+      "stars": 95,
+      "url": "https://github.com/magic-sph/magic",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "rsimitev/LinearAnalysis-ThermoCompConv",
+      "description": "SPECTRAL CODE FOR LINEAR ANALYSIS OF THE ONSET OF THERMO-COMPOSITIONAL CONVECTION IN ROTATING SPHERICAL FLUID SHELLS",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/rsimitev/LinearAnalysis-ThermoCompConv",
+      "archived": false,
+      "fork": true
+    },
+    {
+      "name": "CliMA/Oceananigans.jl",
+      "description": "\ud83c\udf0a  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+      "language": "Julia",
+      "topics": [
+        "climate",
+        "climate-change",
+        "data-assimilation",
+        "fluid-dynamics",
+        "gpu",
+        "julia",
+        "machine-learning",
+        "ocean"
+      ],
+      "stars": 1331,
+      "url": "https://github.com/CliMA/Oceananigans.jl",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "rsimitev/DynamoInRotatingSpheres",
+      "description": "Thermo-compositional convection and dynamos in rotating spherical shells",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/rsimitev/DynamoInRotatingSpheres",
+      "archived": false,
+      "fork": false
+    }
+  ],
+  "Machine Learning & AI": [
+    {
+      "name": "K-Dense-AI/science-superpowers",
+      "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 135,
+      "url": "https://github.com/K-Dense-AI/science-superpowers",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
+      "language": "Rust",
+      "topics": [],
+      "stars": 29775,
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Squirbie/im-not-ai-codex",
+      "description": "Codex plugin port of epoko77-ai/im-not-ai for Korean AI-tell rewriting",
+      "language": "Python",
+      "topics": [],
+      "stars": 21,
+      "url": "https://github.com/Squirbie/im-not-ai-codex",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "joonan30/llm-wiki-labs",
+      "description": "AI \ub3d9\ub8cc\uacfc\ud559\uc790\uc640 \ud568\uaed8 \uc5f0\uad6c\ud558\ub294 \ubc29\ubc95 \u2014 1\uc778 \uc5f0\uad6c\uc790\uac00 AI \uc704\ud0a4\ub97c \uc6b4\uc601\ud558\ub294 \uc2dc\uc2a4\ud15c \uc778\ud130\ub799\ud2f0\ube0c \ubaa8\uc74c. Joonan Lab.",
+      "language": "HTML",
+      "topics": [],
+      "stars": 7,
+      "url": "https://github.com/joonan30/llm-wiki-labs",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "joonan30/lecture-llm-wiki",
+      "description": "LLM-Wiki \u2014 \ub300\ud559\uc6d0\uc0dd\uc744 \uc704\ud55c AI \uc9c0\uc2dd \ubca0\uc774\uc2a4 (\ubd84\ud574\uc0dd\ubb3c\ud559 \ub300\ud559\uc6d0 \ud2b9\uac15, \uc548\uc900\uc6a9)",
+      "language": "HTML",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/joonan30/lecture-llm-wiki",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "chrisryugj/Docufinder",
+      "description": "Anything \u2014 \ud30c\uc77c\uc744 \ucc3e\uc9c0 \ub9d0\uace0, \ub0b4\uc6a9\uc744 \ucc3e\uc73c\uc138\uc694. HWPX \u00b7 PDF \u00b7 Office \uc218\ucc9c \uac74\uc758 \ubcf8\ubb38\uc744 1\ucd08 \ub9cc\uc5d0. 100% \ub85c\uceec \u00b7 \uc644\uc804 \uc624\ud504\ub77c\uc778 \u00b7 AI Q&A \uc635\uc158 (Tauri \u00b7 React \u00b7 Rust) | Local content search for Korean PCs \u2014 HWP-first, fully offline",
+      "language": "Rust",
+      "topics": [
+        "desktop-app",
+        "document-search",
+        "fts5",
+        "hwpx",
+        "korean",
+        "korean-nlp",
+        "offline-first",
+        "onnx",
+        "rag",
+        "react",
+        "rust",
+        "tauri"
+      ],
+      "stars": 336,
+      "url": "https://github.com/chrisryugj/Docufinder",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "Shell",
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "antigravity-ide",
+        "claude-code",
+        "cursor",
+        "skills"
+      ],
+      "stars": 47195,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "SakanaAI/AI-Scientist-v2",
+      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "language": "Python",
+      "topics": [],
+      "stars": 6410,
+      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "stars": 112268,
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "brianpetro/obsidian-smart-connections",
+      "description": "Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3",
+      "language": "JavaScript",
+      "topics": [
+        "chatgpt",
+        "claude",
+        "embeddings",
+        "gemini",
+        "llama3",
+        "obsidian",
+        "obsidian-plugin"
+      ],
+      "stars": 5061,
+      "url": "https://github.com/brianpetro/obsidian-smart-connections",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "manaflow-ai/cmux",
+      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "language": "JavaScript",
+      "topics": [
+        "amp",
+        "claude-code",
+        "codex",
+        "gemini",
+        "ghostty",
+        "opencode",
+        "terminal",
+        "tmux"
+      ],
+      "stars": 20461,
+      "url": "https://github.com/manaflow-ai/cmux",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "safishamsi/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "topics": [
+        "antigravity",
+        "claude-code",
+        "codex",
+        "gemini",
+        "graphrag",
+        "knowledge-graph",
+        "leiden",
+        "openclaw",
+        "rag",
+        "skills",
+        "tree-sitter"
+      ],
+      "stars": 56768,
+      "url": "https://github.com/safishamsi/graphify",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "54yyyu/zotero-mcp",
+      "description": "Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.",
+      "language": "Python",
+      "topics": [
+        "claude",
+        "mcp",
+        "semantic-search",
+        "zotero"
+      ],
+      "stars": 3485,
+      "url": "https://github.com/54yyyu/zotero-mcp",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "dralkh/seerai",
+      "description": "Zotero AI plugin, research framework, assistant, workspaces, cloud, google drive, with MCP, agent capabilities, OCR, table extraction, semantic scholar, and firecrawl/tavily web search",
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "agentic",
+        "ai",
+        "cloud",
+        "drive",
+        "google-drive",
+        "mcp",
+        "openai",
+        "openai-api",
+        "plugin",
+        "research",
+        "research-tool",
+        "research-tools",
+        "scholar",
+        "semantic-search",
+        "tavily",
+        "zotero",
+        "zotero-addon",
+        "zotero-api",
+        "zotero-plugin"
+      ],
+      "stars": 55,
+      "url": "https://github.com/dralkh/seerai",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-scientist",
+        "bioinformatics",
+        "chemoinformatics",
+        "claude",
+        "claude-skills",
+        "claudecode",
+        "clinical-research",
+        "computational-biology",
+        "data-analysis",
+        "drug-discovery",
+        "genomics",
+        "materials-science",
+        "metabolomics",
+        "proteomics",
+        "scientific-computing",
+        "scientific-visualization"
+      ],
+      "stars": 26637,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "karpathy/nn-zero-to-hero",
+      "description": "Neural Networks: Zero to Hero",
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "stars": 22857,
+      "url": "https://github.com/karpathy/nn-zero-to-hero",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ITA-Solar/dlrocs",
+      "description": "Deep Learning workshop at RoCS",
+      "language": null,
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/ITA-Solar/dlrocs",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "jiwoncpark/aracle",
+      "description": "Predictive model of solar magnetic flux emergence using deep learning",
+      "language": "Python",
+      "topics": [
+        "hmi",
+        "instance-segmentation",
+        "object-detection",
+        "spaceweather"
+      ],
+      "stars": 2,
+      "url": "https://github.com/jiwoncpark/aracle",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "neuraloperator/neuraloperator",
+      "description": "Learning in infinite dimension with neural operators.",
+      "language": "Python",
+      "topics": [
+        "fno",
+        "fourier-neural-operator",
+        "neural-operator",
+        "neural-operators",
+        "partial-differential-equations",
+        "pytorch",
+        "tensor-methods",
+        "tensorly"
+      ],
+      "stars": 3660,
+      "url": "https://github.com/neuraloperator/neuraloperator",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "HelioML/HelioML",
+      "description": "A book about machine learning, statistics, and data mining for heliophysics",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "data-mining",
+        "heliophysics",
+        "machine-learning",
+        "statistics"
+      ],
+      "stars": 77,
+      "url": "https://github.com/HelioML/HelioML",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "upstash/context7",
+      "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+      "language": "TypeScript",
+      "topics": [
+        "llm",
+        "mcp",
+        "mcp-server",
+        "vibe-coding"
+      ],
+      "stars": 56429,
+      "url": "https://github.com/upstash/context7",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "application",
+        "chatbots",
+        "chatgpt",
+        "genai",
+        "llm",
+        "long-term-memory",
+        "memory",
+        "memory-management",
+        "python",
+        "rag",
+        "state-management"
+      ],
+      "stars": 57159,
+      "url": "https://github.com/mem0ai/mem0",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "okada39/pinn_cavity",
+      "description": "Physics informed neural network (PINN) for cavity flow governed by Navier-Stokes equation.",
+      "language": "Python",
+      "topics": [],
+      "stars": 162,
+      "url": "https://github.com/okada39/pinn_cavity",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "okada39/pinn_wave",
+      "description": "Physics Informed Neural Network (PINN) for the wave equation.",
+      "language": "Python",
+      "topics": [],
+      "stars": 214,
+      "url": "https://github.com/okada39/pinn_wave",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "upscayl/upscayl",
+      "description": "\ud83c\udd99 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "electron",
+        "esrgan",
+        "gigapixel",
+        "gigapixel-images",
+        "image",
+        "image-upscaling",
+        "topaz",
+        "upscale",
+        "upscalerimage",
+        "upscayl"
+      ],
+      "stars": 45625,
+      "url": "https://github.com/upscayl/upscayl",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "okada39/pinn_burgers",
+      "description": "Physics Informed Neural Network (PINN) for Burgers' equation.",
+      "language": "Python",
+      "topics": [],
+      "stars": 77,
+      "url": "https://github.com/okada39/pinn_burgers",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "levimcclenny/SA-PINNs",
+      "description": "Implementation of the paper \"Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism\" [AAAI-MLPS 2021]",
+      "language": "Python",
+      "topics": [
+        "adaptive-pinns",
+        "deep-learning",
+        "neural-network",
+        "neural-networks",
+        "pdes",
+        "physics-informed-learning",
+        "pinns",
+        "scientific-computing",
+        "sciml",
+        "stiff-pdes",
+        "tensorflow"
+      ],
+      "stars": 294,
+      "url": "https://github.com/levimcclenny/SA-PINNs",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cheshirepezz/astroML",
+      "description": "Machine learning, statistics, and data mining for astronomy and astrophysics",
+      "language": null,
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/cheshirepezz/astroML",
+      "archived": false,
+      "fork": true
+    },
+    {
+      "name": "cheshirepezz/Python-for-machine-learning",
+      "description": "Repository for participants of the \"Python for machine learning\" training",
+      "language": null,
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/cheshirepezz/Python-for-machine-learning",
+      "archived": false,
+      "fork": true
+    },
+    {
+      "name": "ikespand/awesome-machine-learning-fluid-mechanics",
+      "description": "Curated list for ML in FM",
+      "language": null,
+      "topics": [],
+      "stars": 244,
+      "url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Cambridge-ICCS/FTorch",
+      "description": "A library for directly calling PyTorch ML models from Fortran.",
+      "language": "Fortran",
+      "topics": [
+        "deep-learning",
+        "fortran",
+        "hacktoberfest",
+        "interoperability",
+        "libtorch",
+        "machine-learning",
+        "python",
+        "pytorch",
+        "torch"
+      ],
+      "stars": 196,
+      "url": "https://github.com/Cambridge-ICCS/FTorch",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "modern-fortran/neural-fortran",
+      "description": "A parallel framework for deep learning",
+      "language": "Fortran",
+      "topics": [
+        "cnn",
+        "deep-learning",
+        "fortran",
+        "machine-learning",
+        "neural-network",
+        "parallel"
+      ],
+      "stars": 468,
+      "url": "https://github.com/modern-fortran/neural-fortran",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pmocz/artificialneuralnetwork-python",
+      "description": "Artificial Neural Network for Image Classification",
+      "language": "Python",
+      "topics": [
+        "artificial-neural-networks",
+        "astrophysics",
+        "machine-learning",
+        "scientific-computing",
+        "tutorial"
+      ],
+      "stars": 13,
+      "url": "https://github.com/pmocz/artificialneuralnetwork-python",
+      "archived": false,
+      "fork": false
+    }
+  ],
+  "Python Projects": [
+    {
+      "name": "Yuan1z0825/nature-skills",
+      "description": "\u7b26\u5408nature\u8bba\u6587\u5b66\u672f\u8868\u8fbe\u548c\u79d1\u7814\u7ed8\u56fe\u7684Skill",
+      "language": "Python",
+      "topics": [
+        "codex-skills",
+        "nature",
+        "nature-skills"
+      ],
+      "stars": 14043,
+      "url": "https://github.com/Yuan1z0825/nature-skills",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "openai/skills",
+      "description": "Skills Catalog for Codex",
+      "language": "Python",
+      "topics": [],
+      "stars": 20906,
+      "url": "https://github.com/openai/skills",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Fortran-FOSS-Programmers/ford",
+      "description": "Automatically generates FORtran Documentation from comments within the code.",
+      "language": "Python",
+      "topics": [
+        "documentation-generator",
+        "documentation-tool",
+        "fortran",
+        "fortran-documenter",
+        "fortran-language",
+        "static-analysis"
+      ],
+      "stars": 455,
+      "url": "https://github.com/Fortran-FOSS-Programmers/ford",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Imbad0202/academic-research-skills-codex",
+      "description": "Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows",
+      "language": "Python",
+      "topics": [
+        "academic-pipeline",
+        "academic-research",
+        "academic-writing",
+        "ai-research",
+        "codex",
+        "literature-review",
+        "openai-codex",
+        "peer-review",
+        "prompt-engineering",
+        "research-assistant"
+      ],
+      "stars": 2281,
+      "url": "https://github.com/Imbad0202/academic-research-skills-codex",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pmocz/navier-stokes-jax",
+      "description": "A simple Navier Stokes solver written in JAX with inverse-problem optimizer",
+      "language": "Python",
+      "topics": [],
+      "stars": 9,
+      "url": "https://github.com/pmocz/navier-stokes-jax",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Squirbie/im-not-ai-codex",
+      "description": "Codex plugin port of epoko77-ai/im-not-ai for Korean AI-tell rewriting",
+      "language": "Python",
+      "topics": [],
+      "stars": 21,
+      "url": "https://github.com/Squirbie/im-not-ai-codex",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "soxoj/maigret",
+      "description": "\ud83d\udd75\ufe0f\u200d\u2642\ufe0f Collect a dossier on a person by username from 3000+ sites",
+      "language": "Python",
+      "topics": [
+        "cli",
+        "cybersecurity",
+        "identification",
+        "information-gathering",
+        "infosec",
+        "investigation",
+        "open-source",
+        "osint",
+        "osint-framework",
+        "osint-python",
+        "pentesting",
+        "python",
+        "python3",
+        "reconnaissance",
+        "redteam",
+        "scraping",
+        "sherlock",
+        "social-network",
+        "socmint",
+        "username"
+      ],
+      "stars": 31087,
+      "url": "https://github.com/soxoj/maigret",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "wtbarnes/fiasco",
+      "description": "Python interface to the CHIANTI atomic database",
+      "language": "Python",
+      "topics": [
+        "astronomy",
+        "atomic-physics",
+        "chianti",
+        "chianti-atomic-database",
+        "python",
+        "solar",
+        "solar-physics",
+        "spectroscopy"
+      ],
+      "stars": 33,
+      "url": "https://github.com/wtbarnes/fiasco",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "NCAR/stokespy",
+      "description": "Package for analysis of solar spectropolarimetric data and inversions",
+      "language": "Python",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/NCAR/stokespy",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "epoko77-ai/im-not-ai",
+      "description": "AI\uac00 \uc4f4 \uae00\uc774 \uc544\ub2cc \uac83\ucc98\ub7fc \uc724\ubb38\ud574\uc8fc\ub294 \uc2a4\ud0ac",
+      "language": "Python",
+      "topics": [],
+      "stars": 1636,
+      "url": "https://github.com/epoko77-ai/im-not-ai",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "K-Dense-AI/mimeo",
+      "description": "Mimeograph an expert into a SKILL.md or AGENTS.md for your agent.",
+      "language": "Python",
+      "topics": [],
+      "stars": 182,
+      "url": "https://github.com/K-Dense-AI/mimeo",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "SakanaAI/AI-Scientist-v2",
+      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "language": "Python",
+      "topics": [],
+      "stars": 6410,
+      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "stars": 112268,
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "aradi/fypp",
+      "description": "Python powered Fortran preprocessor",
+      "language": "Python",
+      "topics": [
+        "fortran",
+        "metaprogramming",
+        "preprocessor"
+      ],
+      "stars": 216,
+      "url": "https://github.com/aradi/fypp",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "safishamsi/graphify",
+      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "language": "Python",
+      "topics": [
+        "antigravity",
+        "claude-code",
+        "codex",
+        "gemini",
+        "graphrag",
+        "knowledge-graph",
+        "leiden",
+        "openclaw",
+        "rag",
+        "skills",
+        "tree-sitter"
+      ],
+      "stars": 56768,
+      "url": "https://github.com/safishamsi/graphify",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Katagiri-Hoshino-Lab/VibeCodeHPC",
+      "description": "CLI-based multi-agents for Auto-Tuning (e.g. HPC code optimazation loops) supporting Local LLMs",
+      "language": "Python",
+      "topics": [
+        "auto-tuning",
+        "claude-code",
+        "cline-cli",
+        "codex-cli",
+        "gemini-cli",
+        "hpc",
+        "kimi-cli",
+        "local-llm",
+        "multiagent",
+        "opencode",
+        "qwen-code",
+        "ssh-agent",
+        "tmux",
+        "vibe-local"
+      ],
+      "stars": 34,
+      "url": "https://github.com/Katagiri-Hoshino-Lab/VibeCodeHPC",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "54yyyu/zotero-mcp",
+      "description": "Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.",
+      "language": "Python",
+      "topics": [
+        "claude",
+        "mcp",
+        "semantic-search",
+        "zotero"
+      ],
+      "stars": 3485,
+      "url": "https://github.com/54yyyu/zotero-mcp",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "topics": [
+        "autogen",
+        "autogen-extension",
+        "langchain",
+        "markdown",
+        "microsoft-office",
+        "openai",
+        "pdf"
+      ],
+      "stars": 132365,
+      "url": "https://github.com/microsoft/markitdown",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ToBlick/mrx",
+      "description": null,
+      "language": "Python",
+      "topics": [],
+      "stars": 21,
+      "url": "https://github.com/ToBlick/mrx",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. \u7b80\u6d01\u901a\u7528\u7684\u7fa4\u4f53\u667a\u80fd\u5f15\u64ce\uff0c\u9884\u6d4b\u4e07\u7269",
+      "language": "Python",
+      "topics": [
+        "agent-memory",
+        "financial-forecasting",
+        "future-prediction",
+        "knowledge-graph",
+        "llms",
+        "multi-agent-simulation",
+        "public-opinion-analysis",
+        "python3",
+        "social-prediction",
+        "swarm-intelligence"
+      ],
+      "stars": 63301,
+      "url": "https://github.com/666ghj/MiroFish",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "K-Dense-AI/claude-scientific-writer",
+      "description": "A general purpose scientific writer",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
+        "anthropic",
+        "claude",
+        "skills",
+        "tools",
+        "writer"
+      ],
+      "stars": 1867,
+      "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-scientist",
+        "bioinformatics",
+        "chemoinformatics",
+        "claude",
+        "claude-skills",
+        "claudecode",
+        "clinical-research",
+        "computational-biology",
+        "data-analysis",
+        "drug-discovery",
+        "genomics",
+        "materials-science",
+        "metabolomics",
+        "proteomics",
+        "scientific-computing",
+        "scientific-visualization"
+      ],
+      "stars": 26637,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "LM-SAL/SunToday",
+      "description": "Repository for SunToday (https://suntoday.lmsal.com) images",
+      "language": "Python",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/LM-SAL/SunToday",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "glue-viz/glue-solar",
+      "description": "Work in progress solar physics plugins for glue :sun_with_face: ",
+      "language": "Python",
+      "topics": [],
+      "stars": 11,
+      "url": "https://github.com/glue-viz/glue-solar",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "tiagopereira/rt-viz",
+      "description": "Radiative Transfer visualisations",
+      "language": "Python",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/tiagopereira/rt-viz",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "huggingface/smolagents",
+      "description": "\ud83e\udd17 smolagents: a barebones library for agents that think in code.",
+      "language": "Python",
+      "topics": [],
+      "stars": 27607,
+      "url": "https://github.com/huggingface/smolagents",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "jiwoncpark/aracle",
+      "description": "Predictive model of solar magnetic flux emergence using deep learning",
+      "language": "Python",
+      "topics": [
+        "hmi",
+        "instance-segmentation",
+        "object-detection",
+        "spaceweather"
+      ],
+      "stars": 2,
+      "url": "https://github.com/jiwoncpark/aracle",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "spectralDNS/spectralDNS",
+      "description": "Spectral Navier Stokes (and similar) solvers in Python",
+      "language": "Python",
+      "topics": [],
+      "stars": 350,
+      "url": "https://github.com/spectralDNS/spectralDNS",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "openai/gpt-oss",
+      "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+      "language": "Python",
+      "topics": [],
+      "stars": 20126,
+      "url": "https://github.com/openai/gpt-oss",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "neuraloperator/neuraloperator",
+      "description": "Learning in infinite dimension with neural operators.",
+      "language": "Python",
+      "topics": [
+        "fno",
+        "fourier-neural-operator",
+        "neural-operator",
+        "neural-operators",
+        "partial-differential-equations",
+        "pytorch",
+        "tensor-methods",
+        "tensorly"
+      ],
+      "stars": 3660,
+      "url": "https://github.com/neuraloperator/neuraloperator",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "language": "Python",
+      "topics": [
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-code"
+      ],
+      "stars": 27677,
+      "url": "https://github.com/davila7/claude-code-templates",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "QwenLM/Qwen3-Coder",
+      "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.",
+      "language": "Python",
+      "topics": [],
+      "stars": 16575,
+      "url": "https://github.com/QwenLM/Qwen3-Coder",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cfinch/Shocksolution_Examples",
+      "description": "Example code from shocksolution.com",
+      "language": "Python",
+      "topics": [],
+      "stars": 93,
+      "url": "https://github.com/cfinch/Shocksolution_Examples",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "application",
+        "chatbots",
+        "chatgpt",
+        "genai",
+        "llm",
+        "long-term-memory",
+        "memory",
+        "memory-management",
+        "python",
+        "rag",
+        "state-management"
+      ],
+      "stars": 57159,
+      "url": "https://github.com/mem0ai/mem0",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pmocz/constrainedtransport-python",
+      "description": "Finite Volume Constrained Transport MHD simulation of the Orszag-Tang vortex",
+      "language": "Python",
+      "topics": [
+        "astrophysics",
+        "constrained-transport",
+        "finite-volume",
+        "magnetohydrodynamics",
+        "mhd",
+        "orszag-tang",
+        "scientific-computing",
+        "simulation",
+        "tutorial"
+      ],
+      "stars": 21,
+      "url": "https://github.com/pmocz/constrainedtransport-python",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pmocz/finitevolume2-python",
+      "description": "Create Your Own Finite Volume Fluid Simulation (With Python) Part 2:  Boundary Conditions and Source Terms",
+      "language": "Python",
+      "topics": [
+        "euler-equation",
+        "finite-volume",
+        "rayleigh-taylor",
+        "scientific-computing",
+        "simulation",
+        "tutorial"
+      ],
+      "stars": 31,
+      "url": "https://github.com/pmocz/finitevolume2-python",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pmocz/nbody-performance-comparison",
+      "description": "Directly compare performance of vectorized and for-loop implementations of the N-body problem in Matlab, Julia, and Python",
+      "language": "Python",
+      "topics": [],
+      "stars": 9,
+      "url": "https://github.com/pmocz/nbody-performance-comparison",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pmocz/cfd-comparison-python",
+      "description": "Comparison of various numerical methods for computational fluid dynamics",
+      "language": "Python",
+      "topics": [
+        "cfd",
+        "finite-volume",
+        "lattice-boltzmann",
+        "smoothed-particle-hydrodynamics",
+        "spectral-methods"
+      ],
+      "stars": 76,
+      "url": "https://github.com/pmocz/cfd-comparison-python",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pmocz/KelvinHelmholtzInstability",
+      "description": "Kelvin Helmholtz Instability (KHI) simulation in python using a 2D finite volume scheme",
+      "language": "Python",
+      "topics": [],
+      "stars": 23,
+      "url": "https://github.com/pmocz/KelvinHelmholtzInstability",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "JohannesBuchner/presentations",
+      "description": "Research presentations on Astronomy and Astrostatistics ",
+      "language": "Python",
+      "topics": [
+        "astronomy",
+        "astrophysics",
+        "astrostatistics",
+        "presentation-slides",
+        "research",
+        "statistics"
+      ],
+      "stars": 2,
+      "url": "https://github.com/JohannesBuchner/presentations",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "JohannesBuchner/languagecheck",
+      "description": "Improve the language of your paper before submission",
+      "language": "Python",
+      "topics": [
+        "grammar-checker",
+        "language-analysis",
+        "latex",
+        "overleaf",
+        "proof-reading",
+        "publishing",
+        "python"
+      ],
+      "stars": 110,
+      "url": "https://github.com/JohannesBuchner/languagecheck",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "khumbird/nuen-rad-hyrdro",
+      "description": "1-D Lagrangian Radiation Hydrodynamics Code",
+      "language": "Python",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/khumbird/nuen-rad-hyrdro",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "okada39/pinn_cavity",
+      "description": "Physics informed neural network (PINN) for cavity flow governed by Navier-Stokes equation.",
+      "language": "Python",
+      "topics": [],
+      "stars": 162,
+      "url": "https://github.com/okada39/pinn_cavity",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "okada39/pinn_wave",
+      "description": "Physics Informed Neural Network (PINN) for the wave equation.",
+      "language": "Python",
+      "topics": [],
+      "stars": 214,
+      "url": "https://github.com/okada39/pinn_wave",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "justinh2002/mhd_data_analysis",
+      "description": null,
+      "language": "Python",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/justinh2002/mhd_data_analysis",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "justinh2002/num_methods_pack",
+      "description": "random numerical solvers for elliptic/hyperbolic pdes which i update at sporadic times, finite difference, finite elements, finite volume, pseuodpsectral etc",
+      "language": "Python",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/justinh2002/num_methods_pack",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "FinMacDov/PhD_codes",
+      "description": null,
+      "language": "Python",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/FinMacDov/PhD_codes",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Paper2Poster/Paper2Poster",
+      "description": "[NeurIPS 2025] Open-source Multi-agent Poster Generation from Papers",
+      "language": "Python",
+      "topics": [
+        "agent",
+        "multi-agent-systems",
+        "paper",
+        "poster",
+        "pptx",
+        "task-automation"
+      ],
+      "stars": 3736,
+      "url": "https://github.com/Paper2Poster/Paper2Poster",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "predsci/MagMAP",
+      "description": "Python package for downloading and processing solar magnetograms.",
+      "language": "Python",
+      "topics": [],
+      "stars": 8,
+      "url": "https://github.com/predsci/MagMAP",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "predsci/OFT",
+      "description": "Open Source Flux Transport",
+      "language": "Python",
+      "topics": [],
+      "stars": 9,
+      "url": "https://github.com/predsci/OFT",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+      "description": "Pocket Flow: Codebase to Tutorial",
+      "language": "Python",
+      "topics": [
+        "coding",
+        "large-language-model",
+        "large-language-models",
+        "llm",
+        "llm-agent",
+        "llm-agents",
+        "llm-application",
+        "llm-apps",
+        "llm-framework",
+        "llm-frameworks",
+        "llms",
+        "pocket-flow",
+        "pocketflow"
+      ],
+      "stars": 12349,
+      "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "komeisugiura/defn18",
+      "description": "Deep Flare Net 2018",
+      "language": "Python",
+      "topics": [],
+      "stars": 18,
+      "url": "https://github.com/komeisugiura/defn18",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "DedalusProject/dedalus",
+      "description": "A flexible framework for solving PDEs with modern spectral methods.",
+      "language": "Python",
+      "topics": [
+        "fluid-dynamics",
+        "pde-solver",
+        "spectral-methods"
+      ],
+      "stars": 688,
+      "url": "https://github.com/DedalusProject/dedalus",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "DedalusProject/methods_paper_examples",
+      "description": "Example problems from the Dedalus methods paper.",
+      "language": "Python",
+      "topics": [],
+      "stars": 21,
+      "url": "https://github.com/DedalusProject/methods_paper_examples",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "wtbarnes/sunkit-dem",
+      "description": "Differential Emission Measures",
+      "language": "Python",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/wtbarnes/sunkit-dem",
+      "archived": false,
+      "fork": true
+    },
+    {
+      "name": "andyto1234/eis_flare_project_esa_computer",
+      "description": null,
+      "language": "Python",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/andyto1234/eis_flare_project_esa_computer",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "okada39/pinn_burgers",
+      "description": "Physics Informed Neural Network (PINN) for Burgers' equation.",
+      "language": "Python",
+      "topics": [],
+      "stars": 77,
+      "url": "https://github.com/okada39/pinn_burgers",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pourion/solver_conservations",
+      "description": "1. 2D Riemann solver for conservation laws with WENO interpolation, and TVD-RK3 time integration/ 2. supporting HLL and MUSTA Riemann solvers / 3.  Option for Strang splitting with Gudonov fluxes  and Euler in time / 4. with a simple WENO-based advection method",
+      "language": "Python",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/pourion/solver_conservations",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "levimcclenny/SA-PINNs",
+      "description": "Implementation of the paper \"Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism\" [AAAI-MLPS 2021]",
+      "language": "Python",
+      "topics": [
+        "adaptive-pinns",
+        "deep-learning",
+        "neural-network",
+        "neural-networks",
+        "pdes",
+        "physics-informed-learning",
+        "pinns",
+        "scientific-computing",
+        "sciml",
+        "stiff-pdes",
+        "tensorflow"
+      ],
+      "stars": 294,
+      "url": "https://github.com/levimcclenny/SA-PINNs",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "space-weather-KU/chainer-semi",
+      "description": "Chainer Playground\u306e\u653b\u7565\u672c\u3067\u3059",
+      "language": "Python",
+      "topics": [],
+      "stars": 4,
+      "url": "https://github.com/space-weather-KU/chainer-semi",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "fortran-lang/fortls",
+      "description": "fortls - Fortran Language Server",
+      "language": "Python",
+      "topics": [
+        "fortls",
+        "fortran",
+        "language-server-protocol",
+        "lsp"
+      ],
+      "stars": 336,
+      "url": "https://github.com/fortran-lang/fortls",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "GiMattia/PyPLUTO",
+      "description": "A data analysis Python package for the PLUTO code",
+      "language": "Python",
+      "topics": [
+        "python",
+        "visualization"
+      ],
+      "stars": 15,
+      "url": "https://github.com/GiMattia/PyPLUTO",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cheshirepezz/CEM",
+      "description": "Computational ElectroMagnetism on a Yee Lattice",
+      "language": "Python",
+      "topics": [
+        "cem",
+        "fdtd",
+        "maxwell-equation",
+        "plasma-physics",
+        "yee-grid"
+      ],
+      "stars": 19,
+      "url": "https://github.com/cheshirepezz/CEM",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cheshirepezz/esPiC1D",
+      "description": "1D Particle-in-Cell code using explicit method",
+      "language": "Python",
+      "topics": [
+        "fdtd",
+        "filamentation-instability",
+        "pic",
+        "plasma-physics",
+        "weibel-instability"
+      ],
+      "stars": 8,
+      "url": "https://github.com/cheshirepezz/esPiC1D",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "igarashitc/tython",
+      "description": null,
+      "language": "Python",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/igarashitc/tython",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "igarashitc/ThermalEquilibrium",
+      "description": null,
+      "language": "Python",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/igarashitc/ThermalEquilibrium",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "wtbarnes/synthesizAR",
+      "description": "Python package for forward modeling optically-thin emission from field-aligned hydrodynamic models",
+      "language": "Python",
+      "topics": [],
+      "stars": 12,
+      "url": "https://github.com/wtbarnes/synthesizAR",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ahmadpeyvan/RiemannONet",
+      "description": "This repository consists of two-step training DeepONet code.",
+      "language": "Python",
+      "topics": [],
+      "stars": 14,
+      "url": "https://github.com/ahmadpeyvan/RiemannONet",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "RamiCassia/Godunov-Loss-Functions-for-Modelling-of-Hyperbolic-Conservation-Laws",
+      "description": null,
+      "language": "Python",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/RamiCassia/Godunov-Loss-Functions-for-Modelling-of-Hyperbolic-Conservation-Laws",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "tlrh314/AurigaGCS",
+      "description": "Code for paper: The globular cluster system of the Auriga simulations.",
+      "language": "Python",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/tlrh314/AurigaGCS",
+      "archived": true,
+      "fork": false
+    },
+    {
+      "name": "henrywatkins/gawain",
+      "description": "A simple numerical MHD simulation code in python.",
+      "language": "Python",
+      "topics": [
+        "magnetohydrodynamics",
+        "numerical-simulations",
+        "plasma-physics",
+        "python"
+      ],
+      "stars": 20,
+      "url": "https://github.com/henrywatkins/gawain",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "oekrice/outflow",
+      "description": "Python script to calculate equilibrium solutions of the magnetofrictional model, taking into account solar wind outflow in the solar corona.",
+      "language": "Python",
+      "topics": [],
+      "stars": 4,
+      "url": "https://github.com/oekrice/outflow",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "itztli/flares-monitor",
+      "description": "Check solar flares in real time",
+      "language": "Python",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/itztli/flares-monitor",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "opensbli/opensbli",
+      "description": "A framework for the automated derivation and parallel execution of finite difference solvers on a range of computer architectures.",
+      "language": "Python",
+      "topics": [
+        "automatic-code-generation",
+        "code-generation",
+        "compressible-fluid-dynamics",
+        "computational-fluid-dynamics",
+        "finite-differences",
+        "gpu-computing",
+        "high-performance-computing",
+        "numerical-modelling",
+        "parallel-computing"
+      ],
+      "stars": 109,
+      "url": "https://github.com/opensbli/opensbli",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pmocz/riemann-solver",
+      "description": "Riemann solver for the Euler equations",
+      "language": "Python",
+      "topics": [
+        "computational-fluid-dynamics",
+        "interactive",
+        "riemann-problem",
+        "scientific-computing",
+        "tutorial"
+      ],
+      "stars": 32,
+      "url": "https://github.com/pmocz/riemann-solver",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "mrkondratyev/Piastra",
+      "description": "A user-friendly teaching framework for studying computational (astrophysical) fluid dynamics & MHD. The code implements 1D/2D linear advection, Newtonian/special-relativistic gas dynamics and MHD, as well as diffusion solvers, using a finite-volume approach. NumPy library is used for code clarity and performance.",
+      "language": "Python",
+      "topics": [
+        "advection",
+        "astrophysical-simulation",
+        "cfd",
+        "fluid-simulation",
+        "hydrodynamics",
+        "magnetohydrodynamics",
+        "python"
+      ],
+      "stars": 7,
+      "url": "https://github.com/mrkondratyev/Piastra",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ibackus/sod-shocktube",
+      "description": "A simple pythonic implementation of a Riemann solver for the analytic solution of the sod shock tube.",
+      "language": "Python",
+      "topics": [],
+      "stars": 31,
+      "url": "https://github.com/ibackus/sod-shocktube",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "github-nakasho/mhdflow_1d",
+      "description": "MHD simulation code with Python Interface",
+      "language": "Python",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/github-nakasho/mhdflow_1d",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "github-nakasho/solar-limb-darkening",
+      "description": null,
+      "language": "Python",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/github-nakasho/solar-limb-darkening",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pmocz/artificialneuralnetwork-python",
+      "description": "Artificial Neural Network for Image Classification",
+      "language": "Python",
+      "topics": [
+        "artificial-neural-networks",
+        "astrophysics",
+        "machine-learning",
+        "scientific-computing",
+        "tutorial"
+      ],
+      "stars": 13,
+      "url": "https://github.com/pmocz/artificialneuralnetwork-python",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pmocz/advectiondiffusion-jax",
+      "description": "Solve the advection diffusion equations looped into an optimization problem with JAX/autodiff",
+      "language": "Python",
+      "topics": [
+        "automatic-differentiation",
+        "jax",
+        "scientific-computing",
+        "tutorial"
+      ],
+      "stars": 14,
+      "url": "https://github.com/pmocz/advectiondiffusion-jax",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "wacmkxiaoyi/Shockfinder",
+      "description": "ShockFinder is an interactive scientic simulation data analysis software based on python and supports multi-process, multi-mode, I/O access and drawing.",
+      "language": "Python",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/wacmkxiaoyi/Shockfinder",
+      "archived": true,
+      "fork": false
+    },
+    {
+      "name": "IhmeGroup/quail",
+      "description": "A lightweight discontinuous Galerkin code for teaching and prototyping",
+      "language": "Python",
+      "topics": [],
+      "stars": 66,
+      "url": "https://github.com/IhmeGroup/quail",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "alt2019/1d-wave-equation-PML-BC",
+      "description": "PML for 1d wave equation",
+      "language": "Python",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/alt2019/1d-wave-equation-PML-BC",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "shop2world/ultrashop",
+      "description": null,
+      "language": "Python",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/shop2world/ultrashop",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "JeongHyunJin/Jeong2020_SolarFarsideMagnetograms",
+      "description": "Jeong et al. (2020) \"Solar coronal magnetic field extrapolation from synchronic data with AI-generated farside\", The Astrophysical Journal Letters, Volume 903, Issue 2, id.L25, 9 pp.",
+      "language": "Python",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/JeongHyunJin/Jeong2020_SolarFarsideMagnetograms",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "geoffvasil/nssl_mri",
+      "description": "Code for computing Magneto-Rotational Instability (MRI) eigenfunctions in the solar Near-Surface Shear Layer (NSSL)",
+      "language": "Python",
+      "topics": [],
+      "stars": 8,
+      "url": "https://github.com/geoffvasil/nssl_mri",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pmocz/finitevolume-python",
+      "description": "Finite Volume simulation of the Kelvin-Helmholtz Instability",
+      "language": "Python",
+      "topics": [
+        "astrophysics",
+        "euler-equations",
+        "finite-volume",
+        "kelvin-helmholtz-instability",
+        "scientific-computing",
+        "simulation",
+        "tutorial"
+      ],
+      "stars": 142,
+      "url": "https://github.com/pmocz/finitevolume-python",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cmoestl/3DCORE",
+      "description": "3D coronal mass ejection flux rope modeling",
+      "language": "Python",
+      "topics": [
+        "heliophysics",
+        "solarwind",
+        "spacephysics",
+        "spaceweather"
+      ],
+      "stars": 7,
+      "url": "https://github.com/cmoestl/3DCORE",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "kpetrovay/Polar-SFT",
+      "description": "The code in this repository solves the radial component of the magnetic  flux transport equation (induction equation) on the solar surface in  the 1D (axisymmetric) case, including a heuristic decay term -B_r/tau on  the right hand side.",
+      "language": "Python",
+      "topics": [
+        "solar-physics"
+      ],
+      "stars": 5,
+      "url": "https://github.com/kpetrovay/Polar-SFT",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "peichmb/non-axisymmetric-ft",
+      "description": "Transport of magnetic flux on the solar surface and interior. I wrote this code for this paper: https://doi.org/10.1051/0004-6361/201730509. Please, cite it if you use the code!",
+      "language": "Python",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/peichmb/non-axisymmetric-ft",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "SWAT-Sheffield/Flux-Surfaces",
+      "description": "Run SAC and compute flux surfaces to do MHD wave analysis",
+      "language": "Python",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/SWAT-Sheffield/Flux-Surfaces",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "chianti-atomic/ChiantiPy",
+      "description": "ChiantiPy is a python package to calculate the radiative properties of astrophysical plasmas based on the CHIANTI atomic database",
+      "language": "Python",
+      "topics": [
+        "astrophysics",
+        "chianti",
+        "chianti-atomic-database",
+        "python",
+        "spectroscopy"
+      ],
+      "stars": 72,
+      "url": "https://github.com/chianti-atomic/ChiantiPy",
+      "archived": false,
+      "fork": false
+    }
+  ],
   "Programming Languages & Compilers": [
     {
       "name": "IAS-Astrophysics/athenak",
@@ -3093,7 +4462,7 @@
         "software-architecture",
         "text-to-diagram"
       ],
-      "stars": 24001,
+      "stars": 24005,
       "url": "https://github.com/terrastruct/d2",
       "archived": false,
       "fork": false
@@ -3149,7 +4518,7 @@
         "tables",
         "tagged-pdf"
       ],
-      "stars": 21792,
+      "stars": 21820,
       "url": "https://github.com/opendataloader-project/opendataloader-pdf",
       "archived": false,
       "fork": false
@@ -3170,7 +4539,7 @@
         "terminal",
         "winfetch"
       ],
-      "stars": 22978,
+      "stars": 22987,
       "url": "https://github.com/fastfetch-cli/fastfetch",
       "archived": false,
       "fork": false
@@ -3180,7 +4549,7 @@
       "description": "\ud83d\udc7b Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "topics": [],
-      "stars": 55547,
+      "stars": 55608,
       "url": "https://github.com/ghostty-org/ghostty",
       "archived": false,
       "fork": false
@@ -3202,7 +4571,7 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 56173,
+      "stars": 56768,
       "url": "https://github.com/safishamsi/graphify",
       "archived": false,
       "fork": false
@@ -3285,7 +4654,7 @@
       "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
       "language": "Python",
       "topics": [],
-      "stars": 20121,
+      "stars": 20126,
       "url": "https://github.com/openai/gpt-oss",
       "archived": false,
       "fork": false
@@ -3295,7 +4664,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.",
       "language": "Python",
       "topics": [],
-      "stars": 16571,
+      "stars": 16575,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -3767,362 +5136,6 @@
       "fork": false
     }
   ],
-  "C++ Projects": [
-    {
-      "name": "IAS-Astrophysics/athenak",
-      "description": "Performance-portable version of the Athena++ astrophysical AMR-MHD code using Kokkos.",
-      "language": "C++",
-      "topics": [],
-      "stars": 120,
-      "url": "https://github.com/IAS-Astrophysics/athenak",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "stanfordhpccenter/HTR-solver",
-      "description": "Hypersonic Task-based Research (HTR) solver for the Navier-Stokes equations at hypersonic Mach numbers including finite-rate chemistry for dissociating air and multicomponent transport.",
-      "language": "C++",
-      "topics": [],
-      "stars": 90,
-      "url": "https://github.com/stanfordhpccenter/HTR-solver",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "AMReX-Codes/amrex",
-      "description": "AMReX: Software Framework for Block Structured AMR",
-      "language": "C++",
-      "topics": [
-        "adaptive-mesh-refinement",
-        "amr",
-        "amrex",
-        "high-performance-computing",
-        "hpsf",
-        "scientific-computing"
-      ],
-      "stars": 750,
-      "url": "https://github.com/AMReX-Codes/amrex",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "parthenon-hpc-lab/parthenon",
-      "description": "Parthenon AMR infrastructure ",
-      "language": "C++",
-      "topics": [
-        "amr",
-        "high-performance-computing",
-        "kokkos",
-        "parthenon"
-      ],
-      "stars": 160,
-      "url": "https://github.com/parthenon-hpc-lab/parthenon",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "PrincetonUniversity/athena",
-      "description": "Athena++ radiation GRMHD code and adaptive mesh refinement (AMR) framework",
-      "language": "C++",
-      "topics": [],
-      "stars": 335,
-      "url": "https://github.com/PrincetonUniversity/athena",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Jhuighuy/StormRuler",
-      "description": "A very high order FVM framework",
-      "language": "C++",
-      "topics": [
-        "cfd",
-        "computational-fluid-dynamics",
-        "finite-volume-methods",
-        "high-performance-computing",
-        "hpc",
-        "krylov-methods",
-        "multiphysics",
-        "solver",
-        "unstructured-meshes"
-      ],
-      "stars": 17,
-      "url": "https://github.com/Jhuighuy/StormRuler",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "garethcmurphy/Interstellar-Jet-MHD-Simulation",
-      "description": "\ud83d\ude80 A parallelized numerical solver for magnetohydrodynamics (MHD) equations, developed using finite volume methods to simulate \ud83c\udf0c jets in the interstellar medium. This code is optimized for large-scale astrophysical simulations with \u26a1 MPI-based parallelism, making it suitable for high-performance computing environments \ud83d\udda5\ufe0f. Perfect for exploring th",
-      "language": "C++",
-      "topics": [
-        "fluid-dynamics",
-        "fluid-simulation",
-        "magnetohydrodynamics",
-        "mhd",
-        "mpi"
-      ],
-      "stars": 15,
-      "url": "https://github.com/garethcmurphy/Interstellar-Jet-MHD-Simulation",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "is-isee/MISO",
-      "description": "Open solver for magnetohydrodynamic equations developed in ISEE, Nagoya University.",
-      "language": "C++",
-      "topics": [],
-      "stars": 6,
-      "url": "https://github.com/is-isee/MISO",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Entroforce/image-gen",
-      "description": "Solar wind animation tool",
-      "language": "C++",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/Entroforce/image-gen",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "LMNS3d/TENO_research_code",
-      "description": null,
-      "language": "C++",
-      "topics": [],
-      "stars": 8,
-      "url": "https://github.com/LMNS3d/TENO_research_code",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "mdelorme/fv2d",
-      "description": "Simple 2D finite volume code in C++ with Kokkos to prototype/experiment.",
-      "language": "C++",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/mdelorme/fv2d",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "kokkos/kokkos",
-      "description": "Kokkos C++ Performance Portability Programming Ecosystem: The Programming Model - Parallel Execution and Memory Abstraction",
-      "language": "C++",
-      "topics": [
-        "abstraction",
-        "c-plus-plus",
-        "high-performance-computing",
-        "hpsf",
-        "kokkos",
-        "parallel-computing",
-        "programming-model"
-      ],
-      "stars": 2551,
-      "url": "https://github.com/kokkos/kokkos",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "MelanieWindt/RadiationTransfer",
-      "description": "Solving the radiation transfer equation in 3d using short characteristics method. ",
-      "language": "C++",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/MelanieWindt/RadiationTransfer",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "mlwong/HAMeRS",
-      "description": "Hydrodynamics Adaptive Mesh Refinement Simulator (HAMeRS) for compressible multi-species/multi-phase simulations",
-      "language": "C++",
-      "topics": [
-        "adaptive-mesh-refinement",
-        "computational-fluid-dynamics",
-        "large-eddy-simulation",
-        "multi-species",
-        "parallel-computing",
-        "shock-capturing",
-        "simulation",
-        "turbulence"
-      ],
-      "stars": 67,
-      "url": "https://github.com/mlwong/HAMeRS",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "AMReX-Astro/Castro",
-      "description": "Castro (Compressible Astrophysics): An adaptive mesh, astrophysical compressible (radiation-, magneto-)  hydrodynamics simulation code for massively parallel CPU and GPU architectures.",
-      "language": "C++",
-      "topics": [
-        "adaptive-mesh-refinement",
-        "amr",
-        "amrex",
-        "astrophysical-simulation",
-        "astrophysics",
-        "castro",
-        "cfd",
-        "gravity",
-        "hydrodynamics",
-        "pde",
-        "radiation",
-        "reactions"
-      ],
-      "stars": 333,
-      "url": "https://github.com/AMReX-Astro/Castro",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "athelas-astro/athelas",
-      "description": "Lagrangian radiation-hydrodynamics code using discontinuous Galerkin methods written in C++",
-      "language": "C++",
-      "topics": [],
-      "stars": 7,
-      "url": "https://github.com/athelas-astro/athelas",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "vavrines/SPM",
-      "description": "finite volume solver for radiative transfer equation",
-      "language": "C++",
-      "topics": [
-        "finite-volume"
-      ],
-      "stars": 6,
-      "url": "https://github.com/vavrines/SPM",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "kjhunkk/ExactRiemannSolver",
-      "description": "Exact Riemann solver for the 1D Euler equations, ideal gas.",
-      "language": "C++",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/kjhunkk/ExactRiemannSolver",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "kjhunkk/FVM_WENO",
-      "description": null,
-      "language": "C++",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/kjhunkk/FVM_WENO",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "piccolo255/mhd2d-solver",
-      "description": "PDE solver for 2D MHD problems. Implements the ENO scheme.",
-      "language": "C++",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/piccolo255/mhd2d-solver",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "LMNS3d/TENO_CPC",
-      "description": "The repository documents the key algorithms of high-order TENO schemes",
-      "language": "C++",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/LMNS3d/TENO_CPC",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "jingchangshi/RoeRiemannSolver",
-      "description": "1D Roe Riemann Solver",
-      "language": "C++",
-      "topics": [],
-      "stars": 10,
-      "url": "https://github.com/jingchangshi/RoeRiemannSolver",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "gnudatalanguage/gdl",
-      "description": "GDL - GNU Data Language",
-      "language": "C++",
-      "topics": [
-        "antlr",
-        "astronomy",
-        "data-analysis",
-        "dicom",
-        "eigen3",
-        "fits-files",
-        "geophysics",
-        "grib",
-        "gsl-library",
-        "hdf",
-        "hdf5",
-        "mapping",
-        "netcdf",
-        "plotting",
-        "plplot",
-        "programming-language",
-        "pv-wave",
-        "python",
-        "scientific-computing",
-        "scientific-visualization"
-      ],
-      "stars": 309,
-      "url": "https://github.com/gnudatalanguage/gdl",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cholla-hydro/cholla",
-      "description": "A GPU-based hydro code",
-      "language": "C++",
-      "topics": [],
-      "stars": 73,
-      "url": "https://github.com/cholla-hydro/cholla",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "WENO-OF/WENOEXT",
-      "description": "Weighted essentially non-oscillatory library for the framework of OpenFOAM",
-      "language": "C++",
-      "topics": [
-        "openfoam",
-        "weno-schemes"
-      ],
-      "stars": 144,
-      "url": "https://github.com/WENO-OF/WENOEXT",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "minoshim/qasMHD",
-      "description": "Quasi all-speed magnetohydrodynamic simulation code",
-      "language": "C++",
-      "topics": [],
-      "stars": 7,
-      "url": "https://github.com/minoshim/qasMHD",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "bcaddy/hydro-sandbox",
-      "description": "This is a place for me to practice and experiment with Riemann solvers, MHD, and other miscelanious hydro related things.",
-      "language": "C++",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/bcaddy/hydro-sandbox",
-      "archived": false,
-      "fork": false
-    }
-  ],
   "JavaScript/TypeScript Projects": [
     {
       "name": "svonjoi/obsidian-heading-level-indent",
@@ -4149,7 +5162,7 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 167154,
+      "stars": 167496,
       "url": "https://github.com/anomalyco/opencode",
       "archived": false,
       "fork": false
@@ -4167,7 +5180,7 @@
         "obsidian",
         "obsidian-plugin"
       ],
-      "stars": 5058,
+      "stars": 5061,
       "url": "https://github.com/brianpetro/obsidian-smart-connections",
       "archived": false,
       "fork": false
@@ -4208,7 +5221,7 @@
         "obsidian-md",
         "obsidian-plugin"
       ],
-      "stars": 567,
+      "stars": 568,
       "url": "https://github.com/TfTHacker/obsidian42-strange-new-worlds",
       "archived": false,
       "fork": false
@@ -4239,7 +5252,7 @@
         "pdf",
         "search"
       ],
-      "stars": 2013,
+      "stars": 2015,
       "url": "https://github.com/scambier/obsidian-omnisearch",
       "archived": false,
       "fork": false
@@ -4263,7 +5276,7 @@
         "obsidian-plugin",
         "obsidian-theme"
       ],
-      "stars": 743,
+      "stars": 744,
       "url": "https://github.com/kepano/obsidian-minimal-settings",
       "archived": false,
       "fork": false
@@ -4289,7 +5302,7 @@
         "obsidian-md",
         "obsidian-plugin"
       ],
-      "stars": 4990,
+      "stars": 4994,
       "url": "https://github.com/SilentVoid13/Templater",
       "archived": false,
       "fork": false
@@ -4341,7 +5354,7 @@
       "description": "An obsidian toolbar plugin, modified from the Cmenu plugin",
       "language": "TypeScript",
       "topics": [],
-      "stars": 1393,
+      "stars": 1394,
       "url": "https://github.com/PKM-er/obsidian-editing-toolbar",
       "archived": false,
       "fork": false
@@ -4387,7 +5400,7 @@
         "terminal",
         "tmux"
       ],
-      "stars": 20307,
+      "stars": 20461,
       "url": "https://github.com/manaflow-ai/cmux",
       "archived": false,
       "fork": false
@@ -4410,7 +5423,7 @@
         "safari",
         "safari-extension"
       ],
-      "stars": 4447,
+      "stars": 4454,
       "url": "https://github.com/obsidianmd/obsidian-clipper",
       "archived": false,
       "fork": false
@@ -4439,7 +5452,7 @@
         "vector-icons",
         "vite"
       ],
-      "stars": 2305,
+      "stars": 2333,
       "url": "https://github.com/xandemon/developer-icons",
       "archived": false,
       "fork": false
@@ -4449,7 +5462,7 @@
       "description": null,
       "language": "TypeScript",
       "topics": [],
-      "stars": 172,
+      "stars": 173,
       "url": "https://github.com/jlegewie/beaver-zotero",
       "archived": false,
       "fork": false
@@ -4459,7 +5472,7 @@
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 29951,
+      "stars": 29996,
       "url": "https://github.com/Yeachan-Heo/oh-my-codex",
       "archived": false,
       "fork": false
@@ -4518,7 +5531,7 @@
         "understandcode",
         "vibe-coding"
       ],
-      "stars": 44445,
+      "stars": 45930,
       "url": "https://github.com/Lum1104/Understand-Anything",
       "archived": false,
       "fork": false
@@ -4528,7 +5541,7 @@
       "description": null,
       "language": "JavaScript",
       "topics": [],
-      "stars": 13438,
+      "stars": 13446,
       "url": "https://github.com/andrewyng/context-hub",
       "archived": false,
       "fork": false
@@ -4555,7 +5568,7 @@
         "tui",
         "typescript"
       ],
-      "stars": 60159,
+      "stars": 60323,
       "url": "https://github.com/code-yeongyu/oh-my-openagent",
       "archived": false,
       "fork": false
@@ -4598,7 +5611,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 21973,
+      "stars": 21975,
       "url": "https://github.com/winfunc/opcode",
       "archived": false,
       "fork": false
@@ -4645,7 +5658,7 @@
         "cloudflare",
         "mcp"
       ],
-      "stars": 1688,
+      "stars": 1689,
       "url": "https://github.com/supermemoryai/supermemory-mcp",
       "archived": false,
       "fork": false
@@ -4670,7 +5683,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 56388,
+      "stars": 56429,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -4680,7 +5693,7 @@
       "description": "Model Context Protocol Servers",
       "language": "TypeScript",
       "topics": [],
-      "stars": 86457,
+      "stars": 86486,
       "url": "https://github.com/modelcontextprotocol/servers",
       "archived": false,
       "fork": false
@@ -4706,7 +5719,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 19409,
+      "stars": 19414,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
@@ -4728,7 +5741,7 @@
         "upscalerimage",
         "upscayl"
       ],
-      "stars": 45612,
+      "stars": 45625,
       "url": "https://github.com/upscayl/upscayl",
       "archived": false,
       "fork": false
@@ -4746,7 +5759,7 @@
         "sph",
         "webgpu"
       ],
-      "stars": 512,
+      "stars": 511,
       "url": "https://github.com/matsuoka-601/WebGPU-Ocean",
       "archived": false,
       "fork": false
@@ -4765,7 +5778,7 @@
         "fortran-language",
         "static-analysis"
       ],
-      "stars": 454,
+      "stars": 455,
       "url": "https://github.com/Fortran-FOSS-Programmers/ford",
       "archived": false,
       "fork": false
@@ -4811,7 +5824,7 @@
         "scientific-discovery",
         "self-improving-systems"
       ],
-      "stars": 2087,
+      "stars": 2095,
       "url": "https://github.com/alvinreal/awesome-autoresearch",
       "archived": false,
       "fork": false
@@ -4826,7 +5839,7 @@
         "python",
         "rag"
       ],
-      "stars": 112153,
+      "stars": 112268,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "archived": false,
       "fork": false
@@ -4854,7 +5867,7 @@
         "codex-subagents",
         "subagents"
       ],
-      "stars": 4971,
+      "stars": 4974,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "archived": false,
       "fork": false
@@ -5043,7 +6056,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 56388,
+      "stars": 56429,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -5085,7 +6098,7 @@
         "pocket-flow",
         "pocketflow"
       ],
-      "stars": 12346,
+      "stars": 12349,
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "archived": false,
       "fork": false
@@ -5310,7 +6323,7 @@
       "description": "A course in numerical methods with Python for engineers and scientists: currently 5 learning modules, with student assignments.",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 956,
+      "stars": 957,
       "url": "https://github.com/numerical-mooc/numerical-mooc",
       "archived": false,
       "fork": false
@@ -5459,7 +6472,7 @@
       "description": "Neural Networks: Zero to Hero",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 22834,
+      "stars": 22857,
       "url": "https://github.com/karpathy/nn-zero-to-hero",
       "archived": false,
       "fork": false
@@ -5769,7 +6782,7 @@
       "description": "A course in numerical methods with Python for engineers and scientists: currently 5 learning modules, with student assignments.",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 956,
+      "stars": 957,
       "url": "https://github.com/numerical-mooc/numerical-mooc",
       "archived": false,
       "fork": false
@@ -6596,7 +7609,7 @@
         "singular-values",
         "svd"
       ],
-      "stars": 1854,
+      "stars": 1855,
       "url": "https://github.com/Reference-LAPACK/lapack",
       "archived": false,
       "fork": false
@@ -6616,7 +7629,7 @@
         "oop",
         "riemann-solvers"
       ],
-      "stars": 149,
+      "stars": 150,
       "url": "https://github.com/szaghi/OFF",
       "archived": false,
       "fork": false
@@ -7438,937 +8451,6 @@
       "fork": false
     }
   ],
-  "Machine Learning & AI": [
-    {
-      "name": "tinyhumansai/openhuman",
-      "description": "Your Personal AI super intelligence. Private, Simple and extremely powerful.",
-      "language": "Rust",
-      "topics": [],
-      "stars": 29536,
-      "url": "https://github.com/tinyhumansai/openhuman",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Squirbie/im-not-ai-codex",
-      "description": "Codex plugin port of epoko77-ai/im-not-ai for Korean AI-tell rewriting",
-      "language": "Python",
-      "topics": [],
-      "stars": 18,
-      "url": "https://github.com/Squirbie/im-not-ai-codex",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "joonan30/llm-wiki-labs",
-      "description": "AI \ub3d9\ub8cc\uacfc\ud559\uc790\uc640 \ud568\uaed8 \uc5f0\uad6c\ud558\ub294 \ubc29\ubc95 \u2014 1\uc778 \uc5f0\uad6c\uc790\uac00 AI \uc704\ud0a4\ub97c \uc6b4\uc601\ud558\ub294 \uc2dc\uc2a4\ud15c \uc778\ud130\ub799\ud2f0\ube0c \ubaa8\uc74c. Joonan Lab.",
-      "language": "HTML",
-      "topics": [],
-      "stars": 7,
-      "url": "https://github.com/joonan30/llm-wiki-labs",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "joonan30/lecture-llm-wiki",
-      "description": "LLM-Wiki \u2014 \ub300\ud559\uc6d0\uc0dd\uc744 \uc704\ud55c AI \uc9c0\uc2dd \ubca0\uc774\uc2a4 (\ubd84\ud574\uc0dd\ubb3c\ud559 \ub300\ud559\uc6d0 \ud2b9\uac15, \uc548\uc900\uc6a9)",
-      "language": "HTML",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/joonan30/lecture-llm-wiki",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "chrisryugj/Docufinder",
-      "description": "Anything \u2014 \ud30c\uc77c\uc744 \ucc3e\uc9c0 \ub9d0\uace0, \ub0b4\uc6a9\uc744 \ucc3e\uc73c\uc138\uc694. HWPX \u00b7 PDF \u00b7 Office \uc218\ucc9c \uac74\uc758 \ubcf8\ubb38\uc744 1\ucd08 \ub9cc\uc5d0. 100% \ub85c\uceec \u00b7 \uc644\uc804 \uc624\ud504\ub77c\uc778 \u00b7 AI Q&A \uc635\uc158 (Tauri \u00b7 React \u00b7 Rust) | Local content search for Korean PCs \u2014 HWP-first, fully offline",
-      "language": "Rust",
-      "topics": [
-        "desktop-app",
-        "document-search",
-        "fts5",
-        "hwpx",
-        "korean",
-        "korean-nlp",
-        "offline-first",
-        "onnx",
-        "rag",
-        "react",
-        "rust",
-        "tauri"
-      ],
-      "stars": 335,
-      "url": "https://github.com/chrisryugj/Docufinder",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "Shell",
-      "topics": [
-        "agent-skills",
-        "antigravity",
-        "antigravity-ide",
-        "claude-code",
-        "cursor",
-        "skills"
-      ],
-      "stars": 46897,
-      "url": "https://github.com/addyosmani/agent-skills",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "SakanaAI/AI-Scientist-v2",
-      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-      "language": "Python",
-      "topics": [],
-      "stars": 6400,
-      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agent & RAG apps you can actually run \u2014 clone, customize, ship.",
-      "language": "Python",
-      "topics": [
-        "agents",
-        "llms",
-        "python",
-        "rag"
-      ],
-      "stars": 112153,
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "brianpetro/obsidian-smart-connections",
-      "description": "Chat with your notes & see links to related content with AI embeddings. Use local models or 100+ via APIs like Claude, Gemini, ChatGPT & Llama 3",
-      "language": "JavaScript",
-      "topics": [
-        "chatgpt",
-        "claude",
-        "embeddings",
-        "gemini",
-        "llama3",
-        "obsidian",
-        "obsidian-plugin"
-      ],
-      "stars": 5058,
-      "url": "https://github.com/brianpetro/obsidian-smart-connections",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "manaflow-ai/cmux",
-      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
-      "language": "JavaScript",
-      "topics": [
-        "amp",
-        "claude-code",
-        "codex",
-        "gemini",
-        "ghostty",
-        "opencode",
-        "terminal",
-        "tmux"
-      ],
-      "stars": 20307,
-      "url": "https://github.com/manaflow-ai/cmux",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "safishamsi/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "language": "Python",
-      "topics": [
-        "antigravity",
-        "claude-code",
-        "codex",
-        "gemini",
-        "graphrag",
-        "knowledge-graph",
-        "leiden",
-        "openclaw",
-        "rag",
-        "skills",
-        "tree-sitter"
-      ],
-      "stars": 56173,
-      "url": "https://github.com/safishamsi/graphify",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "54yyyu/zotero-mcp",
-      "description": "Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.",
-      "language": "Python",
-      "topics": [
-        "claude",
-        "mcp",
-        "semantic-search",
-        "zotero"
-      ],
-      "stars": 3472,
-      "url": "https://github.com/54yyyu/zotero-mcp",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "dralkh/seerai",
-      "description": "Zotero AI plugin, research framework, assistant, workspaces, cloud, google drive, with MCP, agent capabilities, OCR, table extraction, semantic scholar, and firecrawl/tavily web search",
-      "language": "TypeScript",
-      "topics": [
-        "agent",
-        "agentic",
-        "ai",
-        "cloud",
-        "drive",
-        "google-drive",
-        "mcp",
-        "openai",
-        "openai-api",
-        "plugin",
-        "research",
-        "research-tool",
-        "research-tools",
-        "scholar",
-        "semantic-search",
-        "tavily",
-        "zotero",
-        "zotero-addon",
-        "zotero-api",
-        "zotero-plugin"
-      ],
-      "stars": 55,
-      "url": "https://github.com/dralkh/seerai",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 160,000+ scientists worldwide. 140 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
-      "topics": [
-        "agent-skills",
-        "ai-scientist",
-        "bioinformatics",
-        "chemoinformatics",
-        "claude",
-        "claude-skills",
-        "claudecode",
-        "clinical-research",
-        "computational-biology",
-        "data-analysis",
-        "drug-discovery",
-        "genomics",
-        "materials-science",
-        "metabolomics",
-        "proteomics",
-        "scientific-computing",
-        "scientific-visualization"
-      ],
-      "stars": 26543,
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "karpathy/nn-zero-to-hero",
-      "description": "Neural Networks: Zero to Hero",
-      "language": "Jupyter Notebook",
-      "topics": [],
-      "stars": 22834,
-      "url": "https://github.com/karpathy/nn-zero-to-hero",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ITA-Solar/dlrocs",
-      "description": "Deep Learning workshop at RoCS",
-      "language": null,
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/ITA-Solar/dlrocs",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "jiwoncpark/aracle",
-      "description": "Predictive model of solar magnetic flux emergence using deep learning",
-      "language": "Python",
-      "topics": [
-        "hmi",
-        "instance-segmentation",
-        "object-detection",
-        "spaceweather"
-      ],
-      "stars": 2,
-      "url": "https://github.com/jiwoncpark/aracle",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "neuraloperator/neuraloperator",
-      "description": "Learning in infinite dimension with neural operators.",
-      "language": "Python",
-      "topics": [
-        "fno",
-        "fourier-neural-operator",
-        "neural-operator",
-        "neural-operators",
-        "partial-differential-equations",
-        "pytorch",
-        "tensor-methods",
-        "tensorly"
-      ],
-      "stars": 3660,
-      "url": "https://github.com/neuraloperator/neuraloperator",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "HelioML/HelioML",
-      "description": "A book about machine learning, statistics, and data mining for heliophysics",
-      "language": "Jupyter Notebook",
-      "topics": [
-        "data-mining",
-        "heliophysics",
-        "machine-learning",
-        "statistics"
-      ],
-      "stars": 77,
-      "url": "https://github.com/HelioML/HelioML",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "upstash/context7",
-      "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
-      "language": "TypeScript",
-      "topics": [
-        "llm",
-        "mcp",
-        "mcp-server",
-        "vibe-coding"
-      ],
-      "stars": 56388,
-      "url": "https://github.com/upstash/context7",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "mem0ai/mem0",
-      "description": "Universal memory layer for AI Agents",
-      "language": "Python",
-      "topics": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "application",
-        "chatbots",
-        "chatgpt",
-        "genai",
-        "llm",
-        "long-term-memory",
-        "memory",
-        "memory-management",
-        "python",
-        "rag",
-        "state-management"
-      ],
-      "stars": 57097,
-      "url": "https://github.com/mem0ai/mem0",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "okada39/pinn_cavity",
-      "description": "Physics informed neural network (PINN) for cavity flow governed by Navier-Stokes equation.",
-      "language": "Python",
-      "topics": [],
-      "stars": 162,
-      "url": "https://github.com/okada39/pinn_cavity",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "okada39/pinn_wave",
-      "description": "Physics Informed Neural Network (PINN) for the wave equation.",
-      "language": "Python",
-      "topics": [],
-      "stars": 214,
-      "url": "https://github.com/okada39/pinn_wave",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "upscayl/upscayl",
-      "description": "\ud83c\udd99 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "electron",
-        "esrgan",
-        "gigapixel",
-        "gigapixel-images",
-        "image",
-        "image-upscaling",
-        "topaz",
-        "upscale",
-        "upscalerimage",
-        "upscayl"
-      ],
-      "stars": 45612,
-      "url": "https://github.com/upscayl/upscayl",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "okada39/pinn_burgers",
-      "description": "Physics Informed Neural Network (PINN) for Burgers' equation.",
-      "language": "Python",
-      "topics": [],
-      "stars": 77,
-      "url": "https://github.com/okada39/pinn_burgers",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "levimcclenny/SA-PINNs",
-      "description": "Implementation of the paper \"Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism\" [AAAI-MLPS 2021]",
-      "language": "Python",
-      "topics": [
-        "adaptive-pinns",
-        "deep-learning",
-        "neural-network",
-        "neural-networks",
-        "pdes",
-        "physics-informed-learning",
-        "pinns",
-        "scientific-computing",
-        "sciml",
-        "stiff-pdes",
-        "tensorflow"
-      ],
-      "stars": 294,
-      "url": "https://github.com/levimcclenny/SA-PINNs",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cheshirepezz/astroML",
-      "description": "Machine learning, statistics, and data mining for astronomy and astrophysics",
-      "language": null,
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/cheshirepezz/astroML",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "cheshirepezz/Python-for-machine-learning",
-      "description": "Repository for participants of the \"Python for machine learning\" training",
-      "language": null,
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/cheshirepezz/Python-for-machine-learning",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "ikespand/awesome-machine-learning-fluid-mechanics",
-      "description": "Curated list for ML in FM",
-      "language": null,
-      "topics": [],
-      "stars": 244,
-      "url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Cambridge-ICCS/FTorch",
-      "description": "A library for directly calling PyTorch ML models from Fortran.",
-      "language": "Fortran",
-      "topics": [
-        "deep-learning",
-        "fortran",
-        "hacktoberfest",
-        "interoperability",
-        "libtorch",
-        "machine-learning",
-        "python",
-        "pytorch",
-        "torch"
-      ],
-      "stars": 196,
-      "url": "https://github.com/Cambridge-ICCS/FTorch",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "modern-fortran/neural-fortran",
-      "description": "A parallel framework for deep learning",
-      "language": "Fortran",
-      "topics": [
-        "cnn",
-        "deep-learning",
-        "fortran",
-        "machine-learning",
-        "neural-network",
-        "parallel"
-      ],
-      "stars": 468,
-      "url": "https://github.com/modern-fortran/neural-fortran",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pmocz/artificialneuralnetwork-python",
-      "description": "Artificial Neural Network for Image Classification",
-      "language": "Python",
-      "topics": [
-        "artificial-neural-networks",
-        "astrophysics",
-        "machine-learning",
-        "scientific-computing",
-        "tutorial"
-      ],
-      "stars": 13,
-      "url": "https://github.com/pmocz/artificialneuralnetwork-python",
-      "archived": false,
-      "fork": false
-    }
-  ],
-  "Tools & Utilities": [
-    {
-      "name": "jannisteunissen/fosito",
-      "description": "fortran simulation tools",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/jannisteunissen/fosito",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "kepano/obsidian-skills",
-      "description": "Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.",
-      "language": null,
-      "topics": [
-        "claude",
-        "clawdbot",
-        "cli",
-        "codex",
-        "defuddle",
-        "obsidian",
-        "openclaw",
-        "opencode",
-        "skills"
-      ],
-      "stars": 33547,
-      "url": "https://github.com/kepano/obsidian-skills",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "openai/codex",
-      "description": "Lightweight coding agent that runs in your terminal",
-      "language": "Rust",
-      "topics": [],
-      "stars": 86924,
-      "url": "https://github.com/openai/codex",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "fastfetch-cli/fastfetch",
-      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-      "language": "C",
-      "topics": [
-        "bsdfetch",
-        "command-line",
-        "fastfetch",
-        "fetch",
-        "flashfetch",
-        "hacktoberfest",
-        "macfetch",
-        "neofetch",
-        "terminal",
-        "winfetch"
-      ],
-      "stars": 22978,
-      "url": "https://github.com/fastfetch-cli/fastfetch",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "PKM-er/obsidian-editing-toolbar",
-      "description": "An obsidian toolbar plugin, modified from the Cmenu plugin",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 1393,
-      "url": "https://github.com/PKM-er/obsidian-editing-toolbar",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "manaflow-ai/cmux",
-      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
-      "language": "JavaScript",
-      "topics": [
-        "amp",
-        "claude-code",
-        "codex",
-        "gemini",
-        "ghostty",
-        "opencode",
-        "terminal",
-        "tmux"
-      ],
-      "stars": 20307,
-      "url": "https://github.com/manaflow-ai/cmux",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ghostty-org/ghostty",
-      "description": "\ud83d\udc7b Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-      "language": "Zig",
-      "topics": [],
-      "stars": 55547,
-      "url": "https://github.com/ghostty-org/ghostty",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "obsidianmd/obsidian-clipper",
-      "description": "Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.",
-      "language": "TypeScript",
-      "topics": [
-        "brave",
-        "browser-extension",
-        "chrome",
-        "chrome-extension",
-        "chromium",
-        "edge",
-        "firefox",
-        "firefox-addon",
-        "obsidian",
-        "obsidianmd",
-        "safari",
-        "safari-extension"
-      ],
-      "stars": 4447,
-      "url": "https://github.com/obsidianmd/obsidian-clipper",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "safishamsi/graphify",
-      "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "language": "Python",
-      "topics": [
-        "antigravity",
-        "claude-code",
-        "codex",
-        "gemini",
-        "graphrag",
-        "knowledge-graph",
-        "leiden",
-        "openclaw",
-        "rag",
-        "skills",
-        "tree-sitter"
-      ],
-      "stars": 56173,
-      "url": "https://github.com/safishamsi/graphify",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Katagiri-Hoshino-Lab/VibeCodeHPC",
-      "description": "CLI-based multi-agents for Auto-Tuning (e.g. HPC code optimazation loops) supporting Local LLMs",
-      "language": "Python",
-      "topics": [
-        "auto-tuning",
-        "claude-code",
-        "cline-cli",
-        "codex-cli",
-        "gemini-cli",
-        "hpc",
-        "kimi-cli",
-        "local-llm",
-        "multiagent",
-        "opencode",
-        "qwen-code",
-        "ssh-agent",
-        "tmux",
-        "vibe-local"
-      ],
-      "stars": 34,
-      "url": "https://github.com/Katagiri-Hoshino-Lab/VibeCodeHPC",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Sergey-Anfinogentov/seismo-corona",
-      "description": "A GUI tool for MHD-seismology of solar active regions using kink oscillation",
-      "language": "IDL",
-      "topics": [],
-      "stars": 4,
-      "url": "https://github.com/Sergey-Anfinogentov/seismo-corona",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Lum1104/Understand-Anything",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "language": "TypeScript",
-      "topics": [
-        "antigravity-skills",
-        "business-knowledge",
-        "claude-code",
-        "claude-skills",
-        "codebase-analysis",
-        "codex",
-        "codex-skills",
-        "developer-tools-ai-agent",
-        "gemini-cli-skills",
-        "karpathy-llm-wiki",
-        "knowledge-base",
-        "knowledge-graph",
-        "memory",
-        "opencode-skills",
-        "pi-agent",
-        "understandcode",
-        "vibe-coding"
-      ],
-      "stars": 44445,
-      "url": "https://github.com/Lum1104/Understand-Anything",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "topics": [
-        "autogen",
-        "autogen-extension",
-        "langchain",
-        "markdown",
-        "microsoft-office",
-        "openai",
-        "pdf"
-      ],
-      "stars": 129939,
-      "url": "https://github.com/microsoft/markitdown",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Polymarket/polymarket-cli",
-      "description": null,
-      "language": "Rust",
-      "topics": [],
-      "stars": 2732,
-      "url": "https://github.com/Polymarket/polymarket-cli",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "bpbrown/fluids",
-      "description": "Introduction to Fluid Dynamics:  upper undergraduate to graduate level material in fluid dynamics, guided by problems in the atmospheres of planets and interiors of stars.  This material includes a mixture of lectures, analytic work, and simulation work.  To fully utilize all material, you will need sympy, dedalus and eigentools installed.",
-      "language": "Jupyter Notebook",
-      "topics": [
-        "fluid-dynamics",
-        "fluid-simulation"
-      ],
-      "stars": 6,
-      "url": "https://github.com/bpbrown/fluids",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "bpbrown/solar_models",
-      "description": "Basic tools for reading in and plotting quantities from standard solar structure at atmosphere models.",
-      "language": "Jupyter Notebook",
-      "topics": [],
-      "stars": 7,
-      "url": "https://github.com/bpbrown/solar_models",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "legolas-project/legolas",
-      "description": "Legolas: a modern tool for MHD spectroscopy",
-      "language": "Fortran",
-      "topics": [
-        "astrophysics",
-        "finite-elements",
-        "magnetohydrodynamics",
-        "spectroscopy"
-      ],
-      "stars": 16,
-      "url": "https://github.com/legolas-project/legolas",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Entroforce/image-gen",
-      "description": "Solar wind animation tool",
-      "language": "C++",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/Entroforce/image-gen",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "davila7/claude-code-templates",
-      "description": "CLI tool for configuring and monitoring Claude Code",
-      "language": "Python",
-      "topics": [
-        "anthropic",
-        "anthropic-claude",
-        "claude",
-        "claude-code"
-      ],
-      "stars": 27661,
-      "url": "https://github.com/davila7/claude-code-templates",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "winfunc/opcode",
-      "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
-      "language": "TypeScript",
-      "topics": [
-        "anthropic",
-        "anthropic-claude",
-        "claude",
-        "claude-4",
-        "claude-4-opus",
-        "claude-4-sonnet",
-        "claude-ai",
-        "claude-code",
-        "claude-code-sdk",
-        "cursor",
-        "ide",
-        "llm",
-        "llm-code",
-        "rust",
-        "tauri"
-      ],
-      "stars": 21973,
-      "url": "https://github.com/winfunc/opcode",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "regenrek/planwithgemini",
-      "description": "Plan with Gemini CLI and build with Claude Code or Cursor",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 49,
-      "url": "https://github.com/regenrek/planwithgemini",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "regenrek/codefetch",
-      "description": "Turn code into Markdown for LLMs with one simple terminal command",
-      "language": "TypeScript",
-      "topics": [
-        "cli",
-        "llm",
-        "markdown"
-      ],
-      "stars": 439,
-      "url": "https://github.com/regenrek/codefetch",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ohmybash/oh-my-bash",
-      "description": "A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.",
-      "language": "Shell",
-      "topics": [
-        "bash-configuration",
-        "oh-my-bash",
-        "productivity",
-        "shell",
-        "terminal",
-        "theme"
-      ],
-      "stars": 7520,
-      "url": "https://github.com/ohmybash/oh-my-bash",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "magic-sph/magic",
-      "description": "MagIC is a high-performance code that solves the magneto-hydrodynamics equations in rotating spherical shells",
-      "language": "Fortran",
-      "topics": [
-        "cfd",
-        "computational-fluid-dynamics",
-        "convection",
-        "magnetohydrodynamics",
-        "mhd",
-        "planetary-science",
-        "stellar-astrophysics"
-      ],
-      "stars": 95,
-      "url": "https://github.com/magic-sph/magic",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "rsimitev/LinearAnalysis-ThermoCompConv",
-      "description": "SPECTRAL CODE FOR LINEAR ANALYSIS OF THE ONSET OF THERMO-COMPOSITIONAL CONVECTION IN ROTATING SPHERICAL FLUID SHELLS",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/rsimitev/LinearAnalysis-ThermoCompConv",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "CliMA/Oceananigans.jl",
-      "description": "\ud83c\udf0a  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
-      "language": "Julia",
-      "topics": [
-        "climate",
-        "climate-change",
-        "data-assimilation",
-        "fluid-dynamics",
-        "gpu",
-        "julia",
-        "machine-learning",
-        "ocean"
-      ],
-      "stars": 1331,
-      "url": "https://github.com/CliMA/Oceananigans.jl",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "rsimitev/DynamoInRotatingSpheres",
-      "description": "Thermo-compositional convection and dynamos in rotating spherical shells",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/rsimitev/DynamoInRotatingSpheres",
-      "archived": false,
-      "fork": false
-    }
-  ],
   "Web Development": [
     {
       "name": "cburstedde/p4est",
@@ -8398,7 +8480,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 335,
+      "stars": 336,
       "url": "https://github.com/chrisryugj/Docufinder",
       "archived": false,
       "fork": false
@@ -8408,7 +8490,7 @@
       "description": "Remote Control for Codex.",
       "language": "Swift",
       "topics": [],
-      "stars": 3135,
+      "stars": 3141,
       "url": "https://github.com/Emanuele-web04/remodex",
       "archived": false,
       "fork": false
@@ -8426,7 +8508,7 @@
         "obsidian",
         "obsidian-plugin"
       ],
-      "stars": 5058,
+      "stars": 5061,
       "url": "https://github.com/brianpetro/obsidian-smart-connections",
       "archived": false,
       "fork": false
@@ -8449,7 +8531,7 @@
         "safari",
         "safari-extension"
       ],
-      "stars": 4447,
+      "stars": 4454,
       "url": "https://github.com/obsidianmd/obsidian-clipper",
       "archived": false,
       "fork": false
@@ -8524,7 +8606,7 @@
         "personal-website",
         "portfolio-website"
       ],
-      "stars": 17064,
+      "stars": 17068,
       "url": "https://github.com/academicpages/academicpages.github.io",
       "archived": false,
       "fork": false
@@ -8581,7 +8663,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 19409,
+      "stars": 19414,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
@@ -8599,7 +8681,7 @@
         "sph",
         "webgpu"
       ],
-      "stars": 512,
+      "stars": 511,
       "url": "https://github.com/matsuoka-601/WebGPU-Ocean",
       "archived": false,
       "fork": false
@@ -8666,7 +8748,7 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 56173,
+      "stars": 56768,
       "url": "https://github.com/safishamsi/graphify",
       "archived": false,
       "fork": false
@@ -8687,7 +8769,7 @@
         "markdown",
         "public-data"
       ],
-      "stars": 1374,
+      "stars": 1378,
       "url": "https://github.com/legalize-kr/legalize-kr",
       "archived": false,
       "fork": false
@@ -8713,7 +8795,7 @@
         "obsidian",
         "obsidian-md"
       ],
-      "stars": 18221,
+      "stars": 18260,
       "url": "https://github.com/obsidianmd/obsidian-releases",
       "archived": false,
       "fork": false
@@ -8723,7 +8805,7 @@
       "description": "tmux source code",
       "language": "C",
       "topics": [],
-      "stars": 46116,
+      "stars": 46138,
       "url": "https://github.com/tmux/tmux",
       "archived": false,
       "fork": false
@@ -8743,7 +8825,7 @@
         "tcsh",
         "zsh"
       ],
-      "stars": 15128,
+      "stars": 15131,
       "url": "https://github.com/direnv/direnv",
       "archived": false,
       "fork": false
@@ -8773,7 +8855,7 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
       "topics": [],
-      "stars": 161654,
+      "stars": 162556,
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "archived": false,
       "fork": false
@@ -8905,7 +8987,7 @@
         "portfolio-website",
         "theme"
       ],
-      "stars": 15669,
+      "stars": 15671,
       "url": "https://github.com/alshedivat/al-folio",
       "archived": false,
       "fork": false
@@ -9167,7 +9249,7 @@
         "responsive-web-design",
         "rubygems"
       ],
-      "stars": 10098,
+      "stars": 10101,
       "url": "https://github.com/cotes2020/jekyll-theme-chirpy",
       "archived": false,
       "fork": false
