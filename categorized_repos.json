@@ -1,167 +1,290 @@
 {
-  "DevOps & Infrastructure": [
+  "Machine Learning & AI": [
     {
-      "name": "shepherd-agents/shepherd",
-      "description": "A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run. Couples agent and environments in a copy-on-write fork ~5x faster than docker commit, with ~95% KV-cache reuse on replay. Framework built for meta-agents to supervise, optimize, and train other agents",
+      "name": "guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
       "language": "Python",
       "topics": [
-        "mcts-rl",
-        "meta-agents",
-        "meta-optimization",
-        "runtime-supervision",
-        "tree-rl",
-        "workflow-automation"
+        "agent-skill",
+        "ai",
+        "c2pa",
+        "claude",
+        "provenance",
+        "synthid",
+        "watermark"
       ],
-      "stars": 2276,
-      "url": "https://github.com/shepherd-agents/shepherd",
+      "stars": 2404,
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "archived": false,
       "fork": false
     },
     {
-      "name": "MetOffice/lfric_core",
-      "description": "LFRic Infrastructure",
-      "language": "Fortran",
+      "name": "hardikpandya/stop-slop",
+      "description": "A skill file for removing AI tells from prose",
+      "language": null,
       "topics": [],
-      "stars": 26,
-      "url": "https://github.com/MetOffice/lfric_core",
+      "stars": 15540,
+      "url": "https://github.com/hardikpandya/stop-slop",
       "archived": false,
       "fork": false
     },
     {
-      "name": "llnl/axom",
-      "description": "CS infrastructure components for HPC applications",
-      "language": "C++",
+      "name": "petergyang/human-review",
+      "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
+      "language": "JavaScript",
       "topics": [
-        "app-infrastructure",
-        "c-plus-plus",
-        "cpp",
-        "fortran",
-        "hpc",
-        "llnl",
-        "parallel-computing",
-        "radiuss"
-      ],
-      "stars": 194,
-      "url": "https://github.com/llnl/axom",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "parthenon-hpc-lab/parthenon",
-      "description": "Parthenon AMR infrastructure ",
-      "language": "C++",
-      "topics": [
-        "amr",
-        "high-performance-computing",
-        "kokkos",
-        "parthenon"
-      ],
-      "stars": 164,
-      "url": "https://github.com/parthenon-hpc-lab/parthenon",
-      "archived": false,
-      "fork": false
-    }
-  ],
-  "Programming Languages & Compilers": [
-    {
-      "name": "shepherd-agents/shepherd",
-      "description": "A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run. Couples agent and environments in a copy-on-write fork ~5x faster than docker commit, with ~95% KV-cache reuse on replay. Framework built for meta-agents to supervise, optimize, and train other agents",
-      "language": "Python",
-      "topics": [
-        "mcts-rl",
-        "meta-agents",
-        "meta-optimization",
-        "runtime-supervision",
-        "tree-rl",
-        "workflow-automation"
-      ],
-      "stars": 2276,
-      "url": "https://github.com/shepherd-agents/shepherd",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "jeongbhin/HOW-MHD-Kokkos",
-      "description": "A portable C++/Kokkos implementation of HOW-MHD: a high-order WENO-based MHD solver for astrophysical fluid simulations.",
-      "language": "C++",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/jeongbhin/HOW-MHD-Kokkos",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "E3SM-Project/E3SM",
-      "description": "Energy Exascale Earth System Model source code.  NOTE:  use \"maint\" branches for your work.  Head of master is not validated.",
-      "language": "Fortran",
-      "topics": [
-        "e3sm",
-        "earth-science",
-        "fortran",
-        "snl-applications"
-      ],
-      "stars": 437,
-      "url": "https://github.com/E3SM-Project/E3SM",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "wrf-model/WRF",
-      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
-      "language": "Fortran",
-      "topics": [
-        "climate",
-        "forecast",
-        "fortran",
-        "model",
-        "nwp",
-        "simulation",
-        "weather",
-        "wrf"
-      ],
-      "stars": 1733,
-      "url": "https://github.com/wrf-model/WRF",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "MetOffice/lfric_core",
-      "description": "LFRic Infrastructure",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 26,
-      "url": "https://github.com/MetOffice/lfric_core",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "DeusData/codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "language": "C",
-      "topics": [
-        "aider",
-        "ast",
+        "ai-agents",
         "claude-code",
-        "code-analysis",
-        "code-intelligence",
+        "cli",
         "codex",
-        "cursor",
-        "cypher",
-        "developer-tools",
-        "gemini-cli",
-        "graph-visualization",
-        "kilocode",
-        "knowledge-graph",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "opencode",
-        "sqlite",
-        "tree-sitter",
-        "windsurf"
+        "feedback",
+        "html",
+        "human-in-the-loop",
+        "markdown",
+        "review"
       ],
-      "stars": 38586,
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "stars": 900,
+      "url": "https://github.com/petergyang/human-review",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "webbrain-one/webbrain",
+      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) \ud83e\udde0 ",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-agents",
+        "ai-tools",
+        "browser-ai",
+        "browser-automation",
+        "browser-extension",
+        "chrome-ai",
+        "chrome-devtools",
+        "chrome-extension",
+        "chrome-extensions",
+        "firefox-addon",
+        "firefox-addons",
+        "firefox-extension",
+        "firefox-extensions",
+        "gemma",
+        "gemma4",
+        "minimax",
+        "offline-ai",
+        "offline-llm",
+        "qwen"
+      ],
+      "stars": 730,
+      "url": "https://github.com/webbrain-one/webbrain",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "NulightJens/humanizer-stack",
+      "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
+      "language": "Python",
+      "topics": [
+        "ai-detection",
+        "ai-writing",
+        "anthropic",
+        "claude-code",
+        "claude-skills",
+        "humanizer",
+        "writing-tools"
+      ],
+      "stars": 207,
+      "url": "https://github.com/NulightJens/humanizer-stack",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "petergyang/no-ai-slop",
+      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
+      "language": "Python",
+      "topics": [],
+      "stars": 4919,
+      "url": "https://github.com/petergyang/no-ai-slop",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "RWTH-HPC/Fortran-ML-Interface",
+      "description": "A modular interface embedding the AIxeleratorService and related approaches to couple CFD solvers with deep learning inference.",
+      "language": "Fortran",
+      "topics": [
+        "computational-fluid-dynamics",
+        "deep-learning",
+        "fortran",
+        "high-performance-computing",
+        "machine-learning",
+        "python",
+        "tensorflow"
+      ],
+      "stars": 5,
+      "url": "https://github.com/RWTH-HPC/Fortran-ML-Interface",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "tirth8205/code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "language": "Python",
+      "topics": [
+        "ai-coding",
+        "claude",
+        "claude-code",
+        "code-review",
+        "graphrag",
+        "incremental",
+        "knowledge-graph",
+        "llm",
+        "mcp",
+        "python",
+        "static-analysis",
+        "tree-sitter"
+      ],
+      "stars": 29921,
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 88589,
+      "url": "https://github.com/earendil-works/pi",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 330+ providers (90+ free), 1200+ models \u2014 Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 320+ contributors",
+      "language": "TypeScript",
+      "topics": [
+        "a2a",
+        "ai-agents",
+        "ai-gateway",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cline",
+        "codex",
+        "copilot",
+        "cursor",
+        "deepseek",
+        "free-ai",
+        "gemini",
+        "kimi",
+        "llm-gateway",
+        "mcp",
+        "openai",
+        "openai-proxy",
+        "qwen",
+        "token-saver"
+      ],
+      "stars": 46623,
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "bahayonghang/academic-writing-skills",
+      "description": "AI-powered post-writing toolkit for academic papers \u2014 format validation, grammar/style polishing, de-AI editing, reference checking, and reviewer-style paper audits. 5 skills for LaTeX, Typst & PDF. Focused on enhancing existing text quality, not generating from scratch.",
+      "language": "Python",
+      "topics": [
+        "academic",
+        "latex",
+        "typst"
+      ],
+      "stars": 411,
+      "url": "https://github.com/bahayonghang/academic-writing-skills",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "language": "C#",
+      "topics": [
+        "agent",
+        "ai",
+        "claude-code",
+        "cli",
+        "codex",
+        "docx",
+        "excel",
+        "office",
+        "openclaw",
+        "pptx",
+        "presentation",
+        "skills",
+        "word",
+        "xlsx"
+      ],
+      "stars": 27948,
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Kulaxyz/self-learning-skills",
+      "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
+      "language": null,
+      "topics": [],
+      "stars": 938,
+      "url": "https://github.com/Kulaxyz/self-learning-skills",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
+      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+      "language": null,
+      "topics": [
+        "ai",
+        "bolt",
+        "cluely",
+        "copilot",
+        "cursor",
+        "cursorai",
+        "devin",
+        "github-copilot",
+        "lovable",
+        "open-source",
+        "perplexity",
+        "replit",
+        "system-prompts",
+        "trae",
+        "trae-ai",
+        "trae-ide",
+        "v0",
+        "vscode",
+        "windsurf",
+        "windsurf-ai"
+      ],
+      "stars": 142758,
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "google/agents-cli",
+      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+      "language": "Python",
+      "topics": [
+        "adk",
+        "agent-development-kit",
+        "agents",
+        "coding-agent",
+        "gemini",
+        "gemini-enterprise-agent-platform",
+        "generative-ai",
+        "google-cloud"
+      ],
+      "stars": 5586,
+      "url": "https://github.com/google/agents-cli",
       "archived": false,
       "fork": false
     },
@@ -181,18 +304,220 @@
         "slide",
         "slides"
       ],
-      "stars": 44880,
+      "stars": 45595,
       "url": "https://github.com/hugohe3/ppt-master",
       "archived": false,
       "fork": false
     },
     {
-      "name": "llnl/paraview_mcp",
-      "description": "ParaView-MCP integrates multimodal LLMs with ParaView via Model Context Protocol, enabling natural language control of scientific visualizations. The agent observes the viewport for visual feedback, making complex visualization tool accessible to all users while providing intelligent automation for experts.",
+      "name": "federicodeponte/opendraft",
+      "description": "Free & open-source AI research-paper writer: 19 agents draft 20k-word academic papers in ~10 min with citations verified against CrossRef/OpenAlex/arXiv. Export PDF/Word/LaTeX. Hosted at openpaper.dev",
       "language": "Python",
+      "topics": [
+        "academic-papers",
+        "academic-writing",
+        "ai-agents",
+        "ai-writing",
+        "chatgpt-alternative",
+        "citation-verification",
+        "dissertation",
+        "docx-export",
+        "literature-review",
+        "llm",
+        "multi-agent",
+        "open-source",
+        "paper-writing",
+        "pdf-generator",
+        "python",
+        "research",
+        "research-assistant",
+        "research-paper",
+        "thesis",
+        "thesis-generator"
+      ],
+      "stars": 378,
+      "url": "https://github.com/federicodeponte/opendraft",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "steipete/CodexBar",
+      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
+      "language": "Swift",
+      "topics": [
+        "ai",
+        "claude-code",
+        "codex",
+        "swift"
+      ],
+      "stars": 20010,
+      "url": "https://github.com/steipete/CodexBar",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "AlexZio00/sovereign-skills",
+      "description": "20 production-grade skills for AI coding agents \u2014 setup, scope, discipline, code review, security, session management, governance, ops, and quality audits (eval-leakage, doc-drift). Works with Claude Code, Codex, and Cursor.",
+      "language": "Python",
+      "topics": [
+        "agentic-workflows",
+        "ai-agents",
+        "audit",
+        "claude-code",
+        "code-review",
+        "codex",
+        "cursor",
+        "developer-tools",
+        "llm-agents",
+        "skills",
+        "verification"
+      ],
+      "stars": 124,
+      "url": "https://github.com/AlexZio00/sovereign-skills",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cobusgreyling/loop-engineering",
+      "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+      "language": "JavaScript",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "ai-coding",
+        "anthropic",
+        "automation",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "devops-automation",
+        "devtools",
+        "github-actions",
+        "grok",
+        "llm",
+        "loop-engineering",
+        "mcp",
+        "prompt-engineering"
+      ],
+      "stars": 10284,
+      "url": "https://github.com/cobusgreyling/loop-engineering",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "brycewang-stanford/Auto-Empirical-Research-Skills",
+      "description": "\ud83d\udd2c A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | \u7cbe\u9009 23,000+ AI Agent \u6280\u80fd\u5e93\uff0c\u8986\u76d68\u5927\u793e\u4f1a\u79d1\u5b66\u5b66\u79d1\u7684\u5b9e\u8bc1\u7814\u7a76\u3002CoPaper.AI 20\u5206\u949f\u5b8c\u6210\u4e00\u7bc7\u53ef\u590d\u73b0\u7684\u89c4\u8303\u5b9e\u8bc1\u8bba\u6587\uff0c\u5e76\u652f\u6301\u7528\u6237\u4e0a\u4f20 Skills\u3002-- Maintained by CoPaper.AI from Stanford REAP.",
+      "language": "Stata",
+      "topics": [
+        "academic-research",
+        "agent-skills",
+        "ai-agent",
+        "awesome-list",
+        "communication",
+        "copaper",
+        "economics",
+        "education",
+        "empirical-research",
+        "international-relations",
+        "political-science",
+        "psychology",
+        "public-administration",
+        "reproducible-research",
+        "skills-library",
+        "social-science",
+        "sociology"
+      ],
+      "stars": 3382,
+      "url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "brandonwise/humanizer",
+      "description": "OpenClaw skill that detects and removes signs of AI-generated writing, making text sound natural and human. Based on Wikipedia's Signs of AI Writing.",
+      "language": "JavaScript",
       "topics": [],
-      "stars": 57,
-      "url": "https://github.com/llnl/paraview_mcp",
+      "stars": 112,
+      "url": "https://github.com/brandonwise/humanizer",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "stars": 101543,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "albertofettucini/Council",
+      "description": "Ask several AI models one question \u2014 they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.",
+      "language": "Swift",
+      "topics": [
+        "ai",
+        "ai-tools",
+        "anthropic",
+        "bring-your-own-key",
+        "claude",
+        "gemini",
+        "llm",
+        "macos",
+        "macos-app",
+        "multi-llm",
+        "ollama",
+        "openai",
+        "privacy",
+        "swift",
+        "swiftui"
+      ],
+      "stars": 107,
+      "url": "https://github.com/albertofettucini/Council",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "elder-plinius/CL4R1T4S",
+      "description": "LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! \ud83d\udc50",
+      "language": null,
+      "topics": [
+        "agents",
+        "ai",
+        "chatgpt",
+        "gemini",
+        "google",
+        "grok",
+        "hacking",
+        "leak",
+        "leaked",
+        "openai",
+        "prompt",
+        "prompt-engineering",
+        "prompts",
+        "red-team",
+        "red-teaming",
+        "system",
+        "system-info",
+        "system-prompts",
+        "tools",
+        "transparency"
+      ],
+      "stars": 46872,
+      "url": "https://github.com/elder-plinius/CL4R1T4S",
       "archived": false,
       "fork": false
     },
@@ -222,7 +547,7 @@
         "web-search",
         "youtube"
       ],
-      "stars": 57934,
+      "stars": 58023,
       "url": "https://github.com/mvanhorn/last30days-skill",
       "archived": false,
       "fork": false
@@ -246,74 +571,55 @@
         "skills",
         "vibecoding"
       ],
-      "stars": 75456,
+      "stars": 75886,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "archived": false,
       "fork": false
     },
     {
-      "name": "llnl/axom",
-      "description": "CS infrastructure components for HPC applications",
-      "language": "C++",
+      "name": "junhoyeo/tokscale",
+      "description": "\ud83d\udef0\ufe0f Track token usage across AI coding agents from your terminal. \ud83c\udfc5 Global leaderboard with trillions of tokens tracked.",
+      "language": "Rust",
       "topics": [
-        "app-infrastructure",
-        "c-plus-plus",
-        "cpp",
-        "fortran",
-        "hpc",
-        "llnl",
-        "parallel-computing",
-        "radiuss"
+        "ai",
+        "ai-agents",
+        "ampcode",
+        "claude",
+        "claude-code",
+        "clawdbot",
+        "codex",
+        "cursor",
+        "cursor-ide",
+        "droid",
+        "gemini",
+        "gemini-cli",
+        "gpt",
+        "hermes",
+        "moltbot",
+        "oh",
+        "openclaw",
+        "opencode",
+        "opentui",
+        "token-usage"
       ],
-      "stars": 194,
-      "url": "https://github.com/llnl/axom",
+      "stars": 4925,
+      "url": "https://github.com/junhoyeo/tokscale",
       "archived": false,
       "fork": false
     },
     {
-      "name": "Ashutosh00710/github-readme-activity-graph",
-      "description": "A dynamically generated activity graph to show your GitHub activities of last 31 days.",
-      "language": "TypeScript",
+      "name": "K-Dense-AI/science-superpowers",
+      "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
+      "language": "Shell",
       "topics": [
-        "contribution",
-        "dynamic",
-        "github-activity",
-        "graph",
-        "hacktoberfest",
-        "hacktoberfest2021",
-        "readme",
-        "statistics"
+        "agent-skills",
+        "ai-agents",
+        "computational-science",
+        "preregistration",
+        "reproducible-research"
       ],
-      "stars": 2299,
-      "url": "https://github.com/Ashutosh00710/github-readme-activity-graph",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "IAS-Astrophysics/athenak",
-      "description": "Performance-portable version of the Athena++ astrophysical AMR-MHD code using Kokkos.",
-      "language": "C++",
-      "topics": [],
-      "stars": 133,
-      "url": "https://github.com/IAS-Astrophysics/athenak",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "d2lang/d2",
-      "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
-      "language": "Go",
-      "topics": [
-        "developer-tools",
-        "diagramming",
-        "diagrams",
-        "go",
-        "golang",
-        "software-architecture",
-        "text-to-diagram"
-      ],
-      "stars": 24898,
-      "url": "https://github.com/d2lang/d2",
+      "stars": 286,
+      "url": "https://github.com/K-Dense-AI/science-superpowers",
       "archived": false,
       "fork": false
     },
@@ -322,226 +628,504 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "topics": [],
-      "stars": 36210,
+      "stars": 36246,
       "url": "https://github.com/tinyhumansai/openhuman",
       "archived": false,
       "fork": false
     },
     {
-      "name": "jannisteunissen/config_fortran",
-      "description": "Configuration file parser for Fortran",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 39,
-      "url": "https://github.com/jannisteunissen/config_fortran",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "parthenon-hpc-lab/parthenon",
-      "description": "Parthenon AMR infrastructure ",
-      "language": "C++",
-      "topics": [
-        "amr",
-        "high-performance-computing",
-        "kokkos",
-        "parthenon"
-      ],
-      "stars": 164,
-      "url": "https://github.com/parthenon-hpc-lab/parthenon",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "opendataloader-project/opendataloader-pdf",
-      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
-      "language": "Java",
-      "topics": [
-        "a11y",
-        "accessibility",
-        "ai",
-        "bounding-box",
-        "document-parsing",
-        "eaa",
-        "html",
-        "json",
-        "markdown",
-        "ocr",
-        "ocr-recognition",
-        "pdf",
-        "pdf-accessibility",
-        "pdf-converter",
-        "pdf-extraction",
-        "pdf-parser",
-        "pdf-ua",
-        "rag",
-        "tables",
-        "tagged-pdf"
-      ],
-      "stars": 28348,
-      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "fastfetch-cli/fastfetch",
-      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
-      "language": "C",
-      "topics": [
-        "bsdfetch",
-        "command-line",
-        "fastfetch",
-        "fetch",
-        "flashfetch",
-        "hacktoberfest",
-        "macfetch",
-        "neofetch",
-        "terminal",
-        "winfetch"
-      ],
-      "stars": 24163,
-      "url": "https://github.com/fastfetch-cli/fastfetch",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ghostty-org/ghostty",
-      "description": "\ud83d\udc7b Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-      "language": "Zig",
-      "topics": [],
-      "stars": 59519,
-      "url": "https://github.com/ghostty-org/ghostty",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Graphify-Labs/graphify",
-      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "name": "Squirbie/im-not-ai-codex",
+      "description": "Codex plugin port of epoko77-ai/im-not-ai for Korean AI-tell rewriting",
       "language": "Python",
+      "topics": [],
+      "stars": 57,
+      "url": "https://github.com/Squirbie/im-not-ai-codex",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "joonan30/llm-wiki-labs",
+      "description": "AI \ub3d9\ub8cc\uacfc\ud559\uc790\uc640 \ud568\uaed8 \uc5f0\uad6c\ud558\ub294 \ubc29\ubc95 \u2014 1\uc778 \uc5f0\uad6c\uc790\uac00 AI \uc704\ud0a4\ub97c \uc6b4\uc601\ud558\ub294 \uc2dc\uc2a4\ud15c \uc778\ud130\ub799\ud2f0\ube0c \ubaa8\uc74c. Joonan Lab.",
+      "language": "HTML",
+      "topics": [],
+      "stars": 16,
+      "url": "https://github.com/joonan30/llm-wiki-labs",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "joonan30/lecture-llm-wiki",
+      "description": "LLM-Wiki \u2014 \ub300\ud559\uc6d0\uc0dd\uc744 \uc704\ud55c AI \uc9c0\uc2dd \ubca0\uc774\uc2a4 (\ubd84\ud574\uc0dd\ubb3c\ud559 \ub300\ud559\uc6d0 \ud2b9\uac15, \uc548\uc900\uc6a9)",
+      "language": "HTML",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/joonan30/lecture-llm-wiki",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
       "topics": [
-        "ai-agents",
+        "agent-skills",
         "antigravity",
-        "ast",
         "claude-code",
-        "code-analysis",
-        "code-search",
         "codex",
         "cursor",
-        "developer-tools",
-        "gemini",
-        "graphrag",
-        "knowledge-graph",
-        "leiden",
-        "llm",
-        "mcp",
-        "openclaw",
-        "rag",
-        "skills",
-        "tree-sitter"
+        "skills"
       ],
-      "stars": 105335,
-      "url": "https://github.com/Graphify-Labs/graphify",
+      "stars": 86617,
+      "url": "https://github.com/addyosmani/agent-skills",
       "archived": false,
       "fork": false
     },
     {
-      "name": "garethcmurphy/Interstellar-Jet-MHD-Simulation",
-      "description": "\ud83d\ude80 A parallelized numerical solver for magnetohydrodynamics (MHD) equations, developed using finite volume methods to simulate \ud83c\udf0c jets in the interstellar medium. This code is optimized for large-scale astrophysical simulations with \u26a1 MPI-based parallelism, making it suitable for high-performance computing environments \ud83d\udda5\ufe0f. Perfect for exploring th",
-      "language": "C++",
-      "topics": [
-        "fluid-dynamics",
-        "fluid-simulation",
-        "magnetohydrodynamics",
-        "mhd",
-        "mpi"
-      ],
-      "stars": 15,
-      "url": "https://github.com/garethcmurphy/Interstellar-Jet-MHD-Simulation",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ebelova-pppl/TKIN",
-      "description": "Equilibrium Grad-Shafranov solver including fast ions: tkin_read.p",
-      "language": "Fortran",
+      "name": "SakanaAI/AI-Scientist-v2",
+      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "language": "Python",
       "topics": [],
-      "stars": 1,
-      "url": "https://github.com/ebelova-pppl/TKIN",
+      "stars": 6998,
+      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
       "archived": false,
       "fork": false
     },
     {
-      "name": "LMNadol/MHSXtraPy",
-      "description": "Currently working extensively on this, so a lot of changes happening. Publication at: https://academic.oup.com/rasti/advance-article/doi/10.1093/rasti/rzaf053/8321672.",
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "llms",
+        "python",
+        "rag"
+      ],
+      "stars": 132337,
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "manaflow-ai/cmux",
+      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "language": "Swift",
+      "topics": [
+        "amp",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "gemini",
+        "ghostty",
+        "macos",
+        "multiplexer",
+        "multitasking",
+        "opencode",
+        "organization",
+        "parallel-agents",
+        "programmability",
+        "terminal",
+        "terminal-multiplexer",
+        "tmux",
+        "workspace-manager"
+      ],
+      "stars": 25984,
+      "url": "https://github.com/manaflow-ai/cmux",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "jlegewie/beaver-zotero",
+      "description": "AI research assistant that lives in Zotero",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 227,
+      "url": "https://github.com/jlegewie/beaver-zotero",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "54yyyu/zotero-mcp",
+      "description": "Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.",
+      "language": "Python",
+      "topics": [
+        "claude",
+        "mcp",
+        "semantic-search",
+        "zotero"
+      ],
+      "stars": 4630,
+      "url": "https://github.com/54yyyu/zotero-mcp",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "dralkh/seerai",
+      "description": "Zotero AI plugin Research assistant for Zotero 9. Chat with your library, run federated scholarly search, RAG, OCR, systematic reviews, and manage cloud storage. Includes standalone MCP, Agentic capabilities, and skills library.",
+      "language": "TypeScript",
+      "topics": [
+        "academic-research",
+        "agent",
+        "ai",
+        "ai-agent",
+        "bibliography",
+        "cloud-storage",
+        "knowledge-management",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "ocr",
+        "rag",
+        "research",
+        "research-assistant",
+        "scholarly-search",
+        "semantic-scholar",
+        "systematic-review",
+        "zotero",
+        "zotero-mcp",
+        "zotero-plugin"
+      ],
+      "stars": 75,
+      "url": "https://github.com/dralkh/seerai",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "K-Dense-AI/scientific-agent-skills",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "language": "Python",
+      "topics": [
+        "agent-skills",
+        "ai-scientist",
+        "bioinformatics",
+        "chemoinformatics",
+        "claude",
+        "claude-skills",
+        "claudecode",
+        "clinical-research",
+        "computational-biology",
+        "data-analysis",
+        "drug-discovery",
+        "genomics",
+        "materials-science",
+        "metabolomics",
+        "proteomics",
+        "scientific-computing",
+        "scientific-visualization"
+      ],
+      "stars": 33332,
+      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "karpathy/nn-zero-to-hero",
+      "description": "Neural Networks: Zero to Hero",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 7,
-      "url": "https://github.com/LMNadol/MHSXtraPy",
+      "stars": 23958,
+      "url": "https://github.com/karpathy/nn-zero-to-hero",
       "archived": false,
       "fork": false
     },
     {
-      "name": "leo1200/astronomix",
-      "description": "differentiable (magneto)hydrodynamics for astrophysics in JAX",
-      "language": "Python",
-      "topics": [
-        "astrophysics",
-        "differentiable-programming",
-        "differentiable-simulations",
-        "fluid-dynamics",
-        "jax",
-        "mhd-simulation"
-      ],
-      "stars": 69,
-      "url": "https://github.com/leo1200/astronomix",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "earlbellinger/asteroseismology",
-      "description": "Forward and inverse problems in asteroseismology",
+      "name": "ITA-Solar/dlrocs",
+      "description": "Deep Learning workshop at RoCS",
       "language": null,
       "topics": [],
-      "stars": 14,
-      "url": "https://github.com/earlbellinger/asteroseismology",
+      "stars": 1,
+      "url": "https://github.com/ITA-Solar/dlrocs",
       "archived": false,
       "fork": false
     },
     {
-      "name": "openai/gpt-oss",
-      "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+      "name": "jiwoncpark/aracle",
+      "description": "Predictive model of solar magnetic flux emergence using deep learning",
+      "language": "Python",
+      "topics": [
+        "hmi",
+        "instance-segmentation",
+        "object-detection",
+        "spaceweather"
+      ],
+      "stars": 2,
+      "url": "https://github.com/jiwoncpark/aracle",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "neuraloperator/neuraloperator",
+      "description": "Learning in infinite dimension with neural operators.",
+      "language": "Python",
+      "topics": [
+        "fno",
+        "fourier-neural-operator",
+        "neural-operator",
+        "neural-operators",
+        "partial-differential-equations",
+        "pytorch",
+        "tensor-methods",
+        "tensorly"
+      ],
+      "stars": 3806,
+      "url": "https://github.com/neuraloperator/neuraloperator",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "HelioML/HelioML",
+      "description": "A book about machine learning, statistics, and data mining for heliophysics",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "data-mining",
+        "heliophysics",
+        "machine-learning",
+        "statistics"
+      ],
+      "stars": 80,
+      "url": "https://github.com/HelioML/HelioML",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "upstash/context7",
+      "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+      "language": "TypeScript",
+      "topics": [
+        "llm",
+        "mcp",
+        "mcp-server",
+        "vibe-coding"
+      ],
+      "stars": 60661,
+      "url": "https://github.com/upstash/context7",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "mem0ai/mem0",
+      "description": "Universal memory layer for AI Agents",
+      "language": "Python",
+      "topics": [
+        "agents",
+        "ai",
+        "ai-agents",
+        "application",
+        "chatbots",
+        "chatgpt",
+        "genai",
+        "llm",
+        "long-term-memory",
+        "memory",
+        "memory-management",
+        "python",
+        "rag",
+        "state-management"
+      ],
+      "stars": 63137,
+      "url": "https://github.com/mem0ai/mem0",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "okada39/pinn_cavity",
+      "description": "Physics informed neural network (PINN) for cavity flow governed by Navier-Stokes equation.",
       "language": "Python",
       "topics": [],
-      "stars": 20305,
-      "url": "https://github.com/openai/gpt-oss",
+      "stars": 164,
+      "url": "https://github.com/okada39/pinn_cavity",
       "archived": false,
       "fork": false
     },
     {
-      "name": "QwenLM/Qwen3-Coder",
-      "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.",
+      "name": "okada39/pinn_wave",
+      "description": "Physics Informed Neural Network (PINN) for the wave equation.",
       "language": "Python",
       "topics": [],
-      "stars": 16781,
-      "url": "https://github.com/QwenLM/Qwen3-Coder",
+      "stars": 214,
+      "url": "https://github.com/okada39/pinn_wave",
       "archived": false,
       "fork": false
     },
     {
-      "name": "codee-com/open-catalog",
-      "description": "A collaborative effort to consolidate expert knowledge on code guidelines for the correctness, modernization, security, portability, and optimization of code written in Fortran, C, and C++ programming languages",
+      "name": "upscayl/upscayl",
+      "description": "\ud83c\udd99 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "electron",
+        "esrgan",
+        "gigapixel",
+        "gigapixel-images",
+        "image",
+        "image-upscaling",
+        "topaz",
+        "upscale",
+        "upscalerimage",
+        "upscayl"
+      ],
+      "stars": 48036,
+      "url": "https://github.com/upscayl/upscayl",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "okada39/pinn_burgers",
+      "description": "Physics Informed Neural Network (PINN) for Burgers' equation.",
+      "language": "Python",
+      "topics": [],
+      "stars": 76,
+      "url": "https://github.com/okada39/pinn_burgers",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "levimcclenny/SA-PINNs",
+      "description": "Implementation of the paper \"Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism\" [AAAI-MLPS 2021]",
+      "language": "Python",
+      "topics": [
+        "adaptive-pinns",
+        "deep-learning",
+        "neural-network",
+        "neural-networks",
+        "pdes",
+        "physics-informed-learning",
+        "pinns",
+        "scientific-computing",
+        "sciml",
+        "stiff-pdes",
+        "tensorflow"
+      ],
+      "stars": 298,
+      "url": "https://github.com/levimcclenny/SA-PINNs",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cheshirepezz/astroML",
+      "description": "Machine learning, statistics, and data mining for astronomy and astrophysics",
+      "language": null,
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/cheshirepezz/astroML",
+      "archived": false,
+      "fork": true
+    },
+    {
+      "name": "cheshirepezz/Python-for-machine-learning",
+      "description": "Repository for participants of the \"Python for machine learning\" training",
+      "language": null,
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/cheshirepezz/Python-for-machine-learning",
+      "archived": false,
+      "fork": true
+    },
+    {
+      "name": "ikespand/awesome-machine-learning-fluid-mechanics",
+      "description": "Curated list for ML in FM",
+      "language": null,
+      "topics": [],
+      "stars": 250,
+      "url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Cambridge-ICCS/FTorch",
+      "description": "A library for directly calling PyTorch ML models from Fortran.",
       "language": "Fortran",
       "topics": [
-        "c",
-        "correctness",
+        "deep-learning",
         "fortran",
-        "modernization",
-        "optimization",
-        "portability",
-        "security"
+        "hacktoberfest",
+        "interoperability",
+        "libtorch",
+        "machine-learning",
+        "python",
+        "pytorch",
+        "torch"
       ],
-      "stars": 106,
-      "url": "https://github.com/codee-com/open-catalog",
+      "stars": 204,
+      "url": "https://github.com/Cambridge-ICCS/FTorch",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "modern-fortran/neural-fortran",
+      "description": "A parallel framework for deep learning",
+      "language": "Fortran",
+      "topics": [
+        "cnn",
+        "deep-learning",
+        "fortran",
+        "machine-learning",
+        "neural-network",
+        "parallel"
+      ],
+      "stars": 472,
+      "url": "https://github.com/modern-fortran/neural-fortran",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pmocz/artificialneuralnetwork-python",
+      "description": "Artificial Neural Network for Image Classification",
+      "language": "Python",
+      "topics": [
+        "artificial-neural-networks",
+        "astrophysics",
+        "machine-learning",
+        "scientific-computing",
+        "tutorial"
+      ],
+      "stars": 13,
+      "url": "https://github.com/pmocz/artificialneuralnetwork-python",
+      "archived": false,
+      "fork": false
+    }
+  ],
+  "Mathematics & Statistics": [
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "c2pa",
+        "claude",
+        "provenance",
+        "synthid",
+        "watermark"
+      ],
+      "stars": 2404,
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "mathaefele/parallel_HDF5_hands-on",
+      "description": "Hands on material in C and fortran90 for learning parallel HDF5",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 9,
+      "url": "https://github.com/mathaefele/parallel_HDF5_hands-on",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "HelioML/HelioML",
+      "description": "A book about machine learning, statistics, and data mining for heliophysics",
+      "language": "Jupyter Notebook",
+      "topics": [
+        "data-mining",
+        "heliophysics",
+        "machine-learning",
+        "statistics"
+      ],
+      "stars": 80,
+      "url": "https://github.com/HelioML/HelioML",
       "archived": false,
       "fork": false
     },
@@ -563,162 +1147,6 @@
       "fork": false
     },
     {
-      "name": "JohannesBuchner/languagecheck",
-      "description": "Improve the language of your paper before submission",
-      "language": "Python",
-      "topics": [
-        "grammar-checker",
-        "language-analysis",
-        "latex",
-        "overleaf",
-        "proof-reading",
-        "publishing",
-        "python"
-      ],
-      "stars": 111,
-      "url": "https://github.com/JohannesBuchner/languagecheck",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "bwoshea/ZEUS-MP_2",
-      "description": "This repository is the home of the ZEUS-MP 2.0 code, which was created by John Hayes and others at the Laboratory for Computational Astrophysics at UIUC and UCSD.",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 10,
-      "url": "https://github.com/bwoshea/ZEUS-MP_2",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "AASJournals/AASTeX7",
-      "description": "Version 7 of the LaTeX style files and documentation for authoring AAS Journal (AJ/ApJ/PSJ/ApJL/ApJS/RNAAS) articles.",
-      "language": "TeX",
-      "topics": [],
-      "stars": 30,
-      "url": "https://github.com/AASJournals/AASTeX7",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "CaNS-World/CaNS",
-      "description": "A code for fast, massively-parallel direct numerical simulations (DNS) of canonical flows",
-      "language": "Fortran",
-      "topics": [
-        "cfd",
-        "computational-fluid-dynamics",
-        "fluid-dynamics",
-        "fluid-simulation",
-        "fortran",
-        "gpu",
-        "gpu-computing",
-        "high-performance-computing",
-        "turbulence"
-      ],
-      "stars": 271,
-      "url": "https://github.com/CaNS-World/CaNS",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "BoxLib-Codes/CastroRadiation",
-      "description": "flux limited diffusion radiation hydrodynamics module for Castro",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 10,
-      "url": "https://github.com/BoxLib-Codes/CastroRadiation",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "fortran-lang/fortls",
-      "description": "fortls - Fortran Language Server",
-      "language": "Python",
-      "topics": [
-        "fortls",
-        "fortran",
-        "language-server-protocol",
-        "lsp"
-      ],
-      "stars": 339,
-      "url": "https://github.com/fortran-lang/fortls",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "AMReX-Astro/Castro",
-      "description": "Castro (Compressible Astrophysics): An adaptive mesh, astrophysical compressible (radiation-, magneto-)  hydrodynamics simulation code for massively parallel CPU and GPU architectures.",
-      "language": "C++",
-      "topics": [
-        "adaptive-mesh-refinement",
-        "amr",
-        "amrex",
-        "astrophysical-simulation",
-        "astrophysics",
-        "castro",
-        "cfd",
-        "gravity",
-        "hydrodynamics",
-        "pde",
-        "radiation",
-        "reactions"
-      ],
-      "stars": 339,
-      "url": "https://github.com/AMReX-Astro/Castro",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ptroyen/Castro",
-      "description": "An adaptive mesh, astrophysical compressible (radiation-, magneto-)  hydrodynamics simulation code for massively parallel CPU and GPU architectures.",
-      "language": null,
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/ptroyen/Castro",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "Open-Astrophysics-Bookshelf/stellar-physics-notes",
-      "description": "Lecture notes on stellar physics, graduate level",
-      "language": "TeX",
-      "topics": [],
-      "stars": 81,
-      "url": "https://github.com/Open-Astrophysics-Bookshelf/stellar-physics-notes",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "athelas-astro/athelas",
-      "description": "Lagrangian radiation-hydrodynamics code using discontinuous Galerkin methods written in C++",
-      "language": "C++",
-      "topics": [],
-      "stars": 10,
-      "url": "https://github.com/athelas-astro/athelas",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Open-Astrophysics-Bookshelf/numerical_exercises",
-      "description": "An introduction to numerical methods for astrophysical hydrodynamics",
-      "language": "TeX",
-      "topics": [],
-      "stars": 211,
-      "url": "https://github.com/Open-Astrophysics-Bookshelf/numerical_exercises",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "astrofum/na2020",
-      "description": "NA2020 online workshop",
-      "language": null,
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/astrofum/na2020",
-      "archived": false,
-      "fork": false
-    },
-    {
       "name": "cheshirepezz/astroML",
       "description": "Machine learning, statistics, and data mining for astronomy and astrophysics",
       "language": null,
@@ -729,274 +1157,41 @@
       "fork": true
     },
     {
-      "name": "TheoreticalAstrophysicsGroup/TheoreticalAstrophysicsGroup.github.io",
-      "description": "University of Tsukuba, CCS Theoretical Astrophysics Group Webpage",
-      "language": "HTML",
-      "topics": [
-        "astrophysics",
-        "html",
-        "jekyll",
-        "research",
-        "research-group",
-        "static-site",
-        "tsukuba"
-      ],
-      "stars": 9,
-      "url": "https://github.com/TheoreticalAstrophysicsGroup/TheoreticalAstrophysicsGroup.github.io",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "adamjermyn/AstroMicroPhysics",
-      "description": "An attempt to provide modern interfaces for existing tables and codes of astronomical microphysics.",
-      "language": "FORTRAN",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/adamjermyn/AstroMicroPhysics",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "akira-okumura/RHEA",
-      "description": "\u9ad8\u30a8\u30cd\u30eb\u30ae\u30fc\u5b87\u5b99\u7269\u7406\u5b66\u306e\u305f\u3081\u306e ROOT \u5165\u9580 \u2013 ROOT for High-Energy Astrophysics (RHEA)",
-      "language": "TeX",
-      "topics": [],
-      "stars": 28,
-      "url": "https://github.com/akira-okumura/RHEA",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "AstroSnow/Orszag-Tang-Shock-Detection",
-      "description": "IDL codes used for shock detection of Orszag-Tang vortex",
-      "language": "IDL",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/AstroSnow/Orszag-Tang-Shock-Detection",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "AstroSnow/PIP",
-      "description": "Partially Ionised Plasma Code",
+      "name": "marlonsmathias/GATT_DNS",
+      "description": "Direct Numerical Simulation code for the compressible Navier-Stokes equations. The linear stability analysis (LST) is done by a Jacobian-free time-stepping algorithm. The code was developed by the Group of Aeroacoustics, Transition and Turbulence of the S\u00e3o Carlos School of Engineering - University of S\u00e3o Paulo (EESC-USP).",
       "language": "Fortran",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/AstroSnow/PIP",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "wmjx691/Computational-Astrophysics",
-      "description": "Computational Astrophysics \u8a08\u7b97\u5929\u6587\u7269\u7406",
-      "language": "Jupyter Notebook",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/wmjx691/Computational-Astrophysics",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pmocz/awesome-astrophysical-simulation-codes",
-      "description": "A curated list of awesome astrophysical simulation codes",
-      "language": null,
       "topics": [
-        "astrophysics",
-        "awesome",
-        "awesome-list",
-        "scientific-computing"
-      ],
-      "stars": 119,
-      "url": "https://github.com/pmocz/awesome-astrophysical-simulation-codes",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "yanastaneva8/lax-wendroff-finite-volume",
-      "description": "Solving hyperbolic PDEs using the Lax-Wendroff Scheme and a finite volume method.",
-      "language": "Matlab",
-      "topics": [
-        "amplification",
-        "characteristics-method",
-        "finite-volume",
-        "finite-volume-methods",
-        "hyperbolic-pde",
-        "lax-wendroff",
-        "matlab",
-        "pde",
-        "pde-solver",
-        "total-variation"
-      ],
-      "stars": 11,
-      "url": "https://github.com/yanastaneva8/lax-wendroff-finite-volume",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "mrkondratyev/Piastra",
-      "description": "A user-friendly, pure-Python (NumPy) finite-volume framework for teaching and prototyping astrophysical fluid dynamics: 1D/2D advection, (relativistic) hydro and MHD, shallow water, and diffusion across multiple geometries.",
-      "language": "Python",
-      "topics": [
-        "advection",
-        "astrophysical-simulation",
         "cfd",
-        "diffusion",
-        "fluid-simulation",
-        "hydrodynamics",
-        "magnetohydrodynamics",
-        "python",
-        "shallow-water-equations"
+        "flow",
+        "global-stability",
+        "linear-stability-analysis",
+        "simulation"
       ],
-      "stars": 7,
-      "url": "https://github.com/mrkondratyev/Piastra",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "github-nakasho/astroph",
-      "description": "Astro-ph ArXiv memo",
-      "language": null,
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/github-nakasho/astroph",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "juncas/FluidX3D",
-      "description": "The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL.",
-      "language": null,
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/juncas/FluidX3D",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "gnudatalanguage/gdl",
-      "description": "GDL - GNU Data Language",
-      "language": "C++",
-      "topics": [
-        "antlr",
-        "astronomy",
-        "data-analysis",
-        "dicom",
-        "eigen3",
-        "fits-files",
-        "geophysics",
-        "grib",
-        "gsl-library",
-        "hdf",
-        "hdf5",
-        "mapping",
-        "netcdf",
-        "plotting",
-        "plplot",
-        "programming-language",
-        "pv-wave",
-        "python",
-        "scientific-computing",
-        "scientific-visualization"
-      ],
-      "stars": 312,
-      "url": "https://github.com/gnudatalanguage/gdl",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "CliMA/Oceananigans.jl",
-      "description": "\ud83c\udf0a  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
-      "language": "Julia",
-      "topics": [
-        "climate",
-        "climate-change",
-        "data-assimilation",
-        "fluid-dynamics",
-        "gpu",
-        "julia",
-        "machine-learning",
-        "ocean"
-      ],
-      "stars": 1398,
-      "url": "https://github.com/CliMA/Oceananigans.jl",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "JeongHyunJin/FundamentalAstronomy",
-      "description": "Python Exercises",
-      "language": "Jupyter Notebook",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/JeongHyunJin/FundamentalAstronomy",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "JeongHyunJin/Jeong2020_SolarFarsideMagnetograms",
-      "description": "Jeong et al. (2020) \"Solar coronal magnetic field extrapolation from synchronic data with AI-generated farside\", The Astrophysical Journal Letters, Volume 903, Issue 2, id.L25, 9 pp.",
-      "language": "Python",
-      "topics": [],
-      "stars": 6,
-      "url": "https://github.com/JeongHyunJin/Jeong2020_SolarFarsideMagnetograms",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "MESAHub/mesa",
-      "description": "Modules for Experiments in Stellar Astrophysics",
-      "language": "Fortran",
-      "topics": [
-        "astronomy",
-        "astrophysics",
-        "binary-evolution",
-        "fortran",
-        "stellar-astrophysics",
-        "stellar-evolution"
-      ],
-      "stars": 243,
-      "url": "https://github.com/MESAHub/mesa",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "jdonnert/julia",
-      "description": "Julia scripts to work with astrophysical simulations. Also contains 1D and 2D 5th order WENO solvers for constrained transport MHD.",
-      "language": "Julia",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/jdonnert/julia",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "esquivas/guacho",
-      "description": "A 3D uniform mesh parallel HD/MHD code for astrophysics",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 7,
-      "url": "https://github.com/esquivas/guacho",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "chianti-atomic/ChiantiPy",
-      "description": "ChiantiPy is a python package to calculate the radiative properties of astrophysical plasmas based on the CHIANTI atomic database",
-      "language": "Python",
-      "topics": [
-        "astrophysics",
-        "chianti",
-        "chianti-atomic-database",
-        "python",
-        "spectroscopy"
-      ],
-      "stars": 75,
-      "url": "https://github.com/chianti-atomic/ChiantiPy",
+      "stars": 41,
+      "url": "https://github.com/marlonsmathias/GATT_DNS",
       "archived": false,
       "fork": false
     }
   ],
   "Python Projects": [
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "description": "Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrite hooks, and C2PA/metadata from PNG/JPEG/SVG/PDF/DOCX/HTML/MD",
+      "language": "Python",
+      "topics": [
+        "agent-skill",
+        "ai",
+        "c2pa",
+        "claude",
+        "provenance",
+        "synthid",
+        "watermark"
+      ],
+      "stars": 2404,
+      "url": "https://github.com/guillaumemeyer/watermarks-remover",
+      "archived": false,
+      "fork": false
+    },
     {
       "name": "shepherd-agents/shepherd",
       "description": "A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run. Couples agent and environments in a copy-on-write fork ~5x faster than docker commit, with ~95% KV-cache reuse on replay. Framework built for meta-agents to supervise, optimize, and train other agents",
@@ -1009,7 +1204,7 @@
         "tree-rl",
         "workflow-automation"
       ],
-      "stars": 2276,
+      "stars": 2283,
       "url": "https://github.com/shepherd-agents/shepherd",
       "archived": false,
       "fork": false
@@ -1019,7 +1214,7 @@
       "description": null,
       "language": "Python",
       "topics": [],
-      "stars": 14211,
+      "stars": 14322,
       "url": "https://github.com/andrewyng/openworker",
       "archived": false,
       "fork": false
@@ -1037,7 +1232,7 @@
         "humanizer",
         "writing-tools"
       ],
-      "stars": 204,
+      "stars": 207,
       "url": "https://github.com/NulightJens/humanizer-stack",
       "archived": false,
       "fork": false
@@ -1047,7 +1242,7 @@
       "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "language": "Python",
       "topics": [],
-      "stars": 4816,
+      "stars": 4919,
       "url": "https://github.com/petergyang/no-ai-slop",
       "archived": false,
       "fork": false
@@ -1106,7 +1301,7 @@
         "static-analysis",
         "tree-sitter"
       ],
-      "stars": 29820,
+      "stars": 29921,
       "url": "https://github.com/tirth8205/code-review-graph",
       "archived": false,
       "fork": false
@@ -1120,7 +1315,7 @@
         "latex",
         "typst"
       ],
-      "stars": 409,
+      "stars": 411,
       "url": "https://github.com/bahayonghang/academic-writing-skills",
       "archived": false,
       "fork": false
@@ -1130,7 +1325,7 @@
       "description": null,
       "language": "Python",
       "topics": [],
-      "stars": 53,
+      "stars": 54,
       "url": "https://github.com/prime-radiant-inc/superpowers-autoresearch",
       "archived": false,
       "fork": false
@@ -1149,7 +1344,7 @@
         "generative-ai",
         "google-cloud"
       ],
-      "stars": 5562,
+      "stars": 5586,
       "url": "https://github.com/google/agents-cli",
       "archived": false,
       "fork": false
@@ -1170,7 +1365,7 @@
         "slide",
         "slides"
       ],
-      "stars": 44880,
+      "stars": 45595,
       "url": "https://github.com/hugohe3/ppt-master",
       "archived": false,
       "fork": false
@@ -1201,7 +1396,7 @@
         "thesis",
         "thesis-generator"
       ],
-      "stars": 372,
+      "stars": 378,
       "url": "https://github.com/federicodeponte/opendraft",
       "archived": false,
       "fork": false
@@ -1219,7 +1414,7 @@
         "spec",
         "spec-driven"
       ],
-      "stars": 126270,
+      "stars": 126467,
       "url": "https://github.com/github/spec-kit",
       "archived": false,
       "fork": false
@@ -1251,7 +1446,7 @@
       "description": "Darwin G\u00f6del Machine: Open-Ended Evolution of Self-Improving Agents",
       "language": "Python",
       "topics": [],
-      "stars": 2220,
+      "stars": 2223,
       "url": "https://github.com/jennyzzt/dgm",
       "archived": false,
       "fork": false
@@ -1279,7 +1474,7 @@
         "youtube-downloader",
         "yt-dlp"
       ],
-      "stars": 183933,
+      "stars": 184106,
       "url": "https://github.com/yt-dlp/yt-dlp",
       "archived": false,
       "fork": false
@@ -1289,7 +1484,7 @@
       "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
       "language": "Python",
       "topics": [],
-      "stars": 107102,
+      "stars": 107174,
       "url": "https://github.com/openai/whisper",
       "archived": false,
       "fork": false
@@ -1403,7 +1598,7 @@
         "web-search",
         "youtube"
       ],
-      "stars": 57934,
+      "stars": 58023,
       "url": "https://github.com/mvanhorn/last30days-skill",
       "archived": false,
       "fork": false
@@ -1434,7 +1629,7 @@
         "tokens",
         "typescript"
       ],
-      "stars": 65975,
+      "stars": 66096,
       "url": "https://github.com/headroomlabs-ai/headroom",
       "archived": false,
       "fork": false
@@ -1452,7 +1647,7 @@
         "prompt-engineering",
         "writing-tools"
       ],
-      "stars": 35049,
+      "stars": 35296,
       "url": "https://github.com/blader/humanizer",
       "archived": false,
       "fork": false
@@ -1471,7 +1666,7 @@
         "peer-review",
         "prompt-engineering"
       ],
-      "stars": 41949,
+      "stars": 42214,
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "archived": false,
       "fork": false
@@ -1483,7 +1678,7 @@
       "topics": [
         "security"
       ],
-      "stars": 6981,
+      "stars": 7002,
       "url": "https://github.com/anthropics/defending-code-reference-harness",
       "archived": false,
       "fork": false
@@ -1493,7 +1688,7 @@
       "description": "GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome, AFDB, UniProt and 30+ other databases and tools.",
       "language": "Python",
       "topics": [],
-      "stars": 2679,
+      "stars": 2687,
       "url": "https://github.com/google-deepmind/science-skills",
       "archived": false,
       "fork": false
@@ -1507,7 +1702,7 @@
         "nature",
         "nature-skills"
       ],
-      "stars": 34650,
+      "stars": 34862,
       "url": "https://github.com/Yuan1z0825/nature-skills",
       "archived": false,
       "fork": false
@@ -1517,7 +1712,7 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "topics": [],
-      "stars": 24822,
+      "stars": 24867,
       "url": "https://github.com/openai/skills",
       "archived": false,
       "fork": false
@@ -1555,7 +1750,7 @@
         "prompt-engineering",
         "research-assistant"
       ],
-      "stars": 8336,
+      "stars": 8421,
       "url": "https://github.com/Imbad0202/academic-research-skills-codex",
       "archived": false,
       "fork": false
@@ -1606,7 +1801,7 @@
         "socmint",
         "username"
       ],
-      "stars": 36560,
+      "stars": 36702,
       "url": "https://github.com/soxoj/maigret",
       "archived": false,
       "fork": false
@@ -1645,7 +1840,7 @@
       "description": "AI\uac00 \uc4f4 \uae00\uc774 \uc544\ub2cc \uac83\ucc98\ub7fc \uc724\ubb38\ud574\uc8fc\ub294 \uc2a4\ud0ac",
       "language": "Python",
       "topics": [],
-      "stars": 4351,
+      "stars": 4383,
       "url": "https://github.com/epoko77-ai/im-not-ai",
       "archived": false,
       "fork": false
@@ -1665,7 +1860,7 @@
       "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
       "language": "Python",
       "topics": [],
-      "stars": 6990,
+      "stars": 6998,
       "url": "https://github.com/SakanaAI/AI-Scientist-v2",
       "archived": false,
       "fork": false
@@ -1680,7 +1875,7 @@
         "python",
         "rag"
       ],
-      "stars": 132161,
+      "stars": 132337,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "archived": false,
       "fork": false
@@ -1724,7 +1919,7 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 105335,
+      "stars": 105692,
       "url": "https://github.com/Graphify-Labs/graphify",
       "archived": false,
       "fork": false
@@ -1764,7 +1959,7 @@
         "semantic-search",
         "zotero"
       ],
-      "stars": 4617,
+      "stars": 4630,
       "url": "https://github.com/54yyyu/zotero-mcp",
       "archived": false,
       "fork": false
@@ -1782,7 +1977,7 @@
         "openai",
         "pdf"
       ],
-      "stars": 173181,
+      "stars": 173388,
       "url": "https://github.com/microsoft/markitdown",
       "archived": false,
       "fork": false
@@ -1830,7 +2025,7 @@
         "social-prediction",
         "swarm-intelligence"
       ],
-      "stars": 70870,
+      "stars": 70909,
       "url": "https://github.com/666ghj/MiroFish",
       "archived": false,
       "fork": false
@@ -1847,7 +2042,7 @@
         "tools",
         "writer"
       ],
-      "stars": 2205,
+      "stars": 2206,
       "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
       "archived": false,
       "fork": false
@@ -1875,7 +2070,7 @@
         "scientific-computing",
         "scientific-visualization"
       ],
-      "stars": 33239,
+      "stars": 33332,
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "archived": false,
       "fork": false
@@ -1915,7 +2110,7 @@
       "description": "\ud83e\udd17 smolagents: a barebones library for agents that think in code.",
       "language": "Python",
       "topics": [],
-      "stars": 28760,
+      "stars": 28778,
       "url": "https://github.com/huggingface/smolagents",
       "archived": false,
       "fork": false
@@ -1950,7 +2145,7 @@
       "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
       "language": "Python",
       "topics": [],
-      "stars": 20305,
+      "stars": 20306,
       "url": "https://github.com/openai/gpt-oss",
       "archived": false,
       "fork": false
@@ -1969,7 +2164,7 @@
         "tensor-methods",
         "tensorly"
       ],
-      "stars": 3805,
+      "stars": 3806,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -1984,7 +2179,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 30203,
+      "stars": 30217,
       "url": "https://github.com/davila7/claude-code-templates",
       "archived": false,
       "fork": false
@@ -1994,7 +2189,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.",
       "language": "Python",
       "topics": [],
-      "stars": 16781,
+      "stars": 16784,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -2029,7 +2224,7 @@
         "rag",
         "state-management"
       ],
-      "stars": 63061,
+      "stars": 63137,
       "url": "https://github.com/mem0ai/mem0",
       "archived": false,
       "fork": false
@@ -2214,7 +2409,7 @@
         "pptx",
         "task-automation"
       ],
-      "stars": 3902,
+      "stars": 3904,
       "url": "https://github.com/Paper2Poster/Paper2Poster",
       "archived": false,
       "fork": false
@@ -2783,274 +2978,169 @@
       "fork": false
     }
   ],
-  "Machine Learning & AI": [
+  "DevOps & Infrastructure": [
     {
-      "name": "hardikpandya/stop-slop",
-      "description": "A skill file for removing AI tells from prose",
-      "language": null,
-      "topics": [],
-      "stars": 15497,
-      "url": "https://github.com/hardikpandya/stop-slop",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "petergyang/human-review",
-      "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex",
-        "feedback",
-        "html",
-        "human-in-the-loop",
-        "markdown",
-        "review"
-      ],
-      "stars": 718,
-      "url": "https://github.com/petergyang/human-review",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "webbrain-one/webbrain",
-      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) \ud83e\udde0 ",
-      "language": "JavaScript",
-      "topics": [
-        "ai-agent",
-        "ai-agents",
-        "ai-tools",
-        "browser-ai",
-        "browser-automation",
-        "browser-extension",
-        "chrome-ai",
-        "chrome-devtools",
-        "chrome-extension",
-        "chrome-extensions",
-        "firefox-addon",
-        "firefox-addons",
-        "firefox-extension",
-        "firefox-extensions",
-        "gemma",
-        "gemma4",
-        "minimax",
-        "offline-ai",
-        "offline-llm",
-        "qwen"
-      ],
-      "stars": 720,
-      "url": "https://github.com/webbrain-one/webbrain",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "NulightJens/humanizer-stack",
-      "description": "Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. Packaged as Claude Code Skills.      Free community: skool.com/jens-ai-community-1306",
+      "name": "shepherd-agents/shepherd",
+      "description": "A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run. Couples agent and environments in a copy-on-write fork ~5x faster than docker commit, with ~95% KV-cache reuse on replay. Framework built for meta-agents to supervise, optimize, and train other agents",
       "language": "Python",
       "topics": [
-        "ai-detection",
-        "ai-writing",
-        "anthropic",
-        "claude-code",
-        "claude-skills",
-        "humanizer",
-        "writing-tools"
+        "mcts-rl",
+        "meta-agents",
+        "meta-optimization",
+        "runtime-supervision",
+        "tree-rl",
+        "workflow-automation"
       ],
-      "stars": 204,
-      "url": "https://github.com/NulightJens/humanizer-stack",
+      "stars": 2283,
+      "url": "https://github.com/shepherd-agents/shepherd",
       "archived": false,
       "fork": false
     },
     {
-      "name": "petergyang/no-ai-slop",
-      "description": "Removes 20+ patterns of AI slop from any piece of writing.",
-      "language": "Python",
+      "name": "MetOffice/lfric_core",
+      "description": "LFRic Infrastructure",
+      "language": "Fortran",
       "topics": [],
-      "stars": 4816,
-      "url": "https://github.com/petergyang/no-ai-slop",
+      "stars": 26,
+      "url": "https://github.com/MetOffice/lfric_core",
       "archived": false,
       "fork": false
     },
     {
-      "name": "RWTH-HPC/Fortran-ML-Interface",
-      "description": "A modular interface embedding the AIxeleratorService and related approaches to couple CFD solvers with deep learning inference.",
+      "name": "llnl/axom",
+      "description": "CS infrastructure components for HPC applications",
+      "language": "C++",
+      "topics": [
+        "app-infrastructure",
+        "c-plus-plus",
+        "cpp",
+        "fortran",
+        "hpc",
+        "llnl",
+        "parallel-computing",
+        "radiuss"
+      ],
+      "stars": 194,
+      "url": "https://github.com/llnl/axom",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "parthenon-hpc-lab/parthenon",
+      "description": "Parthenon AMR infrastructure ",
+      "language": "C++",
+      "topics": [
+        "amr",
+        "high-performance-computing",
+        "kokkos",
+        "parthenon"
+      ],
+      "stars": 164,
+      "url": "https://github.com/parthenon-hpc-lab/parthenon",
+      "archived": false,
+      "fork": false
+    }
+  ],
+  "Programming Languages & Compilers": [
+    {
+      "name": "shepherd-agents/shepherd",
+      "description": "A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run. Couples agent and environments in a copy-on-write fork ~5x faster than docker commit, with ~95% KV-cache reuse on replay. Framework built for meta-agents to supervise, optimize, and train other agents",
+      "language": "Python",
+      "topics": [
+        "mcts-rl",
+        "meta-agents",
+        "meta-optimization",
+        "runtime-supervision",
+        "tree-rl",
+        "workflow-automation"
+      ],
+      "stars": 2283,
+      "url": "https://github.com/shepherd-agents/shepherd",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "jeongbhin/HOW-MHD-Kokkos",
+      "description": "A portable C++/Kokkos implementation of HOW-MHD: a high-order WENO-based MHD solver for astrophysical fluid simulations.",
+      "language": "C++",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/jeongbhin/HOW-MHD-Kokkos",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "E3SM-Project/E3SM",
+      "description": "Energy Exascale Earth System Model source code.  NOTE:  use \"maint\" branches for your work.  Head of master is not validated.",
       "language": "Fortran",
       "topics": [
-        "computational-fluid-dynamics",
-        "deep-learning",
+        "e3sm",
+        "earth-science",
         "fortran",
-        "high-performance-computing",
-        "machine-learning",
-        "python",
-        "tensorflow"
+        "snl-applications"
       ],
-      "stars": 5,
-      "url": "https://github.com/RWTH-HPC/Fortran-ML-Interface",
+      "stars": 437,
+      "url": "https://github.com/E3SM-Project/E3SM",
       "archived": false,
       "fork": false
     },
     {
-      "name": "tirth8205/code-review-graph",
-      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
-      "language": "Python",
+      "name": "wrf-model/WRF",
+      "description": "The official repository for the Weather Research and Forecasting (WRF) model",
+      "language": "Fortran",
       "topics": [
-        "ai-coding",
-        "claude",
+        "climate",
+        "forecast",
+        "fortran",
+        "model",
+        "nwp",
+        "simulation",
+        "weather",
+        "wrf"
+      ],
+      "stars": 1733,
+      "url": "https://github.com/wrf-model/WRF",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "MetOffice/lfric_core",
+      "description": "LFRic Infrastructure",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 26,
+      "url": "https://github.com/MetOffice/lfric_core",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph \u2014 average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "language": "C",
+      "topics": [
+        "aider",
+        "ast",
         "claude-code",
-        "code-review",
-        "graphrag",
-        "incremental",
+        "code-analysis",
+        "code-intelligence",
+        "codex",
+        "cursor",
+        "cypher",
+        "developer-tools",
+        "gemini-cli",
+        "graph-visualization",
+        "kilocode",
         "knowledge-graph",
-        "llm",
         "mcp",
-        "python",
-        "static-analysis",
-        "tree-sitter"
+        "mcp-server",
+        "model-context-protocol",
+        "opencode",
+        "sqlite",
+        "tree-sitter",
+        "windsurf"
       ],
-      "stars": 29820,
-      "url": "https://github.com/tirth8205/code-review-graph",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 87669,
-      "url": "https://github.com/earendil-works/pi",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "language": "TypeScript",
-      "topics": [
-        "a2a",
-        "ai-agents",
-        "ai-gateway",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "cline",
-        "codex",
-        "copilot",
-        "cursor",
-        "deepseek",
-        "free-ai",
-        "gemini",
-        "kimi",
-        "llm-gateway",
-        "mcp",
-        "openai",
-        "openai-proxy",
-        "qwen",
-        "token-saver"
-      ],
-      "stars": 45940,
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "bahayonghang/academic-writing-skills",
-      "description": "AI-powered post-writing toolkit for academic papers \u2014 format validation, grammar/style polishing, de-AI editing, reference checking, and reviewer-style paper audits. 5 skills for LaTeX, Typst & PDF. Focused on enhancing existing text quality, not generating from scratch.",
-      "language": "Python",
-      "topics": [
-        "academic",
-        "latex",
-        "typst"
-      ],
-      "stars": 409,
-      "url": "https://github.com/bahayonghang/academic-writing-skills",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "iOfficeAI/OfficeCLI",
-      "description": "OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "language": "C#",
-      "topics": [
-        "agent",
-        "ai",
-        "claude-code",
-        "cli",
-        "codex",
-        "docx",
-        "excel",
-        "office",
-        "openclaw",
-        "pptx",
-        "presentation",
-        "skills",
-        "word",
-        "xlsx"
-      ],
-      "stars": 27734,
-      "url": "https://github.com/iOfficeAI/OfficeCLI",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Kulaxyz/self-learning-skills",
-      "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
-      "language": null,
-      "topics": [],
-      "stars": 946,
-      "url": "https://github.com/Kulaxyz/self-learning-skills",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
-      "language": null,
-      "topics": [
-        "ai",
-        "bolt",
-        "cluely",
-        "copilot",
-        "cursor",
-        "cursorai",
-        "devin",
-        "github-copilot",
-        "lovable",
-        "open-source",
-        "perplexity",
-        "replit",
-        "system-prompts",
-        "trae",
-        "trae-ai",
-        "trae-ide",
-        "v0",
-        "vscode",
-        "windsurf",
-        "windsurf-ai"
-      ],
-      "stars": 142741,
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "google/agents-cli",
-      "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
-      "language": "Python",
-      "topics": [
-        "adk",
-        "agent-development-kit",
-        "agents",
-        "coding-agent",
-        "gemini",
-        "gemini-enterprise-agent-platform",
-        "generative-ai",
-        "google-cloud"
-      ],
-      "stars": 5562,
-      "url": "https://github.com/google/agents-cli",
+      "stars": 38708,
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
       "archived": false,
       "fork": false
     },
@@ -3070,220 +3160,18 @@
         "slide",
         "slides"
       ],
-      "stars": 44880,
+      "stars": 45595,
       "url": "https://github.com/hugohe3/ppt-master",
       "archived": false,
       "fork": false
     },
     {
-      "name": "federicodeponte/opendraft",
-      "description": "Free & open-source AI research-paper writer: 19 agents draft 20k-word academic papers in ~10 min with citations verified against CrossRef/OpenAlex/arXiv. Export PDF/Word/LaTeX. Hosted at openpaper.dev",
+      "name": "llnl/paraview_mcp",
+      "description": "ParaView-MCP integrates multimodal LLMs with ParaView via Model Context Protocol, enabling natural language control of scientific visualizations. The agent observes the viewport for visual feedback, making complex visualization tool accessible to all users while providing intelligent automation for experts.",
       "language": "Python",
-      "topics": [
-        "academic-papers",
-        "academic-writing",
-        "ai-agents",
-        "ai-writing",
-        "chatgpt-alternative",
-        "citation-verification",
-        "dissertation",
-        "docx-export",
-        "literature-review",
-        "llm",
-        "multi-agent",
-        "open-source",
-        "paper-writing",
-        "pdf-generator",
-        "python",
-        "research",
-        "research-assistant",
-        "research-paper",
-        "thesis",
-        "thesis-generator"
-      ],
-      "stars": 372,
-      "url": "https://github.com/federicodeponte/opendraft",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "steipete/CodexBar",
-      "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
-      "language": "Swift",
-      "topics": [
-        "ai",
-        "claude-code",
-        "codex",
-        "swift"
-      ],
-      "stars": 19926,
-      "url": "https://github.com/steipete/CodexBar",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "AlexZio00/sovereign-skills",
-      "description": "20 production-grade skills for AI coding agents \u2014 setup, scope, discipline, code review, security, session management, governance, ops, and quality audits (eval-leakage, doc-drift). Works with Claude Code, Codex, and Cursor.",
-      "language": "Python",
-      "topics": [
-        "agentic-workflows",
-        "ai-agents",
-        "audit",
-        "claude-code",
-        "code-review",
-        "codex",
-        "cursor",
-        "developer-tools",
-        "llm-agents",
-        "skills",
-        "verification"
-      ],
-      "stars": 124,
-      "url": "https://github.com/AlexZio00/sovereign-skills",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cobusgreyling/loop-engineering",
-      "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
-      "language": "JavaScript",
-      "topics": [
-        "agentic-ai",
-        "ai-agents",
-        "ai-coding",
-        "anthropic",
-        "automation",
-        "claude",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "devops-automation",
-        "devtools",
-        "github-actions",
-        "grok",
-        "llm",
-        "loop-engineering",
-        "mcp",
-        "prompt-engineering"
-      ],
-      "stars": 10226,
-      "url": "https://github.com/cobusgreyling/loop-engineering",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "brycewang-stanford/Auto-Empirical-Research-Skills",
-      "description": "\ud83d\udd2c A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | \u7cbe\u9009 23,000+ AI Agent \u6280\u80fd\u5e93\uff0c\u8986\u76d68\u5927\u793e\u4f1a\u79d1\u5b66\u5b66\u79d1\u7684\u5b9e\u8bc1\u7814\u7a76\u3002CoPaper.AI 20\u5206\u949f\u5b8c\u6210\u4e00\u7bc7\u53ef\u590d\u73b0\u7684\u89c4\u8303\u5b9e\u8bc1\u8bba\u6587\uff0c\u5e76\u652f\u6301\u7528\u6237\u4e0a\u4f20 Skills\u3002-- Maintained by CoPaper.AI from Stanford REAP.",
-      "language": "Stata",
-      "topics": [
-        "academic-research",
-        "agent-skills",
-        "ai-agent",
-        "awesome-list",
-        "communication",
-        "copaper",
-        "economics",
-        "education",
-        "empirical-research",
-        "international-relations",
-        "political-science",
-        "psychology",
-        "public-administration",
-        "reproducible-research",
-        "skills-library",
-        "social-science",
-        "sociology"
-      ],
-      "stars": 3370,
-      "url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "brandonwise/humanizer",
-      "description": "OpenClaw skill that detects and removes signs of AI-generated writing, making text sound natural and human. Based on Wikipedia's Signs of AI Writing.",
-      "language": "JavaScript",
       "topics": [],
-      "stars": 112,
-      "url": "https://github.com/brandonwise/humanizer",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
-      ],
-      "stars": 100844,
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "albertofettucini/Council",
-      "description": "Ask several AI models one question \u2014 they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.",
-      "language": "Swift",
-      "topics": [
-        "ai",
-        "ai-tools",
-        "anthropic",
-        "bring-your-own-key",
-        "claude",
-        "gemini",
-        "llm",
-        "macos",
-        "macos-app",
-        "multi-llm",
-        "ollama",
-        "openai",
-        "privacy",
-        "swift",
-        "swiftui"
-      ],
-      "stars": 107,
-      "url": "https://github.com/albertofettucini/Council",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "elder-plinius/CL4R1T4S",
-      "description": "LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! \ud83d\udc50",
-      "language": null,
-      "topics": [
-        "agents",
-        "ai",
-        "chatgpt",
-        "gemini",
-        "google",
-        "grok",
-        "hacking",
-        "leak",
-        "leaked",
-        "openai",
-        "prompt",
-        "prompt-engineering",
-        "prompts",
-        "red-team",
-        "red-teaming",
-        "system",
-        "system-info",
-        "system-prompts",
-        "tools",
-        "transparency"
-      ],
-      "stars": 46855,
-      "url": "https://github.com/elder-plinius/CL4R1T4S",
+      "stars": 57,
+      "url": "https://github.com/llnl/paraview_mcp",
       "archived": false,
       "fork": false
     },
@@ -3313,7 +3201,7 @@
         "web-search",
         "youtube"
       ],
-      "stars": 57934,
+      "stars": 58023,
       "url": "https://github.com/mvanhorn/last30days-skill",
       "archived": false,
       "fork": false
@@ -3337,55 +3225,74 @@
         "skills",
         "vibecoding"
       ],
-      "stars": 75456,
+      "stars": 75886,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "archived": false,
       "fork": false
     },
     {
-      "name": "junhoyeo/tokscale",
-      "description": "\ud83d\udef0\ufe0f Track token usage across AI coding agents from your terminal. \ud83c\udfc5 Global leaderboard with trillions of tokens tracked.",
-      "language": "Rust",
+      "name": "llnl/axom",
+      "description": "CS infrastructure components for HPC applications",
+      "language": "C++",
       "topics": [
-        "ai",
-        "ai-agents",
-        "ampcode",
-        "claude",
-        "claude-code",
-        "clawdbot",
-        "codex",
-        "cursor",
-        "cursor-ide",
-        "droid",
-        "gemini",
-        "gemini-cli",
-        "gpt",
-        "hermes",
-        "moltbot",
-        "oh",
-        "openclaw",
-        "opencode",
-        "opentui",
-        "token-usage"
+        "app-infrastructure",
+        "c-plus-plus",
+        "cpp",
+        "fortran",
+        "hpc",
+        "llnl",
+        "parallel-computing",
+        "radiuss"
       ],
-      "stars": 4914,
-      "url": "https://github.com/junhoyeo/tokscale",
+      "stars": 194,
+      "url": "https://github.com/llnl/axom",
       "archived": false,
       "fork": false
     },
     {
-      "name": "K-Dense-AI/science-superpowers",
-      "description": "Composable computational-science methodology skills for AI research agents \u2014 pre-registration over TDD. A science-domain reimplementation of Superpowers.",
-      "language": "Shell",
+      "name": "Ashutosh00710/github-readme-activity-graph",
+      "description": "A dynamically generated activity graph to show your GitHub activities of last 31 days.",
+      "language": "TypeScript",
       "topics": [
-        "agent-skills",
-        "ai-agents",
-        "computational-science",
-        "preregistration",
-        "reproducible-research"
+        "contribution",
+        "dynamic",
+        "github-activity",
+        "graph",
+        "hacktoberfest",
+        "hacktoberfest2021",
+        "readme",
+        "statistics"
       ],
-      "stars": 285,
-      "url": "https://github.com/K-Dense-AI/science-superpowers",
+      "stars": 2299,
+      "url": "https://github.com/Ashutosh00710/github-readme-activity-graph",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "IAS-Astrophysics/athenak",
+      "description": "Performance-portable version of the Athena++ astrophysical AMR-MHD code using Kokkos.",
+      "language": "C++",
+      "topics": [],
+      "stars": 133,
+      "url": "https://github.com/IAS-Astrophysics/athenak",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "d2lang/d2",
+      "description": "D2 is a modern diagram scripting language that turns text to diagrams.",
+      "language": "Go",
+      "topics": [
+        "developer-tools",
+        "diagramming",
+        "diagrams",
+        "go",
+        "golang",
+        "software-architecture",
+        "text-to-diagram"
+      ],
+      "stars": 24905,
+      "url": "https://github.com/d2lang/d2",
       "archived": false,
       "fork": false
     },
@@ -3394,376 +3301,399 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "topics": [],
-      "stars": 36210,
+      "stars": 36246,
       "url": "https://github.com/tinyhumansai/openhuman",
       "archived": false,
       "fork": false
     },
     {
-      "name": "Squirbie/im-not-ai-codex",
-      "description": "Codex plugin port of epoko77-ai/im-not-ai for Korean AI-tell rewriting",
-      "language": "Python",
+      "name": "jannisteunissen/config_fortran",
+      "description": "Configuration file parser for Fortran",
+      "language": "Fortran",
       "topics": [],
-      "stars": 57,
-      "url": "https://github.com/Squirbie/im-not-ai-codex",
+      "stars": 39,
+      "url": "https://github.com/jannisteunissen/config_fortran",
       "archived": false,
       "fork": false
     },
     {
-      "name": "joonan30/llm-wiki-labs",
-      "description": "AI \ub3d9\ub8cc\uacfc\ud559\uc790\uc640 \ud568\uaed8 \uc5f0\uad6c\ud558\ub294 \ubc29\ubc95 \u2014 1\uc778 \uc5f0\uad6c\uc790\uac00 AI \uc704\ud0a4\ub97c \uc6b4\uc601\ud558\ub294 \uc2dc\uc2a4\ud15c \uc778\ud130\ub799\ud2f0\ube0c \ubaa8\uc74c. Joonan Lab.",
-      "language": "HTML",
-      "topics": [],
-      "stars": 16,
-      "url": "https://github.com/joonan30/llm-wiki-labs",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "joonan30/lecture-llm-wiki",
-      "description": "LLM-Wiki \u2014 \ub300\ud559\uc6d0\uc0dd\uc744 \uc704\ud55c AI \uc9c0\uc2dd \ubca0\uc774\uc2a4 (\ubd84\ud574\uc0dd\ubb3c\ud559 \ub300\ud559\uc6d0 \ud2b9\uac15, \uc548\uc900\uc6a9)",
-      "language": "HTML",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/joonan30/lecture-llm-wiki",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
+      "name": "parthenon-hpc-lab/parthenon",
+      "description": "Parthenon AMR infrastructure ",
+      "language": "C++",
       "topics": [
-        "agent-skills",
+        "amr",
+        "high-performance-computing",
+        "kokkos",
+        "parthenon"
+      ],
+      "stars": 164,
+      "url": "https://github.com/parthenon-hpc-lab/parthenon",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "opendataloader-project/opendataloader-pdf",
+      "description": "PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.",
+      "language": "Java",
+      "topics": [
+        "a11y",
+        "accessibility",
+        "ai",
+        "bounding-box",
+        "document-parsing",
+        "eaa",
+        "html",
+        "json",
+        "markdown",
+        "ocr",
+        "ocr-recognition",
+        "pdf",
+        "pdf-accessibility",
+        "pdf-converter",
+        "pdf-extraction",
+        "pdf-parser",
+        "pdf-ua",
+        "rag",
+        "tables",
+        "tagged-pdf"
+      ],
+      "stars": 28367,
+      "url": "https://github.com/opendataloader-project/opendataloader-pdf",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "fastfetch-cli/fastfetch",
+      "description": "A maintained, feature-rich and performance oriented, neofetch like system information tool.",
+      "language": "C",
+      "topics": [
+        "bsdfetch",
+        "command-line",
+        "fastfetch",
+        "fetch",
+        "flashfetch",
+        "hacktoberfest",
+        "macfetch",
+        "neofetch",
+        "terminal",
+        "winfetch"
+      ],
+      "stars": 24179,
+      "url": "https://github.com/fastfetch-cli/fastfetch",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ghostty-org/ghostty",
+      "description": "\ud83d\udc7b Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
+      "language": "Zig",
+      "topics": [],
+      "stars": 59562,
+      "url": "https://github.com/ghostty-org/ghostty",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
+      "language": "Python",
+      "topics": [
+        "ai-agents",
         "antigravity",
+        "ast",
         "claude-code",
+        "code-analysis",
+        "code-search",
         "codex",
         "cursor",
-        "skills"
-      ],
-      "stars": 86226,
-      "url": "https://github.com/addyosmani/agent-skills",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "SakanaAI/AI-Scientist-v2",
-      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-      "language": "Python",
-      "topics": [],
-      "stars": 6990,
-      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Shubhamsaboo/awesome-llm-apps",
-      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
-      "language": "Python",
-      "topics": [
-        "agents",
-        "llms",
-        "python",
-        "rag"
-      ],
-      "stars": 132161,
-      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "manaflow-ai/cmux",
-      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
-      "language": "Swift",
-      "topics": [
-        "amp",
-        "claude-code",
-        "cli",
-        "codex",
-        "coding-agents",
+        "developer-tools",
         "gemini",
-        "ghostty",
-        "macos",
-        "multiplexer",
-        "multitasking",
-        "opencode",
-        "organization",
-        "parallel-agents",
-        "programmability",
-        "terminal",
-        "terminal-multiplexer",
-        "tmux",
-        "workspace-manager"
-      ],
-      "stars": 25951,
-      "url": "https://github.com/manaflow-ai/cmux",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "jlegewie/beaver-zotero",
-      "description": "AI research assistant that lives in Zotero",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 226,
-      "url": "https://github.com/jlegewie/beaver-zotero",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "54yyyu/zotero-mcp",
-      "description": "Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summaries, analyze citations, and more.",
-      "language": "Python",
-      "topics": [
-        "claude",
+        "graphrag",
+        "knowledge-graph",
+        "leiden",
+        "llm",
         "mcp",
-        "semantic-search",
-        "zotero"
-      ],
-      "stars": 4617,
-      "url": "https://github.com/54yyyu/zotero-mcp",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "dralkh/seerai",
-      "description": "Zotero AI plugin Research assistant for Zotero 9. Chat with your library, run federated scholarly search, RAG, OCR, systematic reviews, and manage cloud storage. Includes standalone MCP, Agentic capabilities, and skills library.",
-      "language": "TypeScript",
-      "topics": [
-        "academic-research",
-        "agent",
-        "ai",
-        "ai-agent",
-        "bibliography",
-        "cloud-storage",
-        "knowledge-management",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "ocr",
+        "openclaw",
         "rag",
-        "research",
-        "research-assistant",
-        "scholarly-search",
-        "semantic-scholar",
-        "systematic-review",
-        "zotero",
-        "zotero-mcp",
-        "zotero-plugin"
+        "skills",
+        "tree-sitter"
       ],
-      "stars": 74,
-      "url": "https://github.com/dralkh/seerai",
+      "stars": 105692,
+      "url": "https://github.com/Graphify-Labs/graphify",
       "archived": false,
       "fork": false
     },
     {
-      "name": "K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "language": "Python",
+      "name": "garethcmurphy/Interstellar-Jet-MHD-Simulation",
+      "description": "\ud83d\ude80 A parallelized numerical solver for magnetohydrodynamics (MHD) equations, developed using finite volume methods to simulate \ud83c\udf0c jets in the interstellar medium. This code is optimized for large-scale astrophysical simulations with \u26a1 MPI-based parallelism, making it suitable for high-performance computing environments \ud83d\udda5\ufe0f. Perfect for exploring th",
+      "language": "C++",
       "topics": [
-        "agent-skills",
-        "ai-scientist",
-        "bioinformatics",
-        "chemoinformatics",
-        "claude",
-        "claude-skills",
-        "claudecode",
-        "clinical-research",
-        "computational-biology",
-        "data-analysis",
-        "drug-discovery",
-        "genomics",
-        "materials-science",
-        "metabolomics",
-        "proteomics",
-        "scientific-computing",
-        "scientific-visualization"
+        "fluid-dynamics",
+        "fluid-simulation",
+        "magnetohydrodynamics",
+        "mhd",
+        "mpi"
       ],
-      "stars": 33239,
-      "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
+      "stars": 15,
+      "url": "https://github.com/garethcmurphy/Interstellar-Jet-MHD-Simulation",
       "archived": false,
       "fork": false
     },
     {
-      "name": "karpathy/nn-zero-to-hero",
-      "description": "Neural Networks: Zero to Hero",
+      "name": "ebelova-pppl/TKIN",
+      "description": "Equilibrium Grad-Shafranov solver including fast ions: tkin_read.p",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/ebelova-pppl/TKIN",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "LMNadol/MHSXtraPy",
+      "description": "Currently working extensively on this, so a lot of changes happening. Publication at: https://academic.oup.com/rasti/advance-article/doi/10.1093/rasti/rzaf053/8321672.",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 23953,
-      "url": "https://github.com/karpathy/nn-zero-to-hero",
+      "stars": 7,
+      "url": "https://github.com/LMNadol/MHSXtraPy",
       "archived": false,
       "fork": false
     },
     {
-      "name": "ITA-Solar/dlrocs",
-      "description": "Deep Learning workshop at RoCS",
+      "name": "leo1200/astronomix",
+      "description": "differentiable (magneto)hydrodynamics for astrophysics in JAX",
+      "language": "Python",
+      "topics": [
+        "astrophysics",
+        "differentiable-programming",
+        "differentiable-simulations",
+        "fluid-dynamics",
+        "jax",
+        "mhd-simulation"
+      ],
+      "stars": 69,
+      "url": "https://github.com/leo1200/astronomix",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "earlbellinger/asteroseismology",
+      "description": "Forward and inverse problems in asteroseismology",
+      "language": null,
+      "topics": [],
+      "stars": 14,
+      "url": "https://github.com/earlbellinger/asteroseismology",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "openai/gpt-oss",
+      "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
+      "language": "Python",
+      "topics": [],
+      "stars": 20306,
+      "url": "https://github.com/openai/gpt-oss",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "QwenLM/Qwen3-Coder",
+      "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.",
+      "language": "Python",
+      "topics": [],
+      "stars": 16784,
+      "url": "https://github.com/QwenLM/Qwen3-Coder",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "codee-com/open-catalog",
+      "description": "A collaborative effort to consolidate expert knowledge on code guidelines for the correctness, modernization, security, portability, and optimization of code written in Fortran, C, and C++ programming languages",
+      "language": "Fortran",
+      "topics": [
+        "c",
+        "correctness",
+        "fortran",
+        "modernization",
+        "optimization",
+        "portability",
+        "security"
+      ],
+      "stars": 106,
+      "url": "https://github.com/codee-com/open-catalog",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "JohannesBuchner/presentations",
+      "description": "Research presentations on Astronomy and Astrostatistics ",
+      "language": "Python",
+      "topics": [
+        "astronomy",
+        "astrophysics",
+        "astrostatistics",
+        "presentation-slides",
+        "research",
+        "statistics"
+      ],
+      "stars": 2,
+      "url": "https://github.com/JohannesBuchner/presentations",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "JohannesBuchner/languagecheck",
+      "description": "Improve the language of your paper before submission",
+      "language": "Python",
+      "topics": [
+        "grammar-checker",
+        "language-analysis",
+        "latex",
+        "overleaf",
+        "proof-reading",
+        "publishing",
+        "python"
+      ],
+      "stars": 111,
+      "url": "https://github.com/JohannesBuchner/languagecheck",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "bwoshea/ZEUS-MP_2",
+      "description": "This repository is the home of the ZEUS-MP 2.0 code, which was created by John Hayes and others at the Laboratory for Computational Astrophysics at UIUC and UCSD.",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 10,
+      "url": "https://github.com/bwoshea/ZEUS-MP_2",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "AASJournals/AASTeX7",
+      "description": "Version 7 of the LaTeX style files and documentation for authoring AAS Journal (AJ/ApJ/PSJ/ApJL/ApJS/RNAAS) articles.",
+      "language": "TeX",
+      "topics": [],
+      "stars": 30,
+      "url": "https://github.com/AASJournals/AASTeX7",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "CaNS-World/CaNS",
+      "description": "A code for fast, massively-parallel direct numerical simulations (DNS) of canonical flows",
+      "language": "Fortran",
+      "topics": [
+        "cfd",
+        "computational-fluid-dynamics",
+        "fluid-dynamics",
+        "fluid-simulation",
+        "fortran",
+        "gpu",
+        "gpu-computing",
+        "high-performance-computing",
+        "turbulence"
+      ],
+      "stars": 271,
+      "url": "https://github.com/CaNS-World/CaNS",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "BoxLib-Codes/CastroRadiation",
+      "description": "flux limited diffusion radiation hydrodynamics module for Castro",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 10,
+      "url": "https://github.com/BoxLib-Codes/CastroRadiation",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "fortran-lang/fortls",
+      "description": "fortls - Fortran Language Server",
+      "language": "Python",
+      "topics": [
+        "fortls",
+        "fortran",
+        "language-server-protocol",
+        "lsp"
+      ],
+      "stars": 339,
+      "url": "https://github.com/fortran-lang/fortls",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "AMReX-Astro/Castro",
+      "description": "Castro (Compressible Astrophysics): An adaptive mesh, astrophysical compressible (radiation-, magneto-)  hydrodynamics simulation code for massively parallel CPU and GPU architectures.",
+      "language": "C++",
+      "topics": [
+        "adaptive-mesh-refinement",
+        "amr",
+        "amrex",
+        "astrophysical-simulation",
+        "astrophysics",
+        "castro",
+        "cfd",
+        "gravity",
+        "hydrodynamics",
+        "pde",
+        "radiation",
+        "reactions"
+      ],
+      "stars": 339,
+      "url": "https://github.com/AMReX-Astro/Castro",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ptroyen/Castro",
+      "description": "An adaptive mesh, astrophysical compressible (radiation-, magneto-)  hydrodynamics simulation code for massively parallel CPU and GPU architectures.",
       "language": null,
       "topics": [],
       "stars": 1,
-      "url": "https://github.com/ITA-Solar/dlrocs",
+      "url": "https://github.com/ptroyen/Castro",
       "archived": false,
-      "fork": false
+      "fork": true
     },
     {
-      "name": "jiwoncpark/aracle",
-      "description": "Predictive model of solar magnetic flux emergence using deep learning",
-      "language": "Python",
-      "topics": [
-        "hmi",
-        "instance-segmentation",
-        "object-detection",
-        "spaceweather"
-      ],
-      "stars": 2,
-      "url": "https://github.com/jiwoncpark/aracle",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "neuraloperator/neuraloperator",
-      "description": "Learning in infinite dimension with neural operators.",
-      "language": "Python",
-      "topics": [
-        "fno",
-        "fourier-neural-operator",
-        "neural-operator",
-        "neural-operators",
-        "partial-differential-equations",
-        "pytorch",
-        "tensor-methods",
-        "tensorly"
-      ],
-      "stars": 3805,
-      "url": "https://github.com/neuraloperator/neuraloperator",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "HelioML/HelioML",
-      "description": "A book about machine learning, statistics, and data mining for heliophysics",
-      "language": "Jupyter Notebook",
-      "topics": [
-        "data-mining",
-        "heliophysics",
-        "machine-learning",
-        "statistics"
-      ],
-      "stars": 80,
-      "url": "https://github.com/HelioML/HelioML",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "upstash/context7",
-      "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
-      "language": "TypeScript",
-      "topics": [
-        "llm",
-        "mcp",
-        "mcp-server",
-        "vibe-coding"
-      ],
-      "stars": 60618,
-      "url": "https://github.com/upstash/context7",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "mem0ai/mem0",
-      "description": "Universal memory layer for AI Agents",
-      "language": "Python",
-      "topics": [
-        "agents",
-        "ai",
-        "ai-agents",
-        "application",
-        "chatbots",
-        "chatgpt",
-        "genai",
-        "llm",
-        "long-term-memory",
-        "memory",
-        "memory-management",
-        "python",
-        "rag",
-        "state-management"
-      ],
-      "stars": 63061,
-      "url": "https://github.com/mem0ai/mem0",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "okada39/pinn_cavity",
-      "description": "Physics informed neural network (PINN) for cavity flow governed by Navier-Stokes equation.",
-      "language": "Python",
+      "name": "Open-Astrophysics-Bookshelf/stellar-physics-notes",
+      "description": "Lecture notes on stellar physics, graduate level",
+      "language": "TeX",
       "topics": [],
-      "stars": 164,
-      "url": "https://github.com/okada39/pinn_cavity",
+      "stars": 81,
+      "url": "https://github.com/Open-Astrophysics-Bookshelf/stellar-physics-notes",
       "archived": false,
       "fork": false
     },
     {
-      "name": "okada39/pinn_wave",
-      "description": "Physics Informed Neural Network (PINN) for the wave equation.",
-      "language": "Python",
+      "name": "athelas-astro/athelas",
+      "description": "Lagrangian radiation-hydrodynamics code using discontinuous Galerkin methods written in C++",
+      "language": "C++",
       "topics": [],
-      "stars": 214,
-      "url": "https://github.com/okada39/pinn_wave",
+      "stars": 10,
+      "url": "https://github.com/athelas-astro/athelas",
       "archived": false,
       "fork": false
     },
     {
-      "name": "upscayl/upscayl",
-      "description": "\ud83c\udd99 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "electron",
-        "esrgan",
-        "gigapixel",
-        "gigapixel-images",
-        "image",
-        "image-upscaling",
-        "topaz",
-        "upscale",
-        "upscalerimage",
-        "upscayl"
-      ],
-      "stars": 47980,
-      "url": "https://github.com/upscayl/upscayl",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "okada39/pinn_burgers",
-      "description": "Physics Informed Neural Network (PINN) for Burgers' equation.",
-      "language": "Python",
+      "name": "Open-Astrophysics-Bookshelf/numerical_exercises",
+      "description": "An introduction to numerical methods for astrophysical hydrodynamics",
+      "language": "TeX",
       "topics": [],
-      "stars": 76,
-      "url": "https://github.com/okada39/pinn_burgers",
+      "stars": 211,
+      "url": "https://github.com/Open-Astrophysics-Bookshelf/numerical_exercises",
       "archived": false,
       "fork": false
     },
     {
-      "name": "levimcclenny/SA-PINNs",
-      "description": "Implementation of the paper \"Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism\" [AAAI-MLPS 2021]",
-      "language": "Python",
-      "topics": [
-        "adaptive-pinns",
-        "deep-learning",
-        "neural-network",
-        "neural-networks",
-        "pdes",
-        "physics-informed-learning",
-        "pinns",
-        "scientific-computing",
-        "sciml",
-        "stiff-pdes",
-        "tensorflow"
-      ],
-      "stars": 298,
-      "url": "https://github.com/levimcclenny/SA-PINNs",
+      "name": "astrofum/na2020",
+      "description": "NA2020 online workshop",
+      "language": null,
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/astrofum/na2020",
       "archived": false,
       "fork": false
     },
@@ -3778,75 +3708,269 @@
       "fork": true
     },
     {
-      "name": "cheshirepezz/Python-for-machine-learning",
-      "description": "Repository for participants of the \"Python for machine learning\" training",
+      "name": "TheoreticalAstrophysicsGroup/TheoreticalAstrophysicsGroup.github.io",
+      "description": "University of Tsukuba, CCS Theoretical Astrophysics Group Webpage",
+      "language": "HTML",
+      "topics": [
+        "astrophysics",
+        "html",
+        "jekyll",
+        "research",
+        "research-group",
+        "static-site",
+        "tsukuba"
+      ],
+      "stars": 9,
+      "url": "https://github.com/TheoreticalAstrophysicsGroup/TheoreticalAstrophysicsGroup.github.io",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "adamjermyn/AstroMicroPhysics",
+      "description": "An attempt to provide modern interfaces for existing tables and codes of astronomical microphysics.",
+      "language": "FORTRAN",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/adamjermyn/AstroMicroPhysics",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "akira-okumura/RHEA",
+      "description": "\u9ad8\u30a8\u30cd\u30eb\u30ae\u30fc\u5b87\u5b99\u7269\u7406\u5b66\u306e\u305f\u3081\u306e ROOT \u5165\u9580 \u2013 ROOT for High-Energy Astrophysics (RHEA)",
+      "language": "TeX",
+      "topics": [],
+      "stars": 28,
+      "url": "https://github.com/akira-okumura/RHEA",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "AstroSnow/Orszag-Tang-Shock-Detection",
+      "description": "IDL codes used for shock detection of Orszag-Tang vortex",
+      "language": "IDL",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/AstroSnow/Orszag-Tang-Shock-Detection",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "AstroSnow/PIP",
+      "description": "Partially Ionised Plasma Code",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/AstroSnow/PIP",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "wmjx691/Computational-Astrophysics",
+      "description": "Computational Astrophysics \u8a08\u7b97\u5929\u6587\u7269\u7406",
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/wmjx691/Computational-Astrophysics",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pmocz/awesome-astrophysical-simulation-codes",
+      "description": "A curated list of awesome astrophysical simulation codes",
+      "language": null,
+      "topics": [
+        "astrophysics",
+        "awesome",
+        "awesome-list",
+        "scientific-computing"
+      ],
+      "stars": 119,
+      "url": "https://github.com/pmocz/awesome-astrophysical-simulation-codes",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "yanastaneva8/lax-wendroff-finite-volume",
+      "description": "Solving hyperbolic PDEs using the Lax-Wendroff Scheme and a finite volume method.",
+      "language": "Matlab",
+      "topics": [
+        "amplification",
+        "characteristics-method",
+        "finite-volume",
+        "finite-volume-methods",
+        "hyperbolic-pde",
+        "lax-wendroff",
+        "matlab",
+        "pde",
+        "pde-solver",
+        "total-variation"
+      ],
+      "stars": 11,
+      "url": "https://github.com/yanastaneva8/lax-wendroff-finite-volume",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "mrkondratyev/Piastra",
+      "description": "A user-friendly, pure-Python (NumPy) finite-volume framework for teaching and prototyping astrophysical fluid dynamics: 1D/2D advection, (relativistic) hydro and MHD, shallow water, and diffusion across multiple geometries.",
+      "language": "Python",
+      "topics": [
+        "advection",
+        "astrophysical-simulation",
+        "cfd",
+        "diffusion",
+        "fluid-simulation",
+        "hydrodynamics",
+        "magnetohydrodynamics",
+        "python",
+        "shallow-water-equations"
+      ],
+      "stars": 7,
+      "url": "https://github.com/mrkondratyev/Piastra",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "github-nakasho/astroph",
+      "description": "Astro-ph ArXiv memo",
+      "language": null,
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/github-nakasho/astroph",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "juncas/FluidX3D",
+      "description": "The fastest and most memory efficient lattice Boltzmann CFD software, running on all GPUs via OpenCL.",
       "language": null,
       "topics": [],
       "stars": 1,
-      "url": "https://github.com/cheshirepezz/Python-for-machine-learning",
+      "url": "https://github.com/juncas/FluidX3D",
       "archived": false,
       "fork": true
     },
     {
-      "name": "ikespand/awesome-machine-learning-fluid-mechanics",
-      "description": "Curated list for ML in FM",
-      "language": null,
-      "topics": [],
-      "stars": 250,
-      "url": "https://github.com/ikespand/awesome-machine-learning-fluid-mechanics",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Cambridge-ICCS/FTorch",
-      "description": "A library for directly calling PyTorch ML models from Fortran.",
-      "language": "Fortran",
+      "name": "gnudatalanguage/gdl",
+      "description": "GDL - GNU Data Language",
+      "language": "C++",
       "topics": [
-        "deep-learning",
-        "fortran",
-        "hacktoberfest",
-        "interoperability",
-        "libtorch",
-        "machine-learning",
+        "antlr",
+        "astronomy",
+        "data-analysis",
+        "dicom",
+        "eigen3",
+        "fits-files",
+        "geophysics",
+        "grib",
+        "gsl-library",
+        "hdf",
+        "hdf5",
+        "mapping",
+        "netcdf",
+        "plotting",
+        "plplot",
+        "programming-language",
+        "pv-wave",
         "python",
-        "pytorch",
-        "torch"
+        "scientific-computing",
+        "scientific-visualization"
       ],
-      "stars": 204,
-      "url": "https://github.com/Cambridge-ICCS/FTorch",
+      "stars": 312,
+      "url": "https://github.com/gnudatalanguage/gdl",
       "archived": false,
       "fork": false
     },
     {
-      "name": "modern-fortran/neural-fortran",
-      "description": "A parallel framework for deep learning",
+      "name": "CliMA/Oceananigans.jl",
+      "description": "\ud83c\udf0a  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs",
+      "language": "Julia",
+      "topics": [
+        "climate",
+        "climate-change",
+        "data-assimilation",
+        "fluid-dynamics",
+        "gpu",
+        "julia",
+        "machine-learning",
+        "ocean"
+      ],
+      "stars": 1403,
+      "url": "https://github.com/CliMA/Oceananigans.jl",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "JeongHyunJin/FundamentalAstronomy",
+      "description": "Python Exercises",
+      "language": "Jupyter Notebook",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/JeongHyunJin/FundamentalAstronomy",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "JeongHyunJin/Jeong2020_SolarFarsideMagnetograms",
+      "description": "Jeong et al. (2020) \"Solar coronal magnetic field extrapolation from synchronic data with AI-generated farside\", The Astrophysical Journal Letters, Volume 903, Issue 2, id.L25, 9 pp.",
+      "language": "Python",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/JeongHyunJin/Jeong2020_SolarFarsideMagnetograms",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "MESAHub/mesa",
+      "description": "Modules for Experiments in Stellar Astrophysics",
       "language": "Fortran",
       "topics": [
-        "cnn",
-        "deep-learning",
+        "astronomy",
+        "astrophysics",
+        "binary-evolution",
         "fortran",
-        "machine-learning",
-        "neural-network",
-        "parallel"
+        "stellar-astrophysics",
+        "stellar-evolution"
       ],
-      "stars": 472,
-      "url": "https://github.com/modern-fortran/neural-fortran",
+      "stars": 243,
+      "url": "https://github.com/MESAHub/mesa",
       "archived": false,
       "fork": false
     },
     {
-      "name": "pmocz/artificialneuralnetwork-python",
-      "description": "Artificial Neural Network for Image Classification",
+      "name": "jdonnert/julia",
+      "description": "Julia scripts to work with astrophysical simulations. Also contains 1D and 2D 5th order WENO solvers for constrained transport MHD.",
+      "language": "Julia",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/jdonnert/julia",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "esquivas/guacho",
+      "description": "A 3D uniform mesh parallel HD/MHD code for astrophysics",
+      "language": "Fortran",
+      "topics": [],
+      "stars": 7,
+      "url": "https://github.com/esquivas/guacho",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "chianti-atomic/ChiantiPy",
+      "description": "ChiantiPy is a python package to calculate the radiative properties of astrophysical plasmas based on the CHIANTI atomic database",
       "language": "Python",
       "topics": [
-        "artificial-neural-networks",
         "astrophysics",
-        "machine-learning",
-        "scientific-computing",
-        "tutorial"
+        "chianti",
+        "chianti-atomic-database",
+        "python",
+        "spectroscopy"
       ],
-      "stars": 13,
-      "url": "https://github.com/pmocz/artificialneuralnetwork-python",
+      "stars": 75,
+      "url": "https://github.com/chianti-atomic/ChiantiPy",
       "archived": false,
       "fork": false
     }
@@ -3857,7 +3981,7 @@
       "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 14899,
+      "stars": 14952,
       "url": "https://github.com/langchain-ai/openwiki",
       "archived": false,
       "fork": false
@@ -3877,7 +4001,7 @@
         "markdown",
         "review"
       ],
-      "stars": 718,
+      "stars": 900,
       "url": "https://github.com/petergyang/human-review",
       "archived": false,
       "fork": false
@@ -3899,7 +4023,7 @@
         "terminal-based",
         "tui"
       ],
-      "stars": 22449,
+      "stars": 22464,
       "url": "https://github.com/yorukot/superfile",
       "archived": false,
       "fork": false
@@ -3924,7 +4048,7 @@
         "opencode-skills",
         "skills"
       ],
-      "stars": 30055,
+      "stars": 30143,
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
       "archived": false,
       "fork": false
@@ -3957,7 +4081,7 @@
         "static-analysis",
         "tree-sitter"
       ],
-      "stars": 29820,
+      "stars": 29921,
       "url": "https://github.com/tirth8205/code-review-graph",
       "archived": false,
       "fork": false
@@ -3967,14 +4091,14 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
       "topics": [],
-      "stars": 87669,
+      "stars": 88589,
       "url": "https://github.com/earendil-works/pi",
       "archived": false,
       "fork": false
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 330+ providers (90+ free), 1200+ models \u2014 Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 320+ contributors",
       "language": "TypeScript",
       "topics": [
         "a2a",
@@ -3998,7 +4122,7 @@
         "qwen",
         "token-saver"
       ],
-      "stars": 45940,
+      "stars": 46623,
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "archived": false,
       "fork": false
@@ -4012,7 +4136,7 @@
         "latex",
         "typst"
       ],
-      "stars": 409,
+      "stars": 411,
       "url": "https://github.com/bahayonghang/academic-writing-skills",
       "archived": false,
       "fork": false
@@ -4037,7 +4161,7 @@
         "word",
         "xlsx"
       ],
-      "stars": 27734,
+      "stars": 27948,
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "archived": false,
       "fork": false
@@ -4068,7 +4192,7 @@
         "windsurf",
         "windsurf-ai"
       ],
-      "stars": 142741,
+      "stars": 142758,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "archived": false,
       "fork": false
@@ -4082,7 +4206,7 @@
         "git",
         "terminal"
       ],
-      "stars": 81237,
+      "stars": 81267,
       "url": "https://github.com/jesseduffield/lazygit",
       "archived": false,
       "fork": false
@@ -4092,7 +4216,7 @@
       "description": "Menubar Tool to set Charge Limits and Prolong Battery Lifespan",
       "language": "Swift",
       "topics": [],
-      "stars": 9144,
+      "stars": 9149,
       "url": "https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring",
       "archived": false,
       "fork": false
@@ -4111,7 +4235,7 @@
         "generative-ai",
         "google-cloud"
       ],
-      "stars": 5562,
+      "stars": 5586,
       "url": "https://github.com/google/agents-cli",
       "archived": false,
       "fork": false
@@ -4139,7 +4263,7 @@
         "spec",
         "spec-driven"
       ],
-      "stars": 126270,
+      "stars": 126467,
       "url": "https://github.com/github/spec-kit",
       "archived": false,
       "fork": false
@@ -4186,7 +4310,7 @@
         "mcp",
         "prompt-engineering"
       ],
-      "stars": 10226,
+      "stars": 10284,
       "url": "https://github.com/cobusgreyling/loop-engineering",
       "archived": false,
       "fork": false
@@ -4217,7 +4341,7 @@
         "sharepoint",
         "webdav"
       ],
-      "stars": 4684,
+      "stars": 4686,
       "url": "https://github.com/iterate-ch/cyberduck",
       "archived": false,
       "fork": false
@@ -4241,7 +4365,7 @@
         "pdfmerger",
         "self-hosted"
       ],
-      "stars": 89343,
+      "stars": 89408,
       "url": "https://github.com/Stirling-Tools/Stirling-PDF",
       "archived": false,
       "fork": false
@@ -4292,7 +4416,7 @@
         "tokens",
         "typescript"
       ],
-      "stars": 65975,
+      "stars": 66096,
       "url": "https://github.com/headroomlabs-ai/headroom",
       "archived": false,
       "fork": false
@@ -4302,7 +4426,7 @@
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent \u2014 fewer tokens, fewer tool calls, 100% local",
       "language": "C",
       "topics": [],
-      "stars": 65935,
+      "stars": 66110,
       "url": "https://github.com/colbymchenry/codegraph",
       "archived": false,
       "fork": false
@@ -4333,7 +4457,7 @@
         "opentui",
         "token-usage"
       ],
-      "stars": 4914,
+      "stars": 4925,
       "url": "https://github.com/junhoyeo/tokscale",
       "archived": false,
       "fork": false
@@ -4343,7 +4467,7 @@
       "description": "GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome, AFDB, UniProt and 30+ other databases and tools.",
       "language": "Python",
       "topics": [],
-      "stars": 2679,
+      "stars": 2687,
       "url": "https://github.com/google-deepmind/science-skills",
       "archived": false,
       "fork": false
@@ -4367,7 +4491,7 @@
         "rust",
         "token-optimization"
       ],
-      "stars": 75769,
+      "stars": 75923,
       "url": "https://github.com/rtk-ai/rtk",
       "archived": false,
       "fork": false
@@ -4404,7 +4528,7 @@
         "opencode",
         "skills"
       ],
-      "stars": 44900,
+      "stars": 45184,
       "url": "https://github.com/kepano/obsidian-skills",
       "archived": false,
       "fork": false
@@ -4414,7 +4538,7 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "topics": [],
-      "stars": 105363,
+      "stars": 105560,
       "url": "https://github.com/openai/codex",
       "archived": false,
       "fork": false
@@ -4435,7 +4559,7 @@
         "terminal",
         "winfetch"
       ],
-      "stars": 24163,
+      "stars": 24179,
       "url": "https://github.com/fastfetch-cli/fastfetch",
       "archived": false,
       "fork": false
@@ -4445,7 +4569,7 @@
       "description": "An obsidian toolbar plugin, modified from the Cmenu plugin",
       "language": "TypeScript",
       "topics": [],
-      "stars": 1490,
+      "stars": 1491,
       "url": "https://github.com/PKM-er/obsidian-editing-toolbar",
       "archived": false,
       "fork": false
@@ -4474,7 +4598,7 @@
         "tmux",
         "workspace-manager"
       ],
-      "stars": 25951,
+      "stars": 25984,
       "url": "https://github.com/manaflow-ai/cmux",
       "archived": false,
       "fork": false
@@ -4484,7 +4608,7 @@
       "description": "\ud83d\udc7b Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "topics": [],
-      "stars": 59519,
+      "stars": 59562,
       "url": "https://github.com/ghostty-org/ghostty",
       "archived": false,
       "fork": false
@@ -4507,7 +4631,7 @@
         "safari",
         "safari-extension"
       ],
-      "stars": 4999,
+      "stars": 5008,
       "url": "https://github.com/obsidianmd/obsidian-clipper",
       "archived": false,
       "fork": false
@@ -4537,7 +4661,7 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 105335,
+      "stars": 105692,
       "url": "https://github.com/Graphify-Labs/graphify",
       "archived": false,
       "fork": false
@@ -4600,7 +4724,7 @@
         "understandcode",
         "vibe-coding"
       ],
-      "stars": 78986,
+      "stars": 79116,
       "url": "https://github.com/Egonex-AI/Understand-Anything",
       "archived": false,
       "fork": false
@@ -4618,7 +4742,7 @@
         "openai",
         "pdf"
       ],
-      "stars": 173181,
+      "stars": 173388,
       "url": "https://github.com/microsoft/markitdown",
       "archived": false,
       "fork": false
@@ -4628,7 +4752,7 @@
       "description": null,
       "language": "Rust",
       "topics": [],
-      "stars": 2845,
+      "stars": 2846,
       "url": "https://github.com/Polymarket/polymarket-cli",
       "archived": false,
       "fork": false
@@ -4691,7 +4815,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 30203,
+      "stars": 30217,
       "url": "https://github.com/davila7/claude-code-templates",
       "archived": false,
       "fork": false
@@ -4717,7 +4841,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 22365,
+      "stars": 22364,
       "url": "https://github.com/winfunc/opcode",
       "archived": false,
       "fork": false
@@ -4758,7 +4882,7 @@
         "terminal",
         "theme"
       ],
-      "stars": 7631,
+      "stars": 7634,
       "url": "https://github.com/ohmybash/oh-my-bash",
       "archived": false,
       "fork": false
@@ -4805,7 +4929,7 @@
         "machine-learning",
         "ocean"
       ],
-      "stars": 1398,
+      "stars": 1403,
       "url": "https://github.com/CliMA/Oceananigans.jl",
       "archived": false,
       "fork": false
@@ -4827,7 +4951,7 @@
       "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 14899,
+      "stars": 14952,
       "url": "https://github.com/langchain-ai/openwiki",
       "archived": false,
       "fork": false
@@ -4852,7 +4976,7 @@
         "opencode-skills",
         "skills"
       ],
-      "stars": 30055,
+      "stars": 30143,
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
       "archived": false,
       "fork": false
@@ -4880,8 +5004,34 @@
       "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "language": null,
       "topics": [],
-      "stars": 946,
+      "stars": 938,
       "url": "https://github.com/Kulaxyz/self-learning-skills",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "DigitalPlatDev/FreeDomain",
+      "description": "Free domain registration and practical DNS learning resources for everyone.",
+      "language": "Markdown",
+      "topics": [
+        "digitalplat",
+        "dns",
+        "dns-tutorial",
+        "documentation",
+        "domain",
+        "domain-platform",
+        "domain-registration",
+        "domainname",
+        "domains",
+        "education",
+        "free",
+        "free-domain",
+        "freedomain",
+        "internet-infrastructure",
+        "nameserver"
+      ],
+      "stars": 192401,
+      "url": "https://github.com/DigitalPlatDev/FreeDomain",
       "archived": false,
       "fork": false
     },
@@ -4917,7 +5067,7 @@
         "ai",
         "mcp"
       ],
-      "stars": 92103,
+      "stars": 92168,
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
       "archived": false,
       "fork": false
@@ -4990,7 +5140,7 @@
         "scientific-discovery",
         "self-improving-systems"
       ],
-      "stars": 2397,
+      "stars": 2425,
       "url": "https://github.com/webfuse-com/awesome-autoresearch",
       "archived": false,
       "fork": false
@@ -5005,7 +5155,7 @@
         "python",
         "rag"
       ],
-      "stars": 132161,
+      "stars": 132337,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "archived": false,
       "fork": false
@@ -5033,7 +5183,7 @@
         "codex-subagents",
         "subagents"
       ],
-      "stars": 5958,
+      "stars": 5964,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "archived": false,
       "fork": false
@@ -5142,7 +5292,7 @@
         "tensor-methods",
         "tensorly"
       ],
-      "stars": 3805,
+      "stars": 3806,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -5212,7 +5362,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 60618,
+      "stars": 60661,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -5317,7 +5467,7 @@
         "tufte-latex",
         "tufte-style"
       ],
-      "stars": 1881,
+      "stars": 1882,
       "url": "https://github.com/Tufte-LaTeX/tufte-latex",
       "archived": false,
       "fork": false
@@ -5377,7 +5527,7 @@
         "pde",
         "python"
       ],
-      "stars": 125,
+      "stars": 126,
       "url": "https://github.com/python-hydro/hydro_examples",
       "archived": false,
       "fork": false
@@ -5541,7 +5691,7 @@
       "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 14899,
+      "stars": 14952,
       "url": "https://github.com/langchain-ai/openwiki",
       "archived": false,
       "fork": false
@@ -5561,7 +5711,7 @@
         "markdown",
         "review"
       ],
-      "stars": 718,
+      "stars": 900,
       "url": "https://github.com/petergyang/human-review",
       "archived": false,
       "fork": false
@@ -5588,7 +5738,7 @@
         "tauri",
         "webdav"
       ],
-      "stars": 12598,
+      "stars": 12610,
       "url": "https://github.com/codexu/note-gen",
       "archived": false,
       "fork": false
@@ -5619,7 +5769,7 @@
         "offline-llm",
         "qwen"
       ],
-      "stars": 720,
+      "stars": 730,
       "url": "https://github.com/webbrain-one/webbrain",
       "archived": false,
       "fork": false
@@ -5629,7 +5779,7 @@
       "description": null,
       "language": "TypeScript",
       "topics": [],
-      "stars": 18274,
+      "stars": 18435,
       "url": "https://github.com/pingdotgg/t3code",
       "archived": false,
       "fork": false
@@ -5639,14 +5789,14 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
       "topics": [],
-      "stars": 87669,
+      "stars": 88589,
       "url": "https://github.com/earendil-works/pi",
       "archived": false,
       "fork": false
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models \u2014 Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 330+ providers (90+ free), 1200+ models \u2014 Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 320+ contributors",
       "language": "TypeScript",
       "topics": [
         "a2a",
@@ -5670,7 +5820,7 @@
         "qwen",
         "token-saver"
       ],
-      "stars": 45940,
+      "stars": 46623,
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "archived": false,
       "fork": false
@@ -5759,7 +5909,7 @@
         "mcp",
         "prompt-engineering"
       ],
-      "stars": 10226,
+      "stars": 10284,
       "url": "https://github.com/cobusgreyling/loop-engineering",
       "archived": false,
       "fork": false
@@ -5797,7 +5947,7 @@
         "tailwindcss",
         "tanstack-start"
       ],
-      "stars": 40299,
+      "stars": 40315,
       "url": "https://github.com/amruthpillai/reactive-resume",
       "archived": false,
       "fork": false
@@ -5828,7 +5978,7 @@
         "prompt-engineering",
         "yagni"
       ],
-      "stars": 100844,
+      "stars": 101543,
       "url": "https://github.com/DietrichGebert/ponytail",
       "archived": false,
       "fork": false
@@ -5848,7 +5998,7 @@
         "llm",
         "openai"
       ],
-      "stars": 83738,
+      "stars": 83840,
       "url": "https://github.com/OpenHands/OpenHands",
       "archived": false,
       "fork": false
@@ -5879,7 +6029,7 @@
         "text-processing",
         "writing-tools"
       ],
-      "stars": 314,
+      "stars": 315,
       "url": "https://github.com/devswha/patina",
       "archived": false,
       "fork": false
@@ -5889,7 +6039,7 @@
       "description": "\ud55c\uad6d\uc778\uc744 \uc704\ud55c \uc2a4\ud0ac \ubaa8\uc74c\uc9d1 - \uc5d0\uc774\uc804\ud2b8\ub97c \ud55c\uad6d\uc778\uc73c\ub85c",
       "language": "JavaScript",
       "topics": [],
-      "stars": 7123,
+      "stars": 7146,
       "url": "https://github.com/NomaDamas/k-skill",
       "archived": false,
       "fork": false
@@ -5913,7 +6063,7 @@
         "skills",
         "vibecoding"
       ],
-      "stars": 75456,
+      "stars": 75886,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "archived": false,
       "fork": false
@@ -5938,7 +6088,7 @@
         "orchestration",
         "typescript"
       ],
-      "stars": 3198,
+      "stars": 3213,
       "url": "https://github.com/code-yeongyu/lazycodex",
       "archived": false,
       "fork": false
@@ -6005,7 +6155,7 @@
       "description": "The open source coding agent.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 196236,
+      "stars": 196615,
       "url": "https://github.com/anomalyco/opencode",
       "archived": false,
       "fork": false
@@ -6022,7 +6172,7 @@
         "cursor",
         "skills"
       ],
-      "stars": 86226,
+      "stars": 86617,
       "url": "https://github.com/addyosmani/agent-skills",
       "archived": false,
       "fork": false
@@ -6043,7 +6193,7 @@
         "semantic-search",
         "vectors"
       ],
-      "stars": 5355,
+      "stars": 5358,
       "url": "https://github.com/brianpetro/obsidian-smart-connections",
       "archived": false,
       "fork": false
@@ -6115,7 +6265,7 @@
         "pdf",
         "search"
       ],
-      "stars": 2112,
+      "stars": 2115,
       "url": "https://github.com/scambier/obsidian-omnisearch",
       "archived": false,
       "fork": false
@@ -6139,7 +6289,7 @@
         "obsidian-plugin",
         "obsidian-theme"
       ],
-      "stars": 781,
+      "stars": 784,
       "url": "https://github.com/kepano/obsidian-minimal-settings",
       "archived": false,
       "fork": false
@@ -6165,7 +6315,7 @@
         "obsidian-md",
         "obsidian-plugin"
       ],
-      "stars": 5217,
+      "stars": 5218,
       "url": "https://github.com/SilentVoid13/Templater",
       "archived": false,
       "fork": false
@@ -6217,7 +6367,7 @@
       "description": "An obsidian toolbar plugin, modified from the Cmenu plugin",
       "language": "TypeScript",
       "topics": [],
-      "stars": 1490,
+      "stars": 1491,
       "url": "https://github.com/PKM-er/obsidian-editing-toolbar",
       "archived": false,
       "fork": false
@@ -6267,7 +6417,7 @@
         "safari",
         "safari-extension"
       ],
-      "stars": 4999,
+      "stars": 5008,
       "url": "https://github.com/obsidianmd/obsidian-clipper",
       "archived": false,
       "fork": false
@@ -6296,7 +6446,7 @@
         "vector-icons",
         "vite"
       ],
-      "stars": 2566,
+      "stars": 2569,
       "url": "https://github.com/xandemon/developer-icons",
       "archived": false,
       "fork": false
@@ -6306,7 +6456,7 @@
       "description": "AI research assistant that lives in Zotero",
       "language": "TypeScript",
       "topics": [],
-      "stars": 226,
+      "stars": 227,
       "url": "https://github.com/jlegewie/beaver-zotero",
       "archived": false,
       "fork": false
@@ -6316,7 +6466,7 @@
       "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 32609,
+      "stars": 32631,
       "url": "https://github.com/Yeachan-Heo/oh-my-codex",
       "archived": false,
       "fork": false
@@ -6347,7 +6497,7 @@
         "zotero-mcp",
         "zotero-plugin"
       ],
-      "stars": 74,
+      "stars": 75,
       "url": "https://github.com/dralkh/seerai",
       "archived": false,
       "fork": false
@@ -6375,7 +6525,7 @@
         "understandcode",
         "vibe-coding"
       ],
-      "stars": 78986,
+      "stars": 79116,
       "url": "https://github.com/Egonex-AI/Understand-Anything",
       "archived": false,
       "fork": false
@@ -6385,7 +6535,7 @@
       "description": null,
       "language": "JavaScript",
       "topics": [],
-      "stars": 13905,
+      "stars": 13906,
       "url": "https://github.com/andrewyng/context-hub",
       "archived": false,
       "fork": false
@@ -6411,7 +6561,7 @@
         "tui",
         "typescript"
       ],
-      "stars": 67713,
+      "stars": 67770,
       "url": "https://github.com/code-yeongyu/oh-my-openagent",
       "archived": false,
       "fork": false
@@ -6454,7 +6604,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 22365,
+      "stars": 22364,
       "url": "https://github.com/winfunc/opcode",
       "archived": false,
       "fork": false
@@ -6464,7 +6614,7 @@
       "description": "\ud83d\udcd6 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors",
       "language": "TypeScript",
       "topics": [],
-      "stars": 1380,
+      "stars": 1382,
       "url": "https://github.com/regenrek/deepwiki-mcp",
       "archived": false,
       "fork": false
@@ -6526,7 +6676,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 60618,
+      "stars": 60661,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -6536,7 +6686,7 @@
       "description": "Model Context Protocol Servers",
       "language": "TypeScript",
       "topics": [],
-      "stars": 89453,
+      "stars": 89506,
       "url": "https://github.com/modelcontextprotocol/servers",
       "archived": false,
       "fork": false
@@ -6562,7 +6712,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 19738,
+      "stars": 19740,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
@@ -6584,7 +6734,7 @@
         "upscalerimage",
         "upscayl"
       ],
-      "stars": 47980,
+      "stars": 48036,
       "url": "https://github.com/upscayl/upscayl",
       "archived": false,
       "fork": false
@@ -6798,7 +6948,7 @@
       "description": "The object-oriented HPC platform for CFD, plasma and multi-physics simulations whose development started in 2002 at the Von Karman Institute for Fluid Dynamics is finally open!",
       "language": "Prolog",
       "topics": [],
-      "stars": 265,
+      "stars": 266,
       "url": "https://github.com/andrealani/COOLFluiD",
       "archived": false,
       "fork": false
@@ -6853,7 +7003,7 @@
         "preregistration",
         "reproducible-research"
       ],
-      "stars": 285,
+      "stars": 286,
       "url": "https://github.com/K-Dense-AI/science-superpowers",
       "archived": false,
       "fork": false
@@ -6931,7 +7081,7 @@
         "scientific-computing",
         "simulation"
       ],
-      "stars": 392,
+      "stars": 393,
       "url": "https://github.com/MFlowCode/MFC",
       "archived": false,
       "fork": false
@@ -8447,7 +8597,7 @@
         "simulation",
         "summation-by-parts"
       ],
-      "stars": 721,
+      "stars": 722,
       "url": "https://github.com/trixi-framework/Trixi.jl",
       "archived": false,
       "fork": false
@@ -8918,7 +9068,7 @@
         "parallel-computing",
         "programming-model"
       ],
-      "stars": 2641,
+      "stars": 2642,
       "url": "https://github.com/kokkos/kokkos",
       "archived": false,
       "fork": false
@@ -9149,7 +9299,7 @@
         "offline-llm",
         "qwen"
       ],
-      "stars": 720,
+      "stars": 730,
       "url": "https://github.com/webbrain-one/webbrain",
       "archived": false,
       "fork": false
@@ -9169,7 +9319,7 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
       "topics": [],
-      "stars": 87669,
+      "stars": 88589,
       "url": "https://github.com/earendil-works/pi",
       "archived": false,
       "fork": false
@@ -9237,7 +9387,7 @@
         "sharepoint",
         "webdav"
       ],
-      "stars": 4684,
+      "stars": 4686,
       "url": "https://github.com/iterate-ch/cyberduck",
       "archived": false,
       "fork": false
@@ -9256,7 +9406,7 @@
         "tailwindcss",
         "tanstack-start"
       ],
-      "stars": 40299,
+      "stars": 40315,
       "url": "https://github.com/amruthpillai/reactive-resume",
       "archived": false,
       "fork": false
@@ -9287,7 +9437,7 @@
         "web-search",
         "youtube"
       ],
-      "stars": 57934,
+      "stars": 58023,
       "url": "https://github.com/mvanhorn/last30days-skill",
       "archived": false,
       "fork": false
@@ -9307,7 +9457,7 @@
       "description": "Remote Control for Codex.",
       "language": "Swift",
       "topics": [],
-      "stars": 3282,
+      "stars": 3283,
       "url": "https://github.com/Emanuele-web04/remodex",
       "archived": false,
       "fork": false
@@ -9333,7 +9483,7 @@
         "scientific-discovery",
         "self-improving-systems"
       ],
-      "stars": 2397,
+      "stars": 2425,
       "url": "https://github.com/webfuse-com/awesome-autoresearch",
       "archived": false,
       "fork": false
@@ -9354,7 +9504,7 @@
         "semantic-search",
         "vectors"
       ],
-      "stars": 5355,
+      "stars": 5358,
       "url": "https://github.com/brianpetro/obsidian-smart-connections",
       "archived": false,
       "fork": false
@@ -9377,7 +9527,7 @@
         "safari",
         "safari-extension"
       ],
-      "stars": 4999,
+      "stars": 5008,
       "url": "https://github.com/obsidianmd/obsidian-clipper",
       "archived": false,
       "fork": false
@@ -9421,7 +9571,7 @@
         "personal-website",
         "portfolio-website"
       ],
-      "stars": 17436,
+      "stars": 17438,
       "url": "https://github.com/academicpages/academicpages.github.io",
       "archived": false,
       "fork": false
@@ -9478,7 +9628,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 19738,
+      "stars": 19740,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
@@ -9857,7 +10007,7 @@
         "scientific-computing",
         "simulation"
       ],
-      "stars": 392,
+      "stars": 393,
       "url": "https://github.com/MFlowCode/MFC",
       "archived": false,
       "fork": false
@@ -11397,7 +11547,7 @@
         "courses",
         "curriculum"
       ],
-      "stars": 207894,
+      "stars": 207931,
       "url": "https://github.com/ossu/computer-science",
       "archived": false,
       "fork": false
@@ -11426,7 +11576,7 @@
         "tui",
         "workspace-manager"
       ],
-      "stars": 27686,
+      "stars": 28256,
       "url": "https://github.com/herdrdev/herdr",
       "archived": false,
       "fork": false
@@ -11436,7 +11586,7 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "language": "CSS",
       "topics": [],
-      "stars": 24050,
+      "stars": 24391,
       "url": "https://github.com/Nutlope/hallmark",
       "archived": false,
       "fork": false
@@ -11452,29 +11602,11 @@
       "fork": false
     },
     {
-      "name": "DigitalPlatDev/FreeDomain",
-      "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
-      "language": null,
-      "topics": [
-        "digitalplat",
-        "domain",
-        "domain-platform",
-        "domainname",
-        "domains",
-        "free",
-        "freedomain"
-      ],
-      "stars": 192275,
-      "url": "https://github.com/DigitalPlatDev/FreeDomain",
-      "archived": false,
-      "fork": false
-    },
-    {
       "name": "mattpocock/skills",
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "language": "Shell",
       "topics": [],
-      "stars": 213844,
+      "stars": 215084,
       "url": "https://github.com/mattpocock/skills",
       "archived": false,
       "fork": false
@@ -11493,7 +11625,7 @@
         "subagent-driven-development",
         "superpowers"
       ],
-      "stars": 270760,
+      "stars": 271255,
       "url": "https://github.com/obra/superpowers",
       "archived": false,
       "fork": false
@@ -11513,7 +11645,7 @@
       "description": "A Claude Code skill that removes signs of AI-generated writing from academic medical papers, making them sound more natural and professionally written.",
       "language": null,
       "topics": [],
-      "stars": 162,
+      "stars": 163,
       "url": "https://github.com/matsuikentaro1/humanizer_academic",
       "archived": false,
       "fork": false
@@ -11533,7 +11665,7 @@
         "library",
         "nosql"
       ],
-      "stars": 966,
+      "stars": 970,
       "url": "https://github.com/HDFGroup/hdf5",
       "archived": false,
       "fork": false
@@ -11550,7 +11682,7 @@
         "neovim-plugin",
         "nvim"
       ],
-      "stars": 27142,
+      "stars": 27146,
       "url": "https://github.com/LazyVim/LazyVim",
       "archived": false,
       "fork": false
@@ -11560,7 +11692,7 @@
       "description": "Beautiful, Modern & Opinionated Linux",
       "language": "Shell",
       "topics": [],
-      "stars": 24507,
+      "stars": 24580,
       "url": "https://github.com/basecamp/omarchy",
       "archived": false,
       "fork": false
@@ -11584,7 +11716,7 @@
         "rust",
         "tauri"
       ],
-      "stars": 607,
+      "stars": 609,
       "url": "https://github.com/chrisryugj/Docufinder",
       "archived": false,
       "fork": false
@@ -11603,7 +11735,7 @@
         "markdown",
         "public-data"
       ],
-      "stars": 1498,
+      "stars": 1500,
       "url": "https://github.com/legalize-kr/legalize-kr",
       "archived": false,
       "fork": false
@@ -11633,7 +11765,7 @@
         "obsidian",
         "obsidian-md"
       ],
-      "stars": 20739,
+      "stars": 20768,
       "url": "https://github.com/obsidianmd/obsidian-releases",
       "archived": false,
       "fork": false
@@ -11643,7 +11775,7 @@
       "description": "tmux source code",
       "language": "C",
       "topics": [],
-      "stars": 48553,
+      "stars": 48576,
       "url": "https://github.com/tmux/tmux",
       "archived": false,
       "fork": false
@@ -11663,7 +11795,7 @@
         "tcsh",
         "zsh"
       ],
-      "stars": 15351,
+      "stars": 15353,
       "url": "https://github.com/direnv/direnv",
       "archived": false,
       "fork": false
@@ -11693,7 +11825,7 @@
       "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
       "language": null,
       "topics": [],
-      "stars": 201611,
+      "stars": 201904,
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "archived": false,
       "fork": false
@@ -11825,7 +11957,7 @@
         "portfolio-website",
         "theme"
       ],
-      "stars": 15993,
+      "stars": 15997,
       "url": "https://github.com/alshedivat/al-folio",
       "archived": false,
       "fork": false
@@ -12082,7 +12214,7 @@
         "responsive-web-design",
         "rubygems"
       ],
-      "stars": 10216,
+      "stars": 10218,
       "url": "https://github.com/cotes2020/jekyll-theme-chirpy",
       "archived": false,
       "fork": false
@@ -12274,7 +12406,7 @@
         "plotting",
         "visualization"
       ],
-      "stars": 2796,
+      "stars": 2798,
       "url": "https://github.com/MakieOrg/Makie.jl",
       "archived": false,
       "fork": false
@@ -12471,7 +12603,7 @@
       "description": "Neural Networks: Zero to Hero",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 23953,
+      "stars": 23958,
       "url": "https://github.com/karpathy/nn-zero-to-hero",
       "archived": false,
       "fork": false
@@ -12654,7 +12786,7 @@
         "pde",
         "python"
       ],
-      "stars": 125,
+      "stars": 126,
       "url": "https://github.com/python-hydro/hydro_examples",
       "archived": false,
       "fork": false
@@ -12917,7 +13049,7 @@
         "plotting",
         "visualization"
       ],
-      "stars": 2796,
+      "stars": 2798,
       "url": "https://github.com/MakieOrg/Makie.jl",
       "archived": false,
       "fork": false
@@ -13024,7 +13156,7 @@
         "machine-learning",
         "ocean"
       ],
-      "stars": 1398,
+      "stars": 1403,
       "url": "https://github.com/CliMA/Oceananigans.jl",
       "archived": false,
       "fork": false
@@ -13044,7 +13176,7 @@
         "simulation",
         "summation-by-parts"
       ],
-      "stars": 721,
+      "stars": 722,
       "url": "https://github.com/trixi-framework/Trixi.jl",
       "archived": false,
       "fork": false
@@ -13056,76 +13188,6 @@
       "topics": [],
       "stars": 2,
       "url": "https://github.com/jdonnert/julia",
-      "archived": false,
-      "fork": false
-    }
-  ],
-  "Mathematics & Statistics": [
-    {
-      "name": "mathaefele/parallel_HDF5_hands-on",
-      "description": "Hands on material in C and fortran90 for learning parallel HDF5",
-      "language": "Fortran",
-      "topics": [],
-      "stars": 9,
-      "url": "https://github.com/mathaefele/parallel_HDF5_hands-on",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "HelioML/HelioML",
-      "description": "A book about machine learning, statistics, and data mining for heliophysics",
-      "language": "Jupyter Notebook",
-      "topics": [
-        "data-mining",
-        "heliophysics",
-        "machine-learning",
-        "statistics"
-      ],
-      "stars": 80,
-      "url": "https://github.com/HelioML/HelioML",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "JohannesBuchner/presentations",
-      "description": "Research presentations on Astronomy and Astrostatistics ",
-      "language": "Python",
-      "topics": [
-        "astronomy",
-        "astrophysics",
-        "astrostatistics",
-        "presentation-slides",
-        "research",
-        "statistics"
-      ],
-      "stars": 2,
-      "url": "https://github.com/JohannesBuchner/presentations",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cheshirepezz/astroML",
-      "description": "Machine learning, statistics, and data mining for astronomy and astrophysics",
-      "language": null,
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/cheshirepezz/astroML",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "marlonsmathias/GATT_DNS",
-      "description": "Direct Numerical Simulation code for the compressible Navier-Stokes equations. The linear stability analysis (LST) is done by a Jacobian-free time-stepping algorithm. The code was developed by the Group of Aeroacoustics, Transition and Turbulence of the S\u00e3o Carlos School of Engineering - University of S\u00e3o Paulo (EESC-USP).",
-      "language": "Fortran",
-      "topics": [
-        "cfd",
-        "flow",
-        "global-stability",
-        "linear-stability-analysis",
-        "simulation"
-      ],
-      "stars": 41,
-      "url": "https://github.com/marlonsmathias/GATT_DNS",
       "archived": false,
       "fork": false
     }
