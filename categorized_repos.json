@@ -1,4 +1,1851 @@
 {
+  "Uncategorized": [
+    {
+      "name": "xai-org/x-algorithm",
+      "description": "Algorithm powering the For You feed on X",
+      "language": "Rust",
+      "topics": [],
+      "stars": 29303,
+      "url": "https://github.com/xai-org/x-algorithm",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "language": "HTML",
+      "topics": [],
+      "stars": 17247,
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ossu/computer-science",
+      "description": "\ud83c\udf93 Path to a free self-taught education in Computer Science!",
+      "language": "HTML",
+      "topics": [
+        "awesome-list",
+        "computer-science",
+        "courses",
+        "curriculum"
+      ],
+      "stars": 207999,
+      "url": "https://github.com/ossu/computer-science",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "herdrdev/herdr",
+      "description": "the runtime your coding agents live on",
+      "language": "Rust",
+      "topics": [
+        "agent",
+        "agent-orchestration",
+        "ai",
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "coding-agents",
+        "developer-tools",
+        "devtools",
+        "multiplexer",
+        "rust",
+        "terminal",
+        "terminal-multiplexer",
+        "terminal-ui",
+        "tmux",
+        "tui",
+        "workspace-manager"
+      ],
+      "stars": 29135,
+      "url": "https://github.com/herdrdev/herdr",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "language": "CSS",
+      "topics": [],
+      "stars": 24917,
+      "url": "https://github.com/Nutlope/hallmark",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "gbaydin/oxford-poster",
+      "description": "LaTeX beamer poster template themed for the University of Oxford",
+      "language": "TeX",
+      "topics": [],
+      "stars": 76,
+      "url": "https://github.com/gbaydin/oxford-poster",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "mattpocock/skills",
+      "description": "Skills for Real Engineers. Straight from my .agents directory.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 217581,
+      "url": "https://github.com/mattpocock/skills",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works.",
+      "language": "Shell",
+      "topics": [
+        "ai",
+        "brainstorming",
+        "coding",
+        "obra",
+        "sdlc",
+        "skills",
+        "subagent-driven-development",
+        "superpowers"
+      ],
+      "stars": 272184,
+      "url": "https://github.com/obra/superpowers",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "memmett/PyWENO",
+      "description": "PyWENO is a Python implementation of one-dimensional Weighted Essentially Non-oscillatory (WENO) reconstructions.",
+      "language": "C",
+      "topics": [],
+      "stars": 41,
+      "url": "https://github.com/memmett/PyWENO",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "matsuikentaro1/humanizer_academic",
+      "description": "A Claude Code skill that removes signs of AI-generated writing from academic medical papers, making them sound more natural and professionally written.",
+      "language": null,
+      "topics": [],
+      "stars": 163,
+      "url": "https://github.com/matsuikentaro1/humanizer_academic",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "HDFGroup/hdf5",
+      "description": "Official HDF5\u00ae Library Repository",
+      "language": "C",
+      "topics": [
+        "c",
+        "cpp",
+        "database",
+        "fortran",
+        "hdf",
+        "hdf5",
+        "java",
+        "library",
+        "nosql"
+      ],
+      "stars": 971,
+      "url": "https://github.com/HDFGroup/hdf5",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "LazyVim/LazyVim",
+      "description": "Neovim config for the lazy",
+      "language": "Lua",
+      "topics": [
+        "neovim",
+        "neovim-conf",
+        "neovim-config",
+        "neovim-configuration",
+        "neovim-plugin",
+        "nvim"
+      ],
+      "stars": 27155,
+      "url": "https://github.com/LazyVim/LazyVim",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "basecamp/omarchy",
+      "description": "Beautiful, Modern & Opinionated Linux",
+      "language": "Shell",
+      "topics": [],
+      "stars": 24748,
+      "url": "https://github.com/basecamp/omarchy",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "chrisryugj/Docufinder",
+      "description": "Anything \u2014 \ud30c\uc77c \uc774\ub984\uc774 \uc544\ub2c8\ub77c \ubcf8\ubb38\uc73c\ub85c \ucc3e\ub294 \ubb38\uc11c \uac80\uc0c9\uae30. HWP\u00b7PDF\u00b7Office \uc804\ubb38 \uac80\uc0c9\uc744 \uc624\ud504\ub77c\uc778\uc73c\ub85c. Windows\u00b7macOS | Offline content search across Korean documents (HWP, PDF, Office). Windows and macOS",
+      "language": "Rust",
+      "topics": [
+        "desktop-app",
+        "document-search",
+        "fts5",
+        "hwpx",
+        "korean",
+        "korean-nlp",
+        "macos",
+        "offline-first",
+        "onnx",
+        "rag",
+        "react",
+        "rust",
+        "tauri"
+      ],
+      "stars": 612,
+      "url": "https://github.com/chrisryugj/Docufinder",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "legalize-kr/legalize-kr",
+      "description": "\ub300\ud55c\ubbfc\uad6d \ubc95\ub839\uc744 Git \uc800\uc7a5\uc18c\ub85c \uad00\ub9ac\ud569\ub2c8\ub2e4. \uac01 \ubc95\ub839\uc740 Markdown \ud30c\uc77c\uc774\uace0, \uac01 \uac1c\uc815\uc740 \uc2e4\uc81c \uacf5\ud3ec\uc77c\uc790\ub97c \uac00\uc9c4 Git commit\uc785\ub2c8\ub2e4.",
+      "language": null,
+      "topics": [
+        "git-history",
+        "korean-law",
+        "korean-statutes",
+        "legal-documents",
+        "legalize-dev",
+        "legalize-kr",
+        "markdown",
+        "public-data"
+      ],
+      "stars": 1502,
+      "url": "https://github.com/legalize-kr/legalize-kr",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "kaisugi/marp-theme-academic",
+      "description": "Academic Presentation Slides with Marp",
+      "language": "CSS",
+      "topics": [
+        "marp",
+        "marp-themes"
+      ],
+      "stars": 278,
+      "url": "https://github.com/kaisugi/marp-theme-academic",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "obsidianmd/obsidian-releases",
+      "description": "Community plugins list, theme list, and releases of Obsidian.",
+      "language": null,
+      "topics": [
+        "bases",
+        "jsoncanvas",
+        "markdown",
+        "md",
+        "obsidian",
+        "obsidian-md"
+      ],
+      "stars": 20820,
+      "url": "https://github.com/obsidianmd/obsidian-releases",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "tmux/tmux",
+      "description": "tmux source code",
+      "language": "C",
+      "topics": [],
+      "stars": 48620,
+      "url": "https://github.com/tmux/tmux",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "direnv/direnv",
+      "description": "unclutter your .profile",
+      "language": "Go",
+      "topics": [
+        "bash",
+        "buildbot-numtide",
+        "direnv",
+        "environment",
+        "fish",
+        "shell",
+        "shell-extension",
+        "tcsh",
+        "zsh"
+      ],
+      "stars": 15359,
+      "url": "https://github.com/direnv/direnv",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "gylien/scale-letkf",
+      "description": "The Local Ensemble Transform Kalman Filter (LETKF) data assimilation package for the SCALE-RM weather model",
+      "language": "Shell",
+      "topics": [],
+      "stars": 11,
+      "url": "https://github.com/gylien/scale-letkf",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "SWx-TREC/GONG-Calibration",
+      "description": "Data and software used in the GONG magnetogram calibration effort described in Plowman & Berger (2020 a,b,c)",
+      "language": "IDL",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/SWx-TREC/GONG-Calibration",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": null,
+      "topics": [],
+      "stars": 202530,
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "bpbrown/fully_compressible",
+      "description": null,
+      "language": "TeX",
+      "topics": [],
+      "stars": 4,
+      "url": "https://github.com/bpbrown/fully_compressible",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "sddyates/PlutoProblems",
+      "description": "Problem generators for the PLUTO code",
+      "language": "C",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/sddyates/PlutoProblems",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Entroforce/pluto-solarwind",
+      "description": "Solar wind MHD simulator",
+      "language": "C",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/Entroforce/pluto-solarwind",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "lkampoli/RadiativeTransportPinns",
+      "description": null,
+      "language": null,
+      "topics": [],
+      "stars": 17,
+      "url": "https://github.com/lkampoli/RadiativeTransportPinns",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "NCAR/GPU_workshop",
+      "description": null,
+      "language": "HTML",
+      "topics": [],
+      "stars": 84,
+      "url": "https://github.com/NCAR/GPU_workshop",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "SWMFsoftware/SWMF_data",
+      "description": null,
+      "language": "C",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/SWMFsoftware/SWMF_data",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "LeNPaul/portfolio-jekyll-theme",
+      "description": "A minimalist Jekyll theme for building a personal portfolio site powered by Jekyll and GitHub Pages",
+      "language": "SCSS",
+      "topics": [
+        "blog",
+        "github-pages",
+        "jekyll",
+        "jekyll-blog",
+        "jekyll-site",
+        "jekyll-template",
+        "jekyll-theme",
+        "minimalist",
+        "portfolio",
+        "theme"
+      ],
+      "stars": 251,
+      "url": "https://github.com/LeNPaul/portfolio-jekyll-theme",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ChrisTitusTech/mybash",
+      "description": "My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.",
+      "language": "Shell",
+      "topics": [],
+      "stars": 670,
+      "url": "https://github.com/ChrisTitusTech/mybash",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "antyeates1983/sft_data",
+      "description": "SFT_DATA: 2d data-driven flux transport code in MATLAB.",
+      "language": "Matlab",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/antyeates1983/sft_data",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "VincentVanlaer/mesa-school-labs",
+      "description": null,
+      "language": "AMPL",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/VincentVanlaer/mesa-school-labs",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "alshedivat/al-folio",
+      "description": "A beautiful, simple, clean, and responsive Jekyll theme for academics",
+      "language": "HTML",
+      "topics": [
+        "academic",
+        "academic-website",
+        "github-pages",
+        "hacktoberfest",
+        "jekyll",
+        "jekyll-blog",
+        "jekyll-theme",
+        "personal-website",
+        "portfolio-website",
+        "theme"
+      ],
+      "stars": 16009,
+      "url": "https://github.com/alshedivat/al-folio",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "solarmonitor/solarmonitorphp",
+      "description": null,
+      "language": "PHP",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/solarmonitor/solarmonitorphp",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "hpgmg/hpgmg",
+      "description": "High-performance Geometric Multigrid",
+      "language": "C",
+      "topics": [],
+      "stars": 40,
+      "url": "https://github.com/hpgmg/hpgmg",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "andyto1234/demcmc",
+      "description": "Differential Emission Measure estimation using MCMC methods",
+      "language": null,
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/andyto1234/demcmc",
+      "archived": false,
+      "fork": true
+    },
+    {
+      "name": "andyto1234/pydrad_wrapper",
+      "description": null,
+      "language": "EmberScript",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/andyto1234/pydrad_wrapper",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "sulli72/CHAR_BCS",
+      "description": "Introduction to the concepts of characteristic based boundary conditions, as applied to the second order wave equation./=",
+      "language": "MATLAB",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/sulli72/CHAR_BCS",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "iijimahr/skeletons",
+      "description": "Skeletons for new project",
+      "language": "Makefile",
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/iijimahr/skeletons",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cheshirepezz/scientificcomputing_bicocca_2023",
+      "description": "Scientific Computing with Python - PhD class at the University of Milan-Bicocca (Italy)",
+      "language": null,
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/cheshirepezz/scientificcomputing_bicocca_2023",
+      "archived": false,
+      "fork": true
+    },
+    {
+      "name": "JingWei-William/radiative-cooling-solar-heating-power",
+      "description": "PLEASE CITE: https://doi.org/10.1016/j.csite.2024.105232",
+      "language": "MATLAB",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/JingWei-William/radiative-cooling-solar-heating-power",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "keita-akutagawa/KAMMUY",
+      "description": null,
+      "language": "Cuda",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/keita-akutagawa/KAMMUY",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pmichaillat/latex-presentation",
+      "description": "Minimalist LaTeX template for academic presentations",
+      "language": "TeX",
+      "topics": [
+        "academic",
+        "beamer",
+        "latex-template",
+        "minimalist",
+        "presentation",
+        "seminar",
+        "slides",
+        "talk"
+      ],
+      "stars": 288,
+      "url": "https://github.com/pmichaillat/latex-presentation",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "atchekho/harmpi",
+      "description": "3D massively parallel general relativictic MHD code HARMPI",
+      "language": "C",
+      "topics": [],
+      "stars": 69,
+      "url": "https://github.com/atchekho/harmpi",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "chili-epfl/paper-poster-presentation-template",
+      "description": "A LaTeX template pack for ieeetran, sigchi, acm-sig-alternate, llncs2e, baposter, nccr-poster and beamer",
+      "language": "TeX",
+      "topics": [
+        "acm-sig-alternate",
+        "beamer",
+        "ieeetran",
+        "llncs2e",
+        "lualatex",
+        "pdflatex",
+        "poster",
+        "sigchi"
+      ],
+      "stars": 19,
+      "url": "https://github.com/chili-epfl/paper-poster-presentation-template",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "github-nakasho/3dhlld",
+      "description": null,
+      "language": null,
+      "topics": [],
+      "stars": 1,
+      "url": "https://github.com/github-nakasho/3dhlld",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "nushio3/learn-haskell",
+      "description": null,
+      "language": "Haskell",
+      "topics": [],
+      "stars": 167,
+      "url": "https://github.com/nushio3/learn-haskell",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "epochpic/SDF_IDL",
+      "description": "IDL routines for accessing files in the SDF format",
+      "language": "Prolog",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/epochpic/SDF_IDL",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "getpetit/petit-youtube-music-release",
+      "description": null,
+      "language": null,
+      "topics": [],
+      "stars": 18,
+      "url": "https://github.com/getpetit/petit-youtube-music-release",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "michael-nix/MATLAB-Perfectly-Matched-Layer",
+      "description": "Absorbing boundary conditions, not for solving Maxwell's Equations, but for a standard wave equation, e.g. for use with potentials.",
+      "language": "MATLAB",
+      "topics": [],
+      "stars": 14,
+      "url": "https://github.com/michael-nix/MATLAB-Perfectly-Matched-Layer",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "R07941023/1D-FDTD",
+      "description": "Study of the reflection and transmission between the three material by 1D-FDTD PML Final Report",
+      "language": "MATLAB",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/R07941023/1D-FDTD",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "juliakorea/talks",
+      "description": "\uac8c\uc2dc\ud310",
+      "language": null,
+      "topics": [],
+      "stars": 15,
+      "url": "https://github.com/juliakorea/talks",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "edheltzel/flightdeck-for-jekyll",
+      "description": "\ud83d\ude80 An opinionated starter project for Eleventy using Gulp as an asset pipeline",
+      "language": "HTML",
+      "topics": [
+        "autoprefixer",
+        "flightdeck",
+        "gulp",
+        "gulp-starter",
+        "gulp4",
+        "gulpfile",
+        "imagemin",
+        "jamstack",
+        "jamstack-site",
+        "jamstack-theme",
+        "jekyll",
+        "jekyll-ecosystem",
+        "jekyll-site",
+        "jekyll-template",
+        "jekyll-theme",
+        "jekyll-themes",
+        "sass",
+        "static-site-generator"
+      ],
+      "stars": 9,
+      "url": "https://github.com/edheltzel/flightdeck-for-jekyll",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cotes2020/jekyll-theme-chirpy",
+      "description": "A minimal, responsive, and feature-rich Jekyll theme for technical writing.",
+      "language": "HTML",
+      "topics": [
+        "bootstrap",
+        "devcontainer",
+        "html5",
+        "jamstack",
+        "jekyll",
+        "jekyll-theme",
+        "pwa",
+        "responsive-web-design",
+        "rubygems"
+      ],
+      "stars": 10220,
+      "url": "https://github.com/cotes2020/jekyll-theme-chirpy",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "wme7/WENO5-X",
+      "description": "A 1-d comparison of finite difference implementations of fifth-order WENO schemes, namely WENO-JS, WENO-M and WENO-Z.",
+      "language": "Matlab",
+      "topics": [],
+      "stars": 17,
+      "url": "https://github.com/wme7/WENO5-X",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "wme7/WENO7-Z",
+      "description": "A 1-d comparison between the finite difference implementations of seventh-order WENO-JS and the WENO-Z scheme.",
+      "language": "Matlab",
+      "topics": [],
+      "stars": 4,
+      "url": "https://github.com/wme7/WENO7-Z",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "jung-minki/WENO-idealMHD",
+      "description": null,
+      "language": "MATLAB",
+      "topics": [],
+      "stars": 2,
+      "url": "https://github.com/jung-minki/WENO-idealMHD",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "geodynamics/mag",
+      "description": "MAG is a serial version of a rotating spherical convection/magnetoconvection/dynamo code, developed by Gary Glatzmaier and modified by Uli Christensen and Peter Olson.",
+      "language": "IDL",
+      "topics": [],
+      "stars": 6,
+      "url": "https://github.com/geodynamics/mag",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "meithan/walicxe3d",
+      "description": "Walicxe3D parallel AMR Eulerian hydrodynamics code",
+      "language": "HTML",
+      "topics": [],
+      "stars": 5,
+      "url": "https://github.com/meithan/walicxe3d",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "esquivas/walicxe3d",
+      "description": "Walicxe3D parallel AMR grid hydrodynamics code",
+      "language": "HTML",
+      "topics": [],
+      "stars": 3,
+      "url": "https://github.com/esquivas/walicxe3d",
+      "archived": false,
+      "fork": true
+    }
+  ],
+  "JavaScript/TypeScript Projects": [
+    {
+      "name": "cursor/plugins",
+      "description": "Cursor plugin specification and official plugins",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 2810,
+      "url": "https://github.com/cursor/plugins",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "langchain-ai/openwiki",
+      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 15090,
+      "url": "https://github.com/langchain-ai/openwiki",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "petergyang/human-review",
+      "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agents",
+        "claude-code",
+        "cli",
+        "codex",
+        "feedback",
+        "html",
+        "human-in-the-loop",
+        "markdown",
+        "review"
+      ],
+      "stars": 974,
+      "url": "https://github.com/petergyang/human-review",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "codexu/note-gen",
+      "description": "Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.",
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "ai-notes",
+        "knowledge-base",
+        "knowledge-management",
+        "llm",
+        "local-first",
+        "markdown",
+        "markdown-editor",
+        "mcp",
+        "nextjs",
+        "note-taking",
+        "open-source",
+        "personal-knowledge-management",
+        "rag",
+        "tauri",
+        "webdav"
+      ],
+      "stars": 12624,
+      "url": "https://github.com/codexu/note-gen",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "webbrain-one/webbrain",
+      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) \ud83e\udde0 ",
+      "language": "JavaScript",
+      "topics": [
+        "ai-agent",
+        "ai-agents",
+        "ai-tools",
+        "browser-ai",
+        "browser-automation",
+        "browser-extension",
+        "chrome-ai",
+        "chrome-devtools",
+        "chrome-extension",
+        "chrome-extensions",
+        "firefox-addon",
+        "firefox-addons",
+        "firefox-extension",
+        "firefox-extensions",
+        "gemma",
+        "gemma4",
+        "minimax",
+        "offline-ai",
+        "offline-llm",
+        "qwen"
+      ],
+      "stars": 754,
+      "url": "https://github.com/webbrain-one/webbrain",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "description": null,
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 18750,
+      "url": "https://github.com/pingdotgg/t3code",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "earendil-works/pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 90441,
+      "url": "https://github.com/earendil-works/pi",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "diegosouzapw/OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 339 providers (90+ free), 1200+ models \u2014 Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
+      "language": "TypeScript",
+      "topics": [
+        "a2a",
+        "ai-agents",
+        "ai-gateway",
+        "anthropic",
+        "claude",
+        "claude-code",
+        "cline",
+        "codex",
+        "copilot",
+        "cursor",
+        "deepseek",
+        "free-ai",
+        "gemini",
+        "kimi",
+        "llm-gateway",
+        "mcp",
+        "openai",
+        "openai-proxy",
+        "qwen",
+        "token-saver"
+      ],
+      "stars": 48016,
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "April-Gras/obsidian-auto-timelines",
+      "description": "Simple timeline generator plugin for story tellers using obsidian",
+      "language": "TypeScript",
+      "topics": [
+        "obsidian-plugin",
+        "typescript",
+        "vuejs3"
+      ],
+      "stars": 210,
+      "url": "https://github.com/April-Gras/obsidian-auto-timelines",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Ancienttwo/repo-harness",
+      "description": "File-backed workflow harness for reliable Claude Code and Codex sessions.",
+      "language": "TypeScript",
+      "topics": [
+        "agentic-workflows",
+        "ai-agents",
+        "claude-code",
+        "codegraph",
+        "codex",
+        "developer-tools",
+        "typescript"
+      ],
+      "stars": 406,
+      "url": "https://github.com/Ancienttwo/repo-harness",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "zarazhangrui/reading-block",
+      "description": "Save articles with one click; every 5 saves books a reading block on your Google Calendar. A Chrome extension.",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 94,
+      "url": "https://github.com/zarazhangrui/reading-block",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ayv4zyan/codex-reset-dates",
+      "description": "Tiny Node.js CLI that prints banked Codex reset credit expiry dates from local Codex Desktop auth.",
+      "language": "JavaScript",
+      "topics": [
+        "chatgpt",
+        "codex",
+        "codex-cli",
+        "codex-desktop",
+        "codex-reset",
+        "openai",
+        "rate-limit",
+        "reset-date"
+      ],
+      "stars": 24,
+      "url": "https://github.com/ayv4zyan/codex-reset-dates",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "cobusgreyling/loop-engineering",
+      "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
+      "language": "JavaScript",
+      "topics": [
+        "agentic-ai",
+        "ai-agents",
+        "ai-coding",
+        "anthropic",
+        "automation",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding-agents",
+        "devops-automation",
+        "devtools",
+        "github-actions",
+        "grok",
+        "llm",
+        "loop-engineering",
+        "mcp",
+        "prompt-engineering"
+      ],
+      "stars": 10377,
+      "url": "https://github.com/cobusgreyling/loop-engineering",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "steipete/oracle",
+      "description": "Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.",
+      "language": "TypeScript",
+      "topics": [
+        "agents",
+        "ai",
+        "anthropic",
+        "gemini-pro",
+        "gpt-5-pro",
+        "openai",
+        "opus",
+        "sonnet"
+      ],
+      "stars": 3561,
+      "url": "https://github.com/steipete/oracle",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "amruthpillai/reactive-resume",
+      "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
+      "language": "TypeScript",
+      "topics": [
+        "better-auth",
+        "hacktoberfest",
+        "react",
+        "resume",
+        "resume-builder",
+        "self-hosted",
+        "tailwindcss",
+        "tanstack-start"
+      ],
+      "stars": 40354,
+      "url": "https://github.com/amruthpillai/reactive-resume",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "brandonwise/humanizer",
+      "description": "OpenClaw skill that detects and removes signs of AI-generated writing, making text sound natural and human. Based on Wikipedia's Signs of AI Writing.",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 112,
+      "url": "https://github.com/brandonwise/humanizer",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "DietrichGebert/ponytail",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "claude-code-plugin",
+        "cursor-rules",
+        "developer-tools",
+        "llm",
+        "prompt-engineering",
+        "yagni"
+      ],
+      "stars": 102744,
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "OpenHands/OpenHands",
+      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
+      "language": "TypeScript",
+      "topics": [
+        "agent",
+        "artificial-intelligence",
+        "chatgpt",
+        "claude-ai",
+        "cli",
+        "developer-tools",
+        "gpt",
+        "llm",
+        "openai"
+      ],
+      "stars": 84061,
+      "url": "https://github.com/OpenHands/OpenHands",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "devswha/patina",
+      "description": "AI-writing humanizer for KO/EN/ZH/JA",
+      "language": "JavaScript",
+      "topics": [
+        "ai-detection",
+        "ai-humanizer",
+        "ai-writing",
+        "claude",
+        "claude-code",
+        "codex",
+        "cursor",
+        "humanizer",
+        "korean",
+        "korean-nlp",
+        "llm",
+        "llm-humanizer",
+        "multi-agent",
+        "nlp",
+        "nodejs-cli",
+        "prompt-engineering",
+        "stylometry",
+        "text-humanizer",
+        "text-processing",
+        "writing-tools"
+      ],
+      "stars": 316,
+      "url": "https://github.com/devswha/patina",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "NomaDamas/k-skill",
+      "description": "\ud55c\uad6d\uc778\uc744 \uc704\ud55c \uc2a4\ud0ac \ubaa8\uc74c\uc9d1 - \uc5d0\uc774\uc804\ud2b8\ub97c \ud55c\uad6d\uc778\uc73c\ub85c",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 7182,
+      "url": "https://github.com/NomaDamas/k-skill",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Leonxlnx/taste-skill",
+      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
+      "language": "JavaScript",
+      "topics": [
+        "agent",
+        "ai",
+        "claude",
+        "claude-code",
+        "codex",
+        "coding",
+        "design",
+        "frontend",
+        "lowcode",
+        "nocode",
+        "skill",
+        "skills",
+        "vibecoding"
+      ],
+      "stars": 76588,
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "code-yeongyu/lazycodex",
+      "description": "The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "claude",
+        "claude-code",
+        "cli",
+        "codex",
+        "developer-tools",
+        "lazy",
+        "lazycodex",
+        "oh-my-openagent",
+        "omo",
+        "openai",
+        "orchestration",
+        "typescript"
+      ],
+      "stars": 3226,
+      "url": "https://github.com/code-yeongyu/lazycodex",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Ashutosh00710/github-readme-activity-graph",
+      "description": "A dynamically generated activity graph to show your GitHub activities of last 31 days.",
+      "language": "TypeScript",
+      "topics": [
+        "contribution",
+        "dynamic",
+        "github-activity",
+        "graph",
+        "hacktoberfest",
+        "hacktoberfest2021",
+        "readme",
+        "statistics"
+      ],
+      "stars": 2300,
+      "url": "https://github.com/Ashutosh00710/github-readme-activity-graph",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "PiyushSuthar/github-readme-quotes",
+      "description": "\ud83d\udd25 Add Programming Quotes To Your GitHub Readme",
+      "language": "TypeScript",
+      "topics": [
+        "github",
+        "github-readme",
+        "hacktoberfest",
+        "profile-readme",
+        "profile-readme-generator",
+        "readme",
+        "serverless"
+      ],
+      "stars": 622,
+      "url": "https://github.com/PiyushSuthar/github-readme-quotes",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "svonjoi/obsidian-heading-level-indent",
+      "description": "obsidian plugin for hierarchical structuration of document content based on heading levels",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 95,
+      "url": "https://github.com/svonjoi/obsidian-heading-level-indent",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "joonan30/annPlan",
+      "description": "\uc5f0\uad6c\uacfc\uc81c \ud1b5\ud569 \uad00\ub9ac \ub300\uc2dc\ubcf4\ub4dc - Research Project Management Dashboard for Korean Professors",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 7,
+      "url": "https://github.com/joonan30/annPlan",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "anomalyco/opencode",
+      "description": "The open source coding agent.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 197513,
+      "url": "https://github.com/anomalyco/opencode",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "description": "Production-grade engineering skills for AI coding agents.",
+      "language": "JavaScript",
+      "topics": [
+        "agent-skills",
+        "antigravity",
+        "claude-code",
+        "codex",
+        "cursor",
+        "skills"
+      ],
+      "stars": 87286,
+      "url": "https://github.com/addyosmani/agent-skills",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "brianpetro/obsidian-smart-connections",
+      "description": "Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.",
+      "language": "JavaScript",
+      "topics": [
+        "chatgpt",
+        "claude",
+        "embeddings",
+        "gemini",
+        "obsidian",
+        "obsidian-md",
+        "obsidian-plugin",
+        "related-items",
+        "semantic-search",
+        "vectors"
+      ],
+      "stars": 5360,
+      "url": "https://github.com/brianpetro/obsidian-smart-connections",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "ozntel/file-tree-alternative",
+      "description": "This Obsidian Plugin allows users to have a different file explorer experience.",
+      "language": "TypeScript",
+      "topics": [
+        "file-explorer",
+        "file-tree-view",
+        "obsidian-md",
+        "obsidian-plugin",
+        "plugin"
+      ],
+      "stars": 600,
+      "url": "https://github.com/ozntel/file-tree-alternative",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "mdelobelle/obsidian_supercharged_links",
+      "description": "obsidian plugin to add attributes and context menu options to internal links",
+      "language": "TypeScript",
+      "topics": [
+        "obsidian-plugin"
+      ],
+      "stars": 690,
+      "url": "https://github.com/mdelobelle/obsidian_supercharged_links",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "TfTHacker/obsidian42-strange-new-worlds",
+      "description": "Revealing the strange new world of connected thoughts in your vault.",
+      "language": "TypeScript",
+      "topics": [
+        "obsidian-md",
+        "obsidian-plugin"
+      ],
+      "stars": 575,
+      "url": "https://github.com/TfTHacker/obsidian42-strange-new-worlds",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "SkepticMystic/graph-analysis",
+      "description": "Analyse the structure of your Obsidian graph using various analysis techniques",
+      "language": "TypeScript",
+      "topics": [
+        "graph-algorithms",
+        "obsidian-plugin"
+      ],
+      "stars": 528,
+      "url": "https://github.com/SkepticMystic/graph-analysis",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "scambier/obsidian-omnisearch",
+      "description": "A search engine that \"just works\" for Obsidian. Supports OCR and PDF indexing.",
+      "language": "TypeScript",
+      "topics": [
+        "minisearch",
+        "obsidian",
+        "obsidian-md",
+        "obsidian-plugin",
+        "ocr",
+        "pdf",
+        "search"
+      ],
+      "stars": 2117,
+      "url": "https://github.com/scambier/obsidian-omnisearch",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "alangrainger/share-note",
+      "description": "Instantly share an Obsidian note with the full theme exactly like you see in your vault. Data is shared encrypted by default, and only you and the person you send it to have the key.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 704,
+      "url": "https://github.com/alangrainger/share-note",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "kepano/obsidian-minimal-settings",
+      "description": "Settings plugin to control colors and fonts in Minimal Theme",
+      "language": "TypeScript",
+      "topics": [
+        "obsidian-md",
+        "obsidian-plugin",
+        "obsidian-theme"
+      ],
+      "stars": 787,
+      "url": "https://github.com/kepano/obsidian-minimal-settings",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "liamcain/obsidian-periodic-notes",
+      "description": "Create/manage your daily, weekly, and monthly notes in Obsidian",
+      "language": "TypeScript",
+      "topics": [
+        "obsidian-md",
+        "obsidian-plugin"
+      ],
+      "stars": 1353,
+      "url": "https://github.com/liamcain/obsidian-periodic-notes",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "SilentVoid13/Templater",
+      "description": "A template plugin for obsidian",
+      "language": "TypeScript",
+      "topics": [
+        "obsidian-md",
+        "obsidian-plugin"
+      ],
+      "stars": 5218,
+      "url": "https://github.com/SilentVoid13/Templater",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "lynchjames/note-refactor-obsidian",
+      "description": "Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.",
+      "language": "TypeScript",
+      "topics": [
+        "obsidian-md",
+        "obsidian-plugin"
+      ],
+      "stars": 640,
+      "url": "https://github.com/lynchjames/note-refactor-obsidian",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "pjeby/tag-wrangler",
+      "description": "Rename, merge, toggle, and search tags from the Obsidian tag pane",
+      "language": "JavaScript",
+      "topics": [
+        "obsidian-md",
+        "obsidian-plugin"
+      ],
+      "stars": 918,
+      "url": "https://github.com/pjeby/tag-wrangler",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "chetachiezikeuzor/Highlightr-Plugin",
+      "description": "A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier \ud83c\udfa8.",
+      "language": "TypeScript",
+      "topics": [
+        "highlight",
+        "highlighting",
+        "obsidian-md",
+        "obsidian-plugin",
+        "plugin"
+      ],
+      "stars": 809,
+      "url": "https://github.com/chetachiezikeuzor/Highlightr-Plugin",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "PKM-er/obsidian-editing-toolbar",
+      "description": "An obsidian toolbar plugin, modified from the Cmenu plugin",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 1495,
+      "url": "https://github.com/PKM-er/obsidian-editing-toolbar",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "tadashi-aikawa/obsidian-various-complements-plugin",
+      "description": "This plugin for Obsidian enables you complete words like the auto-completion of IDE.",
+      "language": "TypeScript",
+      "topics": [
+        "obsidian",
+        "plugin"
+      ],
+      "stars": 931,
+      "url": "https://github.com/tadashi-aikawa/obsidian-various-complements-plugin",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "vslinko/obsidian-outliner",
+      "description": "Work with your lists like in Workflowy or RoamResearch",
+      "language": "TypeScript",
+      "topics": [
+        "obsidian",
+        "obsidian-plugin",
+        "outliner"
+      ],
+      "stars": 1356,
+      "url": "https://github.com/vslinko/obsidian-outliner",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "obsidianmd/obsidian-clipper",
+      "description": "Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.",
+      "language": "TypeScript",
+      "topics": [
+        "brave",
+        "browser-extension",
+        "chrome",
+        "chrome-extension",
+        "chromium",
+        "edge",
+        "firefox",
+        "firefox-addon",
+        "obsidian",
+        "obsidianmd",
+        "safari",
+        "safari-extension"
+      ],
+      "stars": 5021,
+      "url": "https://github.com/obsidianmd/obsidian-clipper",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "xandemon/developer-icons",
+      "description": "A collection of well-optimized SVG tech logos for developers and designers\u2014customizable, scalable, and free.",
+      "language": "TypeScript",
+      "topics": [
+        "astro",
+        "github-action",
+        "icons",
+        "logos",
+        "npm",
+        "npm-packages",
+        "npmjs",
+        "open-source",
+        "optimized",
+        "react",
+        "react-libraries",
+        "svg",
+        "svg-icon",
+        "svg-images",
+        "tailwindcss",
+        "typescript",
+        "vector-icons",
+        "vite"
+      ],
+      "stars": 2604,
+      "url": "https://github.com/xandemon/developer-icons",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "jlegewie/beaver-zotero",
+      "description": "AI research assistant that lives in Zotero",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 231,
+      "url": "https://github.com/jlegewie/beaver-zotero",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Yeachan-Heo/oh-my-codex",
+      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 32665,
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "dralkh/seerai",
+      "description": "Zotero AI plugin Research assistant for Zotero 9. Chat with your library, run federated scholarly search, RAG, OCR, systematic reviews, and manage cloud storage. Includes standalone MCP, Agentic capabilities, and skills library.",
+      "language": "TypeScript",
+      "topics": [
+        "academic-research",
+        "agent",
+        "ai",
+        "ai-agent",
+        "bibliography",
+        "cloud-storage",
+        "knowledge-management",
+        "mcp",
+        "mcp-server",
+        "model-context-protocol",
+        "ocr",
+        "rag",
+        "research",
+        "research-assistant",
+        "scholarly-search",
+        "semantic-scholar",
+        "systematic-review",
+        "zotero",
+        "zotero-mcp",
+        "zotero-plugin"
+      ],
+      "stars": 76,
+      "url": "https://github.com/dralkh/seerai",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Egonex-AI/Understand-Anything",
+      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
+      "language": "TypeScript",
+      "topics": [
+        "antigravity-skills",
+        "business-knowledge",
+        "claude-code",
+        "claude-skills",
+        "codebase-analysis",
+        "codex",
+        "codex-skills",
+        "developer-tools-ai-agent",
+        "gemini-cli-skills",
+        "karpathy-llm-wiki",
+        "knowledge-base",
+        "knowledge-graph",
+        "memory",
+        "opencode-skills",
+        "pi-agent",
+        "understandcode",
+        "vibe-coding"
+      ],
+      "stars": 79344,
+      "url": "https://github.com/Egonex-AI/Understand-Anything",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "andrewyng/context-hub",
+      "description": null,
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 13913,
+      "url": "https://github.com/andrewyng/context-hub",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "code-yeongyu/oh-my-openagent",
+      "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "ai-agents",
+        "anthropic",
+        "chatgpt",
+        "claude",
+        "claude-skills",
+        "codex",
+        "cursor",
+        "gemini",
+        "ide",
+        "openai",
+        "opencode",
+        "orchestration",
+        "tui",
+        "typescript"
+      ],
+      "stars": 67868,
+      "url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "anxndsgn/academic-homepage-template",
+      "description": "Academic Homepage Template",
+      "language": "TypeScript",
+      "topics": [
+        "academic",
+        "academic-homepage",
+        "academic-website",
+        "homepage",
+        "website",
+        "website-template"
+      ],
+      "stars": 81,
+      "url": "https://github.com/anxndsgn/academic-homepage-template",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "winfunc/opcode",
+      "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
+      "language": "TypeScript",
+      "topics": [
+        "anthropic",
+        "anthropic-claude",
+        "claude",
+        "claude-4",
+        "claude-4-opus",
+        "claude-4-sonnet",
+        "claude-ai",
+        "claude-code",
+        "claude-code-sdk",
+        "cursor",
+        "ide",
+        "llm",
+        "llm-code",
+        "rust",
+        "tauri"
+      ],
+      "stars": 22363,
+      "url": "https://github.com/winfunc/opcode",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "regenrek/deepwiki-mcp",
+      "description": "\ud83d\udcd6 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 1383,
+      "url": "https://github.com/regenrek/deepwiki-mcp",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "regenrek/planwithgemini",
+      "description": "Plan with Gemini CLI and build with Claude Code or Cursor",
+      "language": "JavaScript",
+      "topics": [],
+      "stars": 48,
+      "url": "https://github.com/regenrek/planwithgemini",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "regenrek/codefetch",
+      "description": "Turn code into Markdown for LLMs with one simple terminal command",
+      "language": "TypeScript",
+      "topics": [
+        "cli",
+        "llm",
+        "markdown"
+      ],
+      "stars": 449,
+      "url": "https://github.com/regenrek/codefetch",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "supermemoryai/supermemory-mcp",
+      "description": "Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.",
+      "language": "TypeScript",
+      "topics": [
+        "cloudflare",
+        "mcp"
+      ],
+      "stars": 1711,
+      "url": "https://github.com/supermemoryai/supermemory-mcp",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "Iamshankhadeep/ccseva",
+      "description": "A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 800,
+      "url": "https://github.com/Iamshankhadeep/ccseva",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "upstash/context7",
+      "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
+      "language": "TypeScript",
+      "topics": [
+        "llm",
+        "mcp",
+        "mcp-server",
+        "vibe-coding"
+      ],
+      "stars": 60757,
+      "url": "https://github.com/upstash/context7",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "modelcontextprotocol/servers",
+      "description": "Model Context Protocol Servers",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 89563,
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "dracula/cursor",
+      "description": "\ud83e\udddb\ud83c\udffb\u200d\u2642\ufe0f Dark & Light theme for Cursor",
+      "language": "JavaScript",
+      "topics": [
+        "cursor",
+        "dark-theme",
+        "dracula",
+        "light-theme",
+        "theme"
+      ],
+      "stars": 22,
+      "url": "https://github.com/dracula/cursor",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "stackblitz-labs/bolt.diy",
+      "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
+      "language": "TypeScript",
+      "topics": [],
+      "stars": 19746,
+      "url": "https://github.com/stackblitz-labs/bolt.diy",
+      "archived": false,
+      "fork": true
+    },
+    {
+      "name": "upscayl/upscayl",
+      "description": "\ud83c\udd99 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
+      "language": "TypeScript",
+      "topics": [
+        "ai",
+        "electron",
+        "esrgan",
+        "gigapixel",
+        "gigapixel-images",
+        "image",
+        "image-upscaling",
+        "topaz",
+        "upscale",
+        "upscalerimage",
+        "upscayl"
+      ],
+      "stars": 48263,
+      "url": "https://github.com/upscayl/upscayl",
+      "archived": false,
+      "fork": false
+    },
+    {
+      "name": "matsuoka-601/WebGPU-Ocean",
+      "description": "A real-time 3D fluid simulation implemented in WebGPU",
+      "language": "TypeScript",
+      "topics": [
+        "fluid-simulation",
+        "gpu",
+        "mls-mpm",
+        "mpm",
+        "parallel",
+        "sph",
+        "webgpu"
+      ],
+      "stars": 542,
+      "url": "https://github.com/matsuoka-601/WebGPU-Ocean",
+      "archived": false,
+      "fork": false
+    }
+  ],
   "Machine Learning & AI": [
     {
       "name": "guillaumemeyer/watermarks-remover",
@@ -13,7 +1860,7 @@
         "synthid",
         "watermark"
       ],
-      "stars": 5444,
+      "stars": 8182,
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "archived": false,
       "fork": false
@@ -23,7 +1870,7 @@
       "description": "A skill file for removing AI tells from prose",
       "language": null,
       "topics": [],
-      "stars": 15595,
+      "stars": 15659,
       "url": "https://github.com/hardikpandya/stop-slop",
       "archived": false,
       "fork": false
@@ -43,7 +1890,7 @@
         "markdown",
         "review"
       ],
-      "stars": 956,
+      "stars": 974,
       "url": "https://github.com/petergyang/human-review",
       "archived": false,
       "fork": false
@@ -74,7 +1921,7 @@
         "offline-llm",
         "qwen"
       ],
-      "stars": 748,
+      "stars": 754,
       "url": "https://github.com/webbrain-one/webbrain",
       "archived": false,
       "fork": false
@@ -92,7 +1939,7 @@
         "humanizer",
         "writing-tools"
       ],
-      "stars": 212,
+      "stars": 215,
       "url": "https://github.com/NulightJens/humanizer-stack",
       "archived": false,
       "fork": false
@@ -102,7 +1949,7 @@
       "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "language": "Python",
       "topics": [],
-      "stars": 4992,
+      "stars": 5044,
       "url": "https://github.com/petergyang/no-ai-slop",
       "archived": false,
       "fork": false
@@ -143,7 +1990,7 @@
         "static-analysis",
         "tree-sitter"
       ],
-      "stars": 30030,
+      "stars": 30146,
       "url": "https://github.com/tirth8205/code-review-graph",
       "archived": false,
       "fork": false
@@ -153,14 +2000,14 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
       "topics": [],
-      "stars": 89627,
+      "stars": 90441,
       "url": "https://github.com/earendil-works/pi",
       "archived": false,
       "fork": false
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 330+ providers (90+ free), 1200+ models \u2014 Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 320+ contributors",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 339 providers (90+ free), 1200+ models \u2014 Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
       "language": "TypeScript",
       "topics": [
         "a2a",
@@ -184,7 +2031,7 @@
         "qwen",
         "token-saver"
       ],
-      "stars": 47313,
+      "stars": 48016,
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "archived": false,
       "fork": false
@@ -198,7 +2045,7 @@
         "latex",
         "typst"
       ],
-      "stars": 413,
+      "stars": 416,
       "url": "https://github.com/bahayonghang/academic-writing-skills",
       "archived": false,
       "fork": false
@@ -223,7 +2070,7 @@
         "word",
         "xlsx"
       ],
-      "stars": 28167,
+      "stars": 28326,
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "archived": false,
       "fork": false
@@ -233,7 +2080,7 @@
       "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "language": null,
       "topics": [],
-      "stars": 931,
+      "stars": 932,
       "url": "https://github.com/Kulaxyz/self-learning-skills",
       "archived": false,
       "fork": false
@@ -264,7 +2111,7 @@
         "windsurf",
         "windsurf-ai"
       ],
-      "stars": 142809,
+      "stars": 142827,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "archived": false,
       "fork": false
@@ -283,7 +2130,7 @@
         "generative-ai",
         "google-cloud"
       ],
-      "stars": 5614,
+      "stars": 5633,
       "url": "https://github.com/google/agents-cli",
       "archived": false,
       "fork": false
@@ -304,7 +2151,7 @@
         "slide",
         "slides"
       ],
-      "stars": 46522,
+      "stars": 46844,
       "url": "https://github.com/hugohe3/ppt-master",
       "archived": false,
       "fork": false
@@ -335,7 +2182,7 @@
         "thesis",
         "thesis-generator"
       ],
-      "stars": 380,
+      "stars": 381,
       "url": "https://github.com/federicodeponte/opendraft",
       "archived": false,
       "fork": false
@@ -350,7 +2197,7 @@
         "codex",
         "swift"
       ],
-      "stars": 20061,
+      "stars": 20107,
       "url": "https://github.com/steipete/CodexBar",
       "archived": false,
       "fork": false
@@ -400,7 +2247,7 @@
         "mcp",
         "prompt-engineering"
       ],
-      "stars": 10331,
+      "stars": 10377,
       "url": "https://github.com/cobusgreyling/loop-engineering",
       "archived": false,
       "fork": false
@@ -428,7 +2275,7 @@
         "social-science",
         "sociology"
       ],
-      "stars": 3401,
+      "stars": 3412,
       "url": "https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills",
       "archived": false,
       "fork": false
@@ -459,7 +2306,7 @@
         "prompt-engineering",
         "yagni"
       ],
-      "stars": 102180,
+      "stars": 102744,
       "url": "https://github.com/DietrichGebert/ponytail",
       "archived": false,
       "fork": false
@@ -516,7 +2363,7 @@
         "tools",
         "transparency"
       ],
-      "stars": 46880,
+      "stars": 46892,
       "url": "https://github.com/elder-plinius/CL4R1T4S",
       "archived": false,
       "fork": false
@@ -547,7 +2394,7 @@
         "web-search",
         "youtube"
       ],
-      "stars": 58124,
+      "stars": 58207,
       "url": "https://github.com/mvanhorn/last30days-skill",
       "archived": false,
       "fork": false
@@ -571,7 +2418,7 @@
         "skills",
         "vibecoding"
       ],
-      "stars": 76269,
+      "stars": 76588,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "archived": false,
       "fork": false
@@ -602,7 +2449,7 @@
         "opentui",
         "token-usage"
       ],
-      "stars": 4941,
+      "stars": 4957,
       "url": "https://github.com/junhoyeo/tokscale",
       "archived": false,
       "fork": false
@@ -628,7 +2475,7 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "topics": [],
-      "stars": 36273,
+      "stars": 36284,
       "url": "https://github.com/tinyhumansai/openhuman",
       "archived": false,
       "fork": false
@@ -675,7 +2522,7 @@
         "cursor",
         "skills"
       ],
-      "stars": 86978,
+      "stars": 87286,
       "url": "https://github.com/addyosmani/agent-skills",
       "archived": false,
       "fork": false
@@ -700,7 +2547,7 @@
         "python",
         "rag"
       ],
-      "stars": 132510,
+      "stars": 132651,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "archived": false,
       "fork": false
@@ -729,7 +2576,7 @@
         "tmux",
         "workspace-manager"
       ],
-      "stars": 26025,
+      "stars": 26069,
       "url": "https://github.com/manaflow-ai/cmux",
       "archived": false,
       "fork": false
@@ -739,7 +2586,7 @@
       "description": "AI research assistant that lives in Zotero",
       "language": "TypeScript",
       "topics": [],
-      "stars": 229,
+      "stars": 231,
       "url": "https://github.com/jlegewie/beaver-zotero",
       "archived": false,
       "fork": false
@@ -754,7 +2601,7 @@
         "semantic-search",
         "zotero"
       ],
-      "stars": 4646,
+      "stars": 4658,
       "url": "https://github.com/54yyyu/zotero-mcp",
       "archived": false,
       "fork": false
@@ -792,7 +2639,7 @@
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 161 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -813,7 +2660,7 @@
         "scientific-computing",
         "scientific-visualization"
       ],
-      "stars": 33433,
+      "stars": 33518,
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "archived": false,
       "fork": false
@@ -823,7 +2670,7 @@
       "description": "Neural Networks: Zero to Hero",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 23968,
+      "stars": 23975,
       "url": "https://github.com/karpathy/nn-zero-to-hero",
       "archived": false,
       "fork": false
@@ -867,7 +2714,7 @@
         "tensor-methods",
         "tensorly"
       ],
-      "stars": 3808,
+      "stars": 3810,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -897,7 +2744,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 60698,
+      "stars": 60757,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -922,7 +2769,7 @@
         "rag",
         "state-management"
       ],
-      "stars": 63211,
+      "stars": 63275,
       "url": "https://github.com/mem0ai/mem0",
       "archived": false,
       "fork": false
@@ -964,7 +2811,7 @@
         "upscalerimage",
         "upscayl"
       ],
-      "stars": 48204,
+      "stars": 48263,
       "url": "https://github.com/upscayl/upscayl",
       "archived": false,
       "fork": false
@@ -1099,7 +2946,7 @@
         "synthid",
         "watermark"
       ],
-      "stars": 5444,
+      "stars": 8182,
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "archived": false,
       "fork": false
@@ -1187,7 +3034,7 @@
         "synthid",
         "watermark"
       ],
-      "stars": 5444,
+      "stars": 8182,
       "url": "https://github.com/guillaumemeyer/watermarks-remover",
       "archived": false,
       "fork": false
@@ -1204,7 +3051,7 @@
         "tree-rl",
         "workflow-automation"
       ],
-      "stars": 2294,
+      "stars": 2306,
       "url": "https://github.com/shepherd-agents/shepherd",
       "archived": false,
       "fork": false
@@ -1214,7 +3061,7 @@
       "description": null,
       "language": "Python",
       "topics": [],
-      "stars": 14415,
+      "stars": 14512,
       "url": "https://github.com/andrewyng/openworker",
       "archived": false,
       "fork": false
@@ -1232,7 +3079,7 @@
         "humanizer",
         "writing-tools"
       ],
-      "stars": 212,
+      "stars": 215,
       "url": "https://github.com/NulightJens/humanizer-stack",
       "archived": false,
       "fork": false
@@ -1242,7 +3089,7 @@
       "description": "Removes 20+ patterns of AI slop from any piece of writing.",
       "language": "Python",
       "topics": [],
-      "stars": 4992,
+      "stars": 5044,
       "url": "https://github.com/petergyang/no-ai-slop",
       "archived": false,
       "fork": false
@@ -1301,7 +3148,7 @@
         "static-analysis",
         "tree-sitter"
       ],
-      "stars": 30030,
+      "stars": 30146,
       "url": "https://github.com/tirth8205/code-review-graph",
       "archived": false,
       "fork": false
@@ -1315,7 +3162,7 @@
         "latex",
         "typst"
       ],
-      "stars": 413,
+      "stars": 416,
       "url": "https://github.com/bahayonghang/academic-writing-skills",
       "archived": false,
       "fork": false
@@ -1325,7 +3172,7 @@
       "description": null,
       "language": "Python",
       "topics": [],
-      "stars": 54,
+      "stars": 55,
       "url": "https://github.com/prime-radiant-inc/superpowers-autoresearch",
       "archived": false,
       "fork": false
@@ -1344,7 +3191,7 @@
         "generative-ai",
         "google-cloud"
       ],
-      "stars": 5614,
+      "stars": 5633,
       "url": "https://github.com/google/agents-cli",
       "archived": false,
       "fork": false
@@ -1365,7 +3212,7 @@
         "slide",
         "slides"
       ],
-      "stars": 46522,
+      "stars": 46844,
       "url": "https://github.com/hugohe3/ppt-master",
       "archived": false,
       "fork": false
@@ -1396,7 +3243,7 @@
         "thesis",
         "thesis-generator"
       ],
-      "stars": 380,
+      "stars": 381,
       "url": "https://github.com/federicodeponte/opendraft",
       "archived": false,
       "fork": false
@@ -1414,7 +3261,7 @@
         "spec",
         "spec-driven"
       ],
-      "stars": 127485,
+      "stars": 128517,
       "url": "https://github.com/github/spec-kit",
       "archived": false,
       "fork": false
@@ -1446,7 +3293,7 @@
       "description": "Darwin G\u00f6del Machine: Open-Ended Evolution of Self-Improving Agents",
       "language": "Python",
       "topics": [],
-      "stars": 2224,
+      "stars": 2226,
       "url": "https://github.com/jennyzzt/dgm",
       "archived": false,
       "fork": false
@@ -1474,7 +3321,7 @@
         "youtube-downloader",
         "yt-dlp"
       ],
-      "stars": 184313,
+      "stars": 184480,
       "url": "https://github.com/yt-dlp/yt-dlp",
       "archived": false,
       "fork": false
@@ -1484,7 +3331,7 @@
       "description": "Robust Speech Recognition via Large-Scale Weak Supervision",
       "language": "Python",
       "topics": [],
-      "stars": 107234,
+      "stars": 107275,
       "url": "https://github.com/openai/whisper",
       "archived": false,
       "fork": false
@@ -1598,7 +3445,7 @@
         "web-search",
         "youtube"
       ],
-      "stars": 58124,
+      "stars": 58207,
       "url": "https://github.com/mvanhorn/last30days-skill",
       "archived": false,
       "fork": false
@@ -1629,7 +3476,7 @@
         "tokens",
         "typescript"
       ],
-      "stars": 66234,
+      "stars": 66374,
       "url": "https://github.com/headroomlabs-ai/headroom",
       "archived": false,
       "fork": false
@@ -1647,7 +3494,7 @@
         "prompt-engineering",
         "writing-tools"
       ],
-      "stars": 35520,
+      "stars": 35709,
       "url": "https://github.com/blader/humanizer",
       "archived": false,
       "fork": false
@@ -1666,7 +3513,7 @@
         "peer-review",
         "prompt-engineering"
       ],
-      "stars": 42372,
+      "stars": 42494,
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "archived": false,
       "fork": false
@@ -1678,7 +3525,7 @@
       "topics": [
         "security"
       ],
-      "stars": 7040,
+      "stars": 7045,
       "url": "https://github.com/anthropics/defending-code-reference-harness",
       "archived": false,
       "fork": false
@@ -1688,7 +3535,7 @@
       "description": "GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome, AFDB, UniProt and 30+ other databases and tools.",
       "language": "Python",
       "topics": [],
-      "stars": 2697,
+      "stars": 2704,
       "url": "https://github.com/google-deepmind/science-skills",
       "archived": false,
       "fork": false
@@ -1702,7 +3549,7 @@
         "nature",
         "nature-skills"
       ],
-      "stars": 35047,
+      "stars": 35207,
       "url": "https://github.com/Yuan1z0825/nature-skills",
       "archived": false,
       "fork": false
@@ -1712,7 +3559,7 @@
       "description": "Skills Catalog for Codex",
       "language": "Python",
       "topics": [],
-      "stars": 24916,
+      "stars": 24940,
       "url": "https://github.com/openai/skills",
       "archived": false,
       "fork": false
@@ -1750,7 +3597,7 @@
         "prompt-engineering",
         "research-assistant"
       ],
-      "stars": 8495,
+      "stars": 8563,
       "url": "https://github.com/Imbad0202/academic-research-skills-codex",
       "archived": false,
       "fork": false
@@ -1801,7 +3648,7 @@
         "socmint",
         "username"
       ],
-      "stars": 36749,
+      "stars": 36764,
       "url": "https://github.com/soxoj/maigret",
       "archived": false,
       "fork": false
@@ -1840,7 +3687,7 @@
       "description": "AI\uac00 \uc4f4 \uae00\uc774 \uc544\ub2cc \uac83\ucc98\ub7fc \uc724\ubb38\ud574\uc8fc\ub294 \uc2a4\ud0ac",
       "language": "Python",
       "topics": [],
-      "stars": 4417,
+      "stars": 4432,
       "url": "https://github.com/epoko77-ai/im-not-ai",
       "archived": false,
       "fork": false
@@ -1850,7 +3697,7 @@
       "description": "Mimeograph an expert into a SKILL.md or AGENTS.md for your agent.",
       "language": "Python",
       "topics": [],
-      "stars": 245,
+      "stars": 246,
       "url": "https://github.com/K-Dense-AI/mimeo",
       "archived": false,
       "fork": false
@@ -1875,7 +3722,7 @@
         "python",
         "rag"
       ],
-      "stars": 132510,
+      "stars": 132651,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "archived": false,
       "fork": false
@@ -1919,7 +3766,7 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 106042,
+      "stars": 106381,
       "url": "https://github.com/Graphify-Labs/graphify",
       "archived": false,
       "fork": false
@@ -1959,7 +3806,7 @@
         "semantic-search",
         "zotero"
       ],
-      "stars": 4646,
+      "stars": 4658,
       "url": "https://github.com/54yyyu/zotero-mcp",
       "archived": false,
       "fork": false
@@ -1977,7 +3824,7 @@
         "openai",
         "pdf"
       ],
-      "stars": 173592,
+      "stars": 173780,
       "url": "https://github.com/microsoft/markitdown",
       "archived": false,
       "fork": false
@@ -2025,7 +3872,7 @@
         "social-prediction",
         "swarm-intelligence"
       ],
-      "stars": 70935,
+      "stars": 70958,
       "url": "https://github.com/666ghj/MiroFish",
       "archived": false,
       "fork": false
@@ -2042,14 +3889,14 @@
         "tools",
         "writer"
       ],
-      "stars": 2210,
+      "stars": 2213,
       "url": "https://github.com/K-Dense-AI/claude-scientific-writer",
       "archived": false,
       "fork": false
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
-      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 158 ready-to-use skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
+      "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 170,000+ scientists worldwide. 161 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "language": "Python",
       "topics": [
         "agent-skills",
@@ -2070,7 +3917,7 @@
         "scientific-computing",
         "scientific-visualization"
       ],
-      "stars": 33433,
+      "stars": 33518,
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "archived": false,
       "fork": false
@@ -2110,7 +3957,7 @@
       "description": "\ud83e\udd17 smolagents: a barebones library for agents that think in code.",
       "language": "Python",
       "topics": [],
-      "stars": 28795,
+      "stars": 28808,
       "url": "https://github.com/huggingface/smolagents",
       "archived": false,
       "fork": false
@@ -2145,7 +3992,7 @@
       "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
       "language": "Python",
       "topics": [],
-      "stars": 20306,
+      "stars": 20307,
       "url": "https://github.com/openai/gpt-oss",
       "archived": false,
       "fork": false
@@ -2164,7 +4011,7 @@
         "tensor-methods",
         "tensorly"
       ],
-      "stars": 3808,
+      "stars": 3810,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -2179,7 +4026,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 30235,
+      "stars": 30247,
       "url": "https://github.com/davila7/claude-code-templates",
       "archived": false,
       "fork": false
@@ -2189,7 +4036,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.",
       "language": "Python",
       "topics": [],
-      "stars": 16788,
+      "stars": 16789,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -2224,7 +4071,7 @@
         "rag",
         "state-management"
       ],
-      "stars": 63211,
+      "stars": 63275,
       "url": "https://github.com/mem0ai/mem0",
       "archived": false,
       "fork": false
@@ -2453,7 +4300,7 @@
         "pocket-flow",
         "pocketflow"
       ],
-      "stars": 12614,
+      "stars": 12615,
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "archived": false,
       "fork": false
@@ -2991,7 +4838,7 @@
         "tree-rl",
         "workflow-automation"
       ],
-      "stars": 2294,
+      "stars": 2306,
       "url": "https://github.com/shepherd-agents/shepherd",
       "archived": false,
       "fork": false
@@ -3054,7 +4901,7 @@
         "tree-rl",
         "workflow-automation"
       ],
-      "stars": 2294,
+      "stars": 2306,
       "url": "https://github.com/shepherd-agents/shepherd",
       "archived": false,
       "fork": false
@@ -3139,7 +4986,7 @@
         "tree-sitter",
         "windsurf"
       ],
-      "stars": 38843,
+      "stars": 38957,
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "archived": false,
       "fork": false
@@ -3160,7 +5007,7 @@
         "slide",
         "slides"
       ],
-      "stars": 46522,
+      "stars": 46844,
       "url": "https://github.com/hugohe3/ppt-master",
       "archived": false,
       "fork": false
@@ -3201,7 +5048,7 @@
         "web-search",
         "youtube"
       ],
-      "stars": 58124,
+      "stars": 58207,
       "url": "https://github.com/mvanhorn/last30days-skill",
       "archived": false,
       "fork": false
@@ -3225,7 +5072,7 @@
         "skills",
         "vibecoding"
       ],
-      "stars": 76269,
+      "stars": 76588,
       "url": "https://github.com/Leonxlnx/taste-skill",
       "archived": false,
       "fork": false
@@ -3263,7 +5110,7 @@
         "readme",
         "statistics"
       ],
-      "stars": 2299,
+      "stars": 2300,
       "url": "https://github.com/Ashutosh00710/github-readme-activity-graph",
       "archived": false,
       "fork": false
@@ -3291,7 +5138,7 @@
         "software-architecture",
         "text-to-diagram"
       ],
-      "stars": 24917,
+      "stars": 24929,
       "url": "https://github.com/d2lang/d2",
       "archived": false,
       "fork": false
@@ -3301,7 +5148,7 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "language": "Rust",
       "topics": [],
-      "stars": 36273,
+      "stars": 36284,
       "url": "https://github.com/tinyhumansai/openhuman",
       "archived": false,
       "fork": false
@@ -3357,7 +5204,7 @@
         "tables",
         "tagged-pdf"
       ],
-      "stars": 28379,
+      "stars": 28408,
       "url": "https://github.com/opendataloader-project/opendataloader-pdf",
       "archived": false,
       "fork": false
@@ -3378,7 +5225,7 @@
         "terminal",
         "winfetch"
       ],
-      "stars": 24193,
+      "stars": 24204,
       "url": "https://github.com/fastfetch-cli/fastfetch",
       "archived": false,
       "fork": false
@@ -3388,7 +5235,7 @@
       "description": "\ud83d\udc7b Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "topics": [],
-      "stars": 59609,
+      "stars": 59653,
       "url": "https://github.com/ghostty-org/ghostty",
       "archived": false,
       "fork": false
@@ -3418,7 +5265,7 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 106042,
+      "stars": 106381,
       "url": "https://github.com/Graphify-Labs/graphify",
       "archived": false,
       "fork": false
@@ -3491,7 +5338,7 @@
       "description": "gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI",
       "language": "Python",
       "topics": [],
-      "stars": 20306,
+      "stars": 20307,
       "url": "https://github.com/openai/gpt-oss",
       "archived": false,
       "fork": false
@@ -3501,7 +5348,7 @@
       "description": "Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.",
       "language": "Python",
       "topics": [],
-      "stars": 16788,
+      "stars": 16789,
       "url": "https://github.com/QwenLM/Qwen3-Coder",
       "archived": false,
       "fork": false
@@ -3896,7 +5743,7 @@
         "machine-learning",
         "ocean"
       ],
-      "stars": 1408,
+      "stars": 1410,
       "url": "https://github.com/CliMA/Oceananigans.jl",
       "archived": false,
       "fork": false
@@ -3981,7 +5828,7 @@
       "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 15018,
+      "stars": 15090,
       "url": "https://github.com/langchain-ai/openwiki",
       "archived": false,
       "fork": false
@@ -4001,7 +5848,7 @@
         "markdown",
         "review"
       ],
-      "stars": 956,
+      "stars": 974,
       "url": "https://github.com/petergyang/human-review",
       "archived": false,
       "fork": false
@@ -4023,7 +5870,7 @@
         "terminal-based",
         "tui"
       ],
-      "stars": 22496,
+      "stars": 22529,
       "url": "https://github.com/yorukot/superfile",
       "archived": false,
       "fork": false
@@ -4048,7 +5895,7 @@
         "opencode-skills",
         "skills"
       ],
-      "stars": 30222,
+      "stars": 30291,
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
       "archived": false,
       "fork": false
@@ -4081,7 +5928,7 @@
         "static-analysis",
         "tree-sitter"
       ],
-      "stars": 30030,
+      "stars": 30146,
       "url": "https://github.com/tirth8205/code-review-graph",
       "archived": false,
       "fork": false
@@ -4091,14 +5938,14 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
       "topics": [],
-      "stars": 89627,
+      "stars": 90441,
       "url": "https://github.com/earendil-works/pi",
       "archived": false,
       "fork": false
     },
     {
       "name": "diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 330+ providers (90+ free), 1200+ models \u2014 Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 320+ contributors",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 339 providers (90+ free), 1200+ models \u2014 Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 450+ contributors",
       "language": "TypeScript",
       "topics": [
         "a2a",
@@ -4122,7 +5969,7 @@
         "qwen",
         "token-saver"
       ],
-      "stars": 47313,
+      "stars": 48016,
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "archived": false,
       "fork": false
@@ -4136,7 +5983,7 @@
         "latex",
         "typst"
       ],
-      "stars": 413,
+      "stars": 416,
       "url": "https://github.com/bahayonghang/academic-writing-skills",
       "archived": false,
       "fork": false
@@ -4161,7 +6008,7 @@
         "word",
         "xlsx"
       ],
-      "stars": 28167,
+      "stars": 28326,
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "archived": false,
       "fork": false
@@ -4192,7 +6039,7 @@
         "windsurf",
         "windsurf-ai"
       ],
-      "stars": 142809,
+      "stars": 142827,
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "archived": false,
       "fork": false
@@ -4206,7 +6053,7 @@
         "git",
         "terminal"
       ],
-      "stars": 81312,
+      "stars": 81338,
       "url": "https://github.com/jesseduffield/lazygit",
       "archived": false,
       "fork": false
@@ -4216,7 +6063,7 @@
       "description": "Menubar Tool to set Charge Limits and Prolong Battery Lifespan",
       "language": "Swift",
       "topics": [],
-      "stars": 9149,
+      "stars": 9151,
       "url": "https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring",
       "archived": false,
       "fork": false
@@ -4235,7 +6082,7 @@
         "generative-ai",
         "google-cloud"
       ],
-      "stars": 5614,
+      "stars": 5633,
       "url": "https://github.com/google/agents-cli",
       "archived": false,
       "fork": false
@@ -4263,7 +6110,7 @@
         "spec",
         "spec-driven"
       ],
-      "stars": 127485,
+      "stars": 128517,
       "url": "https://github.com/github/spec-kit",
       "archived": false,
       "fork": false
@@ -4310,7 +6157,7 @@
         "mcp",
         "prompt-engineering"
       ],
-      "stars": 10331,
+      "stars": 10377,
       "url": "https://github.com/cobusgreyling/loop-engineering",
       "archived": false,
       "fork": false
@@ -4341,7 +6188,7 @@
         "sharepoint",
         "webdav"
       ],
-      "stars": 4688,
+      "stars": 4692,
       "url": "https://github.com/iterate-ch/cyberduck",
       "archived": false,
       "fork": false
@@ -4365,7 +6212,7 @@
         "pdfmerger",
         "self-hosted"
       ],
-      "stars": 89478,
+      "stars": 89511,
       "url": "https://github.com/Stirling-Tools/Stirling-PDF",
       "archived": false,
       "fork": false
@@ -4416,7 +6263,7 @@
         "tokens",
         "typescript"
       ],
-      "stars": 66234,
+      "stars": 66374,
       "url": "https://github.com/headroomlabs-ai/headroom",
       "archived": false,
       "fork": false
@@ -4426,7 +6273,7 @@
       "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent \u2014 fewer tokens, fewer tool calls, 100% local",
       "language": "C",
       "topics": [],
-      "stars": 66292,
+      "stars": 66438,
       "url": "https://github.com/colbymchenry/codegraph",
       "archived": false,
       "fork": false
@@ -4457,7 +6304,7 @@
         "opentui",
         "token-usage"
       ],
-      "stars": 4941,
+      "stars": 4957,
       "url": "https://github.com/junhoyeo/tokscale",
       "archived": false,
       "fork": false
@@ -4467,7 +6314,7 @@
       "description": "GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome, AFDB, UniProt and 30+ other databases and tools.",
       "language": "Python",
       "topics": [],
-      "stars": 2697,
+      "stars": 2704,
       "url": "https://github.com/google-deepmind/science-skills",
       "archived": false,
       "fork": false
@@ -4491,7 +6338,7 @@
         "rust",
         "token-optimization"
       ],
-      "stars": 76043,
+      "stars": 76158,
       "url": "https://github.com/rtk-ai/rtk",
       "archived": false,
       "fork": false
@@ -4528,7 +6375,7 @@
         "opencode",
         "skills"
       ],
-      "stars": 45775,
+      "stars": 46226,
       "url": "https://github.com/kepano/obsidian-skills",
       "archived": false,
       "fork": false
@@ -4538,7 +6385,7 @@
       "description": "Lightweight coding agent that runs in your terminal",
       "language": "Rust",
       "topics": [],
-      "stars": 105760,
+      "stars": 105961,
       "url": "https://github.com/openai/codex",
       "archived": false,
       "fork": false
@@ -4559,7 +6406,7 @@
         "terminal",
         "winfetch"
       ],
-      "stars": 24193,
+      "stars": 24204,
       "url": "https://github.com/fastfetch-cli/fastfetch",
       "archived": false,
       "fork": false
@@ -4569,7 +6416,7 @@
       "description": "An obsidian toolbar plugin, modified from the Cmenu plugin",
       "language": "TypeScript",
       "topics": [],
-      "stars": 1493,
+      "stars": 1495,
       "url": "https://github.com/PKM-er/obsidian-editing-toolbar",
       "archived": false,
       "fork": false
@@ -4598,7 +6445,7 @@
         "tmux",
         "workspace-manager"
       ],
-      "stars": 26025,
+      "stars": 26069,
       "url": "https://github.com/manaflow-ai/cmux",
       "archived": false,
       "fork": false
@@ -4608,7 +6455,7 @@
       "description": "\ud83d\udc7b Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "language": "Zig",
       "topics": [],
-      "stars": 59609,
+      "stars": 59653,
       "url": "https://github.com/ghostty-org/ghostty",
       "archived": false,
       "fork": false
@@ -4631,7 +6478,7 @@
         "safari",
         "safari-extension"
       ],
-      "stars": 5016,
+      "stars": 5021,
       "url": "https://github.com/obsidianmd/obsidian-clipper",
       "archived": false,
       "fork": false
@@ -4661,7 +6508,7 @@
         "skills",
         "tree-sitter"
       ],
-      "stars": 106042,
+      "stars": 106381,
       "url": "https://github.com/Graphify-Labs/graphify",
       "archived": false,
       "fork": false
@@ -4724,7 +6571,7 @@
         "understandcode",
         "vibe-coding"
       ],
-      "stars": 79230,
+      "stars": 79344,
       "url": "https://github.com/Egonex-AI/Understand-Anything",
       "archived": false,
       "fork": false
@@ -4742,7 +6589,7 @@
         "openai",
         "pdf"
       ],
-      "stars": 173592,
+      "stars": 173780,
       "url": "https://github.com/microsoft/markitdown",
       "archived": false,
       "fork": false
@@ -4752,7 +6599,7 @@
       "description": null,
       "language": "Rust",
       "topics": [],
-      "stars": 2845,
+      "stars": 2847,
       "url": "https://github.com/Polymarket/polymarket-cli",
       "archived": false,
       "fork": false
@@ -4815,7 +6662,7 @@
         "claude",
         "claude-code"
       ],
-      "stars": 30235,
+      "stars": 30247,
       "url": "https://github.com/davila7/claude-code-templates",
       "archived": false,
       "fork": false
@@ -4882,7 +6729,7 @@
         "terminal",
         "theme"
       ],
-      "stars": 7636,
+      "stars": 7639,
       "url": "https://github.com/ohmybash/oh-my-bash",
       "archived": false,
       "fork": false
@@ -4929,7 +6776,7 @@
         "machine-learning",
         "ocean"
       ],
-      "stars": 1408,
+      "stars": 1410,
       "url": "https://github.com/CliMA/Oceananigans.jl",
       "archived": false,
       "fork": false
@@ -4951,7 +6798,7 @@
       "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
       "language": "TypeScript",
       "topics": [],
-      "stars": 15018,
+      "stars": 15090,
       "url": "https://github.com/langchain-ai/openwiki",
       "archived": false,
       "fork": false
@@ -4976,7 +6823,7 @@
         "opencode-skills",
         "skills"
       ],
-      "stars": 30222,
+      "stars": 30291,
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
       "archived": false,
       "fork": false
@@ -5004,7 +6851,7 @@
       "description": "A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a reusable skill/rule for next time.",
       "language": null,
       "topics": [],
-      "stars": 931,
+      "stars": 932,
       "url": "https://github.com/Kulaxyz/self-learning-skills",
       "archived": false,
       "fork": false
@@ -5030,7 +6877,7 @@
         "internet-infrastructure",
         "nameserver"
       ],
-      "stars": 192637,
+      "stars": 192920,
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
       "archived": false,
       "fork": false
@@ -5054,7 +6901,7 @@
         "swift",
         "teleprompter"
       ],
-      "stars": 1349,
+      "stars": 1348,
       "url": "https://github.com/saif0200/notchprompt",
       "archived": false,
       "fork": false
@@ -5067,7 +6914,7 @@
         "ai",
         "mcp"
       ],
-      "stars": 92261,
+      "stars": 92326,
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
       "archived": false,
       "fork": false
@@ -5140,7 +6987,7 @@
         "scientific-discovery",
         "self-improving-systems"
       ],
-      "stars": 2432,
+      "stars": 2436,
       "url": "https://github.com/webfuse-com/awesome-autoresearch",
       "archived": false,
       "fork": false
@@ -5155,7 +7002,7 @@
         "python",
         "rag"
       ],
-      "stars": 132510,
+      "stars": 132651,
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "archived": false,
       "fork": false
@@ -5183,7 +7030,7 @@
         "codex-subagents",
         "subagents"
       ],
-      "stars": 5971,
+      "stars": 5975,
       "url": "https://github.com/VoltAgent/awesome-codex-subagents",
       "archived": false,
       "fork": false
@@ -5292,7 +7139,7 @@
         "tensor-methods",
         "tensorly"
       ],
-      "stars": 3808,
+      "stars": 3810,
       "url": "https://github.com/neuraloperator/neuraloperator",
       "archived": false,
       "fork": false
@@ -5362,7 +7209,7 @@
         "mcp-server",
         "vibe-coding"
       ],
-      "stars": 60698,
+      "stars": 60757,
       "url": "https://github.com/upstash/context7",
       "archived": false,
       "fork": false
@@ -5404,7 +7251,7 @@
         "pocket-flow",
         "pocketflow"
       ],
-      "stars": 12614,
+      "stars": 12615,
       "url": "https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge",
       "archived": false,
       "fork": false
@@ -5685,1079 +7532,6 @@
       "fork": false
     }
   ],
-  "JavaScript/TypeScript Projects": [
-    {
-      "name": "langchain-ai/openwiki",
-      "description": "OpenWiki is a CLI that writes and maintains agent documentation for your codebase.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 15018,
-      "url": "https://github.com/langchain-ai/openwiki",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "petergyang/human-review",
-      "description": "A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI harness.",
-      "language": "JavaScript",
-      "topics": [
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex",
-        "feedback",
-        "html",
-        "human-in-the-loop",
-        "markdown",
-        "review"
-      ],
-      "stars": 956,
-      "url": "https://github.com/petergyang/human-review",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "codexu/note-gen",
-      "description": "Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.",
-      "language": "TypeScript",
-      "topics": [
-        "agent",
-        "ai-notes",
-        "knowledge-base",
-        "knowledge-management",
-        "llm",
-        "local-first",
-        "markdown",
-        "markdown-editor",
-        "mcp",
-        "nextjs",
-        "note-taking",
-        "open-source",
-        "personal-knowledge-management",
-        "rag",
-        "tauri",
-        "webdav"
-      ],
-      "stars": 12612,
-      "url": "https://github.com/codexu/note-gen",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "webbrain-one/webbrain",
-      "description": "Open-source AI browser agent for Chrome and Firefox (monorepo) \ud83e\udde0 ",
-      "language": "JavaScript",
-      "topics": [
-        "ai-agent",
-        "ai-agents",
-        "ai-tools",
-        "browser-ai",
-        "browser-automation",
-        "browser-extension",
-        "chrome-ai",
-        "chrome-devtools",
-        "chrome-extension",
-        "chrome-extensions",
-        "firefox-addon",
-        "firefox-addons",
-        "firefox-extension",
-        "firefox-extensions",
-        "gemma",
-        "gemma4",
-        "minimax",
-        "offline-ai",
-        "offline-llm",
-        "qwen"
-      ],
-      "stars": 748,
-      "url": "https://github.com/webbrain-one/webbrain",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pingdotgg/t3code",
-      "description": null,
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 18610,
-      "url": "https://github.com/pingdotgg/t3code",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "earendil-works/pi",
-      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 89627,
-      "url": "https://github.com/earendil-works/pi",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "diegosouzapw/OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 330+ providers (90+ free), 1200+ models \u2014 Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 320+ contributors",
-      "language": "TypeScript",
-      "topics": [
-        "a2a",
-        "ai-agents",
-        "ai-gateway",
-        "anthropic",
-        "claude",
-        "claude-code",
-        "cline",
-        "codex",
-        "copilot",
-        "cursor",
-        "deepseek",
-        "free-ai",
-        "gemini",
-        "kimi",
-        "llm-gateway",
-        "mcp",
-        "openai",
-        "openai-proxy",
-        "qwen",
-        "token-saver"
-      ],
-      "stars": 47313,
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "April-Gras/obsidian-auto-timelines",
-      "description": "Simple timeline generator plugin for story tellers using obsidian",
-      "language": "TypeScript",
-      "topics": [
-        "obsidian-plugin",
-        "typescript",
-        "vuejs3"
-      ],
-      "stars": 210,
-      "url": "https://github.com/April-Gras/obsidian-auto-timelines",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Ancienttwo/repo-harness",
-      "description": "File-backed workflow harness for reliable Claude Code and Codex sessions.",
-      "language": "TypeScript",
-      "topics": [
-        "agentic-workflows",
-        "ai-agents",
-        "claude-code",
-        "codegraph",
-        "codex",
-        "developer-tools",
-        "typescript"
-      ],
-      "stars": 405,
-      "url": "https://github.com/Ancienttwo/repo-harness",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "zarazhangrui/reading-block",
-      "description": "Save articles with one click; every 5 saves books a reading block on your Google Calendar. A Chrome extension.",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 94,
-      "url": "https://github.com/zarazhangrui/reading-block",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ayv4zyan/codex-reset-dates",
-      "description": "Tiny Node.js CLI that prints banked Codex reset credit expiry dates from local Codex Desktop auth.",
-      "language": "JavaScript",
-      "topics": [
-        "chatgpt",
-        "codex",
-        "codex-cli",
-        "codex-desktop",
-        "codex-reset",
-        "openai",
-        "rate-limit",
-        "reset-date"
-      ],
-      "stars": 24,
-      "url": "https://github.com/ayv4zyan/codex-reset-dates",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cobusgreyling/loop-engineering",
-      "description": "Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost.",
-      "language": "JavaScript",
-      "topics": [
-        "agentic-ai",
-        "ai-agents",
-        "ai-coding",
-        "anthropic",
-        "automation",
-        "claude",
-        "claude-code",
-        "codex",
-        "coding-agents",
-        "devops-automation",
-        "devtools",
-        "github-actions",
-        "grok",
-        "llm",
-        "loop-engineering",
-        "mcp",
-        "prompt-engineering"
-      ],
-      "stars": 10331,
-      "url": "https://github.com/cobusgreyling/loop-engineering",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "steipete/oracle",
-      "description": "Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.",
-      "language": "TypeScript",
-      "topics": [
-        "agents",
-        "ai",
-        "anthropic",
-        "gemini-pro",
-        "gpt-5-pro",
-        "openai",
-        "opus",
-        "sonnet"
-      ],
-      "stars": 3558,
-      "url": "https://github.com/steipete/oracle",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "amruthpillai/reactive-resume",
-      "description": "A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!",
-      "language": "TypeScript",
-      "topics": [
-        "better-auth",
-        "hacktoberfest",
-        "react",
-        "resume",
-        "resume-builder",
-        "self-hosted",
-        "tailwindcss",
-        "tanstack-start"
-      ],
-      "stars": 40339,
-      "url": "https://github.com/amruthpillai/reactive-resume",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "brandonwise/humanizer",
-      "description": "OpenClaw skill that detects and removes signs of AI-generated writing, making text sound natural and human. Based on Wikipedia's Signs of AI Writing.",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 112,
-      "url": "https://github.com/brandonwise/humanizer",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "DietrichGebert/ponytail",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "claude-code-plugin",
-        "cursor-rules",
-        "developer-tools",
-        "llm",
-        "prompt-engineering",
-        "yagni"
-      ],
-      "stars": 102180,
-      "url": "https://github.com/DietrichGebert/ponytail",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "OpenHands/OpenHands",
-      "description": "\ud83d\ude4c OpenHands: AI-Driven Development",
-      "language": "TypeScript",
-      "topics": [
-        "agent",
-        "artificial-intelligence",
-        "chatgpt",
-        "claude-ai",
-        "cli",
-        "developer-tools",
-        "gpt",
-        "llm",
-        "openai"
-      ],
-      "stars": 83954,
-      "url": "https://github.com/OpenHands/OpenHands",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "devswha/patina",
-      "description": "AI-writing humanizer for KO/EN/ZH/JA",
-      "language": "JavaScript",
-      "topics": [
-        "ai-detection",
-        "ai-humanizer",
-        "ai-writing",
-        "claude",
-        "claude-code",
-        "codex",
-        "cursor",
-        "humanizer",
-        "korean",
-        "korean-nlp",
-        "llm",
-        "llm-humanizer",
-        "multi-agent",
-        "nlp",
-        "nodejs-cli",
-        "prompt-engineering",
-        "stylometry",
-        "text-humanizer",
-        "text-processing",
-        "writing-tools"
-      ],
-      "stars": 316,
-      "url": "https://github.com/devswha/patina",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "NomaDamas/k-skill",
-      "description": "\ud55c\uad6d\uc778\uc744 \uc704\ud55c \uc2a4\ud0ac \ubaa8\uc74c\uc9d1 - \uc5d0\uc774\uc804\ud2b8\ub97c \ud55c\uad6d\uc778\uc73c\ub85c",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 7169,
-      "url": "https://github.com/NomaDamas/k-skill",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Leonxlnx/taste-skill",
-      "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop ",
-      "language": "JavaScript",
-      "topics": [
-        "agent",
-        "ai",
-        "claude",
-        "claude-code",
-        "codex",
-        "coding",
-        "design",
-        "frontend",
-        "lowcode",
-        "nocode",
-        "skill",
-        "skills",
-        "vibecoding"
-      ],
-      "stars": 76269,
-      "url": "https://github.com/Leonxlnx/taste-skill",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "code-yeongyu/lazycodex",
-      "description": "The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "claude",
-        "claude-code",
-        "cli",
-        "codex",
-        "developer-tools",
-        "lazy",
-        "lazycodex",
-        "oh-my-openagent",
-        "omo",
-        "openai",
-        "orchestration",
-        "typescript"
-      ],
-      "stars": 3221,
-      "url": "https://github.com/code-yeongyu/lazycodex",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Ashutosh00710/github-readme-activity-graph",
-      "description": "A dynamically generated activity graph to show your GitHub activities of last 31 days.",
-      "language": "TypeScript",
-      "topics": [
-        "contribution",
-        "dynamic",
-        "github-activity",
-        "graph",
-        "hacktoberfest",
-        "hacktoberfest2021",
-        "readme",
-        "statistics"
-      ],
-      "stars": 2299,
-      "url": "https://github.com/Ashutosh00710/github-readme-activity-graph",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "PiyushSuthar/github-readme-quotes",
-      "description": "\ud83d\udd25 Add Programming Quotes To Your GitHub Readme",
-      "language": "TypeScript",
-      "topics": [
-        "github",
-        "github-readme",
-        "hacktoberfest",
-        "profile-readme",
-        "profile-readme-generator",
-        "readme",
-        "serverless"
-      ],
-      "stars": 623,
-      "url": "https://github.com/PiyushSuthar/github-readme-quotes",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "svonjoi/obsidian-heading-level-indent",
-      "description": "obsidian plugin for hierarchical structuration of document content based on heading levels",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 95,
-      "url": "https://github.com/svonjoi/obsidian-heading-level-indent",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "joonan30/annPlan",
-      "description": "\uc5f0\uad6c\uacfc\uc81c \ud1b5\ud569 \uad00\ub9ac \ub300\uc2dc\ubcf4\ub4dc - Research Project Management Dashboard for Korean Professors",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 7,
-      "url": "https://github.com/joonan30/annPlan",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "anomalyco/opencode",
-      "description": "The open source coding agent.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 197115,
-      "url": "https://github.com/anomalyco/opencode",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "addyosmani/agent-skills",
-      "description": "Production-grade engineering skills for AI coding agents.",
-      "language": "JavaScript",
-      "topics": [
-        "agent-skills",
-        "antigravity",
-        "claude-code",
-        "codex",
-        "cursor",
-        "skills"
-      ],
-      "stars": 86978,
-      "url": "https://github.com/addyosmani/agent-skills",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "brianpetro/obsidian-smart-connections",
-      "description": "Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model powers semantic search. Zero setup. No API key.",
-      "language": "JavaScript",
-      "topics": [
-        "chatgpt",
-        "claude",
-        "embeddings",
-        "gemini",
-        "obsidian",
-        "obsidian-md",
-        "obsidian-plugin",
-        "related-items",
-        "semantic-search",
-        "vectors"
-      ],
-      "stars": 5358,
-      "url": "https://github.com/brianpetro/obsidian-smart-connections",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ozntel/file-tree-alternative",
-      "description": "This Obsidian Plugin allows users to have a different file explorer experience.",
-      "language": "TypeScript",
-      "topics": [
-        "file-explorer",
-        "file-tree-view",
-        "obsidian-md",
-        "obsidian-plugin",
-        "plugin"
-      ],
-      "stars": 600,
-      "url": "https://github.com/ozntel/file-tree-alternative",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "mdelobelle/obsidian_supercharged_links",
-      "description": "obsidian plugin to add attributes and context menu options to internal links",
-      "language": "TypeScript",
-      "topics": [
-        "obsidian-plugin"
-      ],
-      "stars": 690,
-      "url": "https://github.com/mdelobelle/obsidian_supercharged_links",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "TfTHacker/obsidian42-strange-new-worlds",
-      "description": "Revealing the strange new world of connected thoughts in your vault.",
-      "language": "TypeScript",
-      "topics": [
-        "obsidian-md",
-        "obsidian-plugin"
-      ],
-      "stars": 575,
-      "url": "https://github.com/TfTHacker/obsidian42-strange-new-worlds",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "SkepticMystic/graph-analysis",
-      "description": "Analyse the structure of your Obsidian graph using various analysis techniques",
-      "language": "TypeScript",
-      "topics": [
-        "graph-algorithms",
-        "obsidian-plugin"
-      ],
-      "stars": 528,
-      "url": "https://github.com/SkepticMystic/graph-analysis",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "scambier/obsidian-omnisearch",
-      "description": "A search engine that \"just works\" for Obsidian. Supports OCR and PDF indexing.",
-      "language": "TypeScript",
-      "topics": [
-        "minisearch",
-        "obsidian",
-        "obsidian-md",
-        "obsidian-plugin",
-        "ocr",
-        "pdf",
-        "search"
-      ],
-      "stars": 2118,
-      "url": "https://github.com/scambier/obsidian-omnisearch",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "alangrainger/share-note",
-      "description": "Instantly share an Obsidian note with the full theme exactly like you see in your vault. Data is shared encrypted by default, and only you and the person you send it to have the key.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 704,
-      "url": "https://github.com/alangrainger/share-note",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "kepano/obsidian-minimal-settings",
-      "description": "Settings plugin to control colors and fonts in Minimal Theme",
-      "language": "TypeScript",
-      "topics": [
-        "obsidian-md",
-        "obsidian-plugin",
-        "obsidian-theme"
-      ],
-      "stars": 784,
-      "url": "https://github.com/kepano/obsidian-minimal-settings",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "liamcain/obsidian-periodic-notes",
-      "description": "Create/manage your daily, weekly, and monthly notes in Obsidian",
-      "language": "TypeScript",
-      "topics": [
-        "obsidian-md",
-        "obsidian-plugin"
-      ],
-      "stars": 1353,
-      "url": "https://github.com/liamcain/obsidian-periodic-notes",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "SilentVoid13/Templater",
-      "description": "A template plugin for obsidian",
-      "language": "TypeScript",
-      "topics": [
-        "obsidian-md",
-        "obsidian-plugin"
-      ],
-      "stars": 5219,
-      "url": "https://github.com/SilentVoid13/Templater",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "lynchjames/note-refactor-obsidian",
-      "description": "Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.",
-      "language": "TypeScript",
-      "topics": [
-        "obsidian-md",
-        "obsidian-plugin"
-      ],
-      "stars": 640,
-      "url": "https://github.com/lynchjames/note-refactor-obsidian",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pjeby/tag-wrangler",
-      "description": "Rename, merge, toggle, and search tags from the Obsidian tag pane",
-      "language": "JavaScript",
-      "topics": [
-        "obsidian-md",
-        "obsidian-plugin"
-      ],
-      "stars": 917,
-      "url": "https://github.com/pjeby/tag-wrangler",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "chetachiezikeuzor/Highlightr-Plugin",
-      "description": "A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier \ud83c\udfa8.",
-      "language": "TypeScript",
-      "topics": [
-        "highlight",
-        "highlighting",
-        "obsidian-md",
-        "obsidian-plugin",
-        "plugin"
-      ],
-      "stars": 809,
-      "url": "https://github.com/chetachiezikeuzor/Highlightr-Plugin",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "PKM-er/obsidian-editing-toolbar",
-      "description": "An obsidian toolbar plugin, modified from the Cmenu plugin",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 1493,
-      "url": "https://github.com/PKM-er/obsidian-editing-toolbar",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "tadashi-aikawa/obsidian-various-complements-plugin",
-      "description": "This plugin for Obsidian enables you complete words like the auto-completion of IDE.",
-      "language": "TypeScript",
-      "topics": [
-        "obsidian",
-        "plugin"
-      ],
-      "stars": 931,
-      "url": "https://github.com/tadashi-aikawa/obsidian-various-complements-plugin",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "vslinko/obsidian-outliner",
-      "description": "Work with your lists like in Workflowy or RoamResearch",
-      "language": "TypeScript",
-      "topics": [
-        "obsidian",
-        "obsidian-plugin",
-        "outliner"
-      ],
-      "stars": 1356,
-      "url": "https://github.com/vslinko/obsidian-outliner",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "obsidianmd/obsidian-clipper",
-      "description": "Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.",
-      "language": "TypeScript",
-      "topics": [
-        "brave",
-        "browser-extension",
-        "chrome",
-        "chrome-extension",
-        "chromium",
-        "edge",
-        "firefox",
-        "firefox-addon",
-        "obsidian",
-        "obsidianmd",
-        "safari",
-        "safari-extension"
-      ],
-      "stars": 5016,
-      "url": "https://github.com/obsidianmd/obsidian-clipper",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "xandemon/developer-icons",
-      "description": "A collection of well-optimized SVG tech logos for developers and designers\u2014customizable, scalable, and free.",
-      "language": "TypeScript",
-      "topics": [
-        "astro",
-        "github-action",
-        "icons",
-        "logos",
-        "npm",
-        "npm-packages",
-        "npmjs",
-        "open-source",
-        "optimized",
-        "react",
-        "react-libraries",
-        "svg",
-        "svg-icon",
-        "svg-images",
-        "tailwindcss",
-        "typescript",
-        "vector-icons",
-        "vite"
-      ],
-      "stars": 2587,
-      "url": "https://github.com/xandemon/developer-icons",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "jlegewie/beaver-zotero",
-      "description": "AI research assistant that lives in Zotero",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 229,
-      "url": "https://github.com/jlegewie/beaver-zotero",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Yeachan-Heo/oh-my-codex",
-      "description": "OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 32647,
-      "url": "https://github.com/Yeachan-Heo/oh-my-codex",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "dralkh/seerai",
-      "description": "Zotero AI plugin Research assistant for Zotero 9. Chat with your library, run federated scholarly search, RAG, OCR, systematic reviews, and manage cloud storage. Includes standalone MCP, Agentic capabilities, and skills library.",
-      "language": "TypeScript",
-      "topics": [
-        "academic-research",
-        "agent",
-        "ai",
-        "ai-agent",
-        "bibliography",
-        "cloud-storage",
-        "knowledge-management",
-        "mcp",
-        "mcp-server",
-        "model-context-protocol",
-        "ocr",
-        "rag",
-        "research",
-        "research-assistant",
-        "scholarly-search",
-        "semantic-scholar",
-        "systematic-review",
-        "zotero",
-        "zotero-mcp",
-        "zotero-plugin"
-      ],
-      "stars": 76,
-      "url": "https://github.com/dralkh/seerai",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Egonex-AI/Understand-Anything",
-      "description": "Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
-      "language": "TypeScript",
-      "topics": [
-        "antigravity-skills",
-        "business-knowledge",
-        "claude-code",
-        "claude-skills",
-        "codebase-analysis",
-        "codex",
-        "codex-skills",
-        "developer-tools-ai-agent",
-        "gemini-cli-skills",
-        "karpathy-llm-wiki",
-        "knowledge-base",
-        "knowledge-graph",
-        "memory",
-        "opencode-skills",
-        "pi-agent",
-        "understandcode",
-        "vibe-coding"
-      ],
-      "stars": 79230,
-      "url": "https://github.com/Egonex-AI/Understand-Anything",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "andrewyng/context-hub",
-      "description": null,
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 13910,
-      "url": "https://github.com/andrewyng/context-hub",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "code-yeongyu/oh-my-openagent",
-      "description": "omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "ai-agents",
-        "anthropic",
-        "chatgpt",
-        "claude",
-        "claude-skills",
-        "codex",
-        "cursor",
-        "gemini",
-        "ide",
-        "openai",
-        "opencode",
-        "orchestration",
-        "tui",
-        "typescript"
-      ],
-      "stars": 67835,
-      "url": "https://github.com/code-yeongyu/oh-my-openagent",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "anxndsgn/academic-homepage-template",
-      "description": "Academic Homepage Template",
-      "language": "TypeScript",
-      "topics": [
-        "academic",
-        "academic-homepage",
-        "academic-website",
-        "homepage",
-        "website",
-        "website-template"
-      ],
-      "stars": 81,
-      "url": "https://github.com/anxndsgn/academic-homepage-template",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "winfunc/opcode",
-      "description": "A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.",
-      "language": "TypeScript",
-      "topics": [
-        "anthropic",
-        "anthropic-claude",
-        "claude",
-        "claude-4",
-        "claude-4-opus",
-        "claude-4-sonnet",
-        "claude-ai",
-        "claude-code",
-        "claude-code-sdk",
-        "cursor",
-        "ide",
-        "llm",
-        "llm-code",
-        "rust",
-        "tauri"
-      ],
-      "stars": 22363,
-      "url": "https://github.com/winfunc/opcode",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "regenrek/deepwiki-mcp",
-      "description": "\ud83d\udcd6 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 1382,
-      "url": "https://github.com/regenrek/deepwiki-mcp",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "regenrek/planwithgemini",
-      "description": "Plan with Gemini CLI and build with Claude Code or Cursor",
-      "language": "JavaScript",
-      "topics": [],
-      "stars": 48,
-      "url": "https://github.com/regenrek/planwithgemini",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "regenrek/codefetch",
-      "description": "Turn code into Markdown for LLMs with one simple terminal command",
-      "language": "TypeScript",
-      "topics": [
-        "cli",
-        "llm",
-        "markdown"
-      ],
-      "stars": 449,
-      "url": "https://github.com/regenrek/codefetch",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "supermemoryai/supermemory-mcp",
-      "description": "Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One command to set it up.",
-      "language": "TypeScript",
-      "topics": [
-        "cloudflare",
-        "mcp"
-      ],
-      "stars": 1711,
-      "url": "https://github.com/supermemoryai/supermemory-mcp",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Iamshankhadeep/ccseva",
-      "description": "A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 800,
-      "url": "https://github.com/Iamshankhadeep/ccseva",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "upstash/context7",
-      "description": "Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors",
-      "language": "TypeScript",
-      "topics": [
-        "llm",
-        "mcp",
-        "mcp-server",
-        "vibe-coding"
-      ],
-      "stars": 60698,
-      "url": "https://github.com/upstash/context7",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "modelcontextprotocol/servers",
-      "description": "Model Context Protocol Servers",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 89543,
-      "url": "https://github.com/modelcontextprotocol/servers",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "dracula/cursor",
-      "description": "\ud83e\udddb\ud83c\udffb\u200d\u2642\ufe0f Dark & Light theme for Cursor",
-      "language": "JavaScript",
-      "topics": [
-        "cursor",
-        "dark-theme",
-        "dracula",
-        "light-theme",
-        "theme"
-      ],
-      "stars": 22,
-      "url": "https://github.com/dracula/cursor",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "stackblitz-labs/bolt.diy",
-      "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
-      "language": "TypeScript",
-      "topics": [],
-      "stars": 19744,
-      "url": "https://github.com/stackblitz-labs/bolt.diy",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "upscayl/upscayl",
-      "description": "\ud83c\udd99 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.",
-      "language": "TypeScript",
-      "topics": [
-        "ai",
-        "electron",
-        "esrgan",
-        "gigapixel",
-        "gigapixel-images",
-        "image",
-        "image-upscaling",
-        "topaz",
-        "upscale",
-        "upscalerimage",
-        "upscayl"
-      ],
-      "stars": 48204,
-      "url": "https://github.com/upscayl/upscayl",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "matsuoka-601/WebGPU-Ocean",
-      "description": "A real-time 3D fluid simulation implemented in WebGPU",
-      "language": "TypeScript",
-      "topics": [
-        "fluid-simulation",
-        "gpu",
-        "mls-mpm",
-        "mpm",
-        "parallel",
-        "sph",
-        "webgpu"
-      ],
-      "stars": 542,
-      "url": "https://github.com/matsuoka-601/WebGPU-Ocean",
-      "archived": false,
-      "fork": false
-    }
-  ],
   "Scientific Computing & Numerical Analysis": [
     {
       "name": "gszypko/spruce",
@@ -6987,7 +7761,7 @@
         "plasma",
         "python"
       ],
-      "stars": 243,
+      "stars": 244,
       "url": "https://github.com/boutproject/BOUT-dev",
       "archived": false,
       "fork": false
@@ -7081,7 +7855,7 @@
         "scientific-computing",
         "simulation"
       ],
-      "stars": 394,
+      "stars": 395,
       "url": "https://github.com/MFlowCode/MFC",
       "archived": false,
       "fork": false
@@ -8912,7 +9686,7 @@
         "plasma",
         "python"
       ],
-      "stars": 243,
+      "stars": 244,
       "url": "https://github.com/boutproject/BOUT-dev",
       "archived": false,
       "fork": false
@@ -8974,7 +9748,7 @@
       "description": "Athena++ radiation GRMHD code and adaptive mesh refinement (AMR) framework",
       "language": "C++",
       "topics": [],
-      "stars": 359,
+      "stars": 360,
       "url": "https://github.com/PrincetonUniversity/athena",
       "archived": false,
       "fork": false
@@ -9299,7 +10073,7 @@
         "offline-llm",
         "qwen"
       ],
-      "stars": 748,
+      "stars": 754,
       "url": "https://github.com/webbrain-one/webbrain",
       "archived": false,
       "fork": false
@@ -9319,7 +10093,7 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "language": "TypeScript",
       "topics": [],
-      "stars": 89627,
+      "stars": 90441,
       "url": "https://github.com/earendil-works/pi",
       "archived": false,
       "fork": false
@@ -9387,7 +10161,7 @@
         "sharepoint",
         "webdav"
       ],
-      "stars": 4688,
+      "stars": 4692,
       "url": "https://github.com/iterate-ch/cyberduck",
       "archived": false,
       "fork": false
@@ -9406,7 +10180,7 @@
         "tailwindcss",
         "tanstack-start"
       ],
-      "stars": 40339,
+      "stars": 40354,
       "url": "https://github.com/amruthpillai/reactive-resume",
       "archived": false,
       "fork": false
@@ -9437,7 +10211,7 @@
         "web-search",
         "youtube"
       ],
-      "stars": 58124,
+      "stars": 58207,
       "url": "https://github.com/mvanhorn/last30days-skill",
       "archived": false,
       "fork": false
@@ -9447,7 +10221,7 @@
       "description": "The \"p4est\" forest-of-octrees library ",
       "language": "C",
       "topics": [],
-      "stars": 314,
+      "stars": 315,
       "url": "https://github.com/cburstedde/p4est",
       "archived": false,
       "fork": false
@@ -9457,7 +10231,7 @@
       "description": "Remote Control for Codex.",
       "language": "Swift",
       "topics": [],
-      "stars": 3284,
+      "stars": 3286,
       "url": "https://github.com/Emanuele-web04/remodex",
       "archived": false,
       "fork": false
@@ -9483,7 +10257,7 @@
         "scientific-discovery",
         "self-improving-systems"
       ],
-      "stars": 2432,
+      "stars": 2436,
       "url": "https://github.com/webfuse-com/awesome-autoresearch",
       "archived": false,
       "fork": false
@@ -9504,7 +10278,7 @@
         "semantic-search",
         "vectors"
       ],
-      "stars": 5358,
+      "stars": 5360,
       "url": "https://github.com/brianpetro/obsidian-smart-connections",
       "archived": false,
       "fork": false
@@ -9527,7 +10301,7 @@
         "safari",
         "safari-extension"
       ],
-      "stars": 5016,
+      "stars": 5021,
       "url": "https://github.com/obsidianmd/obsidian-clipper",
       "archived": false,
       "fork": false
@@ -9571,7 +10345,7 @@
         "personal-website",
         "portfolio-website"
       ],
-      "stars": 17441,
+      "stars": 17445,
       "url": "https://github.com/academicpages/academicpages.github.io",
       "archived": false,
       "fork": false
@@ -9628,7 +10402,7 @@
       "description": "Prompt, run, edit, and deploy full-stack web applications using any LLM you want!",
       "language": "TypeScript",
       "topics": [],
-      "stars": 19744,
+      "stars": 19746,
       "url": "https://github.com/stackblitz-labs/bolt.diy",
       "archived": false,
       "fork": true
@@ -9767,7 +10541,7 @@
         "sem",
         "spectral"
       ],
-      "stars": 481,
+      "stars": 482,
       "url": "https://github.com/Nek5000/Nek5000",
       "archived": false,
       "fork": false
@@ -10007,7 +10781,7 @@
         "scientific-computing",
         "simulation"
       ],
-      "stars": 394,
+      "stars": 395,
       "url": "https://github.com/MFlowCode/MFC",
       "archived": false,
       "fork": false
@@ -11536,750 +12310,6 @@
       "fork": false
     }
   ],
-  "Uncategorized": [
-    {
-      "name": "ossu/computer-science",
-      "description": "\ud83c\udf93 Path to a free self-taught education in Computer Science!",
-      "language": "HTML",
-      "topics": [
-        "awesome-list",
-        "computer-science",
-        "courses",
-        "curriculum"
-      ],
-      "stars": 207967,
-      "url": "https://github.com/ossu/computer-science",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "herdrdev/herdr",
-      "description": "the runtime your coding agents live on",
-      "language": "Rust",
-      "topics": [
-        "agent",
-        "agent-orchestration",
-        "ai",
-        "ai-agents",
-        "claude-code",
-        "cli",
-        "codex",
-        "coding-agents",
-        "developer-tools",
-        "devtools",
-        "multiplexer",
-        "rust",
-        "terminal",
-        "terminal-multiplexer",
-        "terminal-ui",
-        "tmux",
-        "tui",
-        "workspace-manager"
-      ],
-      "stars": 28687,
-      "url": "https://github.com/herdrdev/herdr",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Nutlope/hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "language": "CSS",
-      "topics": [],
-      "stars": 24676,
-      "url": "https://github.com/Nutlope/hallmark",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "gbaydin/oxford-poster",
-      "description": "LaTeX beamer poster template themed for the University of Oxford",
-      "language": "TeX",
-      "topics": [],
-      "stars": 76,
-      "url": "https://github.com/gbaydin/oxford-poster",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "mattpocock/skills",
-      "description": "Skills for Real Engineers. Straight from my .agents directory.",
-      "language": "Shell",
-      "topics": [],
-      "stars": 216419,
-      "url": "https://github.com/mattpocock/skills",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "obra/superpowers",
-      "description": "An agentic skills framework & software development methodology that works.",
-      "language": "Shell",
-      "topics": [
-        "ai",
-        "brainstorming",
-        "coding",
-        "obra",
-        "sdlc",
-        "skills",
-        "subagent-driven-development",
-        "superpowers"
-      ],
-      "stars": 271757,
-      "url": "https://github.com/obra/superpowers",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "memmett/PyWENO",
-      "description": "PyWENO is a Python implementation of one-dimensional Weighted Essentially Non-oscillatory (WENO) reconstructions.",
-      "language": "C",
-      "topics": [],
-      "stars": 41,
-      "url": "https://github.com/memmett/PyWENO",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "matsuikentaro1/humanizer_academic",
-      "description": "A Claude Code skill that removes signs of AI-generated writing from academic medical papers, making them sound more natural and professionally written.",
-      "language": null,
-      "topics": [],
-      "stars": 163,
-      "url": "https://github.com/matsuikentaro1/humanizer_academic",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "HDFGroup/hdf5",
-      "description": "Official HDF5\u00ae Library Repository",
-      "language": "C",
-      "topics": [
-        "c",
-        "cpp",
-        "database",
-        "fortran",
-        "hdf",
-        "hdf5",
-        "java",
-        "library",
-        "nosql"
-      ],
-      "stars": 970,
-      "url": "https://github.com/HDFGroup/hdf5",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "LazyVim/LazyVim",
-      "description": "Neovim config for the lazy",
-      "language": "Lua",
-      "topics": [
-        "neovim",
-        "neovim-conf",
-        "neovim-config",
-        "neovim-configuration",
-        "neovim-plugin",
-        "nvim"
-      ],
-      "stars": 27151,
-      "url": "https://github.com/LazyVim/LazyVim",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "basecamp/omarchy",
-      "description": "Beautiful, Modern & Opinionated Linux",
-      "language": "Shell",
-      "topics": [],
-      "stars": 24643,
-      "url": "https://github.com/basecamp/omarchy",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "chrisryugj/Docufinder",
-      "description": "Anything \u2014 \ud30c\uc77c \uc774\ub984\uc774 \uc544\ub2c8\ub77c \ubcf8\ubb38\uc73c\ub85c \ucc3e\ub294 \ubb38\uc11c \uac80\uc0c9\uae30. HWP\u00b7PDF\u00b7Office \uc804\ubb38 \uac80\uc0c9\uc744 \uc624\ud504\ub77c\uc778\uc73c\ub85c. Windows\u00b7macOS | Offline content search across Korean documents (HWP, PDF, Office). Windows and macOS",
-      "language": "Rust",
-      "topics": [
-        "desktop-app",
-        "document-search",
-        "fts5",
-        "hwpx",
-        "korean",
-        "korean-nlp",
-        "macos",
-        "offline-first",
-        "onnx",
-        "rag",
-        "react",
-        "rust",
-        "tauri"
-      ],
-      "stars": 610,
-      "url": "https://github.com/chrisryugj/Docufinder",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "legalize-kr/legalize-kr",
-      "description": "\ub300\ud55c\ubbfc\uad6d \ubc95\ub839\uc744 Git \uc800\uc7a5\uc18c\ub85c \uad00\ub9ac\ud569\ub2c8\ub2e4. \uac01 \ubc95\ub839\uc740 Markdown \ud30c\uc77c\uc774\uace0, \uac01 \uac1c\uc815\uc740 \uc2e4\uc81c \uacf5\ud3ec\uc77c\uc790\ub97c \uac00\uc9c4 Git commit\uc785\ub2c8\ub2e4.",
-      "language": null,
-      "topics": [
-        "git-history",
-        "korean-law",
-        "korean-statutes",
-        "legal-documents",
-        "legalize-dev",
-        "legalize-kr",
-        "markdown",
-        "public-data"
-      ],
-      "stars": 1501,
-      "url": "https://github.com/legalize-kr/legalize-kr",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "kaisugi/marp-theme-academic",
-      "description": "Academic Presentation Slides with Marp",
-      "language": "CSS",
-      "topics": [
-        "marp",
-        "marp-themes"
-      ],
-      "stars": 278,
-      "url": "https://github.com/kaisugi/marp-theme-academic",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "obsidianmd/obsidian-releases",
-      "description": "Community plugins list, theme list, and releases of Obsidian.",
-      "language": null,
-      "topics": [
-        "bases",
-        "jsoncanvas",
-        "markdown",
-        "md",
-        "obsidian",
-        "obsidian-md"
-      ],
-      "stars": 20797,
-      "url": "https://github.com/obsidianmd/obsidian-releases",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "tmux/tmux",
-      "description": "tmux source code",
-      "language": "C",
-      "topics": [],
-      "stars": 48602,
-      "url": "https://github.com/tmux/tmux",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "direnv/direnv",
-      "description": "unclutter your .profile",
-      "language": "Go",
-      "topics": [
-        "bash",
-        "buildbot-numtide",
-        "direnv",
-        "environment",
-        "fish",
-        "shell",
-        "shell-extension",
-        "tcsh",
-        "zsh"
-      ],
-      "stars": 15357,
-      "url": "https://github.com/direnv/direnv",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "gylien/scale-letkf",
-      "description": "The Local Ensemble Transform Kalman Filter (LETKF) data assimilation package for the SCALE-RM weather model",
-      "language": "Shell",
-      "topics": [],
-      "stars": 11,
-      "url": "https://github.com/gylien/scale-letkf",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "SWx-TREC/GONG-Calibration",
-      "description": "Data and software used in the GONG magnetogram calibration effort described in Plowman & Berger (2020 a,b,c)",
-      "language": "IDL",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/SWx-TREC/GONG-Calibration",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "multica-ai/andrej-karpathy-skills",
-      "description": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "language": null,
-      "topics": [],
-      "stars": 202195,
-      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "bpbrown/fully_compressible",
-      "description": null,
-      "language": "TeX",
-      "topics": [],
-      "stars": 4,
-      "url": "https://github.com/bpbrown/fully_compressible",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "sddyates/PlutoProblems",
-      "description": "Problem generators for the PLUTO code",
-      "language": "C",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/sddyates/PlutoProblems",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "Entroforce/pluto-solarwind",
-      "description": "Solar wind MHD simulator",
-      "language": "C",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/Entroforce/pluto-solarwind",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "lkampoli/RadiativeTransportPinns",
-      "description": null,
-      "language": null,
-      "topics": [],
-      "stars": 17,
-      "url": "https://github.com/lkampoli/RadiativeTransportPinns",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "NCAR/GPU_workshop",
-      "description": null,
-      "language": "HTML",
-      "topics": [],
-      "stars": 84,
-      "url": "https://github.com/NCAR/GPU_workshop",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "SWMFsoftware/SWMF_data",
-      "description": null,
-      "language": "C",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/SWMFsoftware/SWMF_data",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "LeNPaul/portfolio-jekyll-theme",
-      "description": "A minimalist Jekyll theme for building a personal portfolio site powered by Jekyll and GitHub Pages",
-      "language": "SCSS",
-      "topics": [
-        "blog",
-        "github-pages",
-        "jekyll",
-        "jekyll-blog",
-        "jekyll-site",
-        "jekyll-template",
-        "jekyll-theme",
-        "minimalist",
-        "portfolio",
-        "theme"
-      ],
-      "stars": 251,
-      "url": "https://github.com/LeNPaul/portfolio-jekyll-theme",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "ChrisTitusTech/mybash",
-      "description": "My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.",
-      "language": "Shell",
-      "topics": [],
-      "stars": 670,
-      "url": "https://github.com/ChrisTitusTech/mybash",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "antyeates1983/sft_data",
-      "description": "SFT_DATA: 2d data-driven flux transport code in MATLAB.",
-      "language": "Matlab",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/antyeates1983/sft_data",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "VincentVanlaer/mesa-school-labs",
-      "description": null,
-      "language": "AMPL",
-      "topics": [],
-      "stars": 6,
-      "url": "https://github.com/VincentVanlaer/mesa-school-labs",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "alshedivat/al-folio",
-      "description": "A beautiful, simple, clean, and responsive Jekyll theme for academics",
-      "language": "HTML",
-      "topics": [
-        "academic",
-        "academic-website",
-        "github-pages",
-        "hacktoberfest",
-        "jekyll",
-        "jekyll-blog",
-        "jekyll-theme",
-        "personal-website",
-        "portfolio-website",
-        "theme"
-      ],
-      "stars": 16003,
-      "url": "https://github.com/alshedivat/al-folio",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "solarmonitor/solarmonitorphp",
-      "description": null,
-      "language": "PHP",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/solarmonitor/solarmonitorphp",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "hpgmg/hpgmg",
-      "description": "High-performance Geometric Multigrid",
-      "language": "C",
-      "topics": [],
-      "stars": 40,
-      "url": "https://github.com/hpgmg/hpgmg",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "andyto1234/demcmc",
-      "description": "Differential Emission Measure estimation using MCMC methods",
-      "language": null,
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/andyto1234/demcmc",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "andyto1234/pydrad_wrapper",
-      "description": null,
-      "language": "EmberScript",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/andyto1234/pydrad_wrapper",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "sulli72/CHAR_BCS",
-      "description": "Introduction to the concepts of characteristic based boundary conditions, as applied to the second order wave equation./=",
-      "language": "MATLAB",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/sulli72/CHAR_BCS",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "iijimahr/skeletons",
-      "description": "Skeletons for new project",
-      "language": "Makefile",
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/iijimahr/skeletons",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cheshirepezz/scientificcomputing_bicocca_2023",
-      "description": "Scientific Computing with Python - PhD class at the University of Milan-Bicocca (Italy)",
-      "language": null,
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/cheshirepezz/scientificcomputing_bicocca_2023",
-      "archived": false,
-      "fork": true
-    },
-    {
-      "name": "JingWei-William/radiative-cooling-solar-heating-power",
-      "description": "PLEASE CITE: https://doi.org/10.1016/j.csite.2024.105232",
-      "language": "MATLAB",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/JingWei-William/radiative-cooling-solar-heating-power",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "keita-akutagawa/KAMMUY",
-      "description": null,
-      "language": "Cuda",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/keita-akutagawa/KAMMUY",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "pmichaillat/latex-presentation",
-      "description": "Minimalist LaTeX template for academic presentations",
-      "language": "TeX",
-      "topics": [
-        "academic",
-        "beamer",
-        "latex-template",
-        "minimalist",
-        "presentation",
-        "seminar",
-        "slides",
-        "talk"
-      ],
-      "stars": 288,
-      "url": "https://github.com/pmichaillat/latex-presentation",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "atchekho/harmpi",
-      "description": "3D massively parallel general relativictic MHD code HARMPI",
-      "language": "C",
-      "topics": [],
-      "stars": 69,
-      "url": "https://github.com/atchekho/harmpi",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "chili-epfl/paper-poster-presentation-template",
-      "description": "A LaTeX template pack for ieeetran, sigchi, acm-sig-alternate, llncs2e, baposter, nccr-poster and beamer",
-      "language": "TeX",
-      "topics": [
-        "acm-sig-alternate",
-        "beamer",
-        "ieeetran",
-        "llncs2e",
-        "lualatex",
-        "pdflatex",
-        "poster",
-        "sigchi"
-      ],
-      "stars": 20,
-      "url": "https://github.com/chili-epfl/paper-poster-presentation-template",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "github-nakasho/3dhlld",
-      "description": null,
-      "language": null,
-      "topics": [],
-      "stars": 1,
-      "url": "https://github.com/github-nakasho/3dhlld",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "nushio3/learn-haskell",
-      "description": null,
-      "language": "Haskell",
-      "topics": [],
-      "stars": 167,
-      "url": "https://github.com/nushio3/learn-haskell",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "epochpic/SDF_IDL",
-      "description": "IDL routines for accessing files in the SDF format",
-      "language": "Prolog",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/epochpic/SDF_IDL",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "getpetit/petit-youtube-music-release",
-      "description": null,
-      "language": null,
-      "topics": [],
-      "stars": 18,
-      "url": "https://github.com/getpetit/petit-youtube-music-release",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "michael-nix/MATLAB-Perfectly-Matched-Layer",
-      "description": "Absorbing boundary conditions, not for solving Maxwell's Equations, but for a standard wave equation, e.g. for use with potentials.",
-      "language": "MATLAB",
-      "topics": [],
-      "stars": 14,
-      "url": "https://github.com/michael-nix/MATLAB-Perfectly-Matched-Layer",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "R07941023/1D-FDTD",
-      "description": "Study of the reflection and transmission between the three material by 1D-FDTD PML Final Report",
-      "language": "MATLAB",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/R07941023/1D-FDTD",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "juliakorea/talks",
-      "description": "\uac8c\uc2dc\ud310",
-      "language": null,
-      "topics": [],
-      "stars": 15,
-      "url": "https://github.com/juliakorea/talks",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "edheltzel/flightdeck-for-jekyll",
-      "description": "\ud83d\ude80 An opinionated starter project for Eleventy using Gulp as an asset pipeline",
-      "language": "HTML",
-      "topics": [
-        "autoprefixer",
-        "flightdeck",
-        "gulp",
-        "gulp-starter",
-        "gulp4",
-        "gulpfile",
-        "imagemin",
-        "jamstack",
-        "jamstack-site",
-        "jamstack-theme",
-        "jekyll",
-        "jekyll-ecosystem",
-        "jekyll-site",
-        "jekyll-template",
-        "jekyll-theme",
-        "jekyll-themes",
-        "sass",
-        "static-site-generator"
-      ],
-      "stars": 9,
-      "url": "https://github.com/edheltzel/flightdeck-for-jekyll",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "cotes2020/jekyll-theme-chirpy",
-      "description": "A minimal, responsive, and feature-rich Jekyll theme for technical writing.",
-      "language": "HTML",
-      "topics": [
-        "bootstrap",
-        "devcontainer",
-        "html5",
-        "jamstack",
-        "jekyll",
-        "jekyll-theme",
-        "pwa",
-        "responsive-web-design",
-        "rubygems"
-      ],
-      "stars": 10220,
-      "url": "https://github.com/cotes2020/jekyll-theme-chirpy",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "wme7/WENO5-X",
-      "description": "A 1-d comparison of finite difference implementations of fifth-order WENO schemes, namely WENO-JS, WENO-M and WENO-Z.",
-      "language": "Matlab",
-      "topics": [],
-      "stars": 17,
-      "url": "https://github.com/wme7/WENO5-X",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "wme7/WENO7-Z",
-      "description": "A 1-d comparison between the finite difference implementations of seventh-order WENO-JS and the WENO-Z scheme.",
-      "language": "Matlab",
-      "topics": [],
-      "stars": 4,
-      "url": "https://github.com/wme7/WENO7-Z",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "jung-minki/WENO-idealMHD",
-      "description": null,
-      "language": "MATLAB",
-      "topics": [],
-      "stars": 2,
-      "url": "https://github.com/jung-minki/WENO-idealMHD",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "geodynamics/mag",
-      "description": "MAG is a serial version of a rotating spherical convection/magnetoconvection/dynamo code, developed by Gary Glatzmaier and modified by Uli Christensen and Peter Olson.",
-      "language": "IDL",
-      "topics": [],
-      "stars": 6,
-      "url": "https://github.com/geodynamics/mag",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "meithan/walicxe3d",
-      "description": "Walicxe3D parallel AMR Eulerian hydrodynamics code",
-      "language": "HTML",
-      "topics": [],
-      "stars": 5,
-      "url": "https://github.com/meithan/walicxe3d",
-      "archived": false,
-      "fork": false
-    },
-    {
-      "name": "esquivas/walicxe3d",
-      "description": "Walicxe3D parallel AMR grid hydrodynamics code",
-      "language": "HTML",
-      "topics": [],
-      "stars": 3,
-      "url": "https://github.com/esquivas/walicxe3d",
-      "archived": false,
-      "fork": true
-    }
-  ],
   "Security & Cryptography": [
     {
       "name": "AlexZio00/sovereign-skills",
@@ -12603,7 +12633,7 @@
       "description": "Neural Networks: Zero to Hero",
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 23968,
+      "stars": 23975,
       "url": "https://github.com/karpathy/nn-zero-to-hero",
       "archived": false,
       "fork": false
@@ -13020,7 +13050,7 @@
       "description": null,
       "language": "Jupyter Notebook",
       "topics": [],
-      "stars": 20,
+      "stars": 21,
       "url": "https://github.com/NCAR/MURaM_main",
       "archived": false,
       "fork": false
@@ -13156,7 +13186,7 @@
         "machine-learning",
         "ocean"
       ],
-      "stars": 1408,
+      "stars": 1410,
       "url": "https://github.com/CliMA/Oceananigans.jl",
       "archived": false,
       "fork": false
