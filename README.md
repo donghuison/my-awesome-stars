@@ -2,9 +2,9 @@
 
 > A curated list of my GitHub starred repositories organized by categories
 
-![Total Stars](https://img.shields.io/badge/Total%20Stars-989-brightgreen)
+![Total Stars](https://img.shields.io/badge/Total%20Stars-993-brightgreen)
 ![Categories](https://img.shields.io/badge/Categories-17-blue)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--05-orange)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--10--06-orange)
 
 ## 📖 About
 
@@ -17,37 +17,37 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 |----------|-------|
 | 🔬 Scientific Computing & Numerical Analysis | 168 |
 | 🔢 Fortran Projects | 162 |
-| 🐍 Python Projects | 131 |
-| 📜 JavaScript/TypeScript Projects | 72 |
+| 🐍 Python Projects | 132 |
+| 📜 JavaScript/TypeScript Projects | 73 |
 | ⚙️ Programming Languages & Compilers | 66 |
-| 🤖 Machine Learning & AI | 61 |
+| 🤖 Machine Learning & AI | 62 |
 | 📦 Uncategorized | 61 |
 | 📚 Documentation & Learning Resources | 59 |
-| 🛠️ Tools & Utilities | 55 |
+| 🛠️ Tools & Utilities | 56 |
 | 📓 Jupyter Notebooks | 51 |
 
 ## 📑 Table of Contents
 
 ### 🎯 Main Categories
 - [🔬 Scientific Computing & Numerical Analysis](#scientific-computing-and-numerical-analysis) (168 repos)
-- [🤖 Machine Learning & AI](#machine-learning-and-ai) (61 repos)
+- [🤖 Machine Learning & AI](#machine-learning-and-ai) (62 repos)
 - [📚 Documentation & Learning Resources](#documentation-and-learning-resources) (59 repos)
 - [🌐 Web Development](#web-development) (25 repos)
 
 ### 💻 Language-Based
 - [🔢 Fortran Projects](#fortran-projects) (162 repos)
-- [🐍 Python Projects](#python-projects) (131 repos)
+- [🐍 Python Projects](#python-projects) (132 repos)
 - [📓 Jupyter Notebooks](#jupyter-notebooks) (51 repos)
 - [⚡ C++ Projects](#c++-projects) (37 repos)
 - [🔮 Julia Projects](#julia-projects) (12 repos)
-- [📜 JavaScript/TypeScript Projects](#javascript/typescript-projects) (72 repos)
+- [📜 JavaScript/TypeScript Projects](#javascript/typescript-projects) (73 repos)
 
 ### 📚 Other Categories
+- [🛠️ Tools & Utilities](#tools-and-utilities) (56 repos)
 - [⚙️ Programming Languages & Compilers](#programming-languages-and-compilers) (66 repos)
 - [📊 Data Science & Analytics](#data-science-and-analytics) (16 repos)
 - [📦 Uncategorized](#uncategorized) (61 repos)
 - [🔒 Security & Cryptography](#security-and-cryptography) (3 repos)
-- [🛠️ Tools & Utilities](#tools-and-utilities) (55 repos)
 - [🚀 DevOps & Infrastructure](#devops-and-infrastructure) (5 repos)
 - [📐 Mathematics & Statistics](#mathematics-and-statistics) (5 repos)
 
@@ -65,9 +65,9 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 - [modern-fortran/neural-fortran](https://github.com/modern-fortran/neural-fortran) ⭐ 475 ![Fortran](https://img.shields.io/badge/Fortran-purple) - A parallel framework for deep learning
 - [Fortran-FOSS-Programmers/ford](https://github.com/Fortran-FOSS-Programmers/ford) ⭐ 458 ![Python](https://img.shields.io/badge/Python-blue) - Automatically generates FORtran Documentation from comments within the code.
 - [fortran-lang/fprettify](https://github.com/fortran-lang/fprettify) ⭐ 434 ![Python](https://img.shields.io/badge/Python-blue) - auto-formatter for modern fortran source code
-- [MFlowCode/MFC](https://github.com/MFlowCode/MFC) ⭐ 426 ![Fortran](https://img.shields.io/badge/Fortran-purple) - Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs
+- [MFlowCode/MFC](https://github.com/MFlowCode/MFC) ⭐ 427 ![Fortran](https://img.shields.io/badge/Fortran-purple) - Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs
 - [spectralDNS/spectralDNS](https://github.com/spectralDNS/spectralDNS) ⭐ 356 ![Python](https://img.shields.io/badge/Python-blue) - Spectral Navier Stokes (and similar) solvers in Python
-- [K-Dense-AI/science-superpowers](https://github.com/K-Dense-AI/science-superpowers) ⭐ 346 ![Shell](https://img.shields.io/badge/Shell-gray) - Composable computational-science methodology skills for AI research agents — pre-registration over TDD. A science-domain reimplementation of Superp...
+- [K-Dense-AI/science-superpowers](https://github.com/K-Dense-AI/science-superpowers) ⭐ 347 ![Shell](https://img.shields.io/badge/Shell-gray) - Composable computational-science methodology skills for AI research agents — pre-registration over TDD. A science-domain reimplementation of Superp...
 - [fortran-lang/fortls](https://github.com/fortran-lang/fortls) ⭐ 343 ![Python](https://img.shields.io/badge/Python-blue) - fortls - Fortran Language Server
 - [AMReX-Astro/Castro](https://github.com/AMReX-Astro/Castro) ⭐ 341 ![C++](https://img.shields.io/badge/C++-orange) - Castro (Compressible Astrophysics): An adaptive mesh, astrophysical compressible (radiation-, magneto-)  hydrodynamics simulation code for massivel...
 - [levimcclenny/SA-PINNs](https://github.com/levimcclenny/SA-PINNs) ⭐ 301 ![Python](https://img.shields.io/badge/Python-blue) - Implementation of the paper "Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism" [AAAI-MLPS 2021]
@@ -92,7 +92,7 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 <summary>View 138 more...</summary>
 
 - [opensbli/opensbli](https://github.com/opensbli/opensbli) ⭐ 113 ![Python](https://img.shields.io/badge/Python-blue) - A framework for the automated derivation and parallel execution of finite difference solvers on a range of computer architectures.
-- [gkeyllorg/gkeyll](https://github.com/gkeyllorg/gkeyll) ⭐ 110 ![C](https://img.shields.io/badge/C-gray) - The Gkeyll Computational Plasma Physics Package
+- [gkeyllorg/gkeyll](https://github.com/gkeyllorg/gkeyll) ⭐ 111 ![C](https://img.shields.io/badge/C-gray) - The Gkeyll Computational Plasma Physics Package
 - [codee-com/open-catalog](https://github.com/codee-com/open-catalog) ⭐ 106 ![Fortran](https://img.shields.io/badge/Fortran-purple) - A collaborative effort to consolidate expert knowledge on code guidelines for the correctness, modernization, security, portability, and optimizati...
 - [wme7/ApproximateRiemannSolvers](https://github.com/wme7/ApproximateRiemannSolvers) ⭐ 105 ![Matlab](https://img.shields.io/badge/Matlab-gray) - My personal collection of Riemann solvers using MUSCL and WENO schemes written as short Matlab scripts
 - [TheAlgorithms/Fortran](https://github.com/TheAlgorithms/Fortran) ⭐ 103 ![Fortran](https://img.shields.io/badge/Fortran-purple) - All Algorithms implemented in Fortran. Making Fortran Great Again!
@@ -149,10 +149,10 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 - [carl-parsec/codes4book](https://github.com/carl-parsec/codes4book) ![MATLAB](https://img.shields.io/badge/MATLAB-red) - Computer Codes for Applied Numerical Methods for PDEs by Carl L. Gardner
 - [phquanta/Multigrid_Poisson_Solver_3D](https://github.com/phquanta/Multigrid_Poisson_Solver_3D) ![FORTRAN](https://img.shields.io/badge/FORTRAN-purple) - 3D Parallel(MPI)  Multigrid Poisson Solver
 - [Maison-de-la-Simulation/heraclespp](https://github.com/Maison-de-la-Simulation/heraclespp) ![C++](https://img.shields.io/badge/C++-orange) - HERACLES++ is a hydrodynamic code with a moving grid, designed to run on different architectures using Kokkos.
-- [glue-viz/glue-solar](https://github.com/glue-viz/glue-solar) ![Python](https://img.shields.io/badge/Python-blue) - Work in progress solar physics plugins for glue :sun_with_face: 
 - [debog/hypar](https://github.com/debog/hypar) ![C](https://img.shields.io/badge/C-gray) - Conservative Finite-Difference Solver for Hyperbolic-Parabolic PDEs
 - [jbnunezd/fv-solver-mhd](https://github.com/jbnunezd/fv-solver-mhd) ![Fortran](https://img.shields.io/badge/Fortran-purple) - High-order finite volume solver for the magnetohydrodynamics equations
 - [pmocz/navier-stokes-jax](https://github.com/pmocz/navier-stokes-jax) ![Python](https://img.shields.io/badge/Python-blue) - A simple Navier Stokes solver written in JAX with inverse-problem optimizer
+- [glue-viz/glue-solar](https://github.com/glue-viz/glue-solar) ![Python](https://img.shields.io/badge/Python-blue) - Work in progress solar physics plugins for glue :sun_with_face: 
 - [bwoshea/ZEUS-MP_2](https://github.com/bwoshea/ZEUS-MP_2) ![Fortran](https://img.shields.io/badge/Fortran-purple) - This repository is the home of the ZEUS-MP 2.0 code, which was created by John Hayes and others at the Laboratory for Computational Astrophysics at...
 - [jingchangshi/RoeRiemannSolver](https://github.com/jingchangshi/RoeRiemannSolver) ![C++](https://img.shields.io/badge/C++-orange) - 1D Roe Riemann Solver
 - [henry2004y/KeyNotes](https://github.com/henry2004y/KeyNotes) ![TeX](https://img.shields.io/badge/TeX-green) - My notes of plasma physics
@@ -244,7 +244,7 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 - [Nek5000/Nek5000](https://github.com/Nek5000/Nek5000) ⭐ 490 ![Fortran](https://img.shields.io/badge/Fortran-purple) - our classic
 - [modern-fortran/neural-fortran](https://github.com/modern-fortran/neural-fortran) ⭐ 475 ![Fortran](https://img.shields.io/badge/Fortran-purple) - A parallel framework for deep learning
 - [E3SM-Project/E3SM](https://github.com/E3SM-Project/E3SM) ⭐ 444 ![Fortran](https://img.shields.io/badge/Fortran-purple) - Energy Exascale Earth System Model source code.  NOTE:  use "maint" branches for your work.  Head of master is not validated.
-- [MFlowCode/MFC](https://github.com/MFlowCode/MFC) ⭐ 426 ![Fortran](https://img.shields.io/badge/Fortran-purple) - Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs
+- [MFlowCode/MFC](https://github.com/MFlowCode/MFC) ⭐ 427 ![Fortran](https://img.shields.io/badge/Fortran-purple) - Exascale multiphase flow solver — 2025 Gordon Bell Prize Finalist | 200T grid points on 43K+ GPUs
 - [ucns3d-team/UCNS3D](https://github.com/ucns3d-team/UCNS3D) ⭐ 360 ![Fortran](https://img.shields.io/badge/Fortran-purple) - Unstructured Compressible Navier Stokes 3D code (UCNS3D) 
 - [flexi-framework/flexi](https://github.com/flexi-framework/flexi) ⭐ 296 ![Fortran](https://img.shields.io/badge/Fortran-purple) - FLEXI: A high order discontinuous Galerkin framework for hyperbolic–parabolic conservation laws
 - [CaNS-World/CaNS](https://github.com/CaNS-World/CaNS) ⭐ 279 ![Fortran](https://img.shields.io/badge/Fortran-purple) - A code for fast, massively-parallel direct numerical simulations (DNS) of canonical flows
@@ -263,8 +263,8 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 - [nbren12/call_py_fort](https://github.com/nbren12/call_py_fort) ![Fortran](https://img.shields.io/badge/Fortran-purple) - Call python from fortran
 - [ramses-organisation/ramses](https://github.com/ramses-organisation/ramses) ![Fortran](https://img.shields.io/badge/Fortran-purple) - Main repository for the Adaptive Mesh Refinement code RAMSES. The code is written in F90 and uses the MPI library.
 - [NCAR/ccpp-physics](https://github.com/NCAR/ccpp-physics) ![Fortran](https://img.shields.io/badge/Fortran-purple) - Collection of physics parameterizations compliant with the Common Community Physics Package (CCPP) framework
-- [Multiphysics-Flow-Solvers/FluTAS](https://github.com/Multiphysics-Flow-Solvers/FluTAS) ![Fortran](https://img.shields.io/badge/Fortran-purple) - FluTAS (Fluid Transport Accelerated Solver) is a modular, multiphysics code for multiphase fluid dynamics simulations
 - [geodynamics/Rayleigh](https://github.com/geodynamics/Rayleigh) ![Fortran](https://img.shields.io/badge/Fortran-purple) - Rayleigh: Pseudo-spectral MHD
+- [Multiphysics-Flow-Solvers/FluTAS](https://github.com/Multiphysics-Flow-Solvers/FluTAS) ![Fortran](https://img.shields.io/badge/Fortran-purple) - FluTAS (Fluid Transport Accelerated Solver) is a modular, multiphysics code for multiphase fluid dynamics simulations
 - [zenitani/OpenMHD](https://github.com/zenitani/OpenMHD) ![Fortran](https://img.shields.io/badge/Fortran-purple)
 - [project-fluxo/fluxo](https://github.com/project-fluxo/fluxo) ![Fortran](https://img.shields.io/badge/Fortran-purple) - Fluxo implements the DGSEM for general advection-diffusion equations
 - [jacobwilliams/finterp](https://github.com/jacobwilliams/finterp) ![Fortran](https://img.shields.io/badge/Fortran-purple) - Multidimensional (1D-6D) Linear and Nearest-Neighbor Interpolation with Modern Fortran
@@ -413,69 +413,70 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 ## 🐍 Python Projects
 
-*131 repositories*
+*132 repositories*
 
-- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 195,580 ![Python](https://img.shields.io/badge/Python-blue) - A feature-rich command-line audio/video downloader
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) ⭐ 188,475 ![Python](https://img.shields.io/badge/Python-blue) - Python tool for converting files and office documents to Markdown.
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 140,725 ![Python](https://img.shields.io/badge/Python-blue) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-- [github/spec-kit](https://github.com/github/spec-kit) ⭐ 140,134 ![Python](https://img.shields.io/badge/Python-blue) - 💫 Toolkit to help you get started with SDD or any other process!
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) ⭐ 123,822 ![Python](https://img.shields.io/badge/Python-blue) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Code...
-- [openai/whisper](https://github.com/openai/whisper) ⭐ 109,979 ![Python](https://img.shields.io/badge/Python-blue) - Robust Speech Recognition via Large-Scale Weak Supervision
-- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) ⭐ 76,006 ![Python](https://img.shields.io/badge/Python-blue) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) ⭐ 74,426 ![Python](https://img.shields.io/badge/Python-blue) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, sam...
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) ⭐ 66,578 ![Python](https://img.shields.io/badge/Python-blue) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 63,521 ![Python](https://img.shields.io/badge/Python-blue) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 57,623 ![Python](https://img.shields.io/badge/Python-blue) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de...
-- [blader/humanizer](https://github.com/blader/humanizer) ⭐ 53,986 ![Python](https://img.shields.io/badge/Python-blue) - Agent skill that removes signs of AI-generated writing from text
-- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) ⭐ 50,403 ![Python](https://img.shields.io/badge/Python-blue) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 47,602 ![Python](https://img.shields.io/badge/Python-blue) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated ...
-- [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) ⭐ 45,886 ![Python](https://img.shields.io/badge/Python-blue) - 符合nature论文学术表达和科研绘图的Skill
-- [soxoj/maigret](https://github.com/soxoj/maigret) ⭐ 38,308 ![Python](https://img.shields.io/badge/Python-blue) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ⭐ 32,381 ![Python](https://img.shields.io/badge/Python-blue) - CLI tool for configuring and monitoring Claude Code
-- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) ⭐ 31,920 ![Python](https://img.shields.io/badge/Python-blue) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with bench...
-- [huggingface/smolagents](https://github.com/huggingface/smolagents) ⭐ 29,675 ![Python](https://img.shields.io/badge/Python-blue) - 🤗 smolagents: a barebones library for agents that think in code.
-- [openai/skills](https://github.com/openai/skills) ⭐ 27,881 ![Python](https://img.shields.io/badge/Python-blue) - Skills Catalog for Codex
-- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) ⭐ 23,336 ![Python](https://img.shields.io/badge/Python-blue) - A privacy-first app that strips AI watermarks from content you own.
-- [openai/gpt-oss](https://github.com/openai/gpt-oss) ⭐ 20,455 ![Python](https://img.shields.io/badge/Python-blue) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
-- [andrewyng/openworker](https://github.com/andrewyng/openworker) ⭐ 18,427 ![Python](https://img.shields.io/badge/Python-blue)
-- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) ⭐ 16,840 ![Python](https://img.shields.io/badge/Python-blue) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
-- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) ⭐ 12,689 ![Python](https://img.shields.io/badge/Python-blue) - Pocket Flow: Codebase to Tutorial
-- [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) ⭐ 12,071 ![Python](https://img.shields.io/badge/Python-blue) - Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows
-- [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) ⭐ 11,878 ![Python](https://img.shields.io/badge/Python-blue) - Removes 20+ patterns of AI slop from any piece of writing.
-- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) ⭐ 7,547 ![Python](https://img.shields.io/badge/Python-blue) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
-- [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) ⭐ 7,262 ![Python](https://img.shields.io/badge/Python-blue) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+- [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) ⭐ 195,794 ![Python](https://img.shields.io/badge/Python-blue) - A feature-rich command-line audio/video downloader
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) ⭐ 188,693 ![Python](https://img.shields.io/badge/Python-blue) - Python tool for converting files and office documents to Markdown.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 140,805 ![Python](https://img.shields.io/badge/Python-blue) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+- [github/spec-kit](https://github.com/github/spec-kit) ⭐ 140,276 ![Python](https://img.shields.io/badge/Python-blue) - 💫 Toolkit to help you get started with SDD or any other process!
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) ⭐ 124,083 ![Python](https://img.shields.io/badge/Python-blue) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Code...
+- [openai/whisper](https://github.com/openai/whisper) ⭐ 110,018 ![Python](https://img.shields.io/badge/Python-blue) - Robust Speech Recognition via Large-Scale Weak Supervision
+- [666ghj/MiroFish](https://github.com/666ghj/MiroFish) ⭐ 76,506 ![Python](https://img.shields.io/badge/Python-blue) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) ⭐ 74,461 ![Python](https://img.shields.io/badge/Python-blue) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, sam...
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) ⭐ 66,634 ![Python](https://img.shields.io/badge/Python-blue) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 63,591 ![Python](https://img.shields.io/badge/Python-blue) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 57,757 ![Python](https://img.shields.io/badge/Python-blue) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de...
+- [blader/humanizer](https://github.com/blader/humanizer) ⭐ 54,227 ![Python](https://img.shields.io/badge/Python-blue) - Agent skill that removes signs of AI-generated writing from text
+- [Imbad0202/academic-research-skills](https://github.com/Imbad0202/academic-research-skills) ⭐ 50,564 ![Python](https://img.shields.io/badge/Python-blue) - Academic Research Skills for Claude Code: research → write → review → revise → finalize
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 47,705 ![Python](https://img.shields.io/badge/Python-blue) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated ...
+- [Yuan1z0825/nature-skills](https://github.com/Yuan1z0825/nature-skills) ⭐ 46,046 ![Python](https://img.shields.io/badge/Python-blue) - 符合nature论文学术表达和科研绘图的Skill
+- [soxoj/maigret](https://github.com/soxoj/maigret) ⭐ 38,349 ![Python](https://img.shields.io/badge/Python-blue) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ⭐ 32,401 ![Python](https://img.shields.io/badge/Python-blue) - CLI tool for configuring and monitoring Claude Code
+- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) ⭐ 31,932 ![Python](https://img.shields.io/badge/Python-blue) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with bench...
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) ⭐ 29,695 ![Python](https://img.shields.io/badge/Python-blue) - 🤗 smolagents: a barebones library for agents that think in code.
+- [openai/skills](https://github.com/openai/skills) ⭐ 27,893 ![Python](https://img.shields.io/badge/Python-blue) - Skills Catalog for Codex
+- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) ⭐ 23,402 ![Python](https://img.shields.io/badge/Python-blue) - A privacy-first app that strips AI watermarks from content you own.
+- [openai/gpt-oss](https://github.com/openai/gpt-oss) ⭐ 20,457 ![Python](https://img.shields.io/badge/Python-blue) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+- [andrewyng/openworker](https://github.com/andrewyng/openworker) ⭐ 18,436 ![Python](https://img.shields.io/badge/Python-blue)
+- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) ⭐ 16,838 ![Python](https://img.shields.io/badge/Python-blue) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) ⭐ 12,690 ![Python](https://img.shields.io/badge/Python-blue) - Pocket Flow: Codebase to Tutorial
+- [Imbad0202/academic-research-skills-codex](https://github.com/Imbad0202/academic-research-skills-codex) ⭐ 12,140 ![Python](https://img.shields.io/badge/Python-blue) - Codex-native Academic Research Skills suite for human-in-the-loop academic research workflows
+- [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) ⭐ 11,930 ![Python](https://img.shields.io/badge/Python-blue) - Removes 20+ patterns of AI slop from any piece of writing.
+- [anthropics/defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness) ⭐ 7,546 ![Python](https://img.shields.io/badge/Python-blue) - Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize
+- [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) ⭐ 7,265 ![Python](https://img.shields.io/badge/Python-blue) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
 - [maziarraissi/PINNs](https://github.com/maziarraissi/PINNs) ⭐ 6,179 ![Python](https://img.shields.io/badge/Python-blue) - Physics Informed Deep Learning: Data-driven Solutions and Discovery of Nonlinear Partial Differential Equations
 
 <details>
-<summary>View 101 more...</summary>
+<summary>View 102 more...</summary>
 
 - [google/agents-cli](https://github.com/google/agents-cli) ⭐ 6,051 ![Python](https://img.shields.io/badge/Python-blue) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
-- [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) ⭐ 5,844 ![Python](https://img.shields.io/badge/Python-blue) - AI가 쓴 한글을 사람 글처럼 윤문하는 Claude 스킬 — Korean AI-text humanizer: detects and rewrites translationese, mechanical parallelism, and 71 other AI tells
-- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) ⭐ 5,239 ![Python](https://img.shields.io/badge/Python-blue) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summari...
-- [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) ⭐ 3,978 ![Python](https://img.shields.io/badge/Python-blue) - [NeurIPS 2025] Open-source Multi-agent Poster Generation from Papers
-- [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator) ⭐ 3,931 ![Python](https://img.shields.io/badge/Python-blue) - Learning in infinite dimension with neural operators.
-- [google-deepmind/science-skills](https://github.com/google-deepmind/science-skills) ⭐ 3,199 ![Python](https://img.shields.io/badge/Python-blue) - GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome,...
-- [shepherd-agents/shepherd](https://github.com/shepherd-agents/shepherd) ⭐ 2,474 ![Python](https://img.shields.io/badge/Python-blue) - A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run...
-- [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) ⭐ 2,416 ![Python](https://img.shields.io/badge/Python-blue) - A general purpose scientific writer
-- [jennyzzt/dgm](https://github.com/jennyzzt/dgm) ⭐ 2,387 ![Python](https://img.shields.io/badge/Python-blue) - Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents
-- [alexgreensh/attention-span](https://github.com/alexgreensh/attention-span) ⭐ 1,230 ![Python](https://img.shields.io/badge/Python-blue) - Make your agents talk human. ADHD-friendly output styles for Claude Code, Codex, and others. So you can pay attention, not tokens.
+- [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) ⭐ 5,859 ![Python](https://img.shields.io/badge/Python-blue) - AI가 쓴 한글을 사람 글처럼 윤문하는 Claude 스킬 — Korean AI-text humanizer: detects and rewrites translationese, mechanical parallelism, and 71 other AI tells
+- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) ⭐ 5,247 ![Python](https://img.shields.io/badge/Python-blue) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summari...
+- [Paper2Poster/Paper2Poster](https://github.com/Paper2Poster/Paper2Poster) ⭐ 3,979 ![Python](https://img.shields.io/badge/Python-blue) - [NeurIPS 2025] Open-source Multi-agent Poster Generation from Papers
+- [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator) ⭐ 3,933 ![Python](https://img.shields.io/badge/Python-blue) - Learning in infinite dimension with neural operators.
+- [google-deepmind/science-skills](https://github.com/google-deepmind/science-skills) ⭐ 3,208 ![Python](https://img.shields.io/badge/Python-blue) - GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome,...
+- [Nanako0129/sepia](https://github.com/Nanako0129/sepia) ⭐ 2,990 ![Python](https://img.shields.io/badge/Python-blue) - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Ant...
+- [shepherd-agents/shepherd](https://github.com/shepherd-agents/shepherd) ⭐ 2,472 ![Python](https://img.shields.io/badge/Python-blue) - A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run...
+- [K-Dense-AI/claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) ⭐ 2,419 ![Python](https://img.shields.io/badge/Python-blue) - A general purpose scientific writer
+- [jennyzzt/dgm](https://github.com/jennyzzt/dgm) ⭐ 2,390 ![Python](https://img.shields.io/badge/Python-blue) - Darwin Gödel Machine: Open-Ended Evolution of Self-Improving Agents
+- [alexgreensh/attention-span](https://github.com/alexgreensh/attention-span) ⭐ 1,302 ![Python](https://img.shields.io/badge/Python-blue) - Make your agents talk human. ADHD-friendly output styles for Claude Code, Codex, and others. So you can pay attention, not tokens.
 - [DedalusProject/dedalus](https://github.com/DedalusProject/dedalus) ⭐ 711 ![Python](https://img.shields.io/badge/Python-blue) - A flexible framework for solving PDEs with modern spectral methods.
-- [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) ⭐ 502 ![Python](https://img.shields.io/badge/Python-blue) - Write research paper and literature review drafts with an open-source Python engine that checks citation DOIs against scholarly databases. Export P...
-- [bahayonghang/academic-writing-skills](https://github.com/bahayonghang/academic-writing-skills) ⭐ 490 ![Python](https://img.shields.io/badge/Python-blue) - AI-powered post-writing toolkit for academic papers — format validation, grammar/style polishing, de-AI editing, reference checking, and reviewer-s...
+- [federicodeponte/opendraft](https://github.com/federicodeponte/opendraft) ⭐ 505 ![Python](https://img.shields.io/badge/Python-blue) - Write research paper and literature review drafts with an open-source Python engine that checks citation DOIs against scholarly databases. Export P...
+- [bahayonghang/academic-writing-skills](https://github.com/bahayonghang/academic-writing-skills) ⭐ 492 ![Python](https://img.shields.io/badge/Python-blue) - AI-powered post-writing toolkit for academic papers — format validation, grammar/style polishing, de-AI editing, reference checking, and reviewer-s...
 - [Fortran-FOSS-Programmers/ford](https://github.com/Fortran-FOSS-Programmers/ford) ⭐ 458 ![Python](https://img.shields.io/badge/Python-blue) - Automatically generates FORtran Documentation from comments within the code.
 - [fortran-lang/fprettify](https://github.com/fortran-lang/fprettify) ⭐ 434 ![Python](https://img.shields.io/badge/Python-blue) - auto-formatter for modern fortran source code
 - [spectralDNS/spectralDNS](https://github.com/spectralDNS/spectralDNS) ⭐ 356 ![Python](https://img.shields.io/badge/Python-blue) - Spectral Navier Stokes (and similar) solvers in Python
 - [fortran-lang/fortls](https://github.com/fortran-lang/fortls) ⭐ 343 ![Python](https://img.shields.io/badge/Python-blue) - fortls - Fortran Language Server
-- [NulightJens/humanizer-stack](https://github.com/NulightJens/humanizer-stack) ⭐ 317 ![Python](https://img.shields.io/badge/Python-blue) - Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. P...
+- [NulightJens/humanizer-stack](https://github.com/NulightJens/humanizer-stack) ⭐ 320 ![Python](https://img.shields.io/badge/Python-blue) - Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. P...
 - [levimcclenny/SA-PINNs](https://github.com/levimcclenny/SA-PINNs) ⭐ 301 ![Python](https://img.shields.io/badge/Python-blue) - Implementation of the paper "Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism" [AAAI-MLPS 2021]
 - [K-Dense-AI/mimeo](https://github.com/K-Dense-AI/mimeo) ⭐ 280 ![Python](https://img.shields.io/badge/Python-blue) - Mimeograph an expert into a SKILL.md or AGENTS.md for your agent.
 - [matsuikentaro1/humanizer_academic](https://github.com/matsuikentaro1/humanizer_academic) ⭐ 272 ![Python](https://img.shields.io/badge/Python-blue) - A Claude Code skill that removes signs of AI-generated writing from academic medical papers, making them sound more natural and professionally writ...
-- [hacktivist123/agent-session-resume](https://github.com/hacktivist123/agent-session-resume) ⭐ 244 ![Python](https://img.shields.io/badge/Python-blue) - Cross-agent session resume skill for Claude Code, Codex, Antigravity, and OpenCode.
+- [hacktivist123/agent-session-resume](https://github.com/hacktivist123/agent-session-resume) ⭐ 243 ![Python](https://img.shields.io/badge/Python-blue) - Cross-agent session resume skill for Claude Code, Codex, Antigravity, and OpenCode.
 - [aradi/fypp](https://github.com/aradi/fypp) ⭐ 219 ![Python](https://img.shields.io/badge/Python-blue) - Python powered Fortran preprocessor
 - [okada39/pinn_wave](https://github.com/okada39/pinn_wave) ⭐ 213 ![Python](https://img.shields.io/badge/Python-blue) - Physics Informed Neural Network (PINN) for the wave equation.
 - [okada39/pinn_cavity](https://github.com/okada39/pinn_cavity) ⭐ 165 ![Python](https://img.shields.io/badge/Python-blue) - Physics informed neural network (PINN) for cavity flow governed by Navier-Stokes equation.
 - [pmocz/finitevolume-python](https://github.com/pmocz/finitevolume-python) ⭐ 144 ![Python](https://img.shields.io/badge/Python-blue) - Finite Volume simulation of the Kelvin-Helmholtz Instability
-- [AlexZio00/sovereign-skills](https://github.com/AlexZio00/sovereign-skills) ⭐ 138 ![Python](https://img.shields.io/badge/Python-blue) - 20 production-grade skills for AI coding agents — setup, scope, discipline, code review, security, session management, governance, ops, and quality...
+- [AlexZio00/sovereign-skills](https://github.com/AlexZio00/sovereign-skills) ⭐ 139 ![Python](https://img.shields.io/badge/Python-blue) - 20 production-grade skills for AI coding agents — setup, scope, discipline, code review, security, session management, governance, ops, and quality...
 - [opensbli/opensbli](https://github.com/opensbli/opensbli) ⭐ 113 ![Python](https://img.shields.io/badge/Python-blue) - A framework for the automated derivation and parallel execution of finite difference solvers on a range of computer architectures.
 - [JohannesBuchner/languagecheck](https://github.com/JohannesBuchner/languagecheck) ⭐ 111 ![Python](https://img.shields.io/badge/Python-blue) - Improve the language of your paper before submission
 - [cfinch/Shocksolution_Examples](https://github.com/cfinch/Shocksolution_Examples) ![Python](https://img.shields.io/badge/Python-blue) - Example code from shocksolution.com
@@ -506,8 +507,8 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 - [ahmadpeyvan/RiemannONet](https://github.com/ahmadpeyvan/RiemannONet) ![Python](https://img.shields.io/badge/Python-blue) - This repository consists of two-step training DeepONet code.
 - [pmocz/artificialneuralnetwork-python](https://github.com/pmocz/artificialneuralnetwork-python) ![Python](https://img.shields.io/badge/Python-blue) - Artificial Neural Network for Image Classification
 - [boutproject/STORM](https://github.com/boutproject/STORM) ![Python](https://img.shields.io/badge/Python-blue)
-- [glue-viz/glue-solar](https://github.com/glue-viz/glue-solar) ![Python](https://img.shields.io/badge/Python-blue) - Work in progress solar physics plugins for glue :sun_with_face: 
 - [pmocz/navier-stokes-jax](https://github.com/pmocz/navier-stokes-jax) ![Python](https://img.shields.io/badge/Python-blue) - A simple Navier Stokes solver written in JAX with inverse-problem optimizer
+- [glue-viz/glue-solar](https://github.com/glue-viz/glue-solar) ![Python](https://img.shields.io/badge/Python-blue) - Work in progress solar physics plugins for glue :sun_with_face: 
 - [Data-Only-Greater/convergence](https://github.com/Data-Only-Greater/convergence) ![Python](https://img.shields.io/badge/Python-blue) - A Python program to Perform Calculations Associated with a Grid Convergence Study
 - [pmocz/nbody-performance-comparison](https://github.com/pmocz/nbody-performance-comparison) ![Python](https://img.shields.io/badge/Python-blue) - Directly compare performance of vectorized and for-loop implementations of the N-body problem in Matlab, Julia, and Python
 - [predsci/OFT](https://github.com/predsci/OFT) ![Python](https://img.shields.io/badge/Python-blue) - Open Source Flux Transport
@@ -558,64 +559,65 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 ## 📜 JavaScript/TypeScript Projects
 
-*72 repositories*
+*73 repositories*
 
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) ⭐ 211,777 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - The open source coding agent.
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 155,007 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [earendil-works/pi](https://github.com/earendil-works/pi) ⭐ 112,473 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 101,254 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Production-grade engineering skills for AI coding agents.
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐ 92,623 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐ 91,011 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Model Context Protocol Servers
-- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) ⭐ 90,004 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - 🙌 OpenHands: AI-Driven Development
-- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) ⭐ 85,292 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works ...
-- [stablyai/orca](https://github.com/stablyai/orca) ⭐ 85,097 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remo...
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) ⭐ 73,025 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Wo...
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ⭐ 69,802 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
-- [upstash/context7](https://github.com/upstash/context7) ⭐ 62,684 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-- [upscayl/upscayl](https://github.com/upscayl/upscayl) ⭐ 50,109 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) ⭐ 47,573 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
-- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) ⭐ 43,778 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out...
-- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) ⭐ 33,452 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
-- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) ⭐ 25,218 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
-- [winfunc/opcode](https://github.com/winfunc/opcode) ⭐ 22,427 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and m...
-- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) ⭐ 19,930 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
-- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) ⭐ 16,963 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
-- [andrewyng/context-hub](https://github.com/andrewyng/context-hub) ⭐ 13,979 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) ⭐ 211,908 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - The open source coding agent.
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 156,095 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [earendil-works/pi](https://github.com/earendil-works/pi) ⭐ 112,766 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 101,567 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Production-grade engineering skills for AI coding agents.
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 93,629 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐ 92,894 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) ⭐ 91,029 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Model Context Protocol Servers
+- [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) ⭐ 90,070 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - 🙌 OpenHands: AI-Driven Development
+- [stablyai/orca](https://github.com/stablyai/orca) ⭐ 85,972 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and remo...
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) ⭐ 85,373 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works ...
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) ⭐ 73,382 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Wo...
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ⭐ 69,834 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
+- [upstash/context7](https://github.com/upstash/context7) ⭐ 62,723 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) ⭐ 50,119 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+- [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) ⭐ 48,026 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) ⭐ 43,851 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out...
+- [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) ⭐ 33,455 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) ⭐ 25,663 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+- [winfunc/opcode](https://github.com/winfunc/opcode) ⭐ 22,421 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and m...
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) ⭐ 19,928 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) ⭐ 16,983 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+- [andrewyng/context-hub](https://github.com/andrewyng/context-hub) ⭐ 13,975 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 - [codexu/note-gen](https://github.com/codexu/note-gen) ⭐ 12,871 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Capture first. Organize later. A local-first Markdown app that turns scattered records into clear notes with AI.
-- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) ⭐ 11,416 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by...
-- [cursor/plugins](https://github.com/cursor/plugins) ⭐ 9,819 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Cursor plugin specification and official plugins
-- [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) ⭐ 7,764 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
-- [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) ⭐ 7,083 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - https://github.com/DuarteSantos8/openGym
-- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) ⭐ 5,484 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model p...
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) ⭐ 11,422 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by...
+- [cursor/plugins](https://github.com/cursor/plugins) ⭐ 9,987 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Cursor plugin specification and official plugins
+- [NomaDamas/k-skill](https://github.com/NomaDamas/k-skill) ⭐ 7,777 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로
+- [arvids-unavailable/openGym](https://github.com/arvids-unavailable/openGym) ⭐ 7,107 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - https://github.com/DuarteSantos8/openGym
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) ⭐ 5,486 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model p...
 - [SilentVoid13/Templater](https://github.com/SilentVoid13/Templater) ⭐ 5,325 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A template plugin for obsidian
-- [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) ⭐ 5,288 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
-- [humanlayer/skills](https://github.com/humanlayer/skills) ⭐ 4,928 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+- [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) ⭐ 5,295 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 
 <details>
-<summary>View 42 more...</summary>
+<summary>View 43 more...</summary>
 
-- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) ⭐ 4,472 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.
+- [humanlayer/skills](https://github.com/humanlayer/skills) ⭐ 4,978 ![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) ⭐ 4,555 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.
 - [steipete/oracle](https://github.com/steipete/oracle) ⭐ 4,042 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
-- [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) ⭐ 3,729 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
-- [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) ⭐ 3,191 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - An open-source research agent system for your Zotero library.
+- [code-yeongyu/lazycodex](https://github.com/code-yeongyu/lazycodex) ⭐ 3,734 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex.
+- [yilewang/llm-for-zotero](https://github.com/yilewang/llm-for-zotero) ⭐ 3,194 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - An open-source research agent system for your Zotero library.
 - [xandemon/developer-icons](https://github.com/xandemon/developer-icons) ⭐ 2,659 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A collection of well-optimized SVG tech logos for developers and designers—customizable, scalable, and free.
-- [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) ⭐ 2,341 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
+- [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) ⭐ 2,342 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [scambier/obsidian-omnisearch](https://github.com/scambier/obsidian-omnisearch) ⭐ 2,160 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A search engine that "just works" for Obsidian. Supports OCR and PDF indexing.
-- [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) ⭐ 2,127 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - VS Code in the terminal
+- [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) ⭐ 2,130 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - VS Code in the terminal
 - [supermemoryai/supermemory-mcp](https://github.com/supermemoryai/supermemory-mcp) ⭐ 1,722 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Your memories are in ChatGPT... But nowhere else. Universal Memory MCP makes your memories available to every single LLM. No logins or paywall. One...
-- [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar) ⭐ 1,558 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - An obsidian toolbar plugin, modified from the Cmenu plugin
-- [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp) ⭐ 1,387 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - 📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors
-- [vslinko/obsidian-outliner](https://github.com/vslinko/obsidian-outliner) ⭐ 1,373 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Work with your lists like in Workflowy or RoamResearch
-- [petergyang/human-review](https://github.com/petergyang/human-review) ⭐ 1,361 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI ...
+- [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar) ⭐ 1,559 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - An obsidian toolbar plugin, modified from the Cmenu plugin
+- [regenrek/deepwiki-mcp](https://github.com/regenrek/deepwiki-mcp) ⭐ 1,386 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - 📖 MCP server for fetch deepwiki.com and get latest knowledge in Cursor and other Code Editors
+- [vslinko/obsidian-outliner](https://github.com/vslinko/obsidian-outliner) ⭐ 1,374 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Work with your lists like in Workflowy or RoamResearch
+- [petergyang/human-review](https://github.com/petergyang/human-review) ⭐ 1,369 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI ...
 - [liamcain/obsidian-periodic-notes](https://github.com/liamcain/obsidian-periodic-notes) ⭐ 1,360 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Create/manage your daily, weekly, and monthly notes in Obsidian
-- [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) ⭐ 1,222 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 
+- [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) ⭐ 1,237 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 
 - [tadashi-aikawa/obsidian-various-complements-plugin](https://github.com/tadashi-aikawa/obsidian-various-complements-plugin) ⭐ 940 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - This plugin for Obsidian enables you complete words like the auto-completion of IDE.
 - [pjeby/tag-wrangler](https://github.com/pjeby/tag-wrangler) ⭐ 930 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Rename, merge, toggle, and search tags from the Obsidian tag pane
 - [chetachiezikeuzor/Highlightr-Plugin](https://github.com/chetachiezikeuzor/Highlightr-Plugin) ⭐ 811 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A minimal and aesthetically pleasing highlighting menu that makes color-coded highlighting much easier 🎨.
-- [kepano/obsidian-minimal-settings](https://github.com/kepano/obsidian-minimal-settings) ⭐ 810 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Settings plugin to control colors and fonts in Minimal Theme
+- [kepano/obsidian-minimal-settings](https://github.com/kepano/obsidian-minimal-settings) ⭐ 809 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Settings plugin to control colors and fonts in Minimal Theme
 - [Iamshankhadeep/ccseva](https://github.com/Iamshankhadeep/ccseva) ⭐ 807 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A beautiful macOS menu bar app for tracking your Claude Code usage in real-time.
-- [alangrainger/share-note](https://github.com/alangrainger/share-note) ⭐ 722 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Instantly share an Obsidian note with the full theme exactly like you see in your vault. Data is shared encrypted by default, and only you and the ...
-- [mdelobelle/obsidian_supercharged_links](https://github.com/mdelobelle/obsidian_supercharged_links) ⭐ 699 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - obsidian plugin to add attributes and context menu options to internal links
+- [alangrainger/share-note](https://github.com/alangrainger/share-note) ⭐ 723 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Instantly share an Obsidian note with the full theme exactly like you see in your vault. Data is shared encrypted by default, and only you and the ...
+- [mdelobelle/obsidian_supercharged_links](https://github.com/mdelobelle/obsidian_supercharged_links) ⭐ 700 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - obsidian plugin to add attributes and context menu options to internal links
 - [lynchjames/note-refactor-obsidian](https://github.com/lynchjames/note-refactor-obsidian) ⭐ 645 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Allows for text selections to be copied (refactored) into new notes and notes to be split into other notes.
 - [PiyushSuthar/github-readme-quotes](https://github.com/PiyushSuthar/github-readme-quotes) ⭐ 628 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - 🔥 Add Programming Quotes To Your GitHub Readme
 - [ozntel/file-tree-alternative](https://github.com/ozntel/file-tree-alternative) ⭐ 608 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - This Obsidian Plugin allows users to have a different file explorer experience.
@@ -624,7 +626,7 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 - [SkepticMystic/graph-analysis](https://github.com/SkepticMystic/graph-analysis) ⭐ 532 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Analyse the structure of your Obsidian graph using various analysis techniques
 - [regenrek/codefetch](https://github.com/regenrek/codefetch) ⭐ 448 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Turn code into Markdown for LLMs with one simple terminal command
 - [Ancienttwo/repo-harness](https://github.com/Ancienttwo/repo-harness) ⭐ 434 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - File-backed workflow harness for reliable Claude Code and Codex sessions.
-- [devswha/patina](https://github.com/devswha/patina) ⭐ 362 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - AI-writing humanizer for KO/EN/ZH/JA
+- [devswha/patina](https://github.com/devswha/patina) ⭐ 364 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - AI-writing humanizer for KO/EN/ZH/JA
 - [jlegewie/beaver-zotero](https://github.com/jlegewie/beaver-zotero) ⭐ 264 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - AI research assistant that lives in Zotero
 - [April-Gras/obsidian-auto-timelines](https://github.com/April-Gras/obsidian-auto-timelines) ⭐ 216 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Simple timeline generator plugin for story tellers using obsidian
 - [brandonwise/humanizer](https://github.com/brandonwise/humanizer) ⭐ 127 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - OpenClaw skill that detects and removes signs of AI-generated writing, making text sound natural and human. Based on Wikipedia's Signs of AI Writing.
@@ -646,24 +648,24 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *66 repositories*
 
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) ⭐ 123,822 ![Python](https://img.shields.io/badge/Python-blue) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Code...
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐ 92,623 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ⭐ 69,802 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) ⭐ 66,578 ![Python](https://img.shields.io/badge/Python-blue) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 63,521 ![Python](https://img.shields.io/badge/Python-blue) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) ⭐ 61,837 ![Zig](https://img.shields.io/badge/Zig-gray) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 57,623 ![Python](https://img.shields.io/badge/Python-blue) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de...
-- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) ⭐ 53,476 ![Kotlin](https://img.shields.io/badge/Kotlin-gray) - The Kotlin Programming Language. 
-- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ⭐ 45,803 ![C](https://img.shields.io/badge/C-gray) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, s...
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) ⭐ 40,640 ![Rust](https://img.shields.io/badge/Rust-gray) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
-- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) ⭐ 29,484 ![Java](https://img.shields.io/badge/Java-gray) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
-- [d2lang/d2](https://github.com/d2lang/d2) ⭐ 25,565 ![Go](https://img.shields.io/badge/Go-gray) - D2 is a modern diagram scripting language that turns text to diagrams.
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,911 ![C](https://img.shields.io/badge/C-gray) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
-- [openai/gpt-oss](https://github.com/openai/gpt-oss) ⭐ 20,455 ![Python](https://img.shields.io/badge/Python-blue) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
-- [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) ⭐ 19,489 ![Rust](https://img.shields.io/badge/Rust-gray) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing...
-- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) ⭐ 16,840 ![Python](https://img.shields.io/badge/Python-blue) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
-- [shepherd-agents/shepherd](https://github.com/shepherd-agents/shepherd) ⭐ 2,474 ![Python](https://img.shields.io/badge/Python-blue) - A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run...
-- [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) ⭐ 2,341 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) ⭐ 124,083 ![Python](https://img.shields.io/badge/Python-blue) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Code...
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐ 92,894 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) ⭐ 69,834 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) ⭐ 66,634 ![Python](https://img.shields.io/badge/Python-blue) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 63,591 ![Python](https://img.shields.io/badge/Python-blue) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) ⭐ 61,868 ![Zig](https://img.shields.io/badge/Zig-gray) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 57,757 ![Python](https://img.shields.io/badge/Python-blue) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de...
+- [JetBrains/kotlin](https://github.com/JetBrains/kotlin) ⭐ 53,479 ![Kotlin](https://img.shields.io/badge/Kotlin-gray) - The Kotlin Programming Language. 
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) ⭐ 45,842 ![C](https://img.shields.io/badge/C-gray) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, s...
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) ⭐ 40,838 ![Rust](https://img.shields.io/badge/Rust-gray) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
+- [opendataloader-project/opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) ⭐ 29,480 ![Java](https://img.shields.io/badge/Java-gray) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+- [d2lang/d2](https://github.com/d2lang/d2) ⭐ 25,567 ![Go](https://img.shields.io/badge/Go-gray) - D2 is a modern diagram scripting language that turns text to diagrams.
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,918 ![C](https://img.shields.io/badge/C-gray) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+- [openai/gpt-oss](https://github.com/openai/gpt-oss) ⭐ 20,457 ![Python](https://img.shields.io/badge/Python-blue) - gpt-oss-120b and gpt-oss-20b are two open-weight language models by OpenAI
+- [firecrawl/pdf-inspector](https://github.com/firecrawl/pdf-inspector) ⭐ 19,497 ![Rust](https://img.shields.io/badge/Rust-gray) - Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing...
+- [QwenLM/Qwen3-Coder](https://github.com/QwenLM/Qwen3-Coder) ⭐ 16,838 ![Python](https://img.shields.io/badge/Python-blue) - Qwen3-Coder is the code version of Qwen3, the large language model series developed by Qwen team.
+- [shepherd-agents/shepherd](https://github.com/shepherd-agents/shepherd) ⭐ 2,472 ![Python](https://img.shields.io/badge/Python-blue) - A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run...
+- [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) ⭐ 2,342 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [wrf-model/WRF](https://github.com/wrf-model/WRF) ⭐ 1,775 ![Fortran](https://img.shields.io/badge/Fortran-purple) - The official repository for the Weather Research and Forecasting (WRF) model
 - [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) ⭐ 1,429 ![Julia](https://img.shields.io/badge/Julia-purple) - 🌊  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs
 - [E3SM-Project/E3SM](https://github.com/E3SM-Project/E3SM) ⭐ 444 ![Fortran](https://img.shields.io/badge/Fortran-purple) - Energy Exascale Earth System Model source code.  NOTE:  use "maint" branches for your work.  Head of master is not validated.
@@ -724,61 +726,62 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 ## 🤖 Machine Learning & AI
 
-*61 repositories*
+*62 repositories*
 
-- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 155,007 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 144,024 - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexit...
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 140,725 ![Python](https://img.shields.io/badge/Python-blue) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-- [earendil-works/pi](https://github.com/earendil-works/pi) ⭐ 112,473 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 101,254 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Production-grade engineering skills for AI coding agents.
-- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐ 92,623 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) ⭐ 73,025 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Wo...
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) ⭐ 66,578 ![Python](https://img.shields.io/badge/Python-blue) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 63,521 ![Python](https://img.shields.io/badge/Python-blue) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-- [upstash/context7](https://github.com/upstash/context7) ⭐ 62,684 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 57,623 ![Python](https://img.shields.io/badge/Python-blue) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de...
-- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) ⭐ 50,932 - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
-- [upscayl/upscayl](https://github.com/upscayl/upscayl) ⭐ 50,109 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
-- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 47,602 ![Python](https://img.shields.io/badge/Python-blue) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated ...
-- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) ⭐ 31,920 ![Python](https://img.shields.io/badge/Python-blue) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with bench...
-- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) ⭐ 31,564 ![C#](https://img.shields.io/badge/C#-gray) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open...
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) ⭐ 27,602 ![Swift](https://img.shields.io/badge/Swift-gray) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and progr...
-- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) ⭐ 24,648 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - Neural Networks: Zero to Hero
-- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) ⭐ 23,336 ![Python](https://img.shields.io/badge/Python-blue) - A privacy-first app that strips AI watermarks from content you own.
-- [steipete/CodexBar](https://github.com/steipete/CodexBar) ⭐ 22,184 ![Swift](https://img.shields.io/badge/Swift-gray) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
-- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) ⭐ 17,752 - A skill file for removing AI tells from prose
-- [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) ⭐ 11,878 ![Python](https://img.shields.io/badge/Python-blue) - Removes 20+ patterns of AI slop from any piece of writing.
-- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) ⭐ 11,416 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by...
-- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) ⭐ 8,023 ![Swift](https://img.shields.io/badge/Swift-gray) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. ...
-- [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) ⭐ 7,262 ![Python](https://img.shields.io/badge/Python-blue) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
+- [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) ⭐ 156,095 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 144,040 - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexit...
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 140,805 ![Python](https://img.shields.io/badge/Python-blue) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+- [earendil-works/pi](https://github.com/earendil-works/pi) ⭐ 112,766 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) ⭐ 101,567 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Production-grade engineering skills for AI coding agents.
+- [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) ⭐ 92,894 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop 
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) ⭐ 73,382 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Wo...
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) ⭐ 66,634 ![Python](https://img.shields.io/badge/Python-blue) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 63,591 ![Python](https://img.shields.io/badge/Python-blue) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- [upstash/context7](https://github.com/upstash/context7) ⭐ 62,723 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) ⭐ 57,757 ![Python](https://img.shields.io/badge/Python-blue) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on de...
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) ⭐ 50,971 - LEAKED SYSTEM PROMPTS FOR CHATGPT, CLAUDE, GEMINI, GROK, PERPLEXITY, CURSOR, LOVABLE, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL! 👐
+- [upscayl/upscayl](https://github.com/upscayl/upscayl) ⭐ 50,119 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
+- [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) ⭐ 47,705 ![Python](https://img.shields.io/badge/Python-blue) - Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated ...
+- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) ⭐ 31,932 ![Python](https://img.shields.io/badge/Python-blue) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with bench...
+- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) ⭐ 31,603 ![C#](https://img.shields.io/badge/C#-gray) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open...
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) ⭐ 27,651 ![Swift](https://img.shields.io/badge/Swift-gray) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and progr...
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) ⭐ 24,657 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - Neural Networks: Zero to Hero
+- [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) ⭐ 23,402 ![Python](https://img.shields.io/badge/Python-blue) - A privacy-first app that strips AI watermarks from content you own.
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) ⭐ 22,214 ![Swift](https://img.shields.io/badge/Swift-gray) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+- [hardikpandya/stop-slop](https://github.com/hardikpandya/stop-slop) ⭐ 17,779 - A skill file for removing AI tells from prose
+- [petergyang/no-ai-slop](https://github.com/petergyang/no-ai-slop) ⭐ 11,930 ![Python](https://img.shields.io/badge/Python-blue) - Removes 20+ patterns of AI slop from any piece of writing.
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) ⭐ 11,422 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by...
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) ⭐ 8,021 ![Swift](https://img.shields.io/badge/Swift-gray) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. ...
+- [SakanaAI/AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) ⭐ 7,265 ![Python](https://img.shields.io/badge/Python-blue) - The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search
 - [maziarraissi/PINNs](https://github.com/maziarraissi/PINNs) ⭐ 6,179 ![Python](https://img.shields.io/badge/Python-blue) - Physics Informed Deep Learning: Data-driven Solutions and Discovery of Nonlinear Partial Differential Equations
 - [google/agents-cli](https://github.com/google/agents-cli) ⭐ 6,051 ![Python](https://img.shields.io/badge/Python-blue) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
-- [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) ⭐ 5,844 ![Python](https://img.shields.io/badge/Python-blue) - AI가 쓴 한글을 사람 글처럼 윤문하는 Claude 스킬 — Korean AI-text humanizer: detects and rewrites translationese, mechanical parallelism, and 71 other AI tells
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,624 ![Rust](https://img.shields.io/badge/Rust-gray) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
-- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) ⭐ 5,239 ![Python](https://img.shields.io/badge/Python-blue) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summari...
+- [epoko77-ai/im-not-ai](https://github.com/epoko77-ai/im-not-ai) ⭐ 5,859 ![Python](https://img.shields.io/badge/Python-blue) - AI가 쓴 한글을 사람 글처럼 윤문하는 Claude 스킬 — Korean AI-text humanizer: detects and rewrites translationese, mechanical parallelism, and 71 other AI tells
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,628 ![Rust](https://img.shields.io/badge/Rust-gray) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
+- [54yyyu/zotero-mcp](https://github.com/54yyyu/zotero-mcp) ⭐ 5,247 ![Python](https://img.shields.io/badge/Python-blue) - Zotero MCP: Connects your Zotero research library with Claude and other AI assistants via the Model Context Protocol to discuss papers, get summari...
 
 <details>
-<summary>View 31 more...</summary>
+<summary>View 32 more...</summary>
 
-- [brycewang-stanford/Auto-Empirical-Research-Skills](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) ⭐ 4,478 ![Stata](https://img.shields.io/badge/Stata-gray) - 🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研...
-- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) ⭐ 4,472 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.
-- [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator) ⭐ 3,931 ![Python](https://img.shields.io/badge/Python-blue) - Learning in infinite dimension with neural operators.
-- [petergyang/human-review](https://github.com/petergyang/human-review) ⭐ 1,361 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI ...
-- [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) ⭐ 1,222 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 
-- [Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) ⭐ 962 - A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a r...
-- [bahayonghang/academic-writing-skills](https://github.com/bahayonghang/academic-writing-skills) ⭐ 490 ![Python](https://img.shields.io/badge/Python-blue) - AI-powered post-writing toolkit for academic papers — format validation, grammar/style polishing, de-AI editing, reference checking, and reviewer-s...
+- [miqdadbadjuber/anti-slop](https://github.com/miqdadbadjuber/anti-slop) ⭐ 4,555 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Rules for an AI coding agent to filter out generic AI-generated UI designs, text, and code.
+- [brycewang-stanford/Auto-Empirical-Research-Skills](https://github.com/brycewang-stanford/Auto-Empirical-Research-Skills) ⭐ 4,496 ![Stata](https://img.shields.io/badge/Stata-gray) - 🔬 A curated collection of 23,000+ agent skills for empirical research across 8 social science disciplines. | 精选 23,000+ AI Agent 技能库，覆盖8大社会科学学科的实证研...
+- [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator) ⭐ 3,933 ![Python](https://img.shields.io/badge/Python-blue) - Learning in infinite dimension with neural operators.
+- [Nanako0129/sepia](https://github.com/Nanako0129/sepia) ⭐ 2,990 ![Python](https://img.shields.io/badge/Python-blue) - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Ant...
+- [petergyang/human-review](https://github.com/petergyang/human-review) ⭐ 1,369 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI ...
+- [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) ⭐ 1,237 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 
+- [Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) ⭐ 960 - A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a r...
+- [bahayonghang/academic-writing-skills](https://github.com/bahayonghang/academic-writing-skills) ⭐ 492 ![Python](https://img.shields.io/badge/Python-blue) - AI-powered post-writing toolkit for academic papers — format validation, grammar/style polishing, de-AI editing, reference checking, and reviewer-s...
 - [modern-fortran/neural-fortran](https://github.com/modern-fortran/neural-fortran) ⭐ 475 ![Fortran](https://img.shields.io/badge/Fortran-purple) - A parallel framework for deep learning
-- [K-Dense-AI/science-superpowers](https://github.com/K-Dense-AI/science-superpowers) ⭐ 346 ![Shell](https://img.shields.io/badge/Shell-gray) - Composable computational-science methodology skills for AI research agents — pre-registration over TDD. A science-domain reimplementation of Superp...
-- [NulightJens/humanizer-stack](https://github.com/NulightJens/humanizer-stack) ⭐ 317 ![Python](https://img.shields.io/badge/Python-blue) - Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. P...
+- [K-Dense-AI/science-superpowers](https://github.com/K-Dense-AI/science-superpowers) ⭐ 347 ![Shell](https://img.shields.io/badge/Shell-gray) - Composable computational-science methodology skills for AI research agents — pre-registration over TDD. A science-domain reimplementation of Superp...
+- [NulightJens/humanizer-stack](https://github.com/NulightJens/humanizer-stack) ⭐ 320 ![Python](https://img.shields.io/badge/Python-blue) - Two-pass pipeline for removing AI writing tells from outward-facing text: a surface pass plus a structural pass grounded in the StoryScope study. P...
 - [levimcclenny/SA-PINNs](https://github.com/levimcclenny/SA-PINNs) ⭐ 301 ![Python](https://img.shields.io/badge/Python-blue) - Implementation of the paper "Self-Adaptive Physics-Informed Neural Networks using a Soft Attention Mechanism" [AAAI-MLPS 2021]
 - [jlegewie/beaver-zotero](https://github.com/jlegewie/beaver-zotero) ⭐ 264 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - AI research assistant that lives in Zotero
 - [ikespand/awesome-machine-learning-fluid-mechanics](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics) ⭐ 255 - Curated list for ML in FM
 - [okada39/pinn_wave](https://github.com/okada39/pinn_wave) ⭐ 213 ![Python](https://img.shields.io/badge/Python-blue) - Physics Informed Neural Network (PINN) for the wave equation.
 - [Cambridge-ICCS/FTorch](https://github.com/Cambridge-ICCS/FTorch) ⭐ 206 ![Fortran](https://img.shields.io/badge/Fortran-purple) - A library for directly calling PyTorch ML models from Fortran.
 - [okada39/pinn_cavity](https://github.com/okada39/pinn_cavity) ⭐ 165 ![Python](https://img.shields.io/badge/Python-blue) - Physics informed neural network (PINN) for cavity flow governed by Navier-Stokes equation.
-- [AlexZio00/sovereign-skills](https://github.com/AlexZio00/sovereign-skills) ⭐ 138 ![Python](https://img.shields.io/badge/Python-blue) - 20 production-grade skills for AI coding agents — setup, scope, discipline, code review, security, session management, governance, ops, and quality...
+- [AlexZio00/sovereign-skills](https://github.com/AlexZio00/sovereign-skills) ⭐ 139 ![Python](https://img.shields.io/badge/Python-blue) - 20 production-grade skills for AI coding agents — setup, scope, discipline, code review, security, session management, governance, ops, and quality...
 - [brandonwise/humanizer](https://github.com/brandonwise/humanizer) ⭐ 127 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - OpenClaw skill that detects and removes signs of AI-generated writing, making text sound natural and human. Based on Wikipedia's Signs of AI Writing.
-- [albertofettucini/Council](https://github.com/albertofettucini/Council) ⭐ 117 ![Swift](https://img.shields.io/badge/Swift-gray) - Ask several AI models one question — they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.
+- [albertofettucini/Council](https://github.com/albertofettucini/Council) ⭐ 116 ![Swift](https://img.shields.io/badge/Swift-gray) - Ask several AI models one question — they answer in parallel, critique each other blind, and you decide. Native macOS, bring-your-own-keys.
 - [dralkh/seerai](https://github.com/dralkh/seerai) ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Zotero AI plugin Research assistant for Zotero 10. Chat with your library, run federated scholarly search, RAG, OCR, systematic reviews, and manage...
 - [HelioML/HelioML](https://github.com/HelioML/HelioML) ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - A book about machine learning, statistics, and data mining for heliophysics
 - [okada39/pinn_burgers](https://github.com/okada39/pinn_burgers) ![Python](https://img.shields.io/badge/Python-blue) - Physics Informed Neural Network (PINN) for Burgers' equation.
@@ -801,28 +804,28 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *61 repositories*
 
-- [obra/superpowers](https://github.com/obra/superpowers) ⭐ 295,321 ![Shell](https://img.shields.io/badge/Shell-gray) - An agentic skills framework & software development methodology that works.
-- [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 276,275 ![Shell](https://img.shields.io/badge/Shell-gray) - Skills for Real Engineers. Straight from my .agents directory.
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) ⭐ 216,889 - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-- [ossu/computer-science](https://github.com/ossu/computer-science) ⭐ 209,822 ![HTML](https://img.shields.io/badge/HTML-gray) - 🎓 Path to a free self-taught education in Computer Science!
-- [tmux/tmux](https://github.com/tmux/tmux) ⭐ 49,743 ![C](https://img.shields.io/badge/C-gray) - tmux source code
-- [omacom/omarchy](https://github.com/omacom/omarchy) ⭐ 43,985 ![Shell](https://img.shields.io/badge/Shell-gray) - Beautiful, Modern & Opinionated Linux
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) ⭐ 43,345 ![HTML](https://img.shields.io/badge/HTML-gray) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No...
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) ⭐ 42,307 ![Rust](https://img.shields.io/badge/Rust-gray) - the runtime your coding agents live on
-- [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) ⭐ 33,509 ![Rust](https://img.shields.io/badge/Rust-gray) - Algorithm powering the For You feed on X
-- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) ⭐ 29,561 ![CSS](https://img.shields.io/badge/CSS-gray) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
-- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ⭐ 27,602 ![Lua](https://img.shields.io/badge/Lua-gray) - Neovim config for the lazy
-- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ⭐ 21,988 - Community plugins list, theme list, and releases of Obsidian.
+- [obra/superpowers](https://github.com/obra/superpowers) ⭐ 295,689 ![Shell](https://img.shields.io/badge/Shell-gray) - An agentic skills framework & software development methodology that works.
+- [mattpocock/skills](https://github.com/mattpocock/skills) ⭐ 277,191 ![Shell](https://img.shields.io/badge/Shell-gray) - Skills for Real Engineers. Straight from my .agents directory.
+- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) ⭐ 217,103 - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [ossu/computer-science](https://github.com/ossu/computer-science) ⭐ 209,889 ![HTML](https://img.shields.io/badge/HTML-gray) - 🎓 Path to a free self-taught education in Computer Science!
+- [tmux/tmux](https://github.com/tmux/tmux) ⭐ 49,773 ![C](https://img.shields.io/badge/C-gray) - tmux source code
+- [omacom/omarchy](https://github.com/omacom/omarchy) ⭐ 44,054 ![Shell](https://img.shields.io/badge/Shell-gray) - Beautiful, Modern & Opinionated Linux
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) ⭐ 43,510 ![HTML](https://img.shields.io/badge/HTML-gray) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No...
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) ⭐ 42,533 ![Rust](https://img.shields.io/badge/Rust-gray) - the runtime your coding agents live on
+- [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) ⭐ 33,513 ![Rust](https://img.shields.io/badge/Rust-gray) - Algorithm powering the For You feed on X
+- [Nutlope/hallmark](https://github.com/Nutlope/hallmark) ⭐ 29,662 ![CSS](https://img.shields.io/badge/CSS-gray) - Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
+- [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) ⭐ 27,609 ![Lua](https://img.shields.io/badge/Lua-gray) - Neovim config for the lazy
+- [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases) ⭐ 22,002 - Community plugins list, theme list, and releases of Obsidian.
 - [alshedivat/al-folio](https://github.com/alshedivat/al-folio) ⭐ 16,229 ![HTML](https://img.shields.io/badge/HTML-gray) - A beautiful, simple, clean, and responsive Jekyll theme for academics
-- [direnv/direnv](https://github.com/direnv/direnv) ⭐ 15,486 ![Go](https://img.shields.io/badge/Go-gray) - unclutter your .profile
-- [zedeus/nitter](https://github.com/zedeus/nitter) ⭐ 14,485 ![Nim](https://img.shields.io/badge/Nim-gray) - Alternative Twitter front-end
-- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ⭐ 10,277 ![HTML](https://img.shields.io/badge/HTML-gray) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
+- [direnv/direnv](https://github.com/direnv/direnv) ⭐ 15,487 ![Go](https://img.shields.io/badge/Go-gray) - unclutter your .profile
+- [zedeus/nitter](https://github.com/zedeus/nitter) ⭐ 14,482 ![Nim](https://img.shields.io/badge/Nim-gray) - Alternative Twitter front-end
+- [cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) ⭐ 10,280 ![HTML](https://img.shields.io/badge/HTML-gray) - A minimal, responsive, and feature-rich Jekyll theme for technical writing.
 - [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor) ⭐ 2,609 ![Shell](https://img.shields.io/badge/Shell-gray) - Codex-native architect orchestration with Luna and Terra implementation lanes and mandatory fresh Sol review.
 - [legalize-kr/legalize-kr](https://github.com/legalize-kr/legalize-kr) ⭐ 1,534 - 대한민국 법령을 Git 저장소로 관리합니다. 각 법령은 Markdown 파일이고, 각 개정은 실제 공포일자를 가진 Git commit입니다.
-- [HDFGroup/hdf5](https://github.com/HDFGroup/hdf5) ⭐ 992 ![C](https://img.shields.io/badge/C-gray) - Official HDF5® Library Repository
-- [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash) ⭐ 681 ![Shell](https://img.shields.io/badge/Shell-gray) - My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.
+- [HDFGroup/hdf5](https://github.com/HDFGroup/hdf5) ⭐ 993 ![C](https://img.shields.io/badge/C-gray) - Official HDF5® Library Repository
+- [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash) ⭐ 682 ![Shell](https://img.shields.io/badge/Shell-gray) - My Bash profile - Highly customized Starship Theme - Just imagine Powerlevel10k and Nord Theme had a baby.
 - [chrisryugj/Docufinder](https://github.com/chrisryugj/Docufinder) ⭐ 655 ![Rust](https://img.shields.io/badge/Rust-gray) - Anything — 파일 이름이 아니라 본문으로 찾는 문서 검색기. HWP·PDF·Office 전문 검색을 오프라인으로. Windows·macOS | Offline content search across Korean documents (HWP, PDF, Offic...
-- [pmichaillat/latex-presentation](https://github.com/pmichaillat/latex-presentation) ⭐ 296 ![TeX](https://img.shields.io/badge/TeX-green) - Minimalist LaTeX template for academic presentations
+- [pmichaillat/latex-presentation](https://github.com/pmichaillat/latex-presentation) ⭐ 297 ![TeX](https://img.shields.io/badge/TeX-green) - Minimalist LaTeX template for academic presentations
 - [kaisugi/marp-theme-academic](https://github.com/kaisugi/marp-theme-academic) ⭐ 282 ![CSS](https://img.shields.io/badge/CSS-gray) - Academic Presentation Slides with Marp
 - [LeNPaul/portfolio-jekyll-theme](https://github.com/LeNPaul/portfolio-jekyll-theme) ⭐ 249 ![SCSS](https://img.shields.io/badge/SCSS-gray) - A minimalist Jekyll theme for building a personal portfolio site powered by Jekyll and GitHub Pages
 - [nushio3/learn-haskell](https://github.com/nushio3/learn-haskell) ⭐ 167 ![Haskell](https://img.shields.io/badge/Haskell-gray)
@@ -876,29 +879,29 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *59 repositories*
 
-- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) ⭐ 202,546 ![Markdown](https://img.shields.io/badge/Markdown-gray) - Free domain registration and practical DNS learning resources for everyone.
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 140,725 ![Python](https://img.shields.io/badge/Python-blue) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,837 - A collection of MCP servers.
-- [upstash/context7](https://github.com/upstash/context7) ⭐ 62,684 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐ 35,209 - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and m...
-- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) ⭐ 16,963 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
-- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) ⭐ 12,689 ![Python](https://img.shields.io/badge/Python-blue) - Pocket Flow: Codebase to Tutorial
-- [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) ⭐ 6,276 - A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
+- [DigitalPlatDev/FreeDomain](https://github.com/DigitalPlatDev/FreeDomain) ⭐ 202,717 ![Markdown](https://img.shields.io/badge/Markdown-gray) - Free domain registration and practical DNS learning resources for everyone.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) ⭐ 140,805 ![Python](https://img.shields.io/badge/Python-blue) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
+- [punkpeye/awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,851 - A collection of MCP servers.
+- [upstash/context7](https://github.com/upstash/context7) ⭐ 62,723 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐ 35,249 - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and m...
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) ⭐ 16,983 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) ⭐ 12,690 ![Python](https://img.shields.io/badge/Python-blue) - Pocket Flow: Codebase to Tutorial
+- [VoltAgent/awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents) ⭐ 6,279 - A collection of 130+ specialized Codex subagents covering a wide range of development use cases.
 - [maziarraissi/PINNs](https://github.com/maziarraissi/PINNs) ⭐ 6,179 ![Python](https://img.shields.io/badge/Python-blue) - Physics Informed Deep Learning: Data-driven Solutions and Discovery of Nonlinear Partial Differential Equations
-- [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator) ⭐ 3,931 ![Python](https://img.shields.io/badge/Python-blue) - Learning in infinite dimension with neural operators.
-- [webfuse-com/awesome-autoresearch](https://github.com/webfuse-com/awesome-autoresearch) ⭐ 2,553 - A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.
-- [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) ⭐ 1,891 ![TeX](https://img.shields.io/badge/TeX-green) - A Tufte-inspired LaTeX class for producing handouts, papers, and books
-- [saif0200/notchprompt](https://github.com/saif0200/notchprompt) ⭐ 1,382 ![Swift](https://img.shields.io/badge/Swift-gray) - distraction-free teleprompter hidden in the macbook notch
+- [neuraloperator/neuraloperator](https://github.com/neuraloperator/neuraloperator) ⭐ 3,933 ![Python](https://img.shields.io/badge/Python-blue) - Learning in infinite dimension with neural operators.
+- [webfuse-com/awesome-autoresearch](https://github.com/webfuse-com/awesome-autoresearch) ⭐ 2,554 - A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.
+- [Tufte-LaTeX/tufte-latex](https://github.com/Tufte-LaTeX/tufte-latex) ⭐ 1,892 ![TeX](https://img.shields.io/badge/TeX-green) - A Tufte-inspired LaTeX class for producing handouts, papers, and books
+- [saif0200/notchprompt](https://github.com/saif0200/notchprompt) ⭐ 1,383 ![Swift](https://img.shields.io/badge/Swift-gray) - distraction-free teleprompter hidden in the macbook notch
 - [iannuttall/claude-sessions](https://github.com/iannuttall/claude-sessions) ⭐ 1,207 - Custom slash commands for Claude Code that provide comprehensive development session tracking and documentation
 - [favourhong/Awesome-Marp](https://github.com/favourhong/Awesome-Marp) ⭐ 1,049 ![HTML](https://img.shields.io/badge/HTML-gray) - An open-source presentation theme ecosystem for Marp/Markdown users.
 - [numerical-mooc/numerical-mooc](https://github.com/numerical-mooc/numerical-mooc) ⭐ 969 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - A course in numerical methods with Python for engineers and scientists: currently 5 learning modules, with student assignments.
-- [Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) ⭐ 962 - A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a r...
+- [Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) ⭐ 960 - A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): recognize a hard-won golden path in a session and harvest it into a r...
 - [surajp92/CFD_Julia](https://github.com/surajp92/CFD_Julia) ⭐ 547 ![Julia](https://img.shields.io/badge/Julia-purple) - This repository contains fundamental codes related to CFD that can be included in any graduate level CFD coursework. 
 - [modern-fortran/neural-fortran](https://github.com/modern-fortran/neural-fortran) ⭐ 475 ![Fortran](https://img.shields.io/badge/Fortran-purple) - A parallel framework for deep learning
 - [Fortran-FOSS-Programmers/ford](https://github.com/Fortran-FOSS-Programmers/ford) ⭐ 458 ![Python](https://img.shields.io/badge/Python-blue) - Automatically generates FORtran Documentation from comments within the code.
 - [ikespand/awesome-machine-learning-fluid-mechanics](https://github.com/ikespand/awesome-machine-learning-fluid-mechanics) ⭐ 255 - Curated list for ML in FM
 - [Open-Astrophysics-Bookshelf/numerical_exercises](https://github.com/Open-Astrophysics-Bookshelf/numerical_exercises) ⭐ 213 ![TeX](https://img.shields.io/badge/TeX-green) - An introduction to numerical methods for astrophysical hydrodynamics
-- [gforsyth/numba_tutorial_scipy2017](https://github.com/gforsyth/numba_tutorial_scipy2017) ⭐ 146 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray)
+- [gforsyth/numba_tutorial_scipy2017](https://github.com/gforsyth/numba_tutorial_scipy2017) ⭐ 147 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray)
 - [python-hydro/hydro_examples](https://github.com/python-hydro/hydro_examples) ⭐ 127 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - Simple one-dimensional examples of various hydrodynamics techniques
 - [pmocz/awesome-astrophysical-simulation-codes](https://github.com/pmocz/awesome-astrophysical-simulation-codes) ⭐ 124 - A curated list of awesome astrophysical simulation codes
 - [codee-com/open-catalog](https://github.com/codee-com/open-catalog) ⭐ 106 ![Fortran](https://img.shields.io/badge/Fortran-purple) - A collaborative effort to consolidate expert knowledge on code guidelines for the correctness, modernization, security, portability, and optimizati...
@@ -947,52 +950,53 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 ## 🛠️ Tools & Utilities
 
-*55 repositories*
+*56 repositories*
 
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) ⭐ 188,475 ![Python](https://img.shields.io/badge/Python-blue) - Python tool for converting files and office documents to Markdown.
-- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 144,024 - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexit...
-- [github/spec-kit](https://github.com/github/spec-kit) ⭐ 140,134 ![Python](https://img.shields.io/badge/Python-blue) - 💫 Toolkit to help you get started with SDD or any other process!
-- [openai/codex](https://github.com/openai/codex) ⭐ 127,865 ![Rust](https://img.shields.io/badge/Rust-gray) - Lightweight coding agent that runs in your terminal
-- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) ⭐ 123,822 ![Python](https://img.shields.io/badge/Python-blue) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Code...
-- [earendil-works/pi](https://github.com/earendil-works/pi) ⭐ 112,473 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 93,585 ![Java](https://img.shields.io/badge/Java-gray) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
-- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) ⭐ 85,292 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works ...
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) ⭐ 82,893 ![Go](https://img.shields.io/badge/Go-gray) - simple terminal UI for git commands
-- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) ⭐ 82,383 ![Rust](https://img.shields.io/badge/Rust-gray) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) ⭐ 74,426 ![Python](https://img.shields.io/badge/Python-blue) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, sam...
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) ⭐ 73,207 ![C](https://img.shields.io/badge/C-gray) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Her...
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) ⭐ 73,025 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Wo...
-- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) ⭐ 61,837 ![Zig](https://img.shields.io/badge/Zig-gray) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
-- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) ⭐ 49,155 - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
-- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐ 35,209 - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and m...
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ⭐ 32,381 ![Python](https://img.shields.io/badge/Python-blue) - CLI tool for configuring and monitoring Claude Code
-- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) ⭐ 31,920 ![Python](https://img.shields.io/badge/Python-blue) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with bench...
-- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) ⭐ 31,564 ![C#](https://img.shields.io/badge/C#-gray) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open...
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) ⭐ 27,602 ![Swift](https://img.shields.io/badge/Swift-gray) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and progr...
-- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,911 ![C](https://img.shields.io/badge/C-gray) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
-- [yorukot/superfile](https://github.com/yorukot/superfile) ⭐ 23,662 ![Go](https://img.shields.io/badge/Go-gray) - Pretty fancy and modern terminal file manager
-- [winfunc/opcode](https://github.com/winfunc/opcode) ⭐ 22,427 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and m...
-- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) ⭐ 16,963 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
-- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) ⭐ 11,416 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by...
-- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) ⭐ 9,203 ![Swift](https://img.shields.io/badge/Swift-gray) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
-- [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) ⭐ 7,726 ![Shell](https://img.shields.io/badge/Shell-gray) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the lat...
+- [microsoft/markitdown](https://github.com/microsoft/markitdown) ⭐ 188,693 ![Python](https://img.shields.io/badge/Python-blue) - Python tool for converting files and office documents to Markdown.
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) ⭐ 144,040 - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexit...
+- [github/spec-kit](https://github.com/github/spec-kit) ⭐ 140,276 ![Python](https://img.shields.io/badge/Python-blue) - 💫 Toolkit to help you get started with SDD or any other process!
+- [openai/codex](https://github.com/openai/codex) ⭐ 127,976 ![Rust](https://img.shields.io/badge/Rust-gray) - Lightweight coding agent that runs in your terminal
+- [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) ⭐ 124,083 ![Python](https://img.shields.io/badge/Python-blue) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Code...
+- [earendil-works/pi](https://github.com/earendil-works/pi) ⭐ 112,766 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) ⭐ 93,629 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) ⭐ 85,373 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works ...
+- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) ⭐ 82,912 ![Go](https://img.shields.io/badge/Go-gray) - simple terminal UI for git commands
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) ⭐ 82,467 ![Rust](https://img.shields.io/badge/Rust-gray) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) ⭐ 74,461 ![Python](https://img.shields.io/badge/Python-blue) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, sam...
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) ⭐ 73,382 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Never stop coding. Free MIT AI gateway: one endpoint, 359 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Wo...
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) ⭐ 73,280 ![C](https://img.shields.io/badge/C-gray) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Her...
+- [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty) ⭐ 61,868 ![Zig](https://img.shields.io/badge/Zig-gray) - 👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.
+- [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) ⭐ 49,183 - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
+- [VoltAgent/awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) ⭐ 35,249 - A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and m...
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) ⭐ 32,401 ![Python](https://img.shields.io/badge/Python-blue) - CLI tool for configuring and monitoring Claude Code
+- [tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph) ⭐ 31,932 ![Python](https://img.shields.io/badge/Python-blue) - Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with bench...
+- [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) ⭐ 31,603 ![C#](https://img.shields.io/badge/C#-gray) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open...
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) ⭐ 27,651 ![Swift](https://img.shields.io/badge/Swift-gray) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and progr...
+- [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) ⭐ 24,918 ![C](https://img.shields.io/badge/C-gray) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
+- [yorukot/superfile](https://github.com/yorukot/superfile) ⭐ 23,679 ![Go](https://img.shields.io/badge/Go-gray) - Pretty fancy and modern terminal file manager
+- [winfunc/opcode](https://github.com/winfunc/opcode) ⭐ 22,421 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and m...
+- [langchain-ai/openwiki](https://github.com/langchain-ai/openwiki) ⭐ 16,983 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - OpenWiki is a CLI that writes and maintains agent documentation for your codebase.
+- [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) ⭐ 11,422 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by...
+- [AppHouseKitchen/AlDente-Battery_Care_and_Monitoring](https://github.com/AppHouseKitchen/AlDente-Battery_Care_and_Monitoring) ⭐ 9,200 ![Swift](https://img.shields.io/badge/Swift-gray) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+- [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) ⭐ 7,728 ![Shell](https://img.shields.io/badge/Shell-gray) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the lat...
 - [google/agents-cli](https://github.com/google/agents-cli) ⭐ 6,051 ![Python](https://img.shields.io/badge/Python-blue) - The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,624 ![Rust](https://img.shields.io/badge/Rust-gray) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
-- [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) ⭐ 5,288 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
+- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) ⭐ 5,628 ![Rust](https://img.shields.io/badge/Rust-gray) - 🛰️ Track token usage across AI coding agents from your terminal. 🏅 Global leaderboard with trillions of tokens tracked.
+- [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) ⭐ 5,295 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 
 <details>
-<summary>View 25 more...</summary>
+<summary>View 26 more...</summary>
 
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) ⭐ 4,823 ![Java](https://img.shields.io/badge/Java-gray) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Wi...
-- [google-deepmind/science-skills](https://github.com/google-deepmind/science-skills) ⭐ 3,199 ![Python](https://img.shields.io/badge/Python-blue) - GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome,...
-- [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) ⭐ 2,877 ![Rust](https://img.shields.io/badge/Rust-gray)
-- [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) ⭐ 2,127 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - VS Code in the terminal
-- [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar) ⭐ 1,558 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - An obsidian toolbar plugin, modified from the Cmenu plugin
+- [google-deepmind/science-skills](https://github.com/google-deepmind/science-skills) ⭐ 3,208 ![Python](https://img.shields.io/badge/Python-blue) - GDM Science Skills to speed up agentic scientific workflows with better grounding and higher token efficiency. Integrate insights from AlphaGenome,...
+- [Nanako0129/sepia](https://github.com/Nanako0129/sepia) ⭐ 2,990 ![Python](https://img.shields.io/badge/Python-blue) - De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CLI), with native plugins for Claude Code, Codex, Grok Build, and Ant...
+- [Polymarket/polymarket-cli](https://github.com/Polymarket/polymarket-cli) ⭐ 2,873 ![Rust](https://img.shields.io/badge/Rust-gray)
+- [zenbu-labs/terminal-code](https://github.com/zenbu-labs/terminal-code) ⭐ 2,130 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - VS Code in the terminal
+- [PKM-er/obsidian-editing-toolbar](https://github.com/PKM-er/obsidian-editing-toolbar) ⭐ 1,559 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - An obsidian toolbar plugin, modified from the Cmenu plugin
 - [CliMA/Oceananigans.jl](https://github.com/CliMA/Oceananigans.jl) ⭐ 1,429 ![Julia](https://img.shields.io/badge/Julia-purple) - 🌊  Julia software for fast, friendly, flexible, ocean-flavored fluid dynamics on CPUs and GPUs
-- [petergyang/human-review](https://github.com/petergyang/human-review) ⭐ 1,361 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI ...
-- [bahayonghang/academic-writing-skills](https://github.com/bahayonghang/academic-writing-skills) ⭐ 490 ![Python](https://img.shields.io/badge/Python-blue) - AI-powered post-writing toolkit for academic papers — format validation, grammar/style polishing, de-AI editing, reference checking, and reviewer-s...
+- [petergyang/human-review](https://github.com/petergyang/human-review) ⭐ 1,369 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - A visual tool to edit HTML and Markdown files, leave comments like a Google Doc, and send feedback to your AI agent. Works inside your favorite AI ...
+- [bahayonghang/academic-writing-skills](https://github.com/bahayonghang/academic-writing-skills) ⭐ 492 ![Python](https://img.shields.io/badge/Python-blue) - AI-powered post-writing toolkit for academic papers — format validation, grammar/style polishing, de-AI editing, reference checking, and reviewer-s...
 - [regenrek/codefetch](https://github.com/regenrek/codefetch) ⭐ 448 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Turn code into Markdown for LLMs with one simple terminal command
-- [oseledets/TT-Toolbox](https://github.com/oseledets/TT-Toolbox) ⭐ 219 ![MATLAB](https://img.shields.io/badge/MATLAB-red) - The git repository for the TT-Toolbox
+- [oseledets/TT-Toolbox](https://github.com/oseledets/TT-Toolbox) ⭐ 220 ![MATLAB](https://img.shields.io/badge/MATLAB-red) - The git repository for the TT-Toolbox
 - [magic-sph/magic](https://github.com/magic-sph/magic) ![Fortran](https://img.shields.io/badge/Fortran-purple) - MagIC is a high-performance code that solves the magneto-hydrodynamics equations in rotating spherical shells
 - [zarazhangrui/reading-block](https://github.com/zarazhangrui/reading-block) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Save articles with one click; every 5 saves books a reading block on your Google Calendar. A Chrome extension.
 - [llnl/paraview_mcp](https://github.com/llnl/paraview_mcp) ![Python](https://img.shields.io/badge/Python-blue) - ParaView-MCP integrates multimodal LLMs with ParaView via Model Context Protocol, enabling natural language control of scientific visualizations. T...
@@ -1018,10 +1022,10 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *51 repositories*
 
-- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) ⭐ 24,648 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - Neural Networks: Zero to Hero
+- [karpathy/nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) ⭐ 24,657 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - Neural Networks: Zero to Hero
 - [numerical-mooc/numerical-mooc](https://github.com/numerical-mooc/numerical-mooc) ⭐ 969 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - A course in numerical methods with Python for engineers and scientists: currently 5 learning modules, with student assignments.
 - [python-hydro/pyro2](https://github.com/python-hydro/pyro2) ⭐ 334 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - A framework for hydrodynamics explorations and prototyping
-- [gforsyth/numba_tutorial_scipy2017](https://github.com/gforsyth/numba_tutorial_scipy2017) ⭐ 146 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray)
+- [gforsyth/numba_tutorial_scipy2017](https://github.com/gforsyth/numba_tutorial_scipy2017) ⭐ 147 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray)
 - [python-hydro/hydro_examples](https://github.com/python-hydro/hydro_examples) ⭐ 127 ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - Simple one-dimensional examples of various hydrodynamics techniques
 - [HelioML/HelioML](https://github.com/HelioML/HelioML) ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - A book about machine learning, statistics, and data mining for heliophysics
 - [SolarOrbiterWorkshop/solo8_tutorials](https://github.com/SolarOrbiterWorkshop/solo8_tutorials) ![Jupyter%20Notebook](https://img.shields.io/badge/Jupyter%20Notebook-gray) - Solar Orbiter 8 Workshop Data Analysis Tutorials from Sept 2022
@@ -1134,18 +1138,18 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *25 repositories*
 
-- [earendil-works/pi](https://github.com/earendil-works/pi) ⭐ 112,473 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
-- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 63,521 ![Python](https://img.shields.io/badge/Python-blue) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) ⭐ 43,778 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out...
-- [soxoj/maigret](https://github.com/soxoj/maigret) ⭐ 38,308 ![Python](https://img.shields.io/badge/Python-blue) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
-- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) ⭐ 19,930 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
-- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) ⭐ 17,695 ![SCSS](https://img.shields.io/badge/SCSS-gray) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
-- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) ⭐ 5,484 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model p...
-- [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) ⭐ 5,288 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
+- [earendil-works/pi](https://github.com/earendil-works/pi) ⭐ 112,766 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI
+- [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) ⭐ 63,591 ![Python](https://img.shields.io/badge/Python-blue) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
+- [reactive-resume/reactive-resume](https://github.com/reactive-resume/reactive-resume) ⭐ 43,851 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out...
+- [soxoj/maigret](https://github.com/soxoj/maigret) ⭐ 38,349 ![Python](https://img.shields.io/badge/Python-blue) - 🕵️‍♂️ Collect a dossier on a person by username from 6K websites
+- [stackblitz-labs/bolt.diy](https://github.com/stackblitz-labs/bolt.diy) ⭐ 19,928 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Prompt, run, edit, and deploy full-stack web applications using any LLM you want!
+- [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io) ⭐ 17,696 ![SCSS](https://img.shields.io/badge/SCSS-gray) - Github Pages template based upon HTML and Markdown for personal, portfolio-based websites.
+- [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) ⭐ 5,486 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Find related notes and excerpts while writing. Your link building copilot displays relevant content in graph + list view. A local embedding model p...
+- [obsidianmd/obsidian-clipper](https://github.com/obsidianmd/obsidian-clipper) ⭐ 5,295 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - Highlight and capture the web in your favorite browser. The official Web Clipper extension for Obsidian.
 - [iterate-ch/cyberduck](https://github.com/iterate-ch/cyberduck) ⭐ 4,823 ![Java](https://img.shields.io/badge/Java-gray) - Cyberduck is a libre FTP, SFTP, WebDAV, Amazon S3, Backblaze B2, Microsoft Azure & OneDrive and OpenStack Swift file transfer client for Mac and Wi...
-- [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) ⭐ 3,332 ![Swift](https://img.shields.io/badge/Swift-gray) - Remote Control for Codex.
-- [webfuse-com/awesome-autoresearch](https://github.com/webfuse-com/awesome-autoresearch) ⭐ 2,553 - A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.
-- [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) ⭐ 1,222 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 
+- [Emanuele-web04/remodex](https://github.com/Emanuele-web04/remodex) ⭐ 3,336 ![Swift](https://img.shields.io/badge/Swift-gray) - Remote Control for Codex.
+- [webfuse-com/awesome-autoresearch](https://github.com/webfuse-com/awesome-autoresearch) ⭐ 2,554 - A curated list of autonomous improvement loops, research agents, and autoresearch-style systems inspired by Karpathy's autoresearch.
+- [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) ⭐ 1,237 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) - Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠 
 - [matsuoka-601/WebGPU-Ocean](https://github.com/matsuoka-601/WebGPU-Ocean) ⭐ 557 ![TypeScript](https://img.shields.io/badge/TypeScript-blue) - A real-time 3D fluid simulation implemented in WebGPU
 - [llnl/Umpire](https://github.com/llnl/Umpire) ⭐ 422 ![C++](https://img.shields.io/badge/C++-orange) - An application-focused API for memory management on NUMA & GPU architectures
 - [HugoBlox/theme-research-group](https://github.com/HugoBlox/theme-research-group) ⭐ 402 ![TeX](https://img.shields.io/badge/TeX-green) - 👥 轻松创建研究组或组织网站 Easily create a stunning Research Group, Team, or Business Website with no-code
@@ -1214,8 +1218,8 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *5 repositories*
 
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) ⭐ 66,578 ![Python](https://img.shields.io/badge/Python-blue) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
-- [shepherd-agents/shepherd](https://github.com/shepherd-agents/shepherd) ⭐ 2,474 ![Python](https://img.shields.io/badge/Python-blue) - A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run...
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) ⭐ 66,634 ![Python](https://img.shields.io/badge/Python-blue) - The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.
+- [shepherd-agents/shepherd](https://github.com/shepherd-agents/shepherd) ⭐ 2,472 ![Python](https://img.shields.io/badge/Python-blue) - A runtime substrate that turns an agent's execution into a reversible, Git-like trace, so meta-agents can observe, fork, replay, and revert any run...
 - [llnl/axom](https://github.com/llnl/axom) ⭐ 197 ![C++](https://img.shields.io/badge/C++-orange) - CS infrastructure components for HPC applications
 - [parthenon-hpc-lab/parthenon](https://github.com/parthenon-hpc-lab/parthenon) ⭐ 171 ![C++](https://img.shields.io/badge/C++-orange) - Parthenon AMR infrastructure 
 - [MetOffice/lfric_core](https://github.com/MetOffice/lfric_core) ![Fortran](https://img.shields.io/badge/Fortran-purple) - LFRic Infrastructure
@@ -1242,8 +1246,8 @@ It's automatically updated daily to keep track of new stars and maintain organiz
 
 *3 repositories*
 
-- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) ⭐ 8,023 ![Swift](https://img.shields.io/badge/Swift-gray) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. ...
-- [AlexZio00/sovereign-skills](https://github.com/AlexZio00/sovereign-skills) ⭐ 138 ![Python](https://img.shields.io/badge/Python-blue) - 20 production-grade skills for AI coding agents — setup, scope, discipline, code review, security, session management, governance, ops, and quality...
+- [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) ⭐ 8,021 ![Swift](https://img.shields.io/badge/Swift-gray) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. ...
+- [AlexZio00/sovereign-skills](https://github.com/AlexZio00/sovereign-skills) ⭐ 139 ![Python](https://img.shields.io/badge/Python-blue) - 20 production-grade skills for AI coding agents — setup, scope, discipline, code review, security, session management, governance, ops, and quality...
 - [codee-com/open-catalog](https://github.com/codee-com/open-catalog) ⭐ 106 ![Fortran](https://img.shields.io/badge/Fortran-purple) - A collaborative effort to consolidate expert knowledge on code guidelines for the correctness, modernization, security, portability, and optimizati...
 
 [⬆ Back to Top](#-my-awesome-stars)
@@ -1264,4 +1268,4 @@ This repository is available under the MIT License.
 
 ---
 
-*Last updated: 2026-10-05 03:29:40*
+*Last updated: 2026-10-06 04:17:10*
